@@ -1,0 +1,395 @@
+---Mark 2004-04-01 Washington|AlkiCondo
+
+Bald Eagle
+Belted Kingfisher
+---Mark 2004-04-01 Washington|Discovery Park
+
+American Robin
+American Wigeon
+Anna's Hummingbird
+Barrow's Goldeneye
+Belted Kingfisher
+Black-capped Chickadee
+Brant
+Brown Creeper
+Bufflehead
+Fox Sparrow
+Gadwall
+Hutton's Vireo
+Mallard
+Mew Gull
+Northern Flicker
+Northern Shoveler
+Pacific Wren
+Pileated Woodpecker
+Red-winged Blackbird
+crow sp.
+sparrow sp.
+---Paul 2004-04-01 Oklahoma|Sutton Winderness, Norman
+
+American Robin
+Barn Swallow
+Blue-winged Teal
+Hermit Thrush
+Northern Cardinal
+Red-tailed Hawk
+---Mark 2004-04-02 Washington|Alki
+
+Bald Eagle
+Barrow's Goldeneye
+Brant
+Bufflehead
+Common Goldeneye
+Killdeer
+Northern Flicker
+Surf Scoter
+Violet-green Swallow
+---Mark 2004-04-03 Washington|Alki
+
+Turkey Vulture
+---Mark 2004-04-04 Washington|AlkiCondo
+
+Red-breasted Merganser
+---Paul 2004-04-04 Oklahoma|Arbor Lake, Norman
+
+American Goldfinch
+Barn Swallow
+Blue-gray Gnatcatcher
+Blue-winged Teal
+Bufflehead
+Killdeer
+King Rail
+Mallard
+Mourning Dove
+Northern Cardinal
+Northern Shoveler
+Purple Martin
+Red-bellied Woodpecker
+Red-tailed Hawk
+Red-winged Blackbird
+---Mark 2004-04-06 Washington|Alki
+
+Brant
+---Mark 2004-04-06 Washington|AlkiCondo
+
+Bald Eagle
+Canada Goose
+Common Goldeneye
+Common Loon
+Double-crested Cormorant
+House Finch
+Steller's Jay
+crow sp.
+---Mark 2004-04-07 Washington|Alki East, Alki
+
+American Goldfinch
+American Robin
+Bald Eagle
+Belted Kingfisher
+Bufflehead
+Bushtit
+Canada Goose
+Double-crested Cormorant
+European Starling
+Great Blue Heron
+Horned Grebe
+House Sparrow
+Killdeer
+Red-breasted Merganser
+Red-necked Grebe
+Rock Pigeon
+Western Grebe
+Western Gull
+White-crowned Sparrow
+crow sp.
+---Mark 2004-04-07 Washington|AlkiCondo
+
+Bufflehead
+Common Goldeneye
+Great Blue Heron
+Red-breasted Merganser
+Surf Scoter
+---Mark 2004-04-08 Washington|AlkiCondo
+
+Bald Eagle
+Belted Kingfisher
+---Mark 2004-04-09 Washington|Alki
+
+American Robin
+Bald Eagle
+Barrow's Goldeneye
+Black-capped Chickadee
+Brant
+Bufflehead
+Bushtit
+Common Goldeneye
+Common Loon
+Double-crested Cormorant
+European Starling
+Fox Sparrow
+Horned Grebe
+House Finch
+House Sparrow
+Northern Flicker
+Pacific Wren
+Red-necked Grebe
+Rock Pigeon
+Spotted Towhee
+Steller's Jay
+Surf Scoter
+Varied Thrush
+Western Grebe
+White-breasted Nuthatch
+White-crowned Sparrow
+crow sp.
+---Mark 2004-04-10 Washington|hillside, AlkiCondo
+
+American Robin
+Black-capped Chickadee
+European Starling
+House Finch
+House Sparrow
+Northern Flicker
+Rock Pigeon
+Spotted Towhee
+crow sp.
+---Paul 2004-04-11 Oklahoma|Arbor Lake, Norman
+
+Pectoral Sandpiper
+---Paul 2004-04-11 Oklahoma|Jenkins, Norman
+
+Common Yellowthroat
+---Mark 2004-04-12 Washington|AlkiCondo
+
+Belted Kingfisher
+Surf Scoter
+---Mark 2004-04-12 Washington|Lake Sammamish State Park, Seattle
+
+American Coot
+American Goldfinch
+American Robin
+Bald Eagle
+Black-capped Chickadee
+Bushtit
+Canada Goose
+Common Merganser
+Common Yellowthroat
+European Starling
+Fox Sparrow
+Great Blue Heron
+Hairy Woodpecker
+Killdeer
+Mallard
+Marsh Wren
+Northern Flicker
+Red-breasted Sapsucker
+Red-winged Blackbird
+Savannah Sparrow
+Tree Swallow
+Yellow-rumped Warbler
+crow sp.
+---Mark 2004-04-14 Washington|AlkiCondo
+
+Surf Scoter
+Western Grebe
+---Mark 2004-04-15 Washington|AlkiCondo
+
+Horned Grebe
+Red-breasted Merganser
+---Mark 2004-04-16 Washington|Port Angeles Harbor, Washington
+
+Bald Eagle
+Common Loon
+Double-crested Cormorant
+Pigeon Guillemot
+Red-necked Grebe
+Rhinoceros Auklet
+---Mark 2004-04-16 Canada|Strait of Juan de Fuca, British Columbia
+
+Bald Eagle
+Brant
+Pelagic Cormorant
+Red-breasted Merganser
+Rhinoceros Auklet
+Western Grebe
+---Mark 2004-04-16 Canada|Victoria and Harbor, British Columbia
+
+American Robin
+Black Oystercatcher
+Black Turnstone
+Bufflehead
+Canada Goose
+Fox Sparrow
+Great Blue Heron
+Harlequin Duck
+Pelagic Cormorant
+Red-necked Grebe
+Rhinoceros Auklet
+crow sp.
+gull sp.
+---Mark 2004-04-17 Canada|Springfield, Port Alberni
+
+Common Raven
+Dark-eyed Junco
+---Mark 2004-04-17 Canada|Stamp Falls, Port Alberni
+
+American Dipper
+American Robin
+Pacific Wren
+Red-eyed Vireo
+Varied Thrush
+---Mark 2004-04-18 Canada|Log Train Trail, Port Alberni
+
+American Robin
+Bald Eagle
+Bufflehead
+Canada Goose
+Chestnut-backed Chickadee
+Common Raven
+Common Yellowthroat
+European Starling
+Fox Sparrow
+Hooded Merganser
+Northern Harrier
+Orange-crowned Warbler
+Pacific Wren
+Varied Thrush
+White-breasted Nuthatch
+---Mark 2004-04-18 Canada|Springfield, Port Alberni
+
+American Robin
+Common Raven
+Dark-eyed Junco
+Northern Flicker
+Spotted Towhee
+Violet-green Swallow
+---Mark 2004-04-19 Canada|Kitsuksis River walking trail, Port Alberni
+
+American Robin
+Bald Eagle
+Canada Goose
+Chestnut-backed Chickadee
+Common Merganser
+Dark-eyed Junco
+Downy Woodpecker
+Fox Sparrow
+Mallard
+Orange-crowned Warbler
+Pacific Wren
+Rock Pigeon
+Spotted Towhee
+Steller's Jay
+White-breasted Nuthatch
+crow sp.
+gull sp.
+swallow sp.
+---Mark 2004-04-21 Canada|Hwy 19 near Nanaimo, British Columbia
+
+Turkey Vulture
+White-crowned Sparrow
+---Mark 2004-04-21 Washington|Port Angeles Harbor, Washington
+
+Horned Grebe
+Rhinoceros Auklet
+Surf Scoter
+---Mark 2004-04-21 Canada|Strait of Juan de Fuca, British Columbia
+
+Bonaparte's Gull
+---Mark 2004-04-21 Canada|Victoria Harbor, British Columbia
+
+Black Oystercatcher
+Pelagic Cormorant
+---Mark 2004-04-21 Washington|Winslow Harbor, Washington
+
+Belted Kingfisher
+---Mark 2004-04-22 Washington|Alki
+
+Belted Kingfisher
+Bufflehead
+Surf Scoter
+---Mark 2004-04-22 Washington|AlkiCondo
+
+American Robin
+Bald Eagle
+Western Grebe
+---Paul 2004-04-24 Louisiana|Nachitoches
+
+Blue Grosbeak
+---Paul 2004-04-24 Louisiana|Sabine, NWR
+
+Glossy Ibis
+---Mark 2004-04-25 Washington|Alki
+
+Brant
+Surf Scoter
+---Mark 2004-04-27 Washington|AlkiCondo
+
+White-crowned Sparrow
+---Mark 2004-04-27 Washington|Seward Park
+
+American Robin
+American Wigeon
+Bald Eagle
+Bewick's Wren
+Black-capped Chickadee
+Bufflehead
+Double-crested Cormorant
+Fox Sparrow
+Gadwall
+Hermit Thrush
+Horned Grebe
+House Finch
+Mallard
+Northern Flicker
+Pacific Wren
+Pied-billed Grebe
+Red-winged Blackbird
+Ring-necked Duck
+Spotted Towhee
+Steller's Jay
+White-breasted Nuthatch
+crow sp.
+---Paul 2004-04-27 Louisiana|New Orleans
+
+Cooper's Hawk
+---Paul 2004-04-28 Louisiana|Audubon Zoo, New Orleans
+
+Gray Catbird
+---Mark 2004-04-29 Washington|AlkiEast, Alki
+
+American Coot
+American Goldfinch
+American Robin
+Brown-headed Cowbird
+Canada Goose
+Double-crested Cormorant
+European Starling
+House Sparrow
+Pigeon Guillemot
+Purple Martin
+Red-winged Blackbird
+Rock Pigeon
+Western Grebe
+White-crowned Sparrow
+crow sp.
+gull sp.
+swallow sp.
+---Mark 2004-04-30 Washington|AlkiCondo
+
+Bald Eagle
+Double-crested Cormorant
+Western Grebe
+---Mark 2004-04-30 Washington|Discovery Park
+
+American Goldfinch
+American Robin
+Bufflehead
+Fox Sparrow
+Gadwall
+Great Blue Heron
+Red-winged Blackbird
+Spotted Towhee
+Steller's Jay
+White-crowned Sparrow
+hummingbird sp.
+swallow sp.

@@ -1,0 +1,331 @@
+---Mark 2014-03-02 Ohio|Scioto River, Columbus
+
+Pied-billed Grebe
+---Mark 2014-03-05 Ohio|Miranova
+
+Common Grackle
+Mallard
+Mourning Dove
+Red-breasted Merganser
+---Paul 2014-03-05 Texas|Heritage Ranch, Fairview
+
+American Crow
+American Goldfinch
+Blue Jay
+Carolina Chickadee
+Carolina Wren
+Cedar Waxwing
+Dark-eyed Junco (Slate-colored)
+Downy Woodpecker
+Eastern Bluebird
+Eastern Phoebe
+European Starling
+Fox Sparrow (Red)
+Harris's Sparrow
+House Finch
+Mourning Dove
+Northern Cardinal
+Red-bellied Woodpecker
+Red-winged Blackbird
+Ruby-crowned Kinglet
+Tufted Titmouse
+White-crowned Sparrow
+White-throated Sparrow
+Yellow-bellied Sapsucker
+Yellow-rumped Warbler (Myrtle)
+---Mark 2014-03-06 Ohio|Miranova
+
+Common Goldeneye
+Red-breasted Merganser
+---Mark 2014-03-06 Ohio|Scioto River, Columbus
+
+Eared Grebe
+Red-breasted Merganser
+Redhead
+---Mark 2014-03-08 Ohio|Scioto Audubon Metro Park
+
+American Robin
+Canada Goose
+Carolina Chickadee
+Common Goldeneye
+Common Grackle
+Common Merganser
+Double-crested Cormorant
+Downy Woodpecker
+European Starling
+Great Blue Heron
+Hooded Merganser
+House Finch
+Killdeer
+Mallard
+Mourning Dove
+Northern Cardinal
+Red-bellied Woodpecker
+Red-breasted Merganser
+Red-tailed Hawk
+Red-winged Blackbird
+Song Sparrow
+White-crowned Sparrow
+white-winged gull sp.
+---Mark 2014-03-08 Ohio|Scioto River, Columbus
+
+Northern Mockingbird
+---Paul 2014-03-08 Texas|Heritage Ranch, Fairview
+
+American Crow
+American Goldfinch
+Blue Jay
+Carolina Chickadee
+Carolina Wren
+Cedar Waxwing
+Double-crested Cormorant
+Eastern Bluebird
+Gadwall
+Great Blue Heron
+House Finch
+House Sparrow
+Mallard
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Red-bellied Woodpecker
+Red-shouldered Hawk
+Red-winged Blackbird
+Ruby-crowned Kinglet
+Song Sparrow
+Tufted Titmouse
+Turkey Vulture
+White-throated Sparrow
+---Mark 2014-03-11 Ohio|Scioto River, Columbus
+
+Turkey Vulture
+---Paul 2014-03-11 Texas|Lake Lavon
+
+American Crow
+American Kestrel
+American Robin
+American White Pelican
+Black Vulture
+Carolina Chickadee
+Cedar Waxwing
+Chipping Sparrow
+Double-crested Cormorant
+Downy Woodpecker
+Eastern Phoebe
+Fox Sparrow (Red)
+Gadwall
+Great Blue Heron
+Harris's Sparrow
+Mallard
+Mourning Dove
+Neotropic Cormorant
+Northern Cardinal
+Northern Flicker (Red-shafted)
+Northern Harrier
+Northern Mockingbird
+Northern Shoveler
+Red-bellied Woodpecker
+Red-winged Blackbird
+Ring-billed Gull
+Ruddy Duck
+Song Sparrow
+Tree Swallow
+Tufted Titmouse
+Turkey Vulture
+Yellow-rumped Warbler (Myrtle)
+---Paul 2014-03-12 Texas|Towne Lake Park, McKinney
+
+American Coot (Red-shielded)
+American Crow
+American Kestrel
+Blue Jay
+Canada Goose
+Carolina Chickadee
+Carolina Wren
+Common Grackle
+Dark-eyed Junco (Slate-colored)
+Double-crested Cormorant
+Downy Woodpecker
+Eastern Bluebird
+Eastern Phoebe
+European Starling
+Gadwall
+Great Blue Heron
+Great Egret
+Great-tailed Grackle
+Mourning Dove
+Northern Mockingbird
+Northern Shoveler
+Red-bellied Woodpecker
+Ring-billed Gull
+Ring-necked Duck
+Ruby-crowned Kinglet
+Song Sparrow
+Tufted Titmouse
+Yellow-rumped Warbler (Myrtle)
+---Mark 2014-03-14 Ohio|Miranova
+
+American Crow
+Canada Goose
+Double-crested Cormorant
+Turkey Vulture
+---Mark 2014-03-15 Ohio|Scioto Audubon Metro Park
+
+American Goldfinch
+American Robin
+Carolina Chickadee
+Carolina Wren
+Common Goldeneye
+Double-crested Cormorant
+Downy Woodpecker
+Hooded Merganser
+House Sparrow
+Killdeer
+Red-winged Blackbird
+white-winged gull sp.
+---Paul 2014-03-15 Texas|701 Mustang Dr., Fairview
+
+Northern Cardinal
+---Mark 2014-03-17 Ohio|Scioto River, Columbus
+
+American Coot
+Ring-billed Gull
+---Mark 2014-03-18 Ohio|Miranova
+
+Common Grackle
+---Paul 2014-03-18 Massachusetts|Reed St., Warren
+
+American Crow
+American Goldfinch
+American Robin
+American Tree Sparrow
+Black-capped Chickadee
+Blue Jay
+Carolina Wren
+Dark-eyed Junco (Slate-colored)
+Downy Woodpecker
+Eastern Bluebird
+European Starling
+House Finch
+House Sparrow
+Mourning Dove
+Northern Cardinal
+Pileated Woodpecker
+Red-bellied Woodpecker
+Red-winged Blackbird
+Ring-billed Gull
+Rock Pigeon
+Song Sparrow
+Tufted Titmouse
+White-breasted Nuthatch
+White-crowned Sparrow
+---Mark 2014-03-21 Ohio|Miranova
+
+Northern Cardinal
+---Mark 2014-03-23 Ohio|Scioto Audubon Metro Park
+
+Great Egret
+---Paul 2014-03-26 Texas|Heritage Ranch, Fairview
+
+American Goldfinch
+Barn Swallow
+Blue Jay
+Brown-headed Cowbird
+Carolina Chickadee
+Carolina Wren
+Cedar Waxwing
+Downy Woodpecker
+Eastern Phoebe
+Lincoln's Sparrow
+Mallard
+Mourning Dove
+Northern Cardinal
+Red-bellied Woodpecker
+Red-shouldered Hawk
+Ruby-crowned Kinglet
+Tufted Titmouse
+Turkey Vulture
+White-eyed Vireo
+White-throated Sparrow
+White-winged Dove
+Yellow-rumped Warbler (Myrtle)
+---Paul 2014-03-28 Texas|Heard Wildlife Sanctuary, Fairview
+
+American Coot (Red-shielded)
+American Crow
+American Goldfinch
+American Kestrel
+Barn Swallow
+Black-crowned Night-Heron
+Blue Jay
+Blue-winged Teal
+Canada Goose
+Carolina Chickadee
+Carolina Wren
+Common Grackle
+Double-crested Cormorant
+Downy Woodpecker
+Eastern Bluebird
+Eastern Phoebe
+Gadwall
+Great Blue Heron
+Great Egret
+Hairy Woodpecker
+Harris's Sparrow
+Hermit Thrush
+Hooded Merganser
+Indigo Bunting
+Lark Sparrow
+Mallard
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Northern Shoveler
+Pied-billed Grebe
+Purple Martin
+Red-bellied Woodpecker
+Red-shouldered Hawk
+Red-winged Blackbird
+Ring-necked Duck
+Ruby-crowned Kinglet
+Swamp Sparrow
+Tufted Titmouse
+Turkey Vulture
+White-throated Sparrow
+Yellow-rumped Warbler (Myrtle)
+---Paul 2014-03-29 Texas|Brockdale Park, Lake Lavon, Lucas
+
+American Coot (Red-shielded)
+American Crow
+American White Pelican
+American Wigeon
+Black Vulture
+Blue-gray Gnatcatcher
+Carolina Wren
+Dark-eyed Junco (Slate-colored)
+Double-crested Cormorant
+Eastern Bluebird
+Gadwall
+Great Blue Heron
+Great Egret
+Killdeer
+Neotropic Cormorant
+Northern Cardinal
+Northern Mockingbird
+Ring-billed Gull
+Ruby-crowned Kinglet
+Savannah Sparrow
+Tree Swallow
+Tufted Titmouse
+Turkey Vulture
+Yellow-rumped Warbler (Myrtle)
+---Paul 2014-03-29 Texas|Stacy Road, Fairview
+
+American Kestrel
+Barn Swallow
+---Paul 2014-03-29 Texas|Tickey Creek Park, Lake Lavon, Lucas
+
+Cedar Waxwing
+Lark Sparrow
+Northern Flicker (Yellow-shafted)
+Red-winged Blackbird

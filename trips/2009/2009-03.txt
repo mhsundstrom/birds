@@ -1,0 +1,256 @@
+---Paul 2009-03-14 Texas|Buffalo Lake NWR
+
+American Kestrel
+American Robin
+American Wigeon
+Brown-headed Cowbird
+Dark-eyed Junco
+Eastern Bluebird
+European Starling
+Gadwall
+House Sparrow
+Killdeer
+Ladder-backed Woodpecker
+Lesser Scaup
+Loggerhead Shrike
+Mountain Bluebird
+Mourning Dove
+Northern Pintail
+Northern Shoveler
+Red-tailed Hawk
+Red-winged Blackbird
+Redhead
+Rock Pigeon
+Song Sparrow
+Western Meadowlark
+White-crowned Sparrow
+---Paul 2009-03-15 New Mexico|Bitter Lake NWR, Roswell
+
+American Coot (Red-shielded)
+American Crow
+American Kestrel
+American Pipit
+American Wigeon
+Black-necked Stilt
+Bufflehead
+Cinnamon Teal
+Eastern Bluebird
+Gadwall
+Great Blue Heron
+Great Egret
+Greater Roadrunner
+Greater Yellowlegs
+Killdeer
+Lesser Scaup
+Lesser Yellowlegs
+Little Blue Heron
+Long-billed Dowitcher
+Mallard
+Mourning Dove
+Northern Harrier
+Northern Pintail
+Northern Shoveler
+Pied-billed Grebe
+Pyrrhuloxia
+Red-tailed Hawk
+Red-winged Blackbird
+Redhead
+Ruby-crowned Kinglet
+Ruddy Duck
+Sandhill Crane
+Say's Phoebe
+Scaled Quail
+Snow Goose
+Snowy Egret
+Song Sparrow
+Swamp Sparrow
+Violet-green Swallow
+Western Meadowlark
+White-crowned Sparrow
+White-faced Ibis
+White-winged Dove
+---Paul 2009-03-15 New Mexico|Bosque del Apache NWR
+
+American Avocet
+American Coot (Red-shielded)
+American Crow
+American Kestrel
+American Wigeon
+Black Phoebe
+Black-necked Stilt
+Bufflehead
+Canada Goose
+Cinnamon Teal
+Clark's Grebe
+Common Black Hawk
+Cooper's Hawk
+Gadwall
+Great Blue Heron
+Great-tailed Grackle
+Greater Roadrunner
+Green-winged Teal
+Hooded Merganser
+House Finch
+Killdeer
+Lesser Scaup
+Long-billed Dowitcher
+Mallard
+Mourning Dove
+Neotropic Cormorant
+Northern Harrier
+Northern Shoveler
+Pied-billed Grebe
+Pyrrhuloxia
+Red-tailed Hawk
+Red-winged Blackbird
+Redhead
+Ring-billed Gull
+Ring-necked Duck
+Ross's Goose
+Sandhill Crane
+Say's Phoebe
+Snow Goose
+Song Sparrow
+Western Bluebird
+Western Kingbird
+Western Meadowlark
+White-crowned Sparrow
+Yellow-rumped Warbler (Audubon's)
+---Paul 2009-03-16 New Mexico|Animas Creek
+
+American Kestrel
+Brewer's Sparrow
+Eurasian Collared-Dove
+European Starling
+Red-winged Blackbird
+White-winged Dove
+---Paul 2009-03-16 New Mexico|Caballo State Park
+
+Black Phoebe
+Dark-eyed Junco (Pink-sided)
+Greater Roadrunner
+Ladder-backed Woodpecker
+Lesser Goldfinch
+Northern Rough-winged Swallow
+Red-tailed Hawk
+Vermilion Flycatcher
+---Paul 2009-03-16 New Mexico|Percha Dam State Park
+
+American Robin
+Black Phoebe
+Bufflehead
+Chihuahuan Raven
+Chipping Sparrow
+Dark-eyed Junco
+Eurasian Collared-Dove
+European Starling
+Great Blue Heron
+House Finch
+House Sparrow
+Lesser Goldfinch
+Lincoln's Sparrow
+Phainopepla
+Red-tailed Hawk
+Red-winged Blackbird
+Ruby-crowned Kinglet
+Say's Phoebe
+Song Sparrow
+Spotted Sandpiper
+Vermilion Flycatcher
+Western Bluebird
+White-winged Dove
+Yellow-rumped Warbler (Audubon's)
+---Paul 2009-03-16 New Mexico|Petroglyph Nt'l Monument, Albuquerque
+
+Canyon Wren
+---Paul 2009-03-17 New Mexico|Petroglyph Nt'l Monument, Albuquerque
+
+American Kestrel
+Canyon Wren
+Chihuahuan Raven
+Cooper's Hawk
+Crissal Thrasher
+Greater Roadrunner
+House Finch
+Mourning Dove
+Rock Wren
+Scaled Quail
+---Paul 2009-03-17 New Mexico|Sandia Crest
+
+Black Rosy-Finch
+Brown-capped Rosy-Finch
+Chihuahuan Raven
+Dark-eyed Junco (Oregon)
+Gray-crowned Rosy-Finch
+Mountain Chickadee
+Pine Siskin
+Red-breasted Nuthatch
+Steller's Jay
+---Paul 2009-03-17 New Mexico|Ventana Canyon, Albuquerque
+
+Burrowing Owl
+---Paul 2009-03-18 New Mexico|Golf Course, Albuquerque
+
+Pinyon Jay
+---Paul 2009-03-18 New Mexico|Lannois' House, Albuquerque
+
+Canyon Towhee
+---Paul 2009-03-18 Texas|Muleshoe NWR
+
+American Kestrel
+American Robin
+Bufflehead
+Cinnamon Teal
+Curve-billed Thrasher
+Eastern Bluebird
+Eurasian Collared-Dove
+Gadwall
+Hermit Thrush
+Horned Lark (Western rufous Group)
+House Finch
+House Sparrow
+Long-eared Owl
+Mourning Dove
+Northern Bobwhite
+Northern Harrier
+Northern Mockingbird
+Northern Pintail
+Song Sparrow
+Western Meadowlark
+White-crowned Sparrow
+---Mark 2009-03-19 Ohio|Scioto River, Columbus
+
+Belted Kingfisher
+Wood Duck
+---Paul 2009-03-19 Oklahoma|Washita NWR, Washita
+
+American Coot (Red-shielded)
+American Kestrel
+American White Pelican
+Belted Kingfisher
+Bufflehead
+Canada Goose
+Eastern Bluebird
+Eastern Meadowlark
+Eastern Phoebe
+Northern Cardinal
+Northern Pintail
+Northern Shoveler
+Pied-billed Grebe
+Red-tailed Hawk
+Red-winged Blackbird
+Sandhill Crane
+Turkey Vulture
+---Mark 2009-03-21 Ohio|Scioto River, Columbus
+
+Belted Kingfisher
+Bufflehead
+---Mark 2009-03-23 Ohio|Clifton Gorge, Ohio
+
+Eastern Phoebe
+Pileated Woodpecker
+---Mark 2009-03-27 Ohio|Miranova
+
+American Coot
+Eastern Phoebe
+Pied-billed Grebe

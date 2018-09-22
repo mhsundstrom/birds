@@ -1,0 +1,380 @@
+---Mark 2016-10-01 Ohio|Miranova
+
+Blue Jay
+Ring-billed Gull
+Turkey Vulture
+---Paul 2016-10-03 Poland|PL-Lesser Poland-Tarnów-Tadeusza Kościuszki 12 - 50.0094x20.9748
+
+Common Chaffinch
+Eurasian Blackbird
+Eurasian Blue Tit
+Eurasian Collared-Dove
+Eurasian Jackdaw
+Eurasian Nuthatch
+Eurasian Tree Sparrow
+Rock Pigeon
+Rook
+---Mark 2016-10-04 Ohio|Miranova
+
+Blue Jay
+Killdeer
+---Paul 2016-10-04 Poland|PL-Lesser Poland-Lisia Góra-33-151 - 50.0967x21.0745
+
+Common Buzzard
+Common Wood-Pigeon
+Eurasian Collared-Dove
+Eurasian Jackdaw
+Eurasian Kestrel
+Eurasian Magpie
+European Starling
+Great Tit
+Hooded Crow
+Mute Swan
+Ring-necked Pheasant
+Rook
+Willow Tit
+---Mark 2016-10-05 Ohio|Miranova
+
+Downy Woodpecker
+---Mark 2016-10-07 Ohio|Miranova
+
+Canada Goose
+Great Blue Heron
+Mallard
+---Paul 2016-10-08 Italy|IT-Sicily-Palermo-Via Aquino 92-100 - 38.0748x13.3065
+
+Common Buzzard
+Common Wood-Pigeon
+Eurasian Blackbird
+Eurasian Collared-Dove
+European Greenfinch
+European Starling
+Gray Wagtail
+Hooded Crow
+Rock Pigeon
+Spotless Starling
+---Paul 2016-10-09 Italy|IT-Sicily-Palermo-Via Aquino 92-100 - 38.0748x13.3065
+
+Black-headed Gull
+Common Wood-Pigeon
+Eurasian Collared-Dove
+Eurasian Jay
+European Greenfinch
+Rock Pigeon
+Yellow-legged Gull
+---Paul 2016-10-10 Italy|IT-Sicily-Castelvetrano-91022 - 37.5884x12.8340
+
+Barn Swallow
+Black Kite
+Common Buzzard
+Common Wood-Pigeon
+Eurasian Blue Tit
+Eurasian Collared-Dove
+Eurasian Jackdaw
+Eurasian Jay
+Eurasian Magpie
+Eurasian Sparrowhawk
+European Robin
+Great Tit
+Hooded Crow
+Rock Pigeon
+Spotless Starling
+---Paul 2016-10-11 Italy|IT-Sicily-Caltanissetta-Contrada Grotta d'Acqua - 37.4218x13.9407
+
+Calandra Lark
+Common Wood-Pigeon
+Crested Lark
+Eurasian Blue Tit
+Eurasian Collared-Dove
+Eurasian Jackdaw
+Eurasian Magpie
+Eurasian Sparrowhawk
+Eurasian Wren
+European Greenfinch
+European Serin
+Great Tit
+Hooded Crow
+Rock Pigeon
+Spanish Sparrow
+Spotless Starling
+---Paul 2016-10-12 Italy|IT-Sicily-Caltanissetta-Contrada Grotta d'Acqua - 37.4218x13.9407
+
+Cetti's Warbler
+Common Buzzard
+Common Wood-Pigeon
+Eurasian Kestrel
+Eurasian Magpie
+Eurasian Marsh-Harrier
+Eurasian Wren
+European Greenfinch
+European Robin
+Hooded Crow
+Rock Pigeon
+Sardinian Warbler
+Spanish Sparrow
+Spotless Starling
+---Paul 2016-10-14 Italy|IT-Sicily-Taormina-Via Luigi Pirandello - 37.8529x15.2945
+
+Common Wood-Pigeon
+Eurasian Blackbird
+Eurasian Collared-Dove
+Eurasian Crag-Martin
+Eurasian Magpie
+Hooded Crow
+Rock Pigeon
+---Mark 2016-10-15 Ohio|Scioto Greenways
+
+Carolina Chickadee
+Great Egret
+Northern Cardinal
+Song Sparrow
+---Paul 2016-10-15 Italy|IT-Sicily-Taormina-Via Bagnoli Croci - 37.8504x15.2907
+
+Coal Tit
+Common Wood-Pigeon
+Eurasian Blackbird
+Eurasian Blue Tit
+Eurasian Magpie
+European Robin
+Hooded Crow
+Long-tailed Tit
+Mew Gull (European)
+Osprey
+Rock Pigeon
+---Mark 2016-10-17 Ohio|Miranova
+
+Killdeer
+---Paul 2016-10-17 Italy|IT-Sicily-Ortigia-Passeggio Aretusa 1-12 - 37.0574x15.2928
+
+Black-headed Gull
+Eurasian Blackbird
+Gray Wagtail
+Italian Sparrow
+Mallard
+Mediterranean Gull
+Rock Pigeon
+Yellow-legged Gull
+---Paul 2016-10-18 Italy|IT-Lazio-Fiumicino-Viale della Pesca 2 - 41.7717x12.2242
+
+Black-headed Gull
+Eurasian Blackbird
+European Robin
+European Starling
+Hooded Crow
+Italian Sparrow
+Little Gull
+Rock Pigeon
+Yellow-legged Gull
+---Paul 2016-10-18 Italy|IT-Sicily-Ortigia-Passeggio Aretusa 1-12 - 37.0574x15.2928
+
+Black-headed Gull
+Great Cormorant (Eurasian)
+Yellow-legged Gull
+---Paul 2016-10-19 Italy|IT-Lazio-Fiumicino-Fiumicino Airport - 41.8068x12.2575
+
+Cattle Egret
+Eurasian Blackbird
+Eurasian Jackdaw
+European Starling
+Hooded Crow
+---Paul 2016-10-21 Texas|US-TX-Fairview-711 Mustang Dr
+
+American Crow
+American Robin
+Black Vulture
+Blue Jay
+Brown-headed Cowbird
+Canada Goose
+Carolina Wren
+Double-crested Cormorant
+Downy Woodpecker
+Eastern Bluebird
+Eastern Phoebe
+Killdeer
+Mallard
+Mourning Dove
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Northern Mockingbird
+Red-bellied Woodpecker
+Red-shouldered Hawk
+Ruby-crowned Kinglet
+Turkey Vulture
+White-breasted Nuthatch
+White-throated Sparrow
+White-winged Dove
+Yellow-bellied Sapsucker
+Yellow-rumped Warbler (Myrtle)
+---Mark 2016-10-22 Ohio|Miranova
+
+Peregrine Falcon
+---Mark 2016-10-23 Ohio|Miranova
+
+Great Blue Heron
+---Mark 2016-10-24 Ohio|Miranova
+
+Turkey Vulture
+---Paul 2016-10-24 Texas|US-TX-Wylie-Brockdale Park - 33.0744x-96.5493
+
+American Crow
+Barn Swallow
+Belted Kingfisher
+Bewick's Wren
+Black Tern
+Black Vulture
+Blue Jay
+Carolina Chickadee
+Double-crested Cormorant
+Downy Woodpecker
+Eastern Meadowlark
+Eastern Phoebe
+Forster's Tern
+Great Blue Heron
+Great Egret
+Hairy Woodpecker
+Least Sandpiper
+Lincoln's Sparrow
+Mallard
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Northern Harrier
+Pied-billed Grebe
+Red-tailed Hawk
+Ring-billed Gull
+Rock Pigeon
+Ruby-crowned Kinglet
+Scissor-tailed Flycatcher
+Tufted Titmouse
+Turkey Vulture
+White-throated Sparrow
+White-winged Dove
+Yellow-bellied Sapsucker
+Yellow-rumped Warbler (Myrtle)
+---Paul 2016-10-25 Texas|US-TX-McKinney-1 Nature Pl
+
+American Crow
+American Robin
+Belted Kingfisher
+Blue Jay
+Brown Thrasher
+Canada Goose
+Carolina Chickadee
+Carolina Wren
+Chipping Sparrow
+Cooper's Hawk
+Double-crested Cormorant
+Downy Woodpecker
+Eastern Bluebird
+Eastern Phoebe
+Great Blue Heron
+Great Egret
+Hermit Thrush
+House Finch
+Killdeer
+Mallard
+Mourning Dove
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Northern Mockingbird
+Red-bellied Woodpecker
+Red-shouldered Hawk
+Red-winged Blackbird
+Rock Pigeon
+Ruby-crowned Kinglet
+Tufted Titmouse
+Turkey Vulture
+Wood Duck
+Yellow-rumped Warbler (Myrtle)
+---Paul 2016-10-26 Texas|US-TX-Wylie-Brockdale Park - 33.0744x-96.5493
+
+American Crow
+Black Vulture
+Carolina Wren
+Double-crested Cormorant
+Eastern Bluebird
+Eastern Towhee
+Forster's Tern
+Great Egret
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Northern Mockingbird
+Red-bellied Woodpecker
+Ring-billed Gull
+Tufted Titmouse
+Turkey Vulture
+White-winged Dove
+Yellow-rumped Warbler (Myrtle)
+---Mark 2016-10-27 Ohio|Scioto Greenways
+
+American Goldfinch
+Double-crested Cormorant
+---Paul 2016-10-27 Texas|US-TX-Fairview-711 Mustang Dr
+
+American Crow
+American Robin
+Blue Jay
+Brown Thrasher
+Brown-headed Cowbird
+Canada Goose
+Carolina Wren
+Chipping Sparrow
+Double-crested Cormorant
+Eastern Bluebird
+Eastern Phoebe
+Great Blue Heron
+Hermit Thrush
+House Finch
+House Sparrow
+Killdeer
+Mallard
+Mourning Dove
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Northern Mockingbird
+Red-bellied Woodpecker
+Ruby-crowned Kinglet
+Tufted Titmouse
+Turkey Vulture
+White-throated Sparrow
+White-winged Dove
+Yellow-bellied Sapsucker
+Yellow-rumped Warbler (Myrtle)
+---Paul 2016-10-31 Texas|US-TX-Wylie-Brockdale Park - 33.0744x-96.5493
+
+American Coot (Red-shielded)
+American Crow
+American Robin
+Black Tern
+Black Vulture
+Blue Jay
+Brown Thrasher
+Brown-headed Cowbird
+Carolina Chickadee
+Carolina Wren
+Cooper's Hawk
+Double-crested Cormorant
+Eastern Bluebird
+Eastern Meadowlark
+Eastern Phoebe
+Forster's Tern
+Franklin's Gull
+Great Blue Heron
+Great Egret
+Killdeer
+Mallard
+Mourning Dove
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Northern Mockingbird
+Orange-crowned Warbler
+Osprey
+Pied-billed Grebe
+Red-tailed Hawk
+Ring-billed Gull
+Rock Pigeon
+Ruby-crowned Kinglet
+Tufted Titmouse
+Turkey Vulture
+White-winged Dove
+Yellow-bellied Sapsucker
+Yellow-rumped Warbler (Myrtle)

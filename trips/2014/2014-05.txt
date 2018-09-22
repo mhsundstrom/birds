@@ -1,0 +1,1047 @@
+---Paul 2014-05-01 Oklahoma|Cambridge Lake, Norman
+
+American Coot (Red-shielded)
+American Robin
+Baltimore Oriole
+Barn Swallow
+Blue Jay
+Blue-winged Teal
+Common Grackle
+Eastern Kingbird
+Eurasian Collared-Dove
+European Starling
+Great Blue Heron
+Great-tailed Grackle
+Green Heron
+Lincoln's Sparrow
+Mallard
+Mourning Dove
+Northern Mockingbird
+Northern Rough-winged Swallow
+Orchard Oriole
+Pied-billed Grebe
+Purple Martin
+Red-bellied Woodpecker
+Red-winged Blackbird
+Spotted Sandpiper
+Warbling Vireo
+Western Kingbird
+Wilson's Phalarope
+Yellow-rumped Warbler (Myrtle)
+---Mark 2014-05-02 Ohio|Miranova
+
+Canada Goose
+Mallard
+---Mark 2014-05-03 Ohio|Miranova
+
+Common Grackle
+Turkey Vulture
+---Mark 2014-05-04 Ohio|Highbanks Metro Park
+
+Eastern Bluebird
+Hermit Thrush
+Pileated Woodpecker
+---Paul 2014-05-04 Texas|Heritage Ranch, Fairview
+
+Carolina Chickadee
+Carolina Wren
+Eastern Phoebe
+Gray-cheeked Thrush
+Indigo Bunting
+Northern Cardinal
+Tufted Titmouse
+---Mark 2014-05-05 Ohio|Scioto River, Columbus
+
+Wood Duck
+---Mark 2014-05-06 Ohio|Scioto Trail, Columbus
+
+Mourning Dove
+---Mark 2014-05-07 Ohio|Maumee Bay State Park, Ohio
+
+American Goldfinch
+American Robin
+Baltimore Oriole
+Black-capped Chickadee
+Caspian Tern
+European Starling
+House Sparrow
+Mourning Dove
+Orchard Oriole
+Red-winged Blackbird
+Rose-breasted Grosbeak
+Ruby-crowned Kinglet
+Tree Swallow
+Tufted Titmouse
+White-crowned Sparrow
+Yellow Warbler
+---Mark 2014-05-07 Ohio|N Vance St, Carey
+
+Chimney Swift
+---Mark 2014-05-07 Ohio|Oregon
+
+Gray Catbird
+---Mark 2014-05-07 Ohio|Park Rd 10, Oregon
+
+White-breasted Nuthatch
+---Mark 2014-05-07 Ohio|Park Rd 17, Oregon
+
+Hermit Thrush
+---Mark 2014-05-07 Ohio|US 23 north central, Ohio
+
+Cliff Swallow
+---Mark 2014-05-07 Ohio|US 23, Marion
+
+Baltimore Oriole
+---Mark 2014-05-07 Ohio|US 23, Marion
+
+Red-eyed Vireo
+---Paul 2014-05-07 Ohio|Maumee Bay State Park
+
+American Goldfinch
+American Robin
+Caspian Tern
+Cliff Swallow
+Common Grackle
+Gray Catbird
+Hermit Thrush
+House Sparrow
+Mourning Dove
+Orchard Oriole
+Red-winged Blackbird
+Rose-breasted Grosbeak
+Ruby-crowned Kinglet
+Tree Swallow
+Tufted Titmouse
+White-breasted Nuthatch
+White-crowned Sparrow
+Yellow Warbler
+---Mark 2014-05-08 Ohio|Magee Marsh
+
+American Goldfinch
+American Redstart
+American Robin
+Bald Eagle
+Baltimore Oriole
+Bay-breasted Warbler
+Black-and-white Warbler
+Black-throated Blue Warbler
+Black-throated Green Warbler
+Blackburnian Warbler
+Blue Jay
+Canada Goose
+Canada Warbler
+Cape May Warbler
+Chestnut-sided Warbler
+Common Yellowthroat
+Double-crested Cormorant
+Eastern Screech-Owl
+Forster's Tern
+Gray Catbird
+Great Blue Heron
+Great Egret
+Green Heron
+Herring Gull
+House Wren
+Killdeer
+Least Flycatcher
+Magnolia Warbler
+Mourning Warbler
+Nashville Warbler
+Northern Cardinal
+Northern Parula
+Northern Waterthrush
+Ovenbird
+Palm Warbler
+Prothonotary Warbler
+Red-eyed Vireo
+Red-winged Blackbird
+Rose-breasted Grosbeak
+Ruby-crowned Kinglet
+Scarlet Tanager
+Swainson's Thrush
+Tennessee Warbler
+Veery
+Warbling Vireo
+White-throated Sparrow
+Wood Thrush
+---Mark 2014-05-08 Ohio|Maumee Bay State Park, Ohio
+
+American Goldfinch
+Baltimore Oriole
+Black-and-white Warbler
+Blue-winged Teal
+Cedar Waxwing
+Chimney Swift
+Gray Catbird
+Mourning Warbler
+Northern Cardinal
+Orchard Oriole
+Palm Warbler
+Ruby-throated Hummingbird
+Tree Swallow
+White-throated Sparrow
+Wood Duck
+Yellow Warbler
+Yellow-rumped Warbler
+white-winged gull sp.
+---Mark 2014-05-08 Ohio|Maumee Bay State Park, Ohio
+
+Brown-headed Cowbird
+Red-tailed Hawk
+Turkey Vulture
+---Mark 2014-05-08 Ohio|Maumee Bay State Park, Ohio
+
+American Woodcock
+Eastern Kingbird
+European Starling
+Killdeer
+Mourning Dove
+Purple Martin
+---Mark 2014-05-08 Ohio|Pearson Metro Park, Ohio
+
+American Redstart
+American Robin
+Baltimore Oriole
+Black-and-white Warbler
+Black-capped Chickadee
+Black-throated Green Warbler
+Blue Jay
+Gray Catbird
+Hermit Thrush
+Least Flycatcher
+Magnolia Warbler
+Marsh Wren
+Nashville Warbler
+Northern Cardinal
+Northern Flicker
+Palm Warbler
+Red-bellied Woodpecker
+Red-eyed Vireo
+Red-winged Blackbird
+Ruby-crowned Kinglet
+Warbling Vireo
+White-throated Sparrow
+Yellow Warbler
+Yellow-rumped Warbler
+---Paul 2014-05-08 Ohio|Magee Marsh
+
+American Goldfinch
+American Redstart
+American Robin
+Bald Eagle
+Baltimore Oriole
+Bay-breasted Warbler
+Black-and-white Warbler
+Black-throated Blue Warbler
+Black-throated Green Warbler
+Blackburnian Warbler
+Blue Jay
+Blue-gray Gnatcatcher
+Canada Goose
+Canada Warbler
+Cape May Warbler
+Chestnut-sided Warbler
+Common Yellowthroat
+Double-crested Cormorant
+Forster's Tern
+Gray Catbird
+Great Blue Heron
+Great Egret
+Green Heron
+Herring Gull
+House Wren
+Killdeer
+Least Flycatcher
+Magnolia Warbler
+Mourning Warbler
+Northern Cardinal
+Northern Parula
+Northern Waterthrush
+Ovenbird
+Palm Warbler
+Prothonotary Warbler
+Red-eyed Vireo
+Red-winged Blackbird
+Rose-breasted Grosbeak
+Ruby-crowned Kinglet
+Scarlet Tanager
+Swainson's Thrush
+Tennessee Warbler
+Veery
+Warbling Vireo
+Western Screech-Owl
+White-throated Sparrow
+Wilson's Warbler
+Wood Thrush
+---Paul 2014-05-08 Ohio|Maumee Bay State Park
+
+American Goldfinch
+American Woodcock
+Baltimore Oriole
+Black-and-white Warbler
+Blue-winged Teal
+Brown-headed Cowbird
+Cedar Waxwing
+Chimney Swift
+Eastern Kingbird
+European Starling
+Gray Catbird
+Killdeer
+Mourning Dove
+Mourning Warbler
+Northern Cardinal
+Palm Warbler
+Purple Martin
+Ruby-throated Hummingbird
+Tree Swallow
+White-throated Sparrow
+Wood Duck
+Yellow Warbler
+Yellow-rumped Warbler (Myrtle)
+---Paul 2014-05-08 Ohio|Pearson Metro Park, Oregon
+
+American Redstart
+American Robin
+Baltimore Oriole
+Black-and-white Warbler
+Black-capped Chickadee
+Black-throated Green Warbler
+Blue Jay
+Gray Catbird
+Hermit Thrush
+Least Flycatcher
+Magnolia Warbler
+Marsh Wren
+Nashville Warbler
+Northern Cardinal
+Palm Warbler
+Red-bellied Woodpecker
+Red-eyed Vireo
+Red-winged Blackbird
+Ruby-crowned Kinglet
+Warbling Vireo
+White-throated Sparrow
+Yellow-rumped Warbler (Myrtle)
+---Mark 2014-05-09 Ohio|Magee Marsh
+
+American Redstart
+Bald Eagle
+Baltimore Oriole
+Bay-breasted Warbler
+Black-and-white Warbler
+Black-throated Blue Warbler
+Black-throated Green Warbler
+Blackpoll Warbler
+Blue Jay
+Blue-gray Gnatcatcher
+Canada Goose
+Cape May Warbler
+Carolina Wren
+Chestnut-sided Warbler
+Eastern Kingbird
+Forster's Tern
+Golden-winged Warbler
+Gray Catbird
+Gray-cheeked Thrush
+Great Blue Heron
+Hooded Warbler
+House Wren
+Killdeer
+Lincoln's Sparrow
+Magnolia Warbler
+Mourning Dove
+Northern Parula
+Ovenbird
+Palm Warbler
+Philadelphia Vireo
+Prothonotary Warbler
+Red-bellied Woodpecker
+Red-eyed Vireo
+Ruddy Turnstone
+Scarlet Tanager
+Swainson's Thrush
+Tree Swallow
+Trumpeter Swan
+Tufted Titmouse
+Warbling Vireo
+White-crowned Sparrow
+Wilson's Warbler
+Wood Duck
+Yellow Warbler
+Yellow-rumped Warbler
+---Mark 2014-05-09 Ohio|Maumee Bay State Park, Ohio
+
+American Robin
+Barn Swallow
+Black-capped Chickadee
+Chimney Swift
+Common Grackle
+European Starling
+Great Egret
+House Finch
+Killdeer
+Mallard
+Mourning Dove
+Northern Cardinal
+Red-winged Blackbird
+Tufted Titmouse
+Yellow Warbler
+---Mark 2014-05-09 Ohio|Maumee Bay State Park, Ohio
+
+Magnolia Warbler
+Willow Flycatcher
+Wilson's Warbler
+---Mark 2014-05-09 Ohio|Metzger Marsh, Ohio
+
+American Coot
+Bald Eagle
+Barn Swallow
+Blackpoll Warbler
+Canada Goose
+Downy Woodpecker
+Great Blue Heron
+Great Egret
+Mallard
+Mute Swan
+Nashville Warbler
+Northern Rough-winged Swallow
+Prothonotary Warbler
+Tennessee Warbler
+Trumpeter Swan
+---Mark 2014-05-09 Ohio|Ohio Highway 2, Ohio
+
+American Golden-Plover
+American Kestrel
+Herring Gull
+---Mark 2014-05-09 Ohio|Pearson Metro Park, north wetlands, Ohio
+
+Spotted Sandpiper
+---Paul 2014-05-09 Ohio|Happy Hooker, Oregon
+
+American Golden-Plover
+---Paul 2014-05-09 Ohio|Magee Marsh
+
+American Kestrel
+American Redstart
+Bald Eagle
+Baltimore Oriole
+Bay-breasted Warbler
+Black-and-white Warbler
+Black-throated Blue Warbler
+Black-throated Green Warbler
+Blackpoll Warbler
+Blue Jay
+Blue-gray Gnatcatcher
+Canada Goose
+Cape May Warbler
+Carolina Wren
+Chestnut-sided Warbler
+Eastern Kingbird
+Forster's Tern
+Golden-winged Warbler
+Gray Catbird
+Gray-cheeked Thrush
+Great Blue Heron
+Herring Gull
+Hooded Warbler
+House Wren
+Killdeer
+Lincoln's Sparrow
+Magnolia Warbler
+Mourning Dove
+Northern Parula
+Ovenbird
+Palm Warbler
+Philadelphia Vireo
+Prothonotary Warbler
+Red-bellied Woodpecker
+Red-eyed Vireo
+Ruddy Turnstone
+Scarlet Tanager
+Swainson's Thrush
+Tree Swallow
+Tufted Titmouse
+Warbling Vireo
+White-crowned Sparrow
+Wilson's Warbler
+Wood Duck
+Yellow Warbler
+Yellow-breasted Chat
+Yellow-rumped Warbler (Myrtle)
+---Paul 2014-05-09 Ohio|Maumee Bay State Park
+
+American Robin
+Barn Swallow
+Black-capped Chickadee
+Blue-gray Gnatcatcher
+Chimney Swift
+Common Grackle
+European Starling
+Great Egret
+House Finch
+Killdeer
+Magnolia Warbler
+Mallard
+Mourning Dove
+Northern Cardinal
+Red-winged Blackbird
+Tufted Titmouse
+Willow Flycatcher
+Wilson's Warbler
+Yellow-rumped Warbler (Myrtle)
+---Paul 2014-05-09 Ohio|Metzger Marsh, Oregon
+
+American Coot (Red-shielded)
+Bald Eagle
+Barn Swallow
+Blackpoll Warbler
+Canada Goose
+Downy Woodpecker
+Great Blue Heron
+Great Egret
+Mallard
+Mute Swan
+Nashville Warbler
+Northern Rough-winged Swallow
+Prothonotary Warbler
+Tennessee Warbler
+Tree Swallow
+Trumpeter Swan
+---Paul 2014-05-09 Ohio|Pearson Metro Park North, Oregon
+
+Spotted Sandpiper
+---Mark 2014-05-10 Ohio|Scioto Audubon Metro Park
+
+American Goldfinch
+American Robin
+Blue-gray Gnatcatcher
+Canada Goose
+Chipping Sparrow
+Cliff Swallow
+Double-crested Cormorant
+Downy Woodpecker
+European Starling
+Gray Catbird
+Great Blue Heron
+House Finch
+House Sparrow
+House Wren
+Indigo Bunting
+Killdeer
+Mallard
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Orange-crowned Warbler
+Osprey
+Red-bellied Woodpecker
+Red-eyed Vireo
+Red-winged Blackbird
+Song Sparrow
+Tree Swallow
+Vesper Sparrow
+White-crowned Sparrow
+Yellow Warbler
+---Paul 2014-05-10 Ohio|Sciotto Park, Columbus
+
+American Goldfinch
+American Robin
+Blue-gray Gnatcatcher
+Canada Goose
+Chipping Sparrow
+Cliff Swallow
+Double-crested Cormorant
+Downy Woodpecker
+European Starling
+Gray Catbird
+Great Blue Heron
+House Finch
+House Sparrow
+House Wren
+Indigo Bunting
+Killdeer
+Mallard
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Orange-crowned Warbler
+Osprey
+Red-bellied Woodpecker
+Red-eyed Vireo
+Red-winged Blackbird
+Song Sparrow
+Tree Swallow
+Vesper Sparrow
+White-crowned Sparrow
+Yellow Warbler
+---Mark 2014-05-11 Ohio|Blendon Woods Metro Park
+
+American Crow
+Blue-gray Gnatcatcher
+Canada Goose
+Carolina Wren
+Downy Woodpecker
+Eastern Phoebe
+Eastern Towhee
+Gray Catbird
+Northern Cardinal
+Red-bellied Woodpecker
+Red-eyed Vireo
+Song Sparrow
+Tree Swallow
+Tufted Titmouse
+Wild Turkey
+---Mark 2014-05-11 Ohio|Dawes Arboretum
+
+American Crow
+American Goldfinch
+American Robin
+Baltimore Oriole
+Barn Swallow
+Blue Jay
+Blue-gray Gnatcatcher
+Canada Goose
+Cape May Warbler
+Carolina Chickadee
+Carolina Wren
+Cedar Waxwing
+Chipping Sparrow
+Common Grackle
+Downy Woodpecker
+Eastern Bluebird
+Eastern Kingbird
+Eastern Phoebe
+Eastern Towhee
+Eastern Wood-Pewee
+European Starling
+Field Sparrow
+Gray Catbird
+Great Crested Flycatcher
+Hermit Thrush
+Hooded Warbler
+House Finch
+House Sparrow
+House Wren
+Mallard
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Orchard Oriole
+Red-bellied Woodpecker
+Red-eyed Vireo
+Red-winged Blackbird
+Song Sparrow
+Spotted Sandpiper
+Swainson's Thrush
+Tree Swallow
+Tufted Titmouse
+Turkey Vulture
+Wood Thrush
+Yellow-rumped Warbler
+---Mark 2014-05-11 Ohio|Miranova
+
+American Goldfinch
+Canada Goose
+Mourning Dove
+Song Sparrow
+---Paul 2014-05-11 Ohio|Blendon Woods Metro Park
+
+American Crow
+Blue-gray Gnatcatcher
+Canada Goose
+Carolina Wren
+Downy Woodpecker
+Eastern Phoebe
+Eastern Towhee
+Gray Catbird
+Northern Cardinal
+Red-bellied Woodpecker
+Red-eyed Vireo
+Song Sparrow
+Tree Swallow
+Tufted Titmouse
+Wild Turkey
+---Paul 2014-05-11 Ohio|Dawes Arboretum
+
+American Crow
+American Goldfinch
+American Robin
+Baltimore Oriole
+Barn Swallow
+Blue Jay
+Blue-gray Gnatcatcher
+Canada Goose
+Cape May Warbler
+Carolina Chickadee
+Carolina Wren
+Cedar Waxwing
+Chipping Sparrow
+Common Grackle
+Downy Woodpecker
+Eastern Bluebird
+Eastern Kingbird
+Eastern Phoebe
+Eastern Towhee
+Eastern Wood-Pewee
+European Starling
+Field Sparrow
+Gray Catbird
+Great Crested Flycatcher
+Hermit Thrush
+Hooded Warbler
+House Finch
+House Sparrow
+House Wren
+Mallard
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Orchard Oriole
+Red-bellied Woodpecker
+Red-eyed Vireo
+Red-winged Blackbird
+Song Sparrow
+Spotted Sandpiper
+Swainson's Thrush
+Tree Swallow
+Tufted Titmouse
+Turkey Vulture
+Wood Thrush
+Yellow-rumped Warbler (Myrtle)
+---Paul 2014-05-14 Texas|The Heard Wildlife Sanctuary
+
+American Coot (Red-shielded)
+American Crow
+Baltimore Oriole
+Barn Swallow
+Black Vulture
+Blue Jay
+Blue-winged Teal
+Canada Goose
+Carolina Chickadee
+Carolina Wren
+Cattle Egret
+Cedar Waxwing
+Cliff Swallow
+Common Grackle
+Cooper's Hawk
+Downy Woodpecker
+Eastern Bluebird
+Eastern Phoebe
+Eurasian Collared-Dove
+European Starling
+Great Blue Heron
+Great Crested Flycatcher
+Great Egret
+Great-tailed Grackle
+Green Heron
+Indigo Bunting
+Killdeer
+Little Blue Heron
+Mallard
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Northern Rough-winged Swallow
+Painted Bunting
+Prothonotary Warbler
+Purple Martin
+Red-bellied Woodpecker
+Red-eyed Vireo
+Red-shouldered Hawk
+Rock Pigeon
+Scissor-tailed Flycatcher
+Snowy Egret
+Tree Swallow
+Tufted Titmouse
+Turkey Vulture
+White-breasted Nuthatch
+White-eyed Vireo
+Willow Flycatcher
+Yellow-crowned Night-Heron
+---Mark 2014-05-16 Ohio|Miranova
+
+Canada Goose
+Common Grackle
+Great Blue Heron
+House Sparrow
+Mourning Dove
+Northern Rough-winged Swallow
+Song Sparrow
+---Mark 2014-05-16 Ohio|Scioto Audubon Metro Park
+
+American Goldfinch
+American Robin
+Baltimore Oriole
+Barn Swallow
+Blue-gray Gnatcatcher
+Brown-headed Cowbird
+Canada Goose
+Carolina Wren
+Cliff Swallow
+Eastern Bluebird
+Gray Catbird
+House Finch
+House Wren
+Indigo Bunting
+Killdeer
+Mallard
+Northern Cardinal
+Northern Rough-winged Swallow
+Red-eyed Vireo
+Red-winged Blackbird
+Song Sparrow
+Tree Swallow
+Turkey Vulture
+Warbling Vireo
+Yellow Warbler
+Yellow-billed Cuckoo
+---Mark 2014-05-19 Ohio|Olentangy Trail, Columbus
+
+Wood Thrush
+---Mark 2014-05-20 Ohio|Miranova
+
+House Finch
+---Paul 2014-05-21 Wisconsin|Madison
+
+American Robin
+Black-capped Chickadee
+Canada Goose
+Chimney Swift
+Common Grackle
+Downy Woodpecker
+Eastern Bluebird
+Herring Gull
+House Sparrow
+House Wren
+Red-winged Blackbird
+Song Sparrow
+Tree Swallow
+White-breasted Nuthatch
+Yellow Warbler
+---Mark 2014-05-22 Ohio|Dawes Arboretum
+
+American Crow
+American Robin
+Baltimore Oriole
+Barn Swallow
+Carolina Chickadee
+Carolina Wren
+Chipping Sparrow
+Eastern Bluebird
+Eastern Kingbird
+Eastern Towhee
+Eastern Wood-Pewee
+European Starling
+Gray Catbird
+House Finch
+Mallard
+Mourning Dove
+Northern Cardinal
+Red-bellied Woodpecker
+Red-eyed Vireo
+Red-winged Blackbird
+Song Sparrow
+Tree Swallow
+Turkey Vulture
+White-breasted Nuthatch
+Wood Thrush
+Yellow Warbler
+---Mark 2014-05-24 Ohio|Miranova
+
+Red-eyed Vireo
+---Mark 2014-05-24 Ohio|Prairie Oaks Metro Park, Columbus
+
+American Goldfinch
+American Robin
+Belted Kingfisher
+Blue Jay
+Canada Goose
+Chipping Sparrow
+Eastern Meadowlark
+Eastern Phoebe
+Eastern Towhee
+Eastern Wood-Pewee
+Great Blue Heron
+Killdeer
+Mourning Dove
+Northern Cardinal
+Northern Flicker
+Red-bellied Woodpecker
+Red-winged Blackbird
+Tree Swallow
+Turkey Vulture
+Yellow Warbler
+---Mark 2014-05-25 Ohio|Miranova
+
+Killdeer
+Red-eyed Vireo
+Yellow Warbler
+---Mark 2014-05-25 Ohio|Scioto Greenways, Columbus
+
+Cedar Waxwing
+---Mark 2014-05-26 Ohio|Miranova
+
+American Goldfinch
+American Robin
+Canada Goose
+Carolina Wren
+Cliff Swallow
+Common Grackle
+Double-crested Cormorant
+Eastern Wood-Pewee
+Great Blue Heron
+House Sparrow
+Killdeer
+Mallard
+Mourning Dove
+Northern Cardinal
+Red-eyed Vireo
+Rock Pigeon
+Song Sparrow
+---Mark 2014-05-26 Ohio|North Bank Park, Columbus
+
+Eastern Wood-Pewee
+Wood Thrush
+---Mark 2014-05-29 Ohio|Miranova
+
+Osprey
+---Paul 2014-05-29 Texas|Heard Wildlife Sanctuary, Fairview
+
+Anhinga
+Barn Swallow
+Black Vulture
+Blue Jay
+Canada Goose
+Carolina Chickadee
+Carolina Wren
+Cattle Egret
+Cooper's Hawk
+Downy Woodpecker
+Eastern Bluebird
+Eastern Phoebe
+Great Blue Heron
+Great Egret
+Green Heron
+House Finch
+Indigo Bunting
+Little Blue Heron
+Mallard
+Mourning Dove
+Northern Cardinal
+Northern Rough-winged Swallow
+Painted Bunting
+Prothonotary Warbler
+Purple Martin
+Red-bellied Woodpecker
+Red-tailed Hawk
+Snowy Egret
+Tufted Titmouse
+Turkey Vulture
+Western Kingbird
+White-eyed Vireo
+Yellow-billed Cuckoo
+---Paul 2014-05-29 Texas|Heard Wildlife Sanctuary, Fairview
+
+Anhinga
+Barn Swallow
+Black Vulture
+Blue Jay
+Canada Goose
+Carolina Chickadee
+Carolina Wren
+Cattle Egret
+Cooper's Hawk
+Downy Woodpecker
+Eastern Bluebird
+Eastern Phoebe
+Great Blue Heron
+Great Egret
+Green Heron
+House Finch
+Indigo Bunting
+Little Blue Heron
+Mallard
+Mourning Dove
+Northern Cardinal
+Northern Rough-winged Swallow
+Painted Bunting
+Prothonotary Warbler
+Purple Martin
+Red-bellied Woodpecker
+Red-tailed Hawk
+Snowy Egret
+Tufted Titmouse
+Turkey Vulture
+Western Kingbird
+White-eyed Vireo
+Yellow-billed Cuckoo
+Yellow-crowned Night-Heron
+---Paul 2014-05-30 Texas|Towne Lake Park, McKinney
+
+American Coot (Red-shielded)
+American Crow
+Baltimore Oriole
+Barn Swallow
+Barred Owl
+Black Vulture
+Blue Jay
+Blue-winged Teal
+Canada Goose
+Carolina Chickadee
+Cattle Egret
+Cliff Swallow
+Common Grackle
+Eastern Bluebird
+Eastern Phoebe
+Eurasian Collared-Dove
+European Starling
+Great Blue Heron
+Great Crested Flycatcher
+Great Egret
+Great-tailed Grackle
+Killdeer
+Little Blue Heron
+Mallard
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Red-bellied Woodpecker
+Red-shouldered Hawk
+Rock Pigeon
+Scissor-tailed Flycatcher
+Tufted Titmouse
+Turkey Vulture
+---Paul 2014-05-31 Texas|Lake Lavon, Lucas
+
+American Crow
+Anhinga
+Blue Jay
+Carolina Chickadee
+Carolina Wren
+Cattle Egret
+Chimney Swift
+Cliff Swallow
+Dickcissel
+Eastern Bluebird
+European Starling
+Great Blue Heron
+Great Crested Flycatcher
+Greater Roadrunner
+Indigo Bunting
+Mallard
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Northern Rough-winged Swallow
+Painted Bunting
+Purple Martin
+Red-bellied Woodpecker
+Red-winged Blackbird
+Ruby-throated Hummingbird
+Scissor-tailed Flycatcher
+Tree Swallow
+Tufted Titmouse
+Turkey Vulture
+White-eyed Vireo
+Yellow-billed Cuckoo

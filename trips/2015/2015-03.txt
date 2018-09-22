@@ -1,0 +1,686 @@
+---Mark 2015-03-04 Ohio|Miranova
+
+Canada Goose
+Great Blue Heron
+Ring-billed Gull
+---Paul 2015-03-04 Massachusetts|Reed St., Warren
+
+American Crow
+American Robin
+American Tree Sparrow
+Black-capped Chickadee
+Blue Jay
+Cedar Waxwing
+Dark-eyed Junco (Slate-colored)
+Downy Woodpecker
+European Starling
+House Sparrow
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Red-bellied Woodpecker
+Ring-billed Gull
+Rock Pigeon
+Tufted Titmouse
+White-breasted Nuthatch
+---Mark 2015-03-08 Ohio|Miranova
+
+Hooded Merganser
+---Paul 2015-03-10 Texas|Heritage Ranch, Fairview
+
+American Crow
+Blue Jay
+Canada Goose
+Carolina Chickadee
+Dark-eyed Junco (Slate-colored)
+Eastern Bluebird
+Eastern Phoebe
+Field Sparrow
+House Finch
+Mourning Dove
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Northern Mockingbird
+Red-bellied Woodpecker
+Tufted Titmouse
+Turkey Vulture
+White-crowned Sparrow
+White-throated Sparrow
+---Paul 2015-03-11 Texas|Black plains Raptor Center, Lucas
+
+American Coot (Red-shielded)
+American Crow
+American Wigeon
+Blue Jay
+Carolina Chickadee
+Carolina Wren
+Double-crested Cormorant
+Eastern Bluebird
+Eastern Phoebe
+European Starling
+Gadwall
+Great Blue Heron
+Mallard
+Mourning Dove
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Northern Shoveler
+Pied-billed Grebe
+Red-bellied Woodpecker
+Red-winged Blackbird
+Ring-billed Gull
+Ring-necked Duck
+Tufted Titmouse
+White-winged Dove
+Yellow-rumped Warbler (Myrtle)
+---Mark 2015-03-12 Ohio|Miranova
+
+House Finch
+Mourning Dove
+---Paul 2015-03-12 Texas|Heard Wildlife Sanctuary, Fairview
+
+American Coot (Red-shielded)
+American Crow
+Black Vulture
+Blue Jay
+Canada Goose
+Carolina Chickadee
+Carolina Wren
+Double-crested Cormorant
+Downy Woodpecker
+Eastern Bluebird
+Eastern Phoebe
+Field Sparrow
+Fox Sparrow (Red)
+Great Blue Heron
+Harris's Sparrow
+House Finch
+Mallard
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Northern Harrier
+Northern Mockingbird
+Purple Martin
+Red-bellied Woodpecker
+Red-shouldered Hawk
+Red-winged Blackbird
+Ring-billed Gull
+Ring-necked Duck
+Rock Pigeon
+Ruby-crowned Kinglet
+Tufted Titmouse
+White-throated Sparrow
+Wood Duck
+Yellow-rumped Warbler (Myrtle)
+---Mark 2015-03-15 Ohio|Miranova
+
+American Robin
+European Starling
+House Finch
+Mourning Dove
+---Mark 2015-03-16 Ohio|Scioto River, Columbus
+
+Northern Mockingbird
+Red-winged Blackbird
+---Paul 2015-03-16 Texas|Black plains Raptor Center, Lucas
+
+American Coot (Red-shielded)
+American Crow
+American Wigeon
+Blue Jay
+Brown Thrasher
+Carolina Wren
+Cooper's Hawk
+Dark-eyed Junco (Slate-colored)
+Double-crested Cormorant
+Eastern Bluebird
+Eastern Phoebe
+Gadwall
+Great Egret
+Green-winged Teal
+Harris's Sparrow
+Hermit Thrush
+Killdeer
+Lincoln's Sparrow
+Mallard
+Mourning Dove
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Northern Mockingbird
+Northern Shoveler
+Pied-billed Grebe
+Red-bellied Woodpecker
+Red-winged Blackbird
+Song Sparrow
+Tufted Titmouse
+Turkey Vulture
+Yellow-rumped Warbler (Myrtle)
+---Paul 2015-03-19 California|Fisherman's Wharf, San Francisco
+
+American Crow
+Brewer's Blackbird
+Brown Pelican (California)
+Clark's Grebe
+Common Loon
+Common Murre
+Double-crested Cormorant
+Eared Grebe
+European Starling
+House Finch
+House Sparrow
+Mallard
+Pelagic Cormorant
+Red-breasted Merganser
+Ring-billed Gull
+Rock Pigeon
+Western Gull
+---Mark 2015-03-21 Ohio|Miranova
+
+Mallard
+Turkey Vulture
+---Paul 2015-03-21 California|Carmel
+
+American Crow
+Black Turnstone
+Brant (Black)
+Brewer's Blackbird
+Brown Pelican (California)
+Bufflehead
+California Gull
+Canada Goose
+Clark's Grebe
+Common Loon
+Common Murre
+Common Raven
+Dark-eyed Junco (Oregon)
+Double-crested Cormorant
+Eared Grebe
+Eurasian Collared-Dove
+European Starling
+Great Egret
+Herring Gull
+House Finch
+Killdeer
+Mallard
+Marbled Godwit
+Pelagic Cormorant
+Red-breasted Merganser
+Red-winged Blackbird (California Bicolored)
+Snowy Egret
+Song Sparrow (heermanni Group)
+Surf Scoter
+Western Gull
+Whimbrel
+---Paul 2015-03-21 California|Carmel
+
+Acorn Woodpecker
+American Crow
+Anna's Hummingbird
+California Scrub-Jay
+Mourning Dove
+Violet-green Swallow
+Western Gull
+---Paul 2015-03-22 California|Point Lobos State Reserve, Carmel
+
+American Crow
+Bewick's Wren
+Black Oystercatcher
+Black-crowned Night-Heron
+Brown Pelican (California)
+Canada Goose
+Chestnut-backed Chickadee
+Clark's Grebe
+Common Loon
+Cooper's Hawk
+Double-crested Cormorant
+Mallard
+Pelagic Cormorant
+Peregrine Falcon
+Song Sparrow (heermanni Group)
+Turkey Vulture
+Western Gull
+White-crowned Sparrow (Gambel's)
+---Paul 2015-03-23 California|On the Rad, Carmel to Morro Bay
+
+American Crow
+Brewer's Blackbird
+Brown Pelican (California)
+California Scrub-Jay
+Double-crested Cormorant
+Pelagic Cormorant
+Red-tailed Hawk (calurus/alascensis)
+Turkey Vulture
+Western Gull
+White-crowned Sparrow (Gambel's)
+---Paul 2015-03-24 California|Andre Clark Bird Refuge, Santa Barbara
+
+American Coot (Red-shielded)
+Common Yellowthroat
+Double-crested Cormorant
+Eared Grebe
+Eurasian Collared-Dove
+European Starling
+Hooded Oriole
+House Sparrow
+Mallard
+Mourning Dove
+Red-winged Blackbird
+Ruddy Duck
+Song Sparrow (heermanni Group)
+Sora
+Spotted Sandpiper
+---Paul 2015-03-24 California|Beach at Carlitto, Santa Barbara
+
+Heermann's Gull
+Marbled Godwit
+Royal Tern
+Whimbrel
+Willet (Western)
+---Paul 2015-03-24 California|The Rock, Morro Bay
+
+American Crow
+Brant (Black)
+Brewer's Blackbird
+Brown Pelican (California)
+Bufflehead
+Clark's Grebe
+Common Loon
+Common Murre
+Eared Grebe
+Eurasian Collared-Dove
+European Starling
+Great Blue Heron
+Great Egret
+Horned Grebe
+House Finch
+House Sparrow
+Long-billed Curlew
+Pacific Loon
+Pelagic Cormorant
+Pied-billed Grebe
+Red-shouldered Hawk
+Red-tailed Hawk (calurus/alascensis)
+Rock Pigeon
+Snowy Egret
+Surf Scoter
+Turkey Vulture
+Western Grebe
+White-crowned Sparrow (Gambel's)
+White-winged Scoter
+---Mark 2015-03-25 Ohio|Miranova
+
+Carolina Chickadee
+Killdeer
+---Paul 2015-03-25 California|Long Beach
+
+American Coot (Red-shielded)
+Anna's Hummingbird
+Double-crested Cormorant
+Eared Grebe
+House Finch
+Mallard
+Mourning Dove
+Rock Pigeon
+Surf Scoter
+Western Grebe
+---Paul 2015-03-26 California|Bolsa Chica State Park
+
+American Coot (Red-shielded)
+American Crow
+Black-bellied Plover
+Brant (Black)
+Brown Pelican (California)
+Bufflehead
+California Gull
+Common Loon
+Eared Grebe
+Elegant Tern
+Forster's Tern
+Great Blue Heron
+Great Egret
+Greater Scaup
+Horned Lark (Western pale Group)
+Least Sandpiper
+Long-billed Curlew
+Mallard
+Marbled Godwit
+Northern Harrier
+Pied-billed Grebe
+Rock Pigeon
+Ruddy Duck
+Sanderling
+Savannah Sparrow
+Snowy Egret
+Song Sparrow (heermanni Group)
+Surf Scoter
+Western Grebe
+Western Gull
+Western Sandpiper
+Willet (Western)
+---Paul 2015-03-27 California|Along Forrester Road, El Centro
+
+Barn Swallow
+Black-necked Stilt
+Brewer's Blackbird
+Burrowing Owl
+Great Egret
+Great-tailed Grackle
+Killdeer
+Mallard
+Red-winged Blackbird
+Rock Pigeon
+Tree Swallow
+Western Kingbird
+White-faced Ibis
+White-tailed Kite
+---Paul 2015-03-27 California|Along I-8, Approaching El Centro
+
+Acorn Woodpecker
+American Crow
+American Kestrel
+Cattle Egret
+Eurasian Collared-Dove
+Long-billed Curlew
+Mourning Dove
+Northern Mockingbird
+Western Meadowlark
+---Paul 2015-03-27 California|Anza-Borrego, Palm Canyon
+
+Black-throated Sparrow
+---Paul 2015-03-27 California|Brawley
+
+Black-chinned Hummingbird
+Costa's Hummingbird
+White-winged Dove
+---Paul 2015-03-27 California|Cattle Call Park, Brawley
+
+Chipping Sparrow
+Common Ground-Dove
+Verdin
+White-crowned Sparrow
+Yellow-rumped Warbler (Audubon's)
+---Paul 2015-03-27 California|Julian
+
+American Robin
+Steller's Jay
+Wild Turkey
+---Paul 2015-03-27 California|Kitchen Creek Trail
+
+Anna's Hummingbird
+Band-tailed Pigeon
+Bewick's Wren
+Black-chinned Sparrow
+Black-headed Grosbeak
+Bullock's Oriole
+California Quail
+California Scrub-Jay
+California Towhee
+Canyon Wren
+Cliff Swallow
+Common Raven
+Gray Vireo
+Hammond's Flycatcher
+House Finch
+Lesser Goldfinch
+Mountain Quail
+Northern Flicker (Red-shafted)
+Orange-crowned Warbler
+Rock Wren
+Rufous-crowned Sparrow
+Scott's Oriole
+Spotted Towhee
+White-throated Swift
+Wilson's Warbler
+Wrentit
+---Paul 2015-03-27 California|New River Wetlands
+
+Abert's Towhee
+American Coot (Red-shielded)
+Common Gallinule
+Gila Woodpecker
+Great Blue Heron
+Green Heron
+Marsh Wren
+Northern Rough-winged Swallow
+Pied-billed Grebe
+Ruddy Duck
+Snowy Egret
+Sora
+---Paul 2015-03-27 California|New River crossing, Lack Road, near Salton Sea
+
+Black Phoebe
+Song Sparrow (heermanni Group)
+---Paul 2015-03-27 California|Old Mine Road out of Rodeo
+
+Dark-eyed Junco (Oregon)
+Lewis's Woodpecker
+Turkey Vulture
+---Paul 2015-03-27 California|Salton Sea at Lindsay Road
+
+American Pipit
+American Wigeon
+Brown Pelican (Atlantic)
+Bufflehead
+California Gull
+Caspian Tern
+Double-crested Cormorant
+Eared Grebe
+Green-winged Teal
+Gull-billed Tern
+Herring Gull
+Least Sandpiper
+Lesser Yellowlegs
+Long-billed Dowitcher
+Marbled Godwit
+Neotropic Cormorant
+Northern Harrier
+Prairie Falcon
+Ridgway's Rail
+Ring-billed Gull
+Western Sandpiper
+Willet (Western)
+Yellow-footed Gull
+---Paul 2015-03-27 California|Sonny Bono Salton Sea NWR HQ
+
+Gambel's Quail
+---Paul 2015-03-27 California|along the sea wall, Salton Sea
+
+American White Pelican
+Belted Kingfisher
+Black-bellied Plover
+Greater Yellowlegs
+Lark Sparrow
+Northern Shoveler
+Red-tailed Hawk
+Western Grebe
+---Paul 2015-03-28 California|Bolsa Chica State Park
+
+Brant (Black)
+Eared Grebe
+Elegant Tern
+Forster's Tern
+Glaucous-winged Gull
+Least Sandpiper
+Lesser Scaup
+Long-billed Curlew
+Northern Harrier
+Pomarine Jaeger
+Red-breasted Merganser
+Reddish Egret
+Royal Tern
+Ruddy Turnstone
+Savannah Sparrow (Belding's)
+Savannah Sparrow (Large-billed)
+Semipalmated Plover
+Short-billed Dowitcher
+Surf Scoter
+Western Sandpiper
+---Paul 2015-03-28 California|Corona Del Mar
+
+California Gull
+Pacific Loon
+---Paul 2015-03-28 California|Crescent Bay Park, Laguna Beach
+
+American Kestrel
+Black-vented Shearwater
+Bonaparte's Gull
+Brandt's Cormorant
+Heermann's Gull
+Surfbird
+---Paul 2015-03-28 California|Gilman Park, Fullerton
+
+Band-tailed Pigeon
+Black-throated Gray Warbler
+Cedar Waxwing
+Dusky-capped Flycatcher
+Egyptian Goose
+Hutton's Vireo
+Ruby-crowned Kinglet
+Scaly-breasted Munia
+Varied Thrush
+---Paul 2015-03-28 California|Heisler Park, Laguna Beach
+
+European Starling
+Pelagic Cormorant
+---Paul 2015-03-28 California|Irvine Lake and Park
+
+Bald Eagle
+Clark's Grebe
+Hermit Thrush
+Wrentit
+---Paul 2015-03-28 California|Peachwood Drive, Laguna Beach
+
+Acorn Woodpecker
+Bewick's Wren
+Cactus Wren (coastal)
+Cassin's Kingbird
+Eurasian Collared-Dove
+---Paul 2015-03-28 California|Reef Point, Crystal Cove State Park
+
+American Robin
+California Gnatcatcher
+California Thrasher
+Sanderling
+Whimbrel
+---Paul 2015-03-28 California|San Joaquin Wildlife Sanctuary
+
+American Avocet
+American Goldfinch
+Anna's Hummingbird
+Bank Swallow
+Bell's Vireo
+Black-crowned Night-Heron
+Black-necked Stilt
+Blue-gray Gnatcatcher
+Blue-winged Teal
+Bushtit
+Canada Goose
+Cinnamon Teal
+Double-crested Cormorant
+Downy Woodpecker
+Great Blue Heron
+Great Egret
+Great-tailed Grackle
+Greater Yellowlegs
+Green-winged Teal
+Hooded Merganser
+House Finch
+Killdeer
+Long-billed Dowitcher
+Mourning Dove
+Northern Shoveler
+Orange-crowned Warbler
+Red-winged Blackbird
+Ridgway's Rail
+Ring-necked Duck
+Ruddy Duck
+Spotted Sandpiper
+Virginia Rail
+Western Kingbird
+White-crowned Sparrow (Gambel's)
+White-faced Ibis
+Wilson's Snipe
+Yellow-rumped Warbler (Audubon's)
+---Paul 2015-03-28 California|Santiago Stables
+
+Golden-crowned Sparrow
+Lesser Goldfinch
+Nuttall's Woodpecker
+Red-shouldered Hawk
+Rufous-crowned Sparrow
+Western Bluebird
+White-throated Swift
+---Paul 2015-03-28 California|Tucker Wildlife Sanctuary
+
+Black-chinned Hummingbird
+Fox Sparrow (Slate-colored)
+Fox Sparrow (Sooty)
+Fox Sparrow (Thick-billed)
+Golden Eagle
+Oak Titmouse
+Red-tailed Hawk (calurus/alascensis)
+Turkey Vulture
+White-breasted Nuthatch
+---Paul 2015-03-28 California|Upper Newport Bay
+
+Allen's Hummingbird
+American Coot (Red-shielded)
+American Wigeon
+Black Skimmer
+Brown Pelican (California)
+Bufflehead
+California Towhee
+Caspian Tern
+Cliff Swallow
+Common Yellowthroat
+Gadwall
+House Wren
+Mallard
+Marbled Godwit
+Marsh Wren
+Northern Mockingbird
+Northern Rough-winged Swallow
+Osprey
+Pied-billed Grebe
+Red-throated Loon
+Ridgway's Rail
+Savannah Sparrow
+Snowy Egret
+Song Sparrow (heermanni Group)
+Sora
+Spotted Towhee
+Western Grebe
+Western Gull
+Willet (Western)
+---Paul 2015-03-28 California|downtown Santa Anna
+
+House Sparrow
+Red-crowned Parrot
+---Paul 2015-03-30 California|Joshua Tree National Park
+
+Black-throated Gray Warbler
+Black-throated Sparrow
+Cactus Wren (affinis Group)
+Common Raven
+Costa's Hummingbird
+Eurasian Collared-Dove
+Greater Roadrunner
+House Sparrow
+Loggerhead Shrike
+Mourning Dove
+Northern Mockingbird
+Phainopepla
+Rock Pigeon
+Turkey Vulture
+White-crowned Sparrow (Gambel's)
+White-throated Swift
+Woodhouse's Scrub-Jay
+---Mark 2015-03-31 Ohio|Confluence, Columbus
+
+Canada Goose
+Eastern Wood-Pewee
+Mallard
+Turkey Vulture
+---Mark 2015-03-31 Ohio|Miranova
+
+Killdeer

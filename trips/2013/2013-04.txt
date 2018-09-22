@@ -1,0 +1,486 @@
+---Paul 2013-04-04 Texas|Heritage Ranch, Fairview
+
+American Crow
+Barred Owl
+Blue Jay
+Carolina Chickadee
+Carolina Wren
+House Finch
+Indigo Bunting
+Mallard
+Mourning Dove
+Northern Cardinal
+Red-bellied Woodpecker
+Red-winged Blackbird
+Ruby-crowned Kinglet
+Tufted Titmouse
+White-throated Sparrow
+---Paul 2013-04-05 Texas|Heard Wildlife Sanctuary, Fairview
+
+American Goldfinch
+Black Vulture
+Broad-winged Hawk
+Carolina Wren
+Double-crested Cormorant
+Eastern Bluebird
+Eastern Phoebe
+Field Sparrow
+Fox Sparrow (Red)
+Harris's Sparrow
+Hermit Thrush
+Lincoln's Sparrow
+Northern Cardinal
+Northern Harrier
+Red-tailed Hawk
+Song Sparrow
+Swainson's Hawk
+Tufted Titmouse
+Turkey Vulture
+White-crowned Sparrow
+White-throated Sparrow
+---Paul 2013-04-06 Texas|Heard Wildlife Sanctuary, Fairview
+
+American Coot (Red-shielded)
+American Crow
+Blue Jay
+Blue-winged Teal
+Brown-headed Cowbird
+Canada Goose
+Carolina Wren
+Double-crested Cormorant
+Downy Woodpecker
+Eastern Phoebe
+Field Sparrow
+Great Egret
+Greater Roadrunner
+House Finch
+Mallard
+Mourning Dove
+Northern Cardinal
+Pied-billed Grebe
+Ruby-crowned Kinglet
+Tufted Titmouse
+---Paul 2013-04-06 Texas|Heritage Ranch, Fairview
+
+Barred Owl
+Carolina Chickadee
+Carolina Wren
+Downy Woodpecker
+Gadwall
+Mallard
+Red-bellied Woodpecker
+Scissor-tailed Flycatcher
+Tufted Titmouse
+Turkey Vulture
+White-throated Sparrow
+---Paul 2013-04-07 Texas|Heritage Ranch, Fairview
+
+American Crow
+Blue Jay
+Carolina Chickadee
+Carolina Wren
+House Finch
+Lincoln's Sparrow
+Mallard
+Mourning Dove
+Northern Cardinal
+Red-bellied Woodpecker
+Red-shouldered Hawk
+Red-winged Blackbird
+Ruby-crowned Kinglet
+Tufted Titmouse
+White-throated Sparrow
+---Paul 2013-04-08 Oklahoma|Broken Bow
+
+American Crow
+American Goldfinch
+American Robin
+Bald Eagle
+Barn Swallow
+Belted Kingfisher
+Black Vulture
+Blue Jay
+Blue-gray Gnatcatcher
+Blue-winged Teal
+Bufflehead
+Chipping Sparrow
+Cliff Swallow
+Common Loon
+Cooper's Hawk
+Eastern Bluebird
+Eastern Kingbird
+European Starling
+Great-tailed Grackle
+Greater Scaup
+House Finch
+Mallard
+Mourning Dove
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Northern Mockingbird
+Northern Shoveler
+Red-headed Woodpecker
+Red-tailed Hawk (Harlan's)
+Ruby-throated Hummingbird
+Ruddy Duck
+Turkey Vulture
+White-breasted Nuthatch
+Wild Turkey
+Yellow-rumped Warbler (Myrtle)
+Yellow-throated Warbler
+---Paul 2013-04-08 Texas|Heritage Ranch, Fairview
+
+American Crow
+Barn Swallow
+Blue Jay
+Carolina Chickadee
+Carolina Wren
+Cedar Waxwing
+Fish Crow
+House Finch
+Lincoln's Sparrow
+Mallard
+Mourning Dove
+Northern Cardinal
+Red-bellied Woodpecker
+Red-winged Blackbird
+Ruby-crowned Kinglet
+Tufted Titmouse
+White-throated Sparrow
+---Paul 2013-04-09 Texas|Heritage Ranch, Fairview
+
+Barn Swallow
+Blue-winged Teal
+Brown Thrasher
+Carolina Chickadee
+Carolina Wren
+Cedar Waxwing
+Double-crested Cormorant
+Eastern Bluebird
+Great Blue Heron
+Lincoln's Sparrow
+Mallard
+Mourning Dove
+Northern Cardinal
+Northern Shoveler
+Savannah Sparrow
+Tufted Titmouse
+White-throated Sparrow
+---Paul 2013-04-10 Massachusetts|Plymouth Harbor, Plymouth
+
+Common Eider
+Double-crested Cormorant
+Great Black-backed Gull
+Herring Gull
+Laughing Gull
+Lesser Scaup
+Red-breasted Merganser
+---Paul 2013-04-11 Massachusetts|Barnstable
+
+Red-tailed Hawk
+Red-winged Blackbird
+---Paul 2013-04-11 Massachusetts|Plymouth
+
+Black-capped Chickadee
+Song Sparrow
+---Paul 2013-04-11 Massachusetts|Plymouth Harbor, Plymouth
+
+American Robin
+Bufflehead
+Common Loon
+Double-crested Cormorant
+Great Black-backed Gull
+Great Cormorant
+Herring Gull
+Laughing Gull
+Red-breasted Merganser
+---Paul 2013-04-11 Massachusetts|Plymouth, Plymouth
+
+Osprey
+---Paul 2013-04-11 Massachusetts|Sandy Neck Beach, Barnstable
+
+Black Scoter
+Brant (Atlantic)
+Common Eider
+Mallard
+Surf Scoter
+---Paul 2013-04-11 Massachusetts|Swan Pond, Dennis
+
+Ruddy Duck
+---Paul 2013-04-12 Massachusetts|Chatham
+
+Bufflehead
+Common Eider
+Common Loon
+Double-crested Cormorant
+Herring Gull
+Northern Gannet
+---Paul 2013-04-12 Massachusetts|Hwy 6 near Barnstable
+
+Black-tailed Gull
+---Paul 2013-04-12 Massachusetts|Nauset Beach, Orleans
+
+Northern Gannet
+Pacific Loon
+---Paul 2013-04-13 Massachusetts|Audubon Society Wildlife Sanctuary, Wellfleet
+
+American Crow
+American Robin
+Blue Jay
+Canada Goose
+Common Grackle
+Mourning Dove
+Red-winged Blackbird
+Wild Turkey
+---Paul 2013-04-13 Massachusetts|Nauset Beach, Orleans
+
+American Black Duck
+Black Scoter
+Black-capped Chickadee
+Common Eider
+Common Loon
+Glaucous Gull
+Herring Gull
+House Sparrow
+Laughing Gull
+Northern Cardinal
+Northern Gannet
+Northern Harrier
+Piping Plover
+Red-breasted Merganser
+Red-tailed Hawk
+Ring-billed Gull
+Song Sparrow
+Surf Scoter
+---Paul 2013-04-13 Massachusetts|Orleans
+
+Mute Swan
+---Paul 2013-04-13 Massachusetts|Provincetown
+
+Great Black-backed Gull
+---Paul 2013-04-14 Massachusetts|Orleans
+
+Greater Scaup
+Nelson's Sparrow (Atlantic Coast)
+Northern Flicker (Yellow-shafted)
+---Paul 2013-04-15 Massachusetts|Warren
+
+American Goldfinch
+American Robin
+American Tree Sparrow
+Black-capped Chickadee
+Dark-eyed Junco (Slate-colored)
+Downy Woodpecker
+European Starling
+House Finch
+Mourning Dove
+Northern Flicker (Yellow-shafted)
+Red-bellied Woodpecker
+Red-winged Blackbird
+Rock Pigeon
+Song Sparrow
+Tufted Titmouse
+White-breasted Nuthatch
+---Paul 2013-04-16 Massachusetts|Warren
+
+Blue Jay
+Eastern Bluebird
+Mallard
+Northern Mockingbird
+Tree Swallow
+Turkey Vulture
+---Paul 2013-04-17 Massachusetts|Warren
+
+American Crow
+Canada Goose
+Eastern Phoebe
+Great Blue Heron
+Mallard
+Red-tailed Hawk
+Red-winged Blackbird
+Song Sparrow
+Tree Swallow
+Tufted Titmouse
+---Paul 2013-04-18 Massachusetts|Lucy Stone Park, Warren
+
+Downy Woodpecker
+Eastern Phoebe
+Palm Warbler
+Song Sparrow
+Wood Duck
+Yellow-rumped Warbler (Myrtle)
+---Paul 2013-04-18 Massachusetts|Warren
+
+Chipping Sparrow
+Tufted Titmouse
+---Paul 2013-04-19 Massachusetts|Lucy Stone Park, Warren
+
+Hairy Woodpecker
+Palm Warbler
+Pileated Woodpecker
+Red-bellied Woodpecker
+Song Sparrow
+Tufted Titmouse
+Wood Duck
+Yellow-rumped Warbler (Myrtle)
+---Paul 2013-04-24 Texas|Heritage Ranch, Fairview
+
+Barn Swallow
+Barred Owl
+Blue-gray Gnatcatcher
+Cedar Waxwing
+Eastern Bluebird
+Great Blue Heron
+House Finch
+Little Blue Heron
+Northern Cardinal
+Northern Mockingbird
+Ruby-crowned Kinglet
+Yellow-rumped Warbler (Myrtle)
+---Paul 2013-04-25 Texas|Heard Wildlife Sanctuary, Fairview
+
+American Crow
+American Kestrel
+Anhinga
+Black Vulture
+Blue Jay
+Blue-winged Teal
+Brown-headed Cowbird
+Canada Goose
+Carolina Chickadee
+Carolina Wren
+Chimney Swift
+Chipping Sparrow
+Double-crested Cormorant
+Downy Woodpecker
+Eastern Phoebe
+Fish Crow
+Great Blue Heron
+Great Egret
+Green Heron
+Harris's Sparrow
+Lincoln's Sparrow
+Little Blue Heron
+Mallard
+Mourning Dove
+Northern Cardinal
+Pied-billed Grebe
+Pileated Woodpecker
+Prothonotary Warbler
+Red-bellied Woodpecker
+Red-eyed Vireo
+Red-tailed Hawk
+Red-winged Blackbird
+Ruby-throated Hummingbird
+Scissor-tailed Flycatcher
+Snowy Egret
+Song Sparrow
+Swainson's Thrush
+Turkey Vulture
+Wood Duck
+Yellow-crowned Night-Heron
+---Paul 2013-04-26 Texas|Heritage Ranch, Fairview
+
+Baltimore Oriole
+Carolina Wren
+Cedar Waxwing
+House Finch
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Tufted Titmouse
+---Paul 2013-04-27 Oklahoma|S. Jenkins, Norman
+
+American Crow
+Baltimore Oriole
+Barn Swallow
+Blue-winged Teal
+Brown-headed Cowbird
+Carolina Chickadee
+Carolina Wren
+Clay-colored Sparrow
+Cliff Swallow
+Downy Woodpecker
+Eastern Bluebird
+Eastern Phoebe
+Fish Crow
+Grasshopper Sparrow
+Great Blue Heron
+Great Egret
+Green Heron
+Harris's Sparrow
+Lincoln's Sparrow
+Little Blue Heron
+Mallard
+Mourning Dove
+Northern Cardinal
+Northern Rough-winged Swallow
+Orange-crowned Warbler
+Pileated Woodpecker
+Prothonotary Warbler
+Red-bellied Woodpecker
+Red-eyed Vireo
+Red-shouldered Hawk
+Red-winged Blackbird
+Savannah Sparrow
+Scissor-tailed Flycatcher
+Snowy Egret
+Turkey Vulture
+White-crowned Sparrow
+Yellow-crowned Night-Heron
+Yellow-throated Warbler
+---Paul 2013-04-27 Oklahoma|South Jenkins, Norman
+
+Grasshopper Sparrow
+---Paul 2013-04-28 Oklahoma|10 mile flats, Norman
+
+Chipping Sparrow
+Dickcissel
+Eastern Kingbird
+Grasshopper Sparrow
+Greater Yellowlegs
+Least Sandpiper
+Lesser Yellowlegs
+Savannah Sparrow
+Scissor-tailed Flycatcher
+Spotted Sandpiper
+Upland Sandpiper
+Western Kingbird
+White-crowned Sparrow
+Wilson's Phalarope
+Yellow-headed Blackbird
+---Paul 2013-04-29 Oklahoma|10 mile flats, Norman
+
+American Crow
+Barn Swallow
+Belted Kingfisher
+Blue Grosbeak
+Brown-headed Cowbird
+Chipping Sparrow
+Dickcissel
+Double-crested Cormorant
+Eastern Meadowlark
+European Starling
+Grasshopper Sparrow
+Great Egret
+Great-tailed Grackle
+Greater Yellowlegs
+Lark Sparrow
+Lesser Yellowlegs
+Little Blue Heron
+Mourning Dove
+Northern Harrier
+Northern Mockingbird
+Northern Rough-winged Swallow
+Red-bellied Woodpecker
+Rock Pigeon
+Savannah Sparrow
+Scissor-tailed Flycatcher
+Upland Sandpiper
+Western Kingbird
+White-crowned Sparrow
+Willet
+Wilson's Phalarope
+---Paul 2013-04-29 Oklahoma|Goldsby
+
+Cattle Egret

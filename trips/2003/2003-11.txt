@@ -1,0 +1,246 @@
+---Mark 2003-11-01 Washington|Alki
+
+American Wigeon
+Bald Eagle
+Bufflehead
+Double-crested Cormorant
+Harlequin Duck
+Horned Grebe
+Red-breasted Merganser
+Surfbird
+---Mark 2003-11-04 Washington|Dodson Rd, Washington
+
+Black-billed Magpie
+Trumpeter Swan
+Western Meadowlark
+---Mark 2003-11-04 Washington|Spokane, Washington
+
+Ring-billed Gull
+Wood Duck
+---Mark 2003-11-07 Canada|Banff, Alberta
+
+American Three-toed Woodpecker
+Black-billed Magpie
+Bohemian Waxwing
+Clark's Nutcracker
+Common Raven
+European Starling
+Mountain Chickadee
+Red-breasted Nuthatch
+Rough-legged Hawk
+---Mark 2003-11-08 Canada|Banff, Alberta
+
+Common Raven
+Mountain Chickadee
+Steller's Jay
+---Mark 2003-11-09 Canada|Banff, Alberta
+
+Black-billed Magpie
+Common Raven
+Mountain Chickadee
+Red-breasted Nuthatch
+---Mark 2003-11-12 Washington|AlkiCondo
+
+Surf Scoter
+Surfbird
+---Mark 2003-11-12 Washington|Discovery Park
+
+American Goldfinch
+American Robin
+American Wigeon
+Black-capped Chickadee
+Bufflehead
+Common Goldeneye
+Common Loon
+Dark-eyed Junco
+Double-crested Cormorant
+Golden-crowned Kinglet
+Great Blue Heron
+Horned Grebe
+House Finch
+Mallard
+Northern Flicker
+Red-breasted Merganser
+Ruby-crowned Kinglet
+Spotted Towhee
+Surf Scoter
+Western Grebe
+White-winged Scoter
+---Mark 2003-11-13 Washington|AlkiCondo
+
+Bald Eagle
+---Mark 2003-11-13 Washington|Marymoor Park
+
+American Coot
+American Robin
+Belted Kingfisher
+Black-capped Chickadee
+Bufflehead
+Downy Woodpecker
+Fox Sparrow
+Hutton's Vireo
+Mallard
+Purple Finch
+Ruby-crowned Kinglet
+Savannah Sparrow
+Song Sparrow
+Spotted Towhee
+crow sp.
+---Mark 2003-11-14 Washington|AlkiCondo
+
+American Robin
+Bald Eagle
+Barrow's Goldeneye
+Bufflehead
+Double-crested Cormorant
+European Starling
+Surf Scoter
+---Mark 2003-11-14 Washington|Nisqually
+
+American Coot
+American Robin
+American Wigeon
+Black-capped Chickadee
+Bufflehead
+Canada Goose
+Fox Sparrow
+Great Blue Heron
+Greater White-fronted x Canada Goose (hybrid)
+Green-winged Teal
+Mallard
+Northern Harrier
+Northern Pintail
+Northern Shoveler
+Pacific Wren
+Peregrine Falcon
+Ross's Goose
+Ruby-crowned Kinglet
+Song Sparrow
+Spotted Towhee
+White-crowned Sparrow
+White-throated Sparrow
+gull sp.
+---Mark 2003-11-16 Washington|Alki
+
+Arctic Loon
+---Mark 2003-11-17 Washington|Alki
+
+Barrow's Goldeneye
+Pigeon Guillemot
+---Mark 2003-11-17 Washington|AlkiCondo
+
+Black-capped Chickadee
+Surf Scoter
+---Mark 2003-11-20 Washington|Tukwila Pond, Seattle
+
+Hooded Merganser
+Northern Shoveler
+---Mark 2003-11-21 Washington|Seward Park
+
+American Coot
+Common Goldeneye
+Hooded Merganser
+Horned Grebe
+Ring-billed Gull
+---Mark 2003-11-22 Washington|Alki
+
+American Coot
+Bald Eagle
+Black-capped Chickadee
+Bufflehead
+Common Goldeneye
+Double-crested Cormorant
+Great Blue Heron
+Horned Grebe
+Red-breasted Merganser
+Surf Scoter
+Surfbird
+---Mark 2003-11-22 Washington|AlkiCondo
+
+American Robin
+Horned Grebe
+Red-breasted Merganser
+Surf Scoter
+---Mark 2003-11-23 Washington|Alki
+
+Barrow's Goldeneye
+Bufflehead
+Common Loon
+Double-crested Cormorant
+Horned Grebe
+Pigeon Guillemot
+Red-breasted Merganser
+Surfbird
+Western Grebe
+---Mark 2003-11-23 Washington|AlkiCondo
+
+Bald Eagle
+Black-capped Chickadee
+---Mark 2003-11-25 Washington|Alki
+
+Bushtit
+Canada Goose
+Mew Gull
+Steller's Jay
+Surfbird
+crow sp.
+---Mark 2003-11-26 Washington|AlkiCondo
+
+Bald Eagle
+Surfbird
+---Mark 2003-11-27 Washington|Discovery Park
+
+American Goldfinch
+American Robin
+American Wigeon
+Bewick's Wren
+Black-capped Chickadee
+Bufflehead
+Bushtit
+Common Goldeneye
+Double-crested Cormorant
+Downy Woodpecker
+European Starling
+Fox Sparrow
+Golden-crowned Kinglet
+Great Blue Heron
+Horned Grebe
+Mallard
+Northern Flicker
+Pacific Wren
+Red-breasted Merganser
+Red-breasted Nuthatch
+Ruby-crowned Kinglet
+Spotted Towhee
+Western Grebe
+White-winged Scoter
+crow sp.
+gull sp.
+sparrow sp.
+---Mark 2003-11-27 Washington|Golden Gardens, Seattle
+
+American Wigeon
+Canada Goose
+Mallard
+Ring-billed Gull
+Rock Pigeon
+---Mark 2003-11-27 Washington|Marymoor Park
+
+American Coot
+American Robin
+American Wigeon
+Belted Kingfisher
+Black-capped Chickadee
+Bufflehead
+Great Blue Heron
+House Finch
+Mallard
+Ruby-crowned Kinglet
+Song Sparrow
+Spotted Towhee
+Steller's Jay
+crow sp.
+gull sp.
+---Mark 2003-11-28 Washington|AlkiCondo
+
+Red-breasted Merganser

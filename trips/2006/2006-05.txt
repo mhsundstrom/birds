@@ -1,0 +1,138 @@
+---Mark 2006-05-03 Utah|Bear River NWR, Utah
+
+American Coot
+American White Pelican
+Barn Swallow
+Black-billed Magpie
+Blue-winged Teal
+Chukar
+Cinnamon Teal
+Great Blue Heron
+Killdeer
+Red-winged Blackbird
+Ring-necked Pheasant
+Ruddy Duck
+Tree Swallow
+Western Meadowlark
+White-faced Ibis
+Yellow-headed Blackbird
+---Mark 2006-05-03 Idaho|Idaho Falls, Idaho
+
+Common Goldeneye
+---Paul 2006-05-05 Washington|Juanita Bay
+
+Winter Wren
+---Paul 2006-05-05 Oklahoma|Quartz Mountain
+
+Canada Goose
+Carolina Chickadee
+Eastern Phoebe
+European Starling
+House Sparrow
+Northern Mockingbird
+Scissor-tailed Flycatcher
+---Paul 2006-05-05 Oklahoma|Sewage treament plant, Wichita Mts
+
+Barn Swallow
+Blue-winged Teal
+Eastern Meadowlark
+Great-tailed Grackle
+Killdeer
+Northern Cardinal
+Northern Shoveler
+Red-bellied Woodpecker
+Red-tailed Hawk
+Red-winged Blackbird
+Ruby-throated Hummingbird
+Spotted Sandpiper
+Turkey Vulture
+Western Kingbird
+---Paul 2006-05-05 Oklahoma|Wichita Mts.
+
+Black-capped Vireo
+Painted Bunting
+---Paul 2006-05-05 Oklahoma|Wichita Mts. NWR
+
+American Crow
+American Robin
+Belted Kingfisher
+Black-capped Vireo
+Blue-gray Gnatcatcher
+Lark Sparrow
+Louisiana Waterthrush
+Mourning Dove
+Painted Bunting
+Rock Wren
+---Paul 2006-05-05 Germany|Wuerzburg
+
+Bohemian Waxwing
+---Paul 2006-05-06 Oklahoma|Hackberry Flats
+
+American Avocet
+American Coot (Red-shielded)
+Black Tern
+Black-bellied Plover
+Black-necked Stilt
+Cattle Egret
+Chimney Swift
+Cliff Swallow
+Dickcissel
+Dunlin
+Gadwall
+Green-winged Teal
+Hudsonian Godwit
+Lesser Yellowlegs
+Long-billed Dowitcher
+Pied-billed Grebe
+Purple Martin
+Rock Pigeon
+Semipalmated Plover
+Semipalmated Sandpiper
+Snowy Plover
+Sora
+Stilt Sandpiper
+White-faced Ibis
+Willet
+Wilson's Phalarope
+---Paul 2006-05-06 Oklahoma|Hackberry Flats, Fredricksburg
+
+Hudsonian Godwit
+---Paul 2006-05-06 Oklahoma|I44
+
+Great Egret
+---Paul 2006-05-06 Oklahoma|Lake Tom Sneed
+
+Clay-colored Sparrow
+Common Grackle
+Franklin's Gull
+Greater Yellowlegs
+Snowy Egret
+---Paul 2006-05-06 Oklahoma|Quartz Mountain
+
+House Finch
+---Mark 2006-05-12 Canada|Salt spring Island, British Columbia
+
+Bald Eagle
+Black Oystercatcher
+Double-crested Cormorant
+Pigeon Guillemot
+---Mark 2006-05-13 Canada|Salt spring Island, British Columbia
+
+Bald Eagle
+Pelagic Cormorant
+Pigeon Guillemot
+---Paul 2006-05-13 Oklahoma|Cambridge Lake, Norman
+
+Orchard Oriole
+---Mark 2006-05-14 Canada|Salt spring Island, British Columbia
+
+Harlequin Duck
+Song Sparrow
+Yellow Warbler
+---Paul 2006-05-19 Texas|Marsh, Galveston
+
+Clapper Rail
+Common Gallinule
+---Paul 2006-05-19 Texas|UTMB Campus, Galveston
+
+Lesser Nighthawk

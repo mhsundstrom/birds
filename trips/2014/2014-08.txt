@@ -1,0 +1,238 @@
+---Mark 2014-08-01 California|Idyllwild, California
+
+American Goldfinch
+California Scrub-Jay
+Canyon Wren
+Mountain Bluebird
+hummingbird sp.
+---Mark 2014-08-02 California|Idyllwild, California
+
+Band-tailed Pigeon
+California Scrub-Jay
+California Towhee
+Canyon Wren
+Common Raven
+Mountain Bluebird
+Mountain Chickadee
+Pygmy Nuthatch
+Western Bluebird
+flycatcher sp. (Tyrannidae sp.)
+hummingbird sp.
+---Mark 2014-08-03 California|Idyllwild, California
+
+Acorn Woodpecker
+Anna's Hummingbird
+California Quail
+Mountain Chickadee
+Oak Titmouse
+Spotted Towhee
+Turkey Vulture
+Western Tanager
+flycatcher sp. (Tyrannidae sp.)
+---Mark 2014-08-12 Ohio|Miranova
+
+Great Blue Heron
+Song Sparrow
+---Mark 2014-08-12 Ohio|Scioto River, Columbus
+
+Cedar Waxwing
+---Mark 2014-08-13 Ohio|Miranova
+
+American Goldfinch
+Killdeer
+---Paul 2014-08-13 Texas|Heritage Ranch, Fairview
+
+American Crow
+Carolina Wren
+Cattle Egret
+Mourning Dove
+Northern Cardinal
+Tufted Titmouse
+White-eyed Vireo
+Yellow-billed Cuckoo
+---Mark 2014-08-14 Ohio|Miranova
+
+Canada Goose
+Double-crested Cormorant
+---Paul 2014-08-14 Texas|Heritage Ranch, Fairview
+
+American Crow
+American Robin
+Barn Swallow
+Blue Jay
+Blue-gray Gnatcatcher
+Carolina Chickadee
+Carolina Wren
+Eastern Bluebird
+House Finch
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Red-bellied Woodpecker
+Ruby-throated Hummingbird
+Tufted Titmouse
+White-eyed Vireo
+White-winged Dove
+---Mark 2014-08-15 Ohio|Miranova
+
+white-winged gull sp.
+---Mark 2014-08-15 Ohio|Scioto River, Columbus
+
+American Goldfinch
+American Robin
+Barn Swallow
+Gray Catbird
+Great Blue Heron
+Great Egret
+House Sparrow
+Turkey Vulture
+---Paul 2014-08-15 Texas|Heritage Ranch, Fairview
+
+American Crow
+American Robin
+Barn Swallow
+Barred Owl
+Blue Jay
+Carolina Chickadee
+Carolina Wren
+Downy Woodpecker
+Eastern Phoebe
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Red-bellied Woodpecker
+Ruby-throated Hummingbird
+White-eyed Vireo
+White-winged Dove
+---Mark 2014-08-16 Ohio|Miranova
+
+Mallard
+---Paul 2014-08-16 Texas|Lake Lavon, Lucas
+
+American Crow
+Barn Swallow
+Carolina Wren
+Cattle Egret
+Chimney Swift
+Eastern Bluebird
+Eastern Phoebe
+European Starling
+Great Blue Heron
+Great Egret
+Killdeer
+Little Blue Heron
+Mississippi Kite
+Purple Martin
+Scissor-tailed Flycatcher
+Tree Swallow
+Tufted Titmouse
+Turkey Vulture
+White-eyed Vireo
+---Mark 2014-08-17 Ohio|Olentangy River near Ohio State, Columbus
+
+Barn Swallow
+Belted Kingfisher
+Canada Goose
+Mallard
+---Mark 2014-08-18 Ohio|Miranova
+
+Canada Goose
+Double-crested Cormorant
+---Paul 2014-08-18 Texas|Heritage Ranch, Fairview
+
+American Crow
+Barn Swallow
+Blue Jay
+Carolina Chickadee
+Carolina Wren
+Downy Woodpecker
+Eastern Phoebe
+Fish Crow
+Mourning Dove
+Northern Cardinal
+Red-bellied Woodpecker
+Red-shouldered Hawk
+Tufted Titmouse
+White-breasted Nuthatch
+White-eyed Vireo
+---Mark 2014-08-19 Ohio|Miranova
+
+Killdeer
+---Mark 2014-08-19 Ohio|Scioto Audubon Metro Park
+
+American Goldfinch
+American Robin
+Barn Swallow
+Blue-gray Gnatcatcher
+Canada Goose
+Carolina Wren
+Double-crested Cormorant
+Eastern Wood-Pewee
+European Starling
+Gray Catbird
+Great Blue Heron
+Great Egret
+Green Heron
+House Sparrow
+Indigo Bunting
+Killdeer
+Mourning Dove
+Northern Cardinal
+Red-bellied Woodpecker
+Red-tailed Hawk
+Rock Pigeon
+Song Sparrow
+chickadee sp.
+vireo sp.
+---Mark 2014-08-25 Ohio|Miranova
+
+Great Egret
+---Mark 2014-08-26 Ohio|Miranova
+
+American Goldfinch
+---Paul 2014-08-26 Texas|Heritage Ranch, Fairview
+
+Barn Swallow
+Barred Owl
+Carolina Wren
+Common Ground-Dove
+Downy Woodpecker
+Eastern Bluebird
+Hairy Woodpecker
+Mourning Dove
+Red-bellied Woodpecker
+Tufted Titmouse
+White-eyed Vireo
+---Paul 2014-08-27 Texas|Heritage Ranch, Fairview
+
+Blue Jay
+Carolina Chickadee
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Northern Rough-winged Swallow
+Red-bellied Woodpecker
+Tufted Titmouse
+White-eyed Vireo
+White-winged Dove
+---Paul 2014-08-28 Texas|Heard Wildlife Sanctuary, Fairview
+
+American Crow
+Blue Jay
+Carolina Chickadee
+Carolina Wren
+Cattle Egret
+Eastern Phoebe
+House Finch
+Killdeer
+Little Blue Heron
+Mallard
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Red-bellied Woodpecker
+Red-shouldered Hawk
+Ruby-throated Hummingbird
+Snowy Egret
+Tufted Titmouse
+White-eyed Vireo

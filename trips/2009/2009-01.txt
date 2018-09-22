@@ -1,0 +1,128 @@
+---Mark 2009-01-01 Canada|Port Alberni
+
+Common Raven
+Pileated Woodpecker
+---Mark 2009-01-03 Canada|Port Alberni
+
+Bald Eagle
+Pine Grosbeak
+---Paul 2009-01-03 Arizona|Ventana Resort, Tuscon
+
+Gilded Flicker
+Verdin
+---Paul 2009-01-04 Arizona|Ventana Resort, Tuscon
+
+Cactus Wren
+Gilded Flicker
+Mourning Dove
+---Paul 2009-01-05 Arizona|Sweetwater Marshlands
+
+American Coot (Red-shielded)
+Anna's Hummingbird
+Black Phoebe
+Cinnamon Teal
+European Starling
+Gadwall
+Gila Woodpecker
+Great Blue Heron
+Great Egret
+Green-winged Teal
+Harris's Hawk
+Ladder-backed Woodpecker
+Mallard
+Northern Pintail
+Northern Shoveler
+Phainopepla
+Pied-billed Grebe
+Red-tailed Hawk
+Rock Pigeon
+Ruby-crowned Kinglet
+Song Sparrow
+Verdin
+White-crowned Sparrow
+Yellow-headed Blackbird
+Yellow-rumped Warbler (Audubon's)
+---Paul 2009-01-05 Arizona|Sweetwater Marshlands, Tuscon
+
+Gila Woodpecker
+Harris's Hawk
+Phainopepla
+---Paul 2009-01-05 Arizona|Ventana Resort, Tuscon
+
+Black-chinned Hummingbird
+---Paul 2009-01-06 Arizona|Ventana Resort, Tuscon
+
+American Crow
+Anna's Hummingbird
+Cactus Wren
+Canyon Towhee
+Gambel's Quail
+Gila Woodpecker
+Northern Cardinal
+Northern Mockingbird
+Ruby-crowned Kinglet
+Verdin
+White-crowned Sparrow
+---Paul 2009-01-07 Arizona|Saguaro National Park
+
+Black-tailed Gnatcatcher
+Canyon Towhee
+Gila Woodpecker
+Gilded Flicker
+Phainopepla
+Rock Wren
+---Paul 2009-01-07 Arizona|Saguaro National Park, Tuscon
+
+Black-tailed Gnatcatcher
+---Paul 2009-01-07 Arizona|Sonora Desert Museum, Tuscon
+
+Broad-tailed Hummingbird
+Cactus Wren
+Gambel's Quail
+Gila Woodpecker
+House Sparrow
+Northern Cardinal
+Northern Mockingbird
+Rock Wren
+---Paul 2009-01-07 Arizona|Ventana Resort, Tuscon
+
+Cactus Wren
+Canyon Towhee
+Northern Mockingbird
+Pyrrhuloxia
+Ruby-crowned Kinglet
+---Paul 2009-01-10 Oklahoma|Lake Hefner
+
+Yellow-billed Loon
+---Paul 2009-01-10 Oklahoma|Lake Hefner, OKC
+
+American Coot (Red-shielded)
+American Crow
+Cackling Goose
+Canada Goose
+Common Loon
+Double-crested Cormorant
+European Starling
+Great Blue Heron
+Hooded Merganser
+Mallard
+Northern Flicker (Red-shafted)
+Pied-billed Grebe
+Ring-billed Gull
+Western Sandpiper
+Yellow-billed Loon
+Yellow-rumped Warbler (Myrtle)
+---Paul 2009-01-10 Oklahoma|Lake Thunderbird Area, Norman
+
+American Goldfinch
+Blue Jay
+Brown Thrasher
+Carolina Chickadee
+Greater Roadrunner
+House Finch
+Northern Cardinal
+Pine Siskin
+Red-tailed Hawk
+Tufted Titmouse
+Turkey Vulture
+White-winged Crossbill

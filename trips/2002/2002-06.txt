@@ -1,0 +1,175 @@
+---Mark 2002-06-01 Ohio|Blendon Woods Metro Park
+
+Belted Kingfisher
+Wood Thrush
+---Mark 2002-06-02 Ohio|Three Creeks Metro Park, Columbus
+
+Barn Swallow
+Brown-headed Cowbird
+Indigo Bunting
+Wood Thrush
+---Paul 2002-06-02 Wyoming|Beartooth Hwy
+
+Clark's Nutcracker
+---Paul 2002-06-02 Wyoming|Fishing Bridge, Yellowstone
+
+Osprey
+---Paul 2002-06-02 Wyoming|Yellowstone Lake
+
+Mountain Bluebird
+---Paul 2002-06-03 Montana|Billings
+
+Violet-green Swallow
+---Paul 2002-06-03 Wyoming|Fishing Bridge, Yellowstone
+
+American White Pelican
+---Paul 2002-06-03 Wyoming|Yellowstone
+
+Pine Siskin
+---Paul 2002-06-03 Wyoming|Yellowstone Lake
+
+California Gull
+Canada Jay (Rocky Mts.)
+Pine Siskin
+---Paul 2002-06-03 Wyoming|Yellowstone Lake
+
+California Gull
+Canada Jay (Rocky Mts.)
+---Paul 2002-06-04 Wyoming|Christian Lake, Yellowstone
+
+Lesser Scaup
+---Paul 2002-06-04 Wyoming|Yellowstone Lake
+
+Bufflehead
+---Paul 2002-06-05 Wyoming|Christian Lake, Yellowstone
+
+Cinnamon Teal
+Yellow-headed Blackbird
+---Paul 2002-06-05 Wyoming|Swan Lake, Yellowstone
+
+Green-winged Teal
+White-crowned Sparrow
+---Paul 2002-06-05 Wyoming|Yellowstone Lake
+
+Evening Grosbeak
+Harlequin Duck
+---Mark 2002-06-07 Ohio|Miranova
+
+Baltimore Oriole
+---Paul 2002-06-07 Wyoming|Gull Point, Yellowstone
+
+Common Goldeneye
+Common Merganser
+---Mark 2002-06-09 Ohio|Sharon Woods Metro Park
+
+Baltimore Oriole
+Brown-headed Cowbird
+Cedar Waxwing
+Downy Woodpecker
+Eastern Bluebird
+Eastern Meadowlark
+Eastern Wood-Pewee
+Gray Catbird
+House Wren
+Red-eyed Vireo
+Wood Thrush
+Yellow Warbler
+---Mark 2002-06-11 Ohio|Miranova
+
+Baltimore Oriole
+---Mark 2002-06-17 Iowa|Effigy Mounds, Iowa
+
+Baltimore Oriole
+Eastern Phoebe
+Eastern Wood-Pewee
+Red-eyed Vireo
+---Mark 2002-06-17 Iowa|Great River Road, Iowa
+
+Wild Turkey
+---Mark 2002-06-20 North Dakota|I-94, North Dakota
+
+American White Pelican
+---Mark 2002-06-21 North Dakota|Bismarck, North Dakota
+
+Sharp-shinned Hawk
+---Mark 2002-06-21 North Dakota|Fort Mandan, North Dakota
+
+Baltimore Oriole
+---Mark 2002-06-21 North Dakota|Hwy 1804, North Dakota
+
+American White Pelican
+Western Kingbird
+Western Meadowlark
+Wild Turkey
+---Mark 2002-06-21 North Dakota|Lake Ilo, North Dakota
+
+Yellow-headed Blackbird
+---Mark 2002-06-21 North Dakota|Theodore Roosevelt NP, North Dakota
+
+American Crow
+American Goldfinch
+American Robin
+Bobolink
+Brown Thrasher
+Chipping Sparrow
+Horned Lark
+Northern Flicker
+Red-eyed Vireo
+Western Meadowlark
+---Mark 2002-06-22 North Dakota|Theodore Roosevelt NP, North Dakota
+
+Brown-headed Cowbird
+House Wren
+Killdeer
+Lazuli Bunting
+Mountain Bluebird
+Mourning Dove
+Spotted Towhee
+Turkey Vulture
+---Paul 2002-06-22 Washington|Port Townsend
+
+Pigeon Guillemot
+---Mark 2002-06-23 South Dakota|Black Hills, South Dakota
+
+warbler sp. (Parulidae sp.)
+---Mark 2002-06-24 Wyoming|Devils Tower NM, Wyoming
+
+Eastern Wood-Pewee
+Violet-green Swallow
+White-throated Swift
+flycatcher sp. (Tyrannidae sp.)
+warbler sp. (Parulidae sp.)
+---Mark 2002-06-25 Montana|Beartooth Highway, Montana
+
+Clark's Nutcracker
+---Mark 2002-06-25 Wyoming|Yellowstone NP - Lower Falls, Wyoming
+
+Common Raven
+Osprey
+---Mark 2002-06-25 Wyoming|Yellowstone NP, Wyoming
+
+Black-billed Magpie
+Red-breasted Nuthatch
+Violet-green Swallow
+---Mark 2002-06-26 Montana|Lee Metcalfe NWR, Montana
+
+Eastern Kingbird
+Northern Flicker
+Yellow Warbler
+---Mark 2002-06-26 Montana|US93, Montana
+
+Wilson's Snipe
+---Mark 2002-06-27 Idaho|US12, Idaho
+
+Osprey
+Steller's Jay
+---Mark 2002-06-28 Oregon|Columbia River Gorge, Oregon
+
+Wild Turkey
+---Mark 2002-06-28 Oregon|McNary Dam, Oregon
+
+American White Pelican
+tern sp.
+---Mark 2002-06-29 Washington|Mt St Helens, Washington
+
+Dark-eyed Junco

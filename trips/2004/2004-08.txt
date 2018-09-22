@@ -1,0 +1,263 @@
+---Mark 2004-08-01 Washington|AlkiCondo
+
+Bald Eagle
+Belted Kingfisher
+Canada Goose
+Caspian Tern
+European Starling
+Great Blue Heron
+House Sparrow
+Rock Pigeon
+crow sp.
+---Mark 2004-08-02 Washington|Mt Rainier, Washington
+
+Canada Jay
+Clark's Nutcracker
+Dark-eyed Junco
+Sooty Grouse
+---Paul 2004-08-02 Washington|Mt. Rainier
+
+Sooty Grouse
+---Mark 2004-08-03 Washington|Alki
+
+Canada Goose
+Caspian Tern
+Osprey
+Rock Pigeon
+crow sp.
+---Mark 2004-08-04 Washington|AlkiCondo
+
+Caspian Tern
+Osprey
+Spotted Towhee
+---Mark 2004-08-04 Washington|Kerring House Park, Alki
+
+American Goldfinch
+American Robin
+Anna's Hummingbird
+Belted Kingfisher
+Black-capped Chickadee
+Caspian Tern
+Double-crested Cormorant
+European Starling
+House Finch
+House Sparrow
+Killdeer
+Least Sandpiper
+Mallard
+Northern Flicker
+Osprey
+Purple Martin
+Red-breasted Merganser
+crow sp.
+gull sp.
+---Paul 2004-08-04 Washington|Seattle
+
+Anna's Hummingbird
+---Mark 2004-08-05 Washington|AlkiCondo
+
+Barn Swallow
+Belted Kingfisher
+Caspian Tern
+Osprey
+---Mark 2004-08-06 Washington|AlkiCondo
+
+Caspian Tern
+Osprey
+---Mark 2004-08-07 Washington|AlkiCondo
+
+Great Blue Heron
+---Mark 2004-08-07 Washington|Seattle
+
+Caspian Tern
+Purple Martin
+White-crowned Sparrow
+---Mark 2004-08-08 Washington|AlkiCondo
+
+Caspian Tern
+Great Blue Heron
+Osprey
+Spotted Towhee
+---Mark 2004-08-08 Washington|AlkiEast, Alki
+
+Barn Swallow
+Canada Goose
+House Sparrow
+Purple Martin
+Rock Pigeon
+crow sp.
+gull sp.
+---Mark 2004-08-09 Washington|AlkiCondo
+
+American Goldfinch
+Bald Eagle
+Barn Swallow
+Belted Kingfisher
+Black-capped Chickadee
+Canada Goose
+Northern Flicker
+crow sp.
+---Mark 2004-08-10 Washington|Alki
+
+Bald Eagle
+Canada Goose
+Caspian Tern
+Great Blue Heron
+Osprey
+crow sp.
+gull sp.
+---Mark 2004-08-10 Washington|AlkiCondo
+
+Caspian Tern
+Osprey
+---Mark 2004-08-11 Washington|Point Defiance, Washington
+
+American Robin
+Black-capped Chickadee
+Red-breasted Nuthatch
+---Mark 2004-08-12 Washington|AlkiCondo
+
+Bald Eagle
+Belted Kingfisher
+Canada Goose
+Osprey
+---Mark 2004-08-13 Washington|Alki
+
+Canada Goose
+Killdeer
+---Mark 2004-08-13 Washington|AlkiCondo
+
+Barn Swallow
+Caspian Tern
+Osprey
+---Mark 2004-08-14 Washington|AlkiCondo
+
+Bald Eagle
+Caspian Tern
+Great Blue Heron
+Osprey
+---Mark 2004-08-15 Washington|AlkiCondo
+
+Bald Eagle
+Caspian Tern
+Osprey
+---Mark 2004-08-15 Washington|Snohomish-Arlington Centennial Trail, Washington
+
+Cedar Waxwing
+---Mark 2004-08-16 Washington|AlkiCondo
+
+Bald Eagle
+Caspian Tern
+Great Blue Heron
+Osprey
+---Mark 2004-08-17 Washington|AlkiCondo
+
+Barn Swallow
+Caspian Tern
+Osprey
+---Mark 2004-08-18 Washington|Bainbridge ferry, Seattle
+
+Pigeon Guillemot
+---Mark 2004-08-19 Washington|AlkiCondo
+
+Caspian Tern
+Osprey
+---Mark 2004-08-19 Washington|Seward Park
+
+Black-capped Chickadee
+Canada Goose
+Chestnut-backed Chickadee
+Mallard
+Northern Flicker
+Rock Pigeon
+Spotted Towhee
+Steller's Jay
+White-breasted Nuthatch
+crow sp.
+gull sp.
+---Mark 2004-08-20 Washington|AlkiCondo
+
+Bald Eagle
+---Mark 2004-08-21 Washington|waterfront, Seattle
+
+Belted Kingfisher
+Canada Goose
+Caspian Tern
+Osprey
+---Mark 2004-08-23 Washington|AlkiCondo
+
+Bald Eagle
+Caspian Tern
+Great Blue Heron
+Northern Flicker
+Osprey
+---Mark 2004-08-24 Washington|AlkiCondo
+
+Great Blue Heron
+Osprey
+---Mark 2004-08-26 Washington|AlkiCondo
+
+Caspian Tern
+Double-crested Cormorant
+Osprey
+Purple Martin
+---Mark 2004-08-27 Washington|AlkiCondo
+
+Barn Swallow
+House Sparrow
+Osprey
+Purple Martin
+---Paul 2004-08-28 Oklahoma|Cambridge Lake, Norman
+
+Great Egret
+---Mark 2004-08-29 Washington|Discovery Park
+
+American Goldfinch
+Bewick's Wren
+Black-capped Chickadee
+Caspian Tern
+Cedar Waxwing
+Mallard
+Northern Flicker
+Spotted Towhee
+White-breasted Nuthatch
+crow sp.
+swallow sp.
+---Mark 2004-08-29 Washington|Juanita Bay, Seattle
+
+American Coot
+American Goldfinch
+American Robin
+Barn Swallow
+Belted Kingfisher
+Bewick's Wren
+Black-capped Chickadee
+Canada Goose
+Cedar Waxwing
+Downy Woodpecker
+Fox Sparrow
+Great Blue Heron
+Green Heron
+Mallard
+Northern Flicker
+Pied-billed Grebe
+Red-winged Blackbird
+Steller's Jay
+Willow Flycatcher
+Wood Duck
+crow sp.
+flycatcher sp. (Tyrannidae sp.)
+---Paul 2004-08-30 Oklahoma|Cambridge Lake, Norman
+
+Great Egret
+---Mark 2004-08-31 Washington|AlkiCondo
+
+Caspian Tern
+Osprey
+gull sp.
+---Paul 2004-08-31 Oklahoma|4800 Corbett Dr., Norman
+
+House Wren
+---Paul 2004-08-31 Oklahoma|Trisha Lane, Norman
+
+Sharp-shinned Hawk

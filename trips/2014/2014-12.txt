@@ -1,0 +1,599 @@
+---Mark 2014-12-01 Ohio|Highway 315, Columbus
+
+American Crow
+Blue Jay
+Rock Pigeon
+---Mark 2014-12-01 Ohio|Miranova
+
+Great Blue Heron
+Mourning Dove
+Ring-billed Gull
+---Mark 2014-12-02 Ohio|Miranova
+
+American Robin
+Canada Goose
+---Mark 2014-12-02 Ohio|Scioto River, Columbus
+
+American Goldfinch
+Dark-eyed Junco
+Downy Woodpecker
+Mallard
+Northern Cardinal
+Ring-billed Gull
+---Paul 2014-12-02 Texas|Hagerman National Wildlife Refuge
+
+American Coot (Red-shielded)
+American Crow
+American Goldfinch
+Blue Jay
+Bufflehead
+Carolina Chickadee
+Dark-eyed Junco (Slate-colored)
+Double-crested Cormorant
+Eastern Bluebird
+Field Sparrow
+Forster's Tern
+Gadwall
+Great Blue Heron
+Green-winged Teal
+Harris's Sparrow
+Horned Grebe
+House Finch
+House Sparrow
+Killdeer
+Mallard
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Northern Pintail
+Northern Shoveler
+Pied-billed Grebe
+Red-bellied Woodpecker
+Red-shouldered Hawk
+Red-tailed Hawk
+Red-winged Blackbird
+Ring-billed Gull
+Ross's Goose
+Snow Goose
+Song Sparrow
+Swamp Sparrow
+Tufted Titmouse
+Turkey Vulture
+Western Meadowlark
+White-crowned Sparrow
+White-throated Sparrow
+---Paul 2014-12-02 Texas|On the road Hagerman NWR to Fairview
+
+American Crow
+American Kestrel
+European Starling
+Loggerhead Shrike
+Mourning Dove
+Red-shouldered Hawk
+Red-tailed Hawk
+Rock Pigeon
+---Paul 2014-12-02 Oklahoma|On the road Norma to Hagerman NWR
+
+American Crow
+Black Vulture
+Red-tailed Hawk
+Turkey Vulture
+---Mark 2014-12-03 Ohio|Scioto Audubon Metro Park
+
+American Goldfinch
+American Robin
+Canada Goose
+Carolina Chickadee
+Double-crested Cormorant
+Downy Woodpecker
+Great Blue Heron
+House Sparrow
+Mallard
+Mourning Dove
+Northern Cardinal
+Northern Flicker
+Tufted Titmouse
+White-throated Sparrow
+---Paul 2014-12-03 Texas|Black plains Raptor Center, Lucas
+
+American Crow
+Bewick's Wren
+Blue Jay
+Bonaparte's Gull
+Brown Thrasher
+Carolina Chickadee
+Carolina Wren
+Dark-eyed Junco (Slate-colored)
+Double-crested Cormorant
+Downy Woodpecker
+Great Blue Heron
+Great Egret
+Greater Yellowlegs
+Green-winged Teal
+Hairy Woodpecker
+Harris's Sparrow
+Herring Gull
+Killdeer
+Mourning Dove
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Northern Mockingbird
+Red-bellied Woodpecker
+Red-shouldered Hawk
+Red-tailed Hawk
+Red-winged Blackbird
+Ring-billed Gull
+White-throated Sparrow
+Yellow-bellied Sapsucker
+Yellow-rumped Warbler (Myrtle)
+---Paul 2014-12-04 Texas|701 Mustang Dr., Fairview
+
+Ruby-crowned Kinglet
+---Paul 2014-12-04 Texas|Heritage Ranch, Fairview
+
+American Crow
+American Goldfinch
+Blue Jay
+Brown Thrasher
+Carolina Chickadee
+Carolina Wren
+Cedar Waxwing
+Dark-eyed Junco (Slate-colored)
+Dark-eyed Junco (White-winged)
+Downy Woodpecker
+Eastern Bluebird
+Field Sparrow
+House Finch
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Red-bellied Woodpecker
+Red-shouldered Hawk
+Tufted Titmouse
+Turkey Vulture
+White-throated Sparrow
+White-winged Dove
+Winter Wren
+Yellow-bellied Sapsucker
+Yellow-rumped Warbler (Myrtle)
+---Paul 2014-12-05 Texas|Heard Wildlife Sanctuary, Fairview
+
+American Crow
+Blue Jay
+Canada Goose
+Carolina Chickadee
+Carolina Wren
+Cooper's Hawk
+Eastern Bluebird
+Eastern Phoebe
+Field Sparrow
+Fox Sparrow (Red)
+House Finch
+Mourning Dove
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Northern Mockingbird
+Red-bellied Woodpecker
+Red-shouldered Hawk
+Ruby-crowned Kinglet
+Sharp-shinned Hawk
+Tufted Titmouse
+Turkey Vulture
+White-throated Sparrow
+Winter Wren
+Yellow-rumped Warbler (Myrtle)
+---Paul 2014-12-05 Texas|Heritage Ranch, Fairview
+
+American Kestrel
+Canada Goose
+Killdeer
+Mallard
+---Paul 2014-12-06 Texas|Lake Lavon, Lucas
+
+American Crow
+Bewick's Wren
+Bonaparte's Gull
+Canvasback
+Carolina Chickadee
+Dark-eyed Junco (Slate-colored)
+Double-crested Cormorant
+Eastern Bluebird
+Forster's Tern
+Gadwall
+Great Blue Heron
+Herring Gull
+Killdeer
+Northern Flicker (Yellow-shafted)
+Northern Mockingbird
+Red-bellied Woodpecker
+Ring-billed Gull
+Ring-necked Duck
+Ruby-crowned Kinglet
+Ruddy Duck
+Spotted Towhee
+Tufted Titmouse
+Turkey Vulture
+Western Meadowlark
+White-throated Sparrow
+Yellow-rumped Warbler (Myrtle)
+---Mark 2014-12-07 Ohio|Miranova
+
+American Robin
+Canada Goose
+Ring-billed Gull
+---Paul 2014-12-08 Texas|Towne Lake Park, McKinney
+
+American Coot (Red-shielded)
+American Goldfinch
+American Wigeon
+Canada Goose
+Carolina Chickadee
+Dark-eyed Junco (Slate-colored)
+Double-crested Cormorant
+Downy Woodpecker
+Eastern Phoebe
+European Starling
+Gadwall
+Great-tailed Grackle
+Killdeer
+Mallard
+Northern Mockingbird
+Northern Shoveler
+Pied-billed Grebe
+Red-bellied Woodpecker
+Ring-billed Gull
+Ruby-crowned Kinglet
+Tufted Titmouse
+---Mark 2014-12-09 Ohio|Scioto Audubon Metro Park
+
+American Goldfinch
+Belted Kingfisher
+Carolina Chickadee
+Downy Woodpecker
+Great Blue Heron
+House Finch
+House Sparrow
+Mallard
+Marsh Wren
+Mourning Dove
+Northern Cardinal
+Ring-billed Gull
+Song Sparrow
+White-breasted Nuthatch
+White-throated Sparrow
+---Paul 2014-12-09 Texas|701 Mustang Dr., Fairview
+
+Dark-eyed Junco (Slate-colored)
+Northern Cardinal
+Northern Mockingbird
+White-throated Sparrow
+Yellow-rumped Warbler (Myrtle)
+---Paul 2014-12-09 Texas|Heritage Ranch, Fairview
+
+American Crow
+Black Vulture
+Blue Jay
+Brown Thrasher
+Carolina Chickadee
+Carolina Wren
+Dark-eyed Junco (Slate-colored)
+Downy Woodpecker
+Eastern Bluebird
+Harris's Sparrow
+Lincoln's Sparrow
+Mourning Dove
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Northern Mockingbird
+Red-bellied Woodpecker
+Red-tailed Hawk
+Red-winged Blackbird
+Tufted Titmouse
+Turkey Vulture
+White-breasted Nuthatch
+White-throated Sparrow
+Yellow-bellied Sapsucker
+Yellow-rumped Warbler (Myrtle)
+---Paul 2014-12-11 Texas|Arbor Hills Nature Preserve, Plano
+
+American Crow
+Blue Jay
+Carolina Chickadee
+Carolina Wren
+Dark-eyed Junco (Slate-colored)
+Downy Woodpecker
+Mallard
+Northern Cardinal
+Northern Mockingbird
+Northern Shoveler
+Ruby-crowned Kinglet
+Tufted Titmouse
+Yellow-rumped Warbler (Myrtle)
+---Paul 2014-12-12 Texas|Black plains Raptor Center, Lucas
+
+American Crow
+Black Vulture
+Blue Jay
+Bonaparte's Gull
+Carolina Chickadee
+Dark-eyed Junco (Slate-colored)
+Double-crested Cormorant
+Downy Woodpecker
+Eastern Bluebird
+Forster's Tern
+Gadwall
+Great Blue Heron
+Greater Yellowlegs
+Green-winged Teal
+Harris's Sparrow
+Herring Gull
+House Sparrow
+Killdeer
+Least Sandpiper
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Northern Mockingbird
+Northern Pintail
+Pied-billed Grebe
+Red-bellied Woodpecker
+Red-tailed Hawk
+Red-winged Blackbird
+Ring-billed Gull
+Rock Pigeon
+Ruby-crowned Kinglet
+Turkey Vulture
+White-crowned Sparrow
+Yellow-rumped Warbler (Myrtle)
+---Paul 2014-12-13 Texas|701 Mustang Dr., Fairview
+
+Bewick's Wren
+Carolina Wren
+Yellow-bellied Sapsucker
+---Paul 2014-12-13 Texas|Heard Wildlife Sanctuary, Fairview
+
+American Crow
+American Goldfinch
+Black Vulture
+Blue Jay
+Brown Thrasher
+Carolina Chickadee
+Carolina Wren
+Cooper's Hawk
+Dark-eyed Junco (Slate-colored)
+Downy Woodpecker
+Eastern Bluebird
+Eastern Phoebe
+Harris's Sparrow
+Mallard
+Mourning Dove
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Northern Harrier
+Northern Mockingbird
+Red-bellied Woodpecker
+Red-shouldered Hawk
+Red-winged Blackbird
+Sharp-shinned Hawk
+Tufted Titmouse
+Turkey Vulture
+Vesper Sparrow
+Western Meadowlark
+White-throated Sparrow
+Yellow-rumped Warbler (Myrtle)
+---Paul 2014-12-15 Texas|701 Mustang Dr., Fairview
+
+Turkey Vulture
+---Paul 2014-12-15 Texas|Black plains Raptor Center, Lucas
+
+American Coot (Red-shielded)
+American Crow
+Bewick's Wren
+Black Vulture
+Blue Jay
+Bonaparte's Gull
+Carolina Chickadee
+Carolina Wren
+Dark-eyed Junco (Slate-colored)
+Double-crested Cormorant
+Downy Woodpecker
+Forster's Tern
+Gadwall
+Golden-crowned Kinglet
+Great Blue Heron
+Green-winged Teal
+Harris's Sparrow
+Herring Gull
+Killdeer
+Least Sandpiper
+Mallard
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Northern Harrier
+Northern Mockingbird
+Pied-billed Grebe
+Red-bellied Woodpecker
+Red-shouldered Hawk
+Red-tailed Hawk
+Red-winged Blackbird
+Ring-billed Gull
+Ring-necked Duck
+Ruby-crowned Kinglet
+Turkey Vulture
+Western Meadowlark
+White-crowned Sparrow
+White-throated Sparrow
+Yellow-bellied Sapsucker
+Yellow-rumped Warbler (Myrtle)
+---Paul 2014-12-16 Texas|Heritage Ranch, Fairview
+
+American Crow
+American Goldfinch
+Blue Jay
+Brown Thrasher
+Carolina Chickadee
+Carolina Wren
+Downy Woodpecker
+Fox Sparrow (Red)
+Hairy Woodpecker
+Hermit Thrush
+Mourning Dove
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Red-bellied Woodpecker
+Tufted Titmouse
+Turkey Vulture
+White-throated Sparrow
+Yellow-rumped Warbler (Myrtle)
+---Mark 2014-12-17 Virginia|Staunton/Walnut Hills
+
+Pileated Woodpecker
+---Paul 2014-12-18 Massachusetts|Reed St., Warren
+
+American Crow
+American Goldfinch
+American Robin
+American Tree Sparrow
+Black-capped Chickadee
+Blue Jay
+Dark-eyed Junco (Slate-colored)
+Downy Woodpecker
+European Starling
+House Finch
+House Sparrow
+Mourning Dove
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Northern Mockingbird
+Red-bellied Woodpecker
+Ring-billed Gull
+Rock Pigeon
+Song Sparrow
+Tufted Titmouse
+White-breasted Nuthatch
+---Mark 2014-12-19 Pennsylvania|Myrtle Rd
+
+Wild Turkey
+---Paul 2014-12-19 Massachusetts|Reed St., Warren
+
+American Crow
+American Goldfinch
+Black-capped Chickadee
+Blue Jay
+Dark-eyed Junco (Slate-colored)
+Downy Woodpecker
+European Starling
+Hairy Woodpecker
+House Finch
+House Sparrow
+Northern Cardinal
+Red-bellied Woodpecker
+Red-tailed Hawk
+Ring-billed Gull
+Rock Pigeon
+Tufted Titmouse
+White-breasted Nuthatch
+---Mark 2014-12-21 Pennsylvania|Shuman Point trail
+
+Bald Eagle
+---Paul 2014-12-21 Massachusetts|Chapel St., W. Warren
+
+Black-capped Chickadee
+Downy Woodpecker
+Hairy Woodpecker
+Tufted Titmouse
+White-breasted Nuthatch
+---Paul 2014-12-22 Massachusetts|Reed St., Warren
+
+Black-capped Chickadee
+Blue Jay
+Dark-eyed Junco (Slate-colored)
+Herring Gull
+House Sparrow
+Rock Pigeon
+Tufted Titmouse
+White-breasted Nuthatch
+---Paul 2014-12-23 Massachusetts|Reed St., Warren
+
+American Crow
+Black-capped Chickadee
+Blue Jay
+Common Raven
+Dark-eyed Junco (Slate-colored)
+Downy Woodpecker
+House Finch
+House Sparrow
+Northern Cardinal
+Tufted Titmouse
+---Mark 2014-12-24 Pennsylvania|Myrtle Rd
+
+American Crow
+Black-capped Chickadee
+White-breasted Nuthatch
+---Mark 2014-12-26 Pennsylvania|Myrtle Rd
+
+Wild Turkey
+---Paul 2014-12-26 Massachusetts|Reed St., Warren
+
+American Crow
+American Goldfinch
+American Tree Sparrow
+Black-capped Chickadee
+Blue Jay
+Downy Woodpecker
+European Starling
+House Finch
+House Sparrow
+Mourning Dove
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Northern Mockingbird
+Red-bellied Woodpecker
+Red-tailed Hawk
+Rock Pigeon
+---Mark 2014-12-29 Ohio|Miranova
+
+European Starling
+---Paul 2014-12-29 Texas|Heritage Ranch, Fairview
+
+American Crow
+Blue Jay
+Carolina Chickadee
+Carolina Wren
+Downy Woodpecker
+Great Blue Heron
+Mourning Dove
+Northern Cardinal
+Red-bellied Woodpecker
+Red-shouldered Hawk
+Red-winged Blackbird
+Tufted Titmouse
+White-throated Sparrow
+Yellow-rumped Warbler (Myrtle)
+---Paul 2014-12-30 Texas|Black plains Raptor Center, Lucas
+
+American Crow
+American White Pelican
+Bonaparte's Gull
+Canvasback
+Double-crested Cormorant
+Eastern Bluebird
+Gadwall
+Great Blue Heron
+Green-winged Teal
+Killdeer
+Mallard
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Northern Mockingbird
+Pied-billed Grebe
+Red-bellied Woodpecker
+Red-winged Blackbird
+Ring-billed Gull
+Ring-necked Duck
+Turkey Vulture
+---Mark 2014-12-31 Ohio|Miranova
+
+Canada Goose
+Great Blue Heron
+Mallard
+Ring-billed Gull

@@ -1,0 +1,218 @@
+---Mark 2004-05-01 Washington|Alki
+
+Brant
+Bufflehead
+House Sparrow
+Least Sandpiper
+Rock Pigeon
+Surf Scoter
+gull sp.
+---Mark 2004-05-01 Washington|AlkiCondo
+
+American Robin
+Spotted Towhee
+---Mark 2004-05-01 Washington|Schmitz Park, Alki
+
+American Robin
+Black-capped Chickadee
+Bushtit
+Downy Woodpecker
+Fox Sparrow
+Golden-crowned Sparrow
+Northern Flicker
+Spotted Towhee
+Steller's Jay
+crow sp.
+---Paul 2004-05-02 Texas|Galveston
+
+Black Turnstone
+---Mark 2004-05-03 Washington|Juanita Bay, Seattle
+
+Black-capped Chickadee
+Bufflehead
+Bushtit
+Double-crested Cormorant
+Fox Sparrow
+Great Blue Heron
+Lesser Scaup
+Marsh Wren
+Pied-billed Grebe
+Red-winged Blackbird
+Tree Swallow
+Virginia Rail
+---Mark 2004-05-03 Washington|Marymoor Park
+
+American Goldfinch
+American Robin
+Belted Kingfisher
+Bewick's Wren
+Black-capped Chickadee
+Bullock's Oriole
+Bushtit
+Canada Goose
+Common Merganser
+Dark-eyed Junco
+Downy Woodpecker
+European Starling
+Fox Sparrow
+Gadwall
+Golden-crowned Sparrow
+Great Blue Heron
+House Finch
+Mallard
+Marsh Wren
+Northern Flicker
+Red-winged Blackbird
+Rock Pigeon
+Savannah Sparrow
+Spotted Towhee
+Tree Swallow
+Warbling Vireo
+White-breasted Nuthatch
+crow sp.
+hummingbird sp.
+---Mark 2004-05-05 Washington|AlkiCondo
+
+Osprey
+---Mark 2004-05-10 Washington|Interbay, Seattle
+
+Pigeon Guillemot
+---Mark 2004-05-12 Washington|AlkiCondo
+
+Bald Eagle
+Double-crested Cormorant
+---Mark 2004-05-12 Washington|AlkiEast, Alki
+
+Barn Swallow
+Pigeon Guillemot
+Purple Martin
+---Mark 2004-05-13 Washington|Alki
+
+American Robin
+Bald Eagle
+Bewick's Wren
+Double-crested Cormorant
+Great Blue Heron
+Northern Flicker
+Surf Scoter
+Western Grebe
+---Mark 2004-05-14 Washington|AlkiEast, Alki
+
+Bald Eagle
+Belted Kingfisher
+White-crowned Sparrow
+---Mark 2004-05-16 Washington|AlkiEast, Alki
+
+American Goldfinch
+Bald Eagle
+Pigeon Guillemot
+---Mark 2004-05-17 Washington|AlkiCondo
+
+Barn Swallow
+---Mark 2004-05-17 Washington|Lighthouse, Alki
+
+Killdeer
+Surf Scoter
+---Mark 2004-05-22 Washington|AlkiCondo
+
+Pigeon Guillemot
+---Mark 2004-05-23 Washington|Alki
+
+Bald Eagle
+Belted Kingfisher
+---Mark 2004-05-23 Washington|AlkiEast, Alki
+
+American Goldfinch
+Barn Swallow
+Pigeon Guillemot
+---Mark 2004-05-24 Washington|Juanita Bay, Seattle
+
+American Goldfinch
+American Robin
+Barn Swallow
+Belted Kingfisher
+Black-capped Chickadee
+Black-headed Grosbeak
+Bullock's Oriole
+Cedar Waxwing
+Great Blue Heron
+Killdeer
+Mallard
+Marsh Wren
+Northern Flicker
+Red-winged Blackbird
+Ring-necked Duck
+Spotted Towhee
+Tree Swallow
+Wilson's Warbler
+crow sp.
+---Mark 2004-05-24 Washington|Medina Pk, Seattle
+
+Great Blue Heron
+---Mark 2004-05-25 Washington|AlkiCondo
+
+Canada Goose
+---Mark 2004-05-26 Washington|Alki
+
+Bald Eagle
+Pigeon Guillemot
+---Mark 2004-05-27 Washington|AlkiCondo
+
+Barn Swallow
+Belted Kingfisher
+Double-crested Cormorant
+European Starling
+Pigeon Guillemot
+crow sp.
+---Mark 2004-05-28 Washington|Alki
+
+Bald Eagle
+Great Blue Heron
+House Finch
+Killdeer
+Pigeon Guillemot
+Purple Martin
+Surf Scoter
+---Mark 2004-05-28 Washington|AlkiCondo
+
+Caspian Tern
+Double-crested Cormorant
+Pigeon Guillemot
+---Mark 2004-05-29 Washington|Seward Park
+
+Common Merganser
+---Mark 2004-05-30 Washington|AlkiCondo
+
+Rock Pigeon
+---Mark 2004-05-31 Washington|AlkiCondo
+
+Belted Kingfisher
+Spotted Towhee
+---Mark 2004-05-31 Washington|Discovery Park
+
+American Goldfinch
+American Robin
+Bald Eagle
+Black-capped Chickadee
+Caspian Tern
+Cedar Waxwing
+Chestnut-backed Chickadee
+Chipping Sparrow
+Cooper's Hawk
+Fox Sparrow
+House Finch
+House Sparrow
+Hutton's Vireo
+Mallard
+Northern Flicker
+Northern Rough-winged Swallow
+Red-eyed Vireo
+Rufous Hummingbird
+Savannah Sparrow
+Spotted Towhee
+White-breasted Nuthatch
+White-crowned Sparrow
+Willow Flycatcher
+Wilson's Warbler
+crow sp.
+gull sp.

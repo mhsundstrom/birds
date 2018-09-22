@@ -1,0 +1,106 @@
+---Paul 2003-07-01 Austria|Defferregental
+
+Eurasian Blackbird
+---Paul 2003-07-01 Germany|Mittenwald
+
+Common Chaffinch
+White Wagtail
+White-tailed Eagle
+---Paul 2003-07-02 Austria|Defferregental
+
+Common Swift
+House Sparrow
+House Swift
+White Wagtail
+Winter Wren
+---Mark 2003-07-04 Washington|Schmitz Park, Alki
+
+Black-capped Chickadee
+Osprey
+Steller's Jay
+Veery
+hummingbird sp.
+---Mark 2003-07-05 Washington|AlkiCondo
+
+Bald Eagle
+Double-crested Cormorant
+---Mark 2003-07-06 Washington|Seattle, Seattle
+
+Bald Eagle
+Barn Swallow
+Pigeon Guillemot
+Spotted Towhee
+---Mark 2003-07-07 Washington|AlkiCondo
+
+Osprey
+---Mark 2003-07-08 Washington|Mt Rainier, Washington
+
+American Robin
+Black-capped Chickadee
+Chipping Sparrow
+Clark's Nutcracker
+Dark-eyed Junco
+House Wren
+Mountain Bluebird
+Steller's Jay
+Townsend's Warbler
+Varied Thrush
+White-tailed Ptarmigan
+---Mark 2003-07-12 Ohio|Miranova
+
+American Goldfinch
+Black-crowned Night-Heron
+---Paul 2003-07-12 Italy|Acone
+
+Gray Partridge
+---Mark 2003-07-13 Ohio|Miranova
+
+Black-crowned Night-Heron
+Great Blue Heron
+---Mark 2003-07-15 Ohio|Sharon Woods Metro Park
+
+Gray Catbird
+---Mark 2003-07-19 Ohio|Dawes Arboretum
+
+American Robin
+Blue Jay
+Eastern Bluebird
+Gray Catbird
+Mourning Dove
+Northern Cardinal
+Tree Swallow
+Tufted Titmouse
+Turkey Vulture
+Wood Thrush
+---Mark 2003-07-19 Ohio|Pickerington Pond, Columbus
+
+American Goldfinch
+Red-winged Blackbird
+---Mark 2003-07-23 Ohio|Highbanks Metro Park
+
+American Crow
+Blue Jay
+Carolina Chickadee
+Chipping Sparrow
+Common Grackle
+Downy Woodpecker
+Eastern Bluebird
+Northern Cardinal
+Tufted Titmouse
+White-breasted Nuthatch
+Yellow Warbler
+vireo sp.
+---Paul 2003-07-25 Italy|Bresanone
+
+Common Cuckoo
+---Mark 2003-07-26 Ohio|Blendon Woods Metro Park
+
+American Goldfinch
+Blue Jay
+Common Grackle
+Downy Woodpecker
+Eastern Wood-Pewee
+Red-bellied Woodpecker
+Ruby-throated Hummingbird
+White-breasted Nuthatch
+vireo sp.

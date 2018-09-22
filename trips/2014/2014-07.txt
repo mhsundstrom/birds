@@ -1,0 +1,307 @@
+---Mark 2014-07-01 Wyoming|Lyman, campground, Wyoming
+
+Western Meadowlark
+---Paul 2014-07-01 Alaska|Riverboat, Chena River, Fairbanks
+
+American Robin
+American Wigeon
+Canada Goose
+Mallard
+Northern Flicker (Red-shafted)
+---Paul 2014-07-02 Alaska|Denali National Park
+
+American Kestrel
+Black-billed Magpie
+Black-capped Chickadee
+Dark-eyed Junco (Slate-colored)
+Fox Sparrow (Red)
+Mew Gull (American)
+Rock Ptarmigan
+Violet-green Swallow
+---Paul 2014-07-02 Alaska|Nanana
+
+American Robin
+Bank Swallow
+Cliff Swallow
+Common Raven
+Mew Gull (American)
+Violet-green Swallow
+---Mark 2014-07-03 Washington|Scullywest, Washington
+
+Belted Kingfisher
+Black-capped Chickadee
+Hermit Thrush
+---Paul 2014-07-03 Alaska|Denali National Park
+
+Canada Jay
+---Paul 2014-07-03 Alaska|McKinley Lodge
+
+Black-billed Magpie
+Violet-green Swallow
+---Mark 2014-07-04 Washington|Scullywest, Washington
+
+Black-capped Chickadee
+Northwestern Crow
+Spotted Towhee
+---Paul 2014-07-04 Alaska|Anchorage
+
+Bald Eagle
+Herring Gull
+Lesser Yellowlegs
+Mew Gull (American)
+Osprey
+---Paul 2014-07-04 Alaska|McKinley Lodge
+
+Alder Flycatcher
+American Robin
+Black-capped Chickadee
+Common Redpoll
+Dark-eyed Junco (Slate-colored)
+Mew Gull (American)
+Violet-green Swallow
+---Mark 2014-07-05 Washington|Snohomish, Jardin del Sol, Washington
+
+Black-capped Chickadee
+Northern Flicker
+Red-winged Blackbird
+Song Sparrow
+Steller's Jay
+---Paul 2014-07-05 Alaska|Anchorage and Shipboard
+
+American Robin
+Arctic Tern
+Black-billed Magpie
+Black-legged Kittiwake (pollicaris)
+Canada Goose
+Common Raven
+Glaucous-winged Gull
+Mew Gull (American)
+Northern Fulmar
+---Mark 2014-07-06 Washington|North Creek Park, Washington
+
+American Goldfinch
+Barn Swallow
+Black-capped Chickadee
+Hermit Thrush
+Marsh Wren
+Northwestern Crow
+Red-winged Blackbird
+Song Sparrow
+---Paul 2014-07-06 Alaska|Hubbard Glacier, Yakutat Bay
+
+Arctic Tern
+Black-footed Albatross
+Black-legged Kittiwake (pollicaris)
+Bonaparte's Gull
+Cassin's Auklet
+Common Murre
+Glaucous-winged Gull
+Marbled Murrelet
+Northern Fulmar
+Pelagic Cormorant
+Pigeon Guillemot
+Rhinoceros Auklet
+Sooty Shearwater
+---Paul 2014-07-07 Alaska|Glacier Bay National Park
+
+Bald Eagle
+Black-legged Kittiwake (pollicaris)
+Bonaparte's Gull
+Cassin's Auklet
+Common Murre
+Glaucous-winged Gull
+Horned Puffin
+Kittlitz's Murrelet
+Pelagic Cormorant
+Pigeon Guillemot
+Red-necked Phalarope
+Rhinoceros Auklet
+Tufted Puffin
+---Mark 2014-07-08 Canada|Springfield, Port Alberni
+
+Bald Eagle
+Common Loon
+---Mark 2014-07-08 Canada|Springfield, Port Alberni
+
+Common Loon
+Great Horned Owl
+---Paul 2014-07-08 Alaska|Skagway
+
+Bald Eagle
+Common Raven
+Dark-eyed Junco (Slate-colored)
+Eurasian Collared-Dove
+Glaucous-winged Gull
+Mew Gull (American)
+Northwestern Crow
+Orange-crowned Warbler
+Red-breasted Merganser
+Rufous Hummingbird
+Steller's Jay
+Tree Swallow
+Varied Thrush
+---Mark 2014-07-09 Canada|Springfield, Port Alberni
+
+Common Raven
+Hermit Thrush
+Pileated Woodpecker
+Spotted Towhee
+owl sp.
+---Mark 2014-07-09 Canada|Springfield, Port Alberni
+
+Red-breasted Nuthatch
+---Paul 2014-07-09 Alaska|Juneau
+
+American Robin
+Arctic Tern
+Bald Eagle
+Barn Swallow
+Belted Kingfisher
+Black Scoter
+Cassin's Auklet
+Common Raven
+Dark-eyed Junco (Oregon)
+Glaucous-winged Gull
+Herring Gull
+Mew Gull (American)
+Northwestern Crow
+Pelagic Cormorant
+Pigeon Guillemot
+Rock Pigeon
+Surf Scoter
+Tree Swallow
+Tufted Puffin
+Varied Thrush
+White-winged Scoter
+---Mark 2014-07-10 Canada|Springfield, Port Alberni
+
+Bald Eagle
+---Mark 2014-07-10 Canada|Springfield, Port Alberni
+
+Bald Eagle
+---Paul 2014-07-10 Alaska|Ketchikan
+
+Bald Eagle
+Barn Swallow
+Common Raven
+Gray-cheeked Thrush
+Hermit Thrush
+Mew Gull (American)
+Northwestern Crow
+Pacific Wren
+Red-breasted Sapsucker
+Rock Pigeon
+Surf Scoter
+---Paul 2014-07-11 Canada|Vancouver
+
+Bald Eagle
+Common Loon
+Marbled Murrelet
+Mew Gull (American)
+Northwestern Crow
+Rhinoceros Auklet
+---Mark 2014-07-12 Canada|Deer Group, British Columbia
+
+American Robin
+Bald Eagle
+Belted Kingfisher
+Common Raven
+Eurasian Collared-Dove
+Great Horned Owl
+Hermit Thrush
+House Wren
+Northwestern Crow
+Pileated Woodpecker
+Red-breasted Nuthatch
+Song Sparrow
+Spotted Towhee
+Varied Thrush
+Willet
+hummingbird sp.
+white-winged gull sp.
+---Mark 2014-07-13 Canada|Deer Group, British Columbia
+
+American Robin
+Bald Eagle
+Belted Kingfisher
+Black Oystercatcher
+Black-capped Chickadee
+Common Raven
+Great Blue Heron
+Harlequin Duck
+Northwestern Crow
+Song Sparrow
+Varied Thrush
+kinglet sp.
+white-winged gull sp.
+---Mark 2014-07-14 Canada|Sproat Lake, Port Alberni
+
+Downy Woodpecker
+---Mark 2014-07-18 Canada|Kitsuksis, Port Alberni
+
+American Robin
+Belted Kingfisher
+Black-throated Gray Warbler
+Bushtit
+Chestnut-backed Chickadee
+Common Raven
+Eurasian Collared-Dove
+European Starling
+Fox Sparrow (Sooty)
+Hermit Thrush
+House Sparrow
+Mallard
+Northwestern Crow
+Red-breasted Nuthatch
+Song Sparrow
+Spotted Towhee
+Yellow-rumped Warbler (Audubon's)
+white-winged gull sp.
+---Mark 2014-07-23 Oregon|Albany KOA, Oregon
+
+Great Horned Owl
+---Mark 2014-07-23 Oregon|Crater Lake and Diamond Lake campsite, Oregon
+
+Brown Creeper
+---Mark 2014-07-24 Oregon|Crater Lake and Diamond Lake campsite, Oregon
+
+Clark's Nutcracker
+Dark-eyed Junco
+Mountain Chickadee
+Osprey
+Sharp-shinned Hawk
+Western Wood-Pewee
+nuthatch sp.
+---Mark 2014-07-25 Oregon|Highway 97 near Klamath Falls, Oregon
+
+American White Pelican
+---Mark 2014-07-26 California|Concord, California
+
+American Robin
+Anna's Hummingbird
+Bewick's Wren
+Bushtit
+Downy Woodpecker
+Hooded Oriole
+House Finch
+Mourning Dove
+Spotted Towhee
+Western Bluebird
+White-breasted Nuthatch
+---Mark 2014-07-27 California|Concord, California
+
+American Robin
+Anna's Hummingbird
+Bewick's Wren
+Bushtit
+Hooded Oriole
+House Finch
+Mourning Dove
+chickadee sp.
+---Mark 2014-07-28 California|Costanoa, California
+
+Barn Swallow
+Brown Pelican
+California Quail
+Heermann's Gull
+gull sp.

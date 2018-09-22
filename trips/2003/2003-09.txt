@@ -1,0 +1,79 @@
+---Mark 2003-09-01 Canada|Johnstone Strait, British Columbia
+
+Bald Eagle
+Belted Kingfisher
+Common Raven
+Great Blue Heron
+murrelet sp.
+---Mark 2003-09-02 Canada|Johnstone Strait, British Columbia
+
+Ancient Murrelet
+Bald Eagle
+Belted Kingfisher
+Black-capped Chickadee
+Common Raven
+Double-crested Cormorant
+Great Blue Heron
+Marbled Murrelet
+Northern Flicker
+swallow sp.
+wren sp.
+---Mark 2003-09-03 Canada|Johnstone Strait, British Columbia
+
+Bald Eagle
+Belted Kingfisher
+Harlequin Duck
+Marbled Murrelet
+Northwestern Crow
+Pacific Wren
+wren sp.
+---Mark 2003-09-04 Canada|Johnstone Strait, British Columbia
+
+Bald Eagle
+Belted Kingfisher
+Black Oystercatcher
+Common Raven
+Double-crested Cormorant
+Fox Sparrow
+Great Blue Heron
+Harlequin Duck
+Northwestern Crow
+---Mark 2003-09-10 Canada|Sidney, British Columbia
+
+Common Loon
+---Mark 2003-09-12 Washington|AlkiCondo
+
+Bald Eagle
+Double-crested Cormorant
+Osprey
+---Mark 2003-09-15 Washington|AlkiCondo
+
+Double-crested Cormorant
+Osprey
+---Mark 2003-09-17 Washington|Discovery Park
+
+Barn Swallow
+Black-capped Chickadee
+Bonaparte's Gull
+Bushtit
+California Quail
+Double-crested Cormorant
+European Starling
+Fox Sparrow
+House Sparrow
+Mallard
+Northern Flicker
+Savannah Sparrow
+Song Sparrow
+Spotted Towhee
+Steller's Jay
+---Mark 2003-09-18 Washington|AlkiCondo
+
+Bald Eagle
+Osprey
+---Mark 2003-09-19 Washington|AlkiCondo
+
+Bald Eagle
+Belted Kingfisher
+Osprey
+Red-breasted Merganser

@@ -1,0 +1,710 @@
+---Paul 2016-11-01 Texas|US-TX-McKinney-1 Nature Pl
+
+American Crow
+American Robin
+Belted Kingfisher
+Black Vulture
+Blue Jay
+Brown Thrasher
+Canada Goose
+Carolina Chickadee
+Carolina Wren
+Double-crested Cormorant
+Downy Woodpecker
+Eastern Bluebird
+Eastern Phoebe
+European Starling
+Great Blue Heron
+Hairy Woodpecker
+Hermit Thrush
+House Finch
+Mourning Dove
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Northern Mockingbird
+Orange-crowned Warbler
+Pied-billed Grebe
+Red-bellied Woodpecker
+Red-shouldered Hawk
+Red-tailed Hawk
+Rock Pigeon
+Scissor-tailed Flycatcher
+White-winged Dove
+Yellow-bellied Sapsucker
+Yellow-rumped Warbler (Myrtle)
+---Paul 2016-11-02 Texas|US-TX-Fairview-711 Mustang Dr
+
+American Crow
+American Robin
+Blue Jay
+Brown Thrasher
+Carolina Wren
+Eastern Bluebird
+Eastern Phoebe
+European Starling
+Hermit Thrush
+House Finch
+Mourning Dove
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Northern Mockingbird
+Red-bellied Woodpecker
+Ruby-crowned Kinglet
+Tufted Titmouse
+Turkey Vulture
+White-throated Sparrow
+White-winged Dove
+Yellow-bellied Sapsucker
+Yellow-rumped Warbler (Myrtle)
+---Mark 2016-11-03 Ohio|Miranova
+
+Canada Goose
+Great Blue Heron
+Killdeer
+---Paul 2016-11-05 Oklahoma|US-OK-Oklahoma City-Lake Hefner - 35.5621x-97.6117
+
+American Avocet
+American Coot (Red-shielded)
+American Crow
+American Kestrel
+American Robin
+American White Pelican
+Bald Eagle
+Barn Swallow
+Belted Kingfisher
+Blue Jay
+Bonaparte's Gull
+Canada Goose
+Carolina Wren
+Common Grackle
+Dark-eyed Junco (Slate-colored)
+Double-crested Cormorant
+Downy Woodpecker
+Eastern Meadowlark
+Eastern Phoebe
+Eurasian Collared-Dove
+European Starling
+Forster's Tern
+Franklin's Gull
+Gadwall
+Great Blue Heron
+Great Egret
+Great-tailed Grackle
+Greater Yellowlegs
+Herring Gull
+House Sparrow
+Killdeer
+Least Sandpiper
+Mallard
+Mourning Dove
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Northern Mockingbird
+Northern Pintail
+Pied-billed Grebe
+Red-bellied Woodpecker
+Red-breasted Merganser
+Red-shouldered Hawk
+Red-tailed Hawk
+Ring-billed Gull
+Rock Pigeon
+Vesper Sparrow
+Yellow-rumped Warbler (Myrtle)
+---Mark 2016-11-06 Ohio|Grandview
+
+American Crow
+Carolina Wren
+White-breasted Nuthatch
+---Paul 2016-11-06 Oklahoma|US-OK-Norman-4495 S Jenkins Ave
+
+American Crow
+American Goldfinch
+American Robin
+Blue Jay
+Brown-headed Cowbird
+Carolina Chickadee
+Carolina Wren
+Cedar Waxwing
+Chipping Sparrow
+Cooper's Hawk
+Dark-eyed Junco (Slate-colored)
+Double-crested Cormorant
+Downy Woodpecker
+Eastern Bluebird
+Eastern Phoebe
+European Starling
+Field Sparrow
+Harris's Sparrow
+Hermit Thrush
+House Finch
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Northern Mockingbird
+Red-bellied Woodpecker
+Red-shouldered Hawk
+Red-tailed Hawk
+Red-winged Blackbird
+Rock Pigeon
+Ruby-crowned Kinglet
+Savannah Sparrow
+Song Sparrow
+Tufted Titmouse
+Vesper Sparrow
+Winter Wren
+Yellow-rumped Warbler (Myrtle)
+---Mark 2016-11-07 Ohio|Miranova
+
+Killdeer
+---Paul 2016-11-09 Oklahoma|US-OK-Norman-4495 S Jenkins Ave
+
+American Crow
+American Goldfinch
+American Kestrel
+American Robin
+Blue Jay
+Carolina Chickadee
+Carolina Wren
+Chipping Sparrow
+Dark-eyed Junco (Slate-colored)
+Downy Woodpecker
+Eastern Bluebird
+Eastern Meadowlark
+Eastern Phoebe
+European Starling
+Field Sparrow
+Fox Sparrow (Red)
+Great Blue Heron
+Harris's Sparrow
+House Finch
+Mourning Dove
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Northern Mockingbird
+Red-shouldered Hawk
+Red-tailed Hawk
+Red-winged Blackbird
+Ring-billed Gull
+Rock Pigeon
+Ruby-crowned Kinglet
+Savannah Sparrow
+Song Sparrow
+Yellow-bellied Sapsucker
+Yellow-rumped Warbler (Myrtle)
+---Paul 2016-11-10 Oklahoma|US-OK-Norman-Little River State Park - 35.2034x-97.2417
+
+American Crow
+American Goldfinch
+American Kestrel
+American Robin
+American White Pelican
+Blue Jay
+Brown Creeper
+Canada Goose
+Carolina Chickadee
+Carolina Wren
+Cedar Waxwing
+Common Grackle
+Dark-eyed Junco (Slate-colored)
+Double-crested Cormorant
+Eastern Bluebird
+Eastern Phoebe
+European Starling
+Franklin's Gull
+Great Blue Heron
+House Finch
+House Sparrow
+Mourning Dove
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Northern Mockingbird
+Pied-billed Grebe
+Red-bellied Woodpecker
+Red-headed Woodpecker
+Red-shouldered Hawk
+Ring-billed Gull
+Tufted Titmouse
+Turkey Vulture
+White-breasted Nuthatch
+White-throated Sparrow
+Yellow-bellied Sapsucker
+Yellow-rumped Warbler (Myrtle)
+---Paul 2016-11-11 Oklahoma|US-OK-Washington-E1300 Rd - 35.1314x-97.4398
+
+American Crow
+American Goldfinch
+American Kestrel
+American Pipit
+Blue Jay
+Downy Woodpecker
+Eastern Bluebird
+Eastern Meadowlark
+European Starling
+Harris's Sparrow
+Horned Lark (Western pale Group)
+Killdeer
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Red-bellied Woodpecker
+Red-tailed Hawk
+Red-winged Blackbird
+Rock Pigeon
+Savannah Sparrow
+---Paul 2016-11-13 Texas|US-TX-Fairview-711 Mustang Dr
+
+American Crow
+American Goldfinch
+American Robin
+American White Pelican
+Belted Kingfisher
+Black Vulture
+Blue Jay
+Brown Thrasher
+Canada Goose
+Carolina Chickadee
+Carolina Wren
+Dark-eyed Junco (Slate-colored)
+Double-crested Cormorant
+Downy Woodpecker
+Eastern Bluebird
+Eastern Phoebe
+Golden-crowned Kinglet
+Great Egret
+Great-tailed Grackle
+Hermit Thrush
+House Finch
+House Sparrow
+Killdeer
+Mallard
+Mourning Dove
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Northern Mockingbird
+Red-bellied Woodpecker
+Red-tailed Hawk
+Red-winged Blackbird
+Ruby-crowned Kinglet
+Sharp-shinned Hawk
+Tufted Titmouse
+Turkey Vulture
+White-breasted Nuthatch
+White-throated Sparrow
+White-winged Dove
+Yellow-bellied Sapsucker
+Yellow-rumped Warbler (Myrtle)
+---Paul 2016-11-14 Texas|US-TX-McKinney-1 Nature Pl
+
+Canada Goose
+Gadwall
+Great Egret
+Mallard
+Surf Scoter
+---Paul 2016-11-14 Texas|US-TX-Wylie-Brockdale Park - 33.0744x-96.5493
+
+American Crow
+Black Tern
+Blue Jay
+Carolina Chickadee
+Carolina Wren
+Dark-eyed Junco (Slate-colored)
+Double-crested Cormorant
+Downy Woodpecker
+Eastern Bluebird
+Eastern Phoebe
+Forster's Tern
+Great Egret
+Great-tailed Grackle
+Hermit Thrush
+House Wren
+Killdeer
+Least Sandpiper
+Mourning Dove
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Northern Mockingbird
+Orange-crowned Warbler
+Osprey
+Pied-billed Grebe
+Red-bellied Woodpecker
+Red-tailed Hawk
+Red-winged Blackbird
+Ring-billed Gull
+Rock Pigeon
+Ruby-crowned Kinglet
+Song Sparrow
+Tufted Titmouse
+Turkey Vulture
+White-throated Sparrow
+White-winged Dove
+Yellow-rumped Warbler (Myrtle)
+---Paul 2016-11-15 Texas|US-TX-McKinney-1 Nature Pl
+
+American Crow
+American Goldfinch
+Belted Kingfisher
+Black Vulture
+Blue Jay
+Brown Creeper
+Canada Goose
+Carolina Wren
+Cedar Waxwing
+Cooper's Hawk
+Dark-eyed Junco (Slate-colored)
+Double-crested Cormorant
+Eastern Bluebird
+Eastern Phoebe
+Field Sparrow
+Fox Sparrow (Red)
+Golden-crowned Kinglet
+Great Blue Heron
+Greater Roadrunner
+Hairy Woodpecker
+Hermit Thrush
+House Finch
+Lincoln's Sparrow
+Mallard
+Mourning Dove
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Northern Mockingbird
+Orange-crowned Warbler
+Red-bellied Woodpecker
+Red-shouldered Hawk
+Red-winged Blackbird
+Rock Pigeon
+Ruby-crowned Kinglet
+Song Sparrow
+Tufted Titmouse
+Turkey Vulture
+White-throated Sparrow
+White-winged Dove
+Winter Wren
+Wood Duck
+Yellow-bellied Sapsucker
+Yellow-rumped Warbler (Myrtle)
+---Paul 2016-11-16 Texas|US-TX-Fairview-711 Mustang Dr
+
+American Crow
+Blue Jay
+Brown Thrasher
+Canada Goose
+Carolina Chickadee
+Carolina Wren
+Dark-eyed Junco (Slate-colored)
+Eastern Bluebird
+Eastern Phoebe
+Fox Sparrow (Red)
+Great Blue Heron
+Hermit Thrush
+House Finch
+House Sparrow
+Killdeer
+Mallard
+Mourning Dove
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Northern Mockingbird
+Orange-crowned Warbler
+Red-bellied Woodpecker
+Red-shouldered Hawk
+Red-winged Blackbird
+Ruby-crowned Kinglet
+Tufted Titmouse
+Turkey Vulture
+White-breasted Nuthatch
+White-throated Sparrow
+Yellow-bellied Sapsucker
+Yellow-rumped Warbler (Myrtle)
+---Mark 2016-11-17 Ohio|Scioto Greenways
+
+Carolina Chickadee
+Ring-billed Gull
+---Paul 2016-11-19 Texas|US-TX-Fairview-711 Mustang Dr
+
+American Crow
+American Robin
+Blue Jay
+Brown Thrasher
+Canada Goose
+Carolina Chickadee
+Carolina Wren
+Cedar Waxwing
+Dark-eyed Junco (Slate-colored)
+Downy Woodpecker
+Eastern Bluebird
+Eastern Phoebe
+European Starling
+Harris's Sparrow
+Hermit Thrush
+House Finch
+Mallard
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Northern Mockingbird
+Red-bellied Woodpecker
+Red-shouldered Hawk
+Red-tailed Hawk
+Ruby-crowned Kinglet
+Tufted Titmouse
+Turkey Vulture
+White-throated Sparrow
+White-winged Dove
+Winter Wren
+Yellow-rumped Warbler (Myrtle)
+---Mark 2016-11-20 Ohio|Scioto Audubon Metro Park
+
+Killdeer
+White-throated Sparrow
+---Paul 2016-11-20 Texas|US-TX-Lewisville-Jones St - 33.0652x-96.9762
+
+American Coot (Red-shielded)
+American Crow
+American Goldfinch
+American Kestrel
+American Robin
+American Wigeon
+Belted Kingfisher
+Bewick's Wren
+Black Vulture
+Blue Jay
+Brown Thrasher
+Brown-headed Cowbird
+Carolina Chickadee
+Carolina Wren
+Cedar Waxwing
+Cooper's Hawk
+Double-crested Cormorant
+Downy Woodpecker
+Eastern Bluebird
+Eastern Meadowlark
+Eastern Phoebe
+European Starling
+Gadwall
+Great Blue Heron
+Great Egret
+Great-tailed Grackle
+Hermit Thrush
+House Finch
+Killdeer
+Lincoln's Sparrow
+Mallard
+Marsh Wren
+Northern Cardinal
+Northern Flicker (Red-shafted)
+Northern Flicker (Yellow-shafted)
+Northern Harrier
+Northern Mockingbird
+Orange-crowned Warbler
+Osprey
+Pied-billed Grebe
+Red-bellied Woodpecker
+Red-shouldered Hawk
+Red-tailed Hawk
+Red-winged Blackbird
+Redhead
+Ring-billed Gull
+Ring-necked Duck
+Rock Pigeon
+Ruby-crowned Kinglet
+Song Sparrow
+Tufted Titmouse
+Turkey Vulture
+White-throated Sparrow
+Wilson's Snipe
+Winter Wren
+Yellow-rumped Warbler (Myrtle)
+---Paul 2016-11-21 Texas|US-TX-Wylie-Brockdale Park - 33.0744x-96.5493
+
+American Crow
+American Kestrel
+Belted Kingfisher
+Bewick's Wren
+Black Vulture
+Blue Jay
+Carolina Chickadee
+Carolina Wren
+Double-crested Cormorant
+Downy Woodpecker
+Eastern Bluebird
+European Starling
+Forster's Tern
+Great Blue Heron
+Great Egret
+Harris's Sparrow
+Hermit Thrush
+House Wren
+Killdeer
+Lincoln's Sparrow
+Mallard
+Mourning Dove
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Northern Mockingbird
+Osprey
+Pied-billed Grebe
+Red-bellied Woodpecker
+Red-winged Blackbird
+Ring-billed Gull
+Rock Pigeon
+Ruby-crowned Kinglet
+Song Sparrow
+Tufted Titmouse
+Turkey Vulture
+Yellow-rumped Warbler (Myrtle)
+---Paul 2016-11-23 Texas|US-TX-McKinney-1 Nature Pl
+
+American Coot (Red-shielded)
+American Crow
+American Goldfinch
+American Robin
+Belted Kingfisher
+Canada Goose
+Carolina Chickadee
+Carolina Wren
+Dark-eyed Junco (Slate-colored)
+Double-crested Cormorant
+Downy Woodpecker
+Eastern Bluebird
+Eastern Phoebe
+Gadwall
+Great Blue Heron
+Great Egret
+Harris's Sparrow
+Hermit Thrush
+Hooded Merganser
+House Finch
+House Wren
+Lesser Scaup
+Mallard
+Marsh Wren
+Mourning Dove
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Northern Mockingbird
+Orange-crowned Warbler
+Pied-billed Grebe
+Pileated Woodpecker
+Red-bellied Woodpecker
+Red-shouldered Hawk
+Red-winged Blackbird
+Rock Pigeon
+Song Sparrow
+Surf Scoter
+Tufted Titmouse
+Turkey Vulture
+White-throated Sparrow
+Wood Duck
+Yellow-bellied Sapsucker
+Yellow-rumped Warbler (Myrtle)
+---Paul 2016-11-26 Texas|US-TX-Fairview-711 Mustang Dr
+
+American Crow
+American Robin
+Blue Jay
+Canada Goose
+Carolina Chickadee
+Dark-eyed Junco (Slate-colored)
+Double-crested Cormorant
+Downy Woodpecker
+Eastern Bluebird
+Eastern Phoebe
+Great Blue Heron
+Killdeer
+Mourning Dove
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Northern Mockingbird
+Orange-crowned Warbler
+Red-bellied Woodpecker
+Ruby-crowned Kinglet
+White-breasted Nuthatch
+White-throated Sparrow
+Yellow-rumped Warbler (Myrtle)
+---Paul 2016-11-29 Texas|US-TX-Wylie-Brockdale Park - 33.0744x-96.5493
+
+American Crow
+American Robin
+Blue Jay
+Brown Thrasher
+Carolina Chickadee
+Cedar Waxwing
+Dark-eyed Junco (Slate-colored)
+Double-crested Cormorant
+Downy Woodpecker
+Eastern Bluebird
+Eastern Meadowlark
+European Starling
+Field Sparrow
+Golden-crowned Kinglet
+Great Egret
+Mourning Dove
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Northern Mockingbird
+Orange-crowned Warbler
+Pied-billed Grebe
+Red-winged Blackbird
+Ring-billed Gull
+Rock Pigeon
+Ruby-crowned Kinglet
+Tufted Titmouse
+Turkey Vulture
+White-throated Sparrow
+Yellow-rumped Warbler (Myrtle)
+---Mark 2016-11-30 Ohio|Miranova
+
+Mallard
+---Mark 2016-11-30 Ohio|Scioto Greenways
+
+Belted Kingfisher
+---Paul 2016-11-30 Texas|US-TX-McKinney-1 Nature Pl
+
+American Coot (Red-shielded)
+American Crow
+American Goldfinch
+American Robin
+American White Pelican
+Belted Kingfisher
+Blue Jay
+Canada Goose
+Carolina Chickadee
+Carolina Wren
+Cedar Waxwing
+Dark-eyed Junco (Slate-colored)
+Double-crested Cormorant
+Downy Woodpecker
+Eastern Bluebird
+Eastern Phoebe
+European Starling
+Field Sparrow
+Gadwall
+Golden-crowned Kinglet
+Great Blue Heron
+Great Egret
+Harris's Sparrow
+Hermit Thrush
+Hooded Merganser
+House Finch
+House Wren
+Lincoln's Sparrow
+Mallard
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Northern Mockingbird
+Northern Shoveler
+Orange-crowned Warbler
+Red-bellied Woodpecker
+Red-shouldered Hawk
+Red-winged Blackbird
+Ring-billed Gull
+Ring-necked Duck
+Ruby-crowned Kinglet
+Sharp-shinned Hawk
+Song Sparrow
+Surf Scoter
+Tufted Titmouse
+Turkey Vulture
+White-crowned Sparrow
+White-throated Sparrow
+Winter Wren
+Yellow-bellied Sapsucker
+Yellow-rumped Warbler (Myrtle)

@@ -1,0 +1,465 @@
+---Mark 2016-08-01 Ohio|Miranova
+
+Canada Goose
+Ring-billed Gull
+---Paul 2016-08-01 Massachusetts|US-MA-West Brookfield-1 Pine Grove Dr
+
+American Crow
+American Robin
+Black-capped Chickadee
+Blue Jay
+Chipping Sparrow
+Eastern Bluebird
+Gray Catbird
+House Sparrow
+Mourning Dove
+Northern Cardinal
+Pileated Woodpecker
+Red-eyed Vireo
+Rock Pigeon
+Tufted Titmouse
+White-breasted Nuthatch
+Yellow-throated Vireo
+---Mark 2016-08-02 Ohio|Miranova
+
+American Goldfinch
+Canada Goose
+Great Blue Heron
+Great Egret
+Mallard
+Ring-billed Gull
+---Mark 2016-08-04 Ohio|Miranova
+
+Carolina Chickadee
+---Mark 2016-08-06 Ohio|Miranova
+
+Song Sparrow
+---Mark 2016-08-07 Ohio|Miranova
+
+Barn Swallow
+Killdeer
+Northern Cardinal
+Red-shouldered Hawk
+Ring-billed Gull
+Turkey Vulture
+---Mark 2016-08-08 Ohio|Miranova
+
+Song Sparrow
+---Paul 2016-08-08 Texas|US-TX-Sherman-6465 Refuge Rd
+
+American Crow
+American Robin
+American White Pelican
+Baird's Sandpiper
+Barn Swallow
+Black Vulture
+Blue Grosbeak
+Canada Goose
+Cattle Egret
+Cliff Swallow
+Dickcissel
+Double-crested Cormorant
+Eastern Bluebird
+Eastern Phoebe
+European Starling
+Forster's Tern
+Great Blue Heron
+Great Egret
+Great-tailed Grackle
+Greater Yellowlegs
+Killdeer
+Least Sandpiper
+Least Tern
+Little Blue Heron
+Long-billed Dowitcher
+Mallard
+Mourning Dove
+Neotropic Cormorant
+Northern Cardinal
+Northern Mockingbird
+Pectoral Sandpiper
+Red-headed Woodpecker
+Red-tailed Hawk
+Red-winged Blackbird
+Ring-billed Gull
+Rock Pigeon
+Ruby-throated Hummingbird
+Semipalmated Sandpiper
+Snowy Egret
+Solitary Sandpiper
+Spotted Sandpiper
+Stilt Sandpiper
+Tree Swallow
+Tufted Titmouse
+Turkey Vulture
+Upland Sandpiper
+Western Sandpiper
+White-eyed Vireo
+White-faced Ibis
+Yellow Warbler
+---Mark 2016-08-10 Ohio|Miranova
+
+Great Blue Heron
+---Mark 2016-08-12 Ohio|Miranova
+
+Osprey
+---Paul 2016-08-13 Texas|US-TX-Fairview-711 Mustang Dr
+
+American Crow
+American Robin
+Barn Swallow
+Blue Jay
+Carolina Wren
+Chimney Swift
+Eastern Bluebird
+Great Crested Flycatcher
+Great Egret
+House Finch
+House Sparrow
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Red-bellied Woodpecker
+Red-eyed Vireo
+Red-shouldered Hawk
+Rock Pigeon
+Scissor-tailed Flycatcher
+Tufted Titmouse
+White-eyed Vireo
+White-winged Dove
+---Mark 2016-08-16 Ohio|Miranova
+
+Ring-billed Gull
+Song Sparrow
+Turkey Vulture
+---Paul 2016-08-16 Oklahoma|US-OK-Norman-4497-4799 S Jenkins Ave
+
+American Crow
+American Goldfinch
+American Kestrel
+American Robin
+Barn Swallow
+Bell's Vireo
+Belted Kingfisher
+Blue Grosbeak
+Blue-gray Gnatcatcher
+Broad-winged Hawk
+Carolina Wren
+Chimney Swift
+Downy Woodpecker
+Eastern Bluebird
+Eastern Kingbird
+Eastern Phoebe
+European Starling
+Fish Crow
+Great Blue Heron
+Great Crested Flycatcher
+House Finch
+Indigo Bunting
+Killdeer
+Mississippi Kite
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Northern Rough-winged Swallow
+Red-bellied Woodpecker
+Red-shouldered Hawk
+Red-tailed Hawk
+Red-winged Blackbird
+Rock Pigeon
+Scissor-tailed Flycatcher
+Snowy Egret
+Tufted Titmouse
+Upland Sandpiper
+Warbling Vireo
+Western Kingbird
+---Mark 2016-08-17 Ohio|Miranova
+
+Canada Goose
+Mallard
+Northern Cardinal
+---Paul 2016-08-17 Oklahoma|US-OK-Norman-4901-5003 W Main St - 35.2193x-97.5195
+
+American Crow
+American Robin
+Barn Swallow
+Blue Jay
+Canada Goose
+Carolina Wren
+Eastern Bluebird
+Eastern Kingbird
+Eurasian Collared-Dove
+European Starling
+Great Blue Heron
+Great Crested Flycatcher
+Great-tailed Grackle
+Green Heron
+Little Blue Heron
+Mallard
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Red-bellied Woodpecker
+Red-shouldered Hawk
+Red-winged Blackbird
+Ruby-throated Hummingbird
+Scissor-tailed Flycatcher
+Western Kingbird
+White-winged Dove
+---Paul 2016-08-19 Oklahoma|US-OK-Norman-4497-4799 S Jenkins Ave
+
+American Crow
+American Robin
+Barn Swallow
+Blue Grosbeak
+Blue-gray Gnatcatcher
+Canada Goose
+Carolina Wren
+Chimney Swift
+Cliff Swallow
+Downy Woodpecker
+Eastern Bluebird
+Eastern Kingbird
+Eastern Phoebe
+Eurasian Collared-Dove
+European Starling
+Fish Crow
+Great Crested Flycatcher
+Great Egret
+Great-tailed Grackle
+House Finch
+Indigo Bunting
+Mourning Dove
+Northern Cardinal
+Northern Rough-winged Swallow
+Pileated Woodpecker
+Red-bellied Woodpecker
+Red-shouldered Hawk
+Red-winged Blackbird
+Rock Pigeon
+Scissor-tailed Flycatcher
+Tufted Titmouse
+Western Kingbird
+White-eyed Vireo
+White-winged Dove
+---Mark 2016-08-21 Canada|Point Pelee National Park
+
+American Goldfinch
+Barn Swallow
+Carolina Wren
+Double-crested Cormorant
+Eastern Wood-Pewee
+Great Blue Heron
+Mourning Dove
+Northern Cardinal
+Northern Flicker
+Wild Turkey
+Wood Duck
+tern sp.
+wren sp.
+---Paul 2016-08-21 Texas|US-TX-Fairview-711 Mustang Dr
+
+American Crow
+American Robin
+Barn Swallow
+Black Vulture
+Blue Jay
+Canada Goose
+Carolina Chickadee
+Carolina Wren
+Cooper's Hawk
+Downy Woodpecker
+Eastern Bluebird
+Eastern Phoebe
+Eastern Wood-Pewee
+European Starling
+Great Egret
+Hairy Woodpecker
+House Finch
+Indigo Bunting
+Mississippi Kite
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Orchard Oriole
+Red-bellied Woodpecker
+Red-eyed Vireo
+Red-shouldered Hawk
+Rock Pigeon
+Ruby-throated Hummingbird
+Tufted Titmouse
+Turkey Vulture
+White-breasted Nuthatch
+White-eyed Vireo
+White-winged Dove
+Yellow-billed Cuckoo
+---Mark 2016-08-22 Scotland|Dyce
+
+Common Wood-Pigeon
+---Paul 2016-08-22 Texas|US-TX-Wylie-Brockdale Park - 33.0744x-96.5493
+
+American Crow
+American Robin
+Barn Swallow
+Black Tern
+Black Vulture
+Blue Jay
+Carolina Chickadee
+Carolina Wren
+Chimney Swift
+Cliff Swallow
+Double-crested Cormorant
+Downy Woodpecker
+Eastern Kingbird
+Eastern Phoebe
+European Starling
+Forster's Tern
+Great Blue Heron
+Great Egret
+House Finch
+Least Sandpiper
+Least Tern
+Loggerhead Shrike
+Mallard
+Mourning Dove
+Neotropic Cormorant
+Northern Cardinal
+Northern Mockingbird
+Purple Martin
+Red-bellied Woodpecker
+Red-tailed Hawk
+Red-winged Blackbird
+Rock Pigeon
+Snowy Egret
+Tufted Titmouse
+Turkey Vulture
+White-eyed Vireo
+White-winged Dove
+---Mark 2016-08-23 Scotland|Inverness
+
+Barn Swallow
+Common Wood-Pigeon
+Great Black-backed Gull
+Great Cormorant
+Herring Gull
+Hooded Crow
+Mallard
+Mew Gull
+Mute Swan
+tern sp.
+---Paul 2016-08-23 Texas|US-TX-McKinney-1 Nature Pl
+
+American Crow
+Belted Kingfisher
+Blue Jay
+Blue-gray Gnatcatcher
+Carolina Chickadee
+Carolina Wren
+Chimney Swift
+Downy Woodpecker
+Eastern Bluebird
+Eastern Phoebe
+Green Heron
+Hairy Woodpecker
+Least Flycatcher
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Orchard Oriole
+Prothonotary Warbler
+Red-bellied Woodpecker
+Red-shouldered Hawk
+Red-tailed Hawk
+Rock Pigeon
+Ruby-throated Hummingbird
+Tufted Titmouse
+White-eyed Vireo
+White-winged Dove
+Yellow Warbler
+---Mark 2016-08-24 Scotland|Loch Ness, Urquhart Castle
+
+Common House-Martin
+Gray Heron
+Little Grebe
+---Mark 2016-08-25 Scotland|Loch Ness, Drumnadrochit
+
+Gray Wagtail
+Rook
+---Paul 2016-08-25 Texas|US-TX-Fairview-711 Mustang Dr
+
+American Crow
+Blue Jay
+Carolina Chickadee
+Carolina Wren
+Chimney Swift
+Cooper's Hawk
+Downy Woodpecker
+Eastern Bluebird
+Eastern Phoebe
+Great Blue Heron
+Great Crested Flycatcher
+Great Egret
+House Sparrow
+Mallard
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Red-bellied Woodpecker
+Red-shouldered Hawk
+Ruby-throated Hummingbird
+Snowy Egret
+Tufted Titmouse
+White-eyed Vireo
+White-winged Dove
+Yellow-billed Cuckoo
+---Mark 2016-08-26 Scotland|Fort Augustus
+
+Barn Swallow
+Coal Tit
+Eurasian Collared-Dove
+European Robin
+Garden Warbler
+Mallard
+White Wagtail
+warbler sp. (Parulidae sp.)
+---Mark 2016-08-27 Scotland|Caledonian Canal
+
+Canada Goose
+Common Chaffinch
+Common Redstart
+Eurasian Wren
+Gray Heron
+Great Spotted Woodpecker
+Great Tit
+Mute Swan
+---Mark 2016-08-29 Scotland|Ben Nevis
+
+Common Raven
+Snow Bunting
+---Mark 2016-08-29 Scotland|on the road
+
+Eurasian Magpie
+---Mark 2016-08-31 Scotland|Caledonian Canal
+
+Great Cormorant
+---Paul 2016-08-31 Texas|US-TX-McKinney-1401 Wilson Creek Pkwy
+
+American Crow
+Baltimore Oriole
+Blue Jay
+Canada Goose
+Carolina Chickadee
+Carolina Wren
+Downy Woodpecker
+Eastern Bluebird
+Great Crested Flycatcher
+Great Egret
+Mallard
+Mourning Dove
+Northern Cardinal
+Orchard Oriole
+Red-bellied Woodpecker
+Rock Pigeon
+Spotted Sandpiper
+Tufted Titmouse
+White-winged Dove

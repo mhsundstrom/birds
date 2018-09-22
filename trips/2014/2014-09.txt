@@ -1,0 +1,609 @@
+---Mark 2014-09-01 Ohio|Miranova
+
+Canada Goose
+gull sp.
+---Mark 2014-09-01 Ohio|Scioto River, Columbus
+
+Double-crested Cormorant
+---Mark 2014-09-02 Ohio|Miranova
+
+American Goldfinch
+Great Blue Heron
+Killdeer
+Turkey Vulture
+---Mark 2014-09-02 Ohio|Scioto Audubon Metro Park
+
+American Robin
+Gray Catbird
+Great Egret
+Green Heron
+Mallard
+Northern Cardinal
+---Paul 2014-09-02 Texas|Towne Lake Park, McKinney
+
+American Crow
+Blue Jay
+Canada Goose
+Carolina Chickadee
+Carolina Wren
+Eurasian Collared-Dove
+European Starling
+Great Blue Heron
+Great Egret
+Great-tailed Grackle
+House Sparrow
+Mallard
+Mourning Dove
+Northern Cardinal
+Red-bellied Woodpecker
+Red-shouldered Hawk
+Rock Pigeon
+Tufted Titmouse
+Turkey Vulture
+---Paul 2014-09-03 Texas|Hagerman National Wildlife Refuge
+
+American Avocet
+American Coot (Red-shielded)
+Barn Swallow
+Black Tern
+Black Vulture
+Black-chinned Hummingbird
+Blue-winged Teal
+Canvasback
+Cattle Egret
+Double-crested Cormorant
+European Starling
+Forster's Tern
+Great Egret
+Great-tailed Grackle
+Greater Roadrunner
+Greater Yellowlegs
+House Sparrow
+Killdeer
+Least Tern
+Lesser Scaup
+Mallard
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Northern Shoveler
+Red-winged Blackbird
+Rock Pigeon
+Ruby-throated Hummingbird
+Snowy Egret
+Stilt Sandpiper
+Turkey Vulture
+White-faced Ibis
+Wilson's Phalarope
+Yellow Warbler
+---Mark 2014-09-04 Ohio|Miranova
+
+Great Egret
+---Paul 2014-09-05 Texas|Heritage Ranch, Fairview
+
+Blue Jay
+Carolina Chickadee
+Carolina Wren
+Downy Woodpecker
+Eastern Phoebe
+Northern Cardinal
+Red-bellied Woodpecker
+Red-shouldered Hawk
+Ruby-throated Hummingbird
+Tufted Titmouse
+White-eyed Vireo
+---Mark 2014-09-06 Ohio|Miranova
+
+Mallard
+Turkey Vulture
+---Paul 2014-09-06 Texas|Heritage Ranch, Fairview
+
+American Crow
+Blue Jay
+Carolina Chickadee
+Carolina Wren
+Downy Woodpecker
+Eastern Kingbird
+Eastern Phoebe
+Mourning Dove
+Olive-sided Flycatcher
+Red-bellied Woodpecker
+Ruby-throated Hummingbird
+Tufted Titmouse
+White-eyed Vireo
+Yellow Warbler
+---Paul 2014-09-07 Texas|Heritage Ranch, Fairview
+
+American Crow
+Blue Jay
+Carolina Chickadee
+Carolina Wren
+Eastern Phoebe
+Fish Crow
+Great Crested Flycatcher
+House Finch
+Little Blue Heron
+Mourning Dove
+Mourning Warbler
+Northern Cardinal
+Northern Mockingbird
+Red-bellied Woodpecker
+Red-shouldered Hawk
+Ruby-throated Hummingbird
+Tufted Titmouse
+White-eyed Vireo
+White-winged Dove
+Willow Flycatcher
+---Paul 2014-09-08 Texas|Heritage Ranch, Fairview
+
+Blue Jay
+Carolina Chickadee
+Carolina Wren
+Downy Woodpecker
+Eastern Phoebe
+Mourning Dove
+Northern Cardinal
+Northern Rough-winged Swallow
+Red-bellied Woodpecker
+Red-tailed Hawk
+Tufted Titmouse
+White-eyed Vireo
+---Mark 2014-09-09 Ohio|Miranova
+
+Killdeer
+---Mark 2014-09-09 Ohio|Scioto Audubon Metro Park
+
+American Goldfinch
+American Robin
+Canada Goose
+Carolina Chickadee
+Carolina Wren
+Double-crested Cormorant
+Downy Woodpecker
+Gray Catbird
+Great Egret
+Killdeer
+Mallard
+Mourning Dove
+Northern Cardinal
+sparrow sp.
+white-winged gull sp.
+---Paul 2014-09-09 Texas|Heritage Ranch, Fairview
+
+American Crow
+Blue Jay
+Canada Goose
+Carolina Chickadee
+Carolina Wren
+Downy Woodpecker
+Eastern Bluebird
+Eastern Phoebe
+Hermit Thrush
+House Finch
+Least Flycatcher
+Mourning Dove
+Northern Cardinal
+Orange-crowned Warbler
+Red-bellied Woodpecker
+Ruby-throated Hummingbird
+Tufted Titmouse
+Warbling Vireo
+White-eyed Vireo
+Yellow-throated Vireo
+---Paul 2014-09-10 Texas|Heritage Ranch, Fairview
+
+American Crow
+Black-and-white Warbler
+Blue Jay
+Carolina Chickadee
+Carolina Wren
+Downy Woodpecker
+Eastern Bluebird
+Eastern Phoebe
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Orange-crowned Warbler
+Red-eyed Vireo
+Ruby-throated Hummingbird
+Tufted Titmouse
+Turkey Vulture
+White-eyed Vireo
+Wilson's Warbler
+---Paul 2014-09-11 Texas|Heard Wildlife Sanctuary, Fairview
+
+American Crow
+Blue Jay
+Carolina Chickadee
+Carolina Wren
+Downy Woodpecker
+Eastern Kingbird
+Great Crested Flycatcher
+Great Egret
+Mallard
+Mourning Dove
+Northern Cardinal
+Northern Waterthrush
+Red-bellied Woodpecker
+Red-shouldered Hawk
+Ruby-throated Hummingbird
+Snowy Egret
+Tufted Titmouse
+White-eyed Vireo
+---Mark 2014-09-12 Ohio|Miranova
+
+Canada Goose
+Great Blue Heron
+Great Egret
+Killdeer
+---Mark 2014-09-13 Ohio|Miranova
+
+Double-crested Cormorant
+Great Blue Heron
+Great Egret
+---Paul 2014-09-13 Texas|Towne Lake Park, McKinney
+
+American Kestrel
+Blue Jay
+Canada Goose
+Common Grackle
+Downy Woodpecker
+Eastern Bluebird
+European Starling
+Great Egret
+Great-tailed Grackle
+House Sparrow
+Mallard
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Northern Rough-winged Swallow
+Pied-billed Grebe
+---Paul 2014-09-15 Texas|Heard Wildlife Sanctuary, Fairview
+
+American Crow
+Baltimore Oriole
+Blue Jay
+Carolina Chickadee
+Carolina Wren
+Chimney Swift
+Downy Woodpecker
+Eastern Bluebird
+Eastern Phoebe
+Great Crested Flycatcher
+Hairy Woodpecker
+House Finch
+Mourning Dove
+Northern Cardinal
+Northern Flicker (Red-shafted)
+Northern Mockingbird
+Red-bellied Woodpecker
+Ruby-throated Hummingbird
+Tufted Titmouse
+White-eyed Vireo
+White-winged Dove
+Wilson's Warbler
+---Mark 2014-09-16 Ohio|Miranova
+
+Killdeer
+Mallard
+---Paul 2014-09-16 Texas|Lake Lavon, Lucas
+
+American Crow
+American Kestrel
+Blue Jay
+Brown-headed Cowbird
+Carolina Wren
+Chimney Swift
+Cooper's Hawk
+Double-crested Cormorant
+Downy Woodpecker
+Eastern Bluebird
+Eastern Kingbird
+European Starling
+Forster's Tern
+Great Blue Heron
+Great Egret
+Killdeer
+Lark Sparrow
+Least Sandpiper
+Little Blue Heron
+Mourning Dove
+Neotropic Cormorant
+Northern Cardinal
+Northern Flicker (Red-shafted)
+Northern Mockingbird
+Olive-sided Flycatcher
+Purple Martin
+Red-bellied Woodpecker
+Red-winged Blackbird
+Ring-billed Gull
+Rock Pigeon
+Scissor-tailed Flycatcher
+Snowy Egret
+Tufted Titmouse
+Turkey Vulture
+White-eyed Vireo
+White-winged Dove
+Willow Flycatcher
+Yellow-bellied Flycatcher
+---Paul 2014-09-17 Texas|Heritage Ranch, Fairview
+
+American Crow
+Blue Jay
+Carolina Chickadee
+Carolina Wren
+Chimney Swift
+Eastern Bluebird
+Eastern Phoebe
+Hairy Woodpecker
+House Finch
+Least Flycatcher
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Red-bellied Woodpecker
+Ruby-throated Hummingbird
+Tufted Titmouse
+White-eyed Vireo
+White-winged Dove
+---Mark 2014-09-18 Michigan|Pictured Rocks
+
+Red-breasted Merganser
+Semipalmated Sandpiper
+---Mark 2014-09-18 Michigan|Upper Peninsula
+
+Sandhill Crane
+---Paul 2014-09-18 Texas|Lake Lavon, Lucas
+
+Gadwall
+Great Egret
+Killdeer
+Least Sandpiper
+Mallard
+Snowy Egret
+White-faced Ibis
+---Paul 2014-09-18 Texas|Lake Lavon, Lucas
+
+American Crow
+Bank Swallow
+Barn Swallow
+Bell's Vireo
+Belted Kingfisher
+Carolina Wren
+Chimney Swift
+Cliff Swallow
+Double-crested Cormorant
+European Starling
+Forster's Tern
+Great Blue Heron
+Great Egret
+Great-tailed Grackle
+Killdeer
+Neotropic Cormorant
+Osprey
+Red-bellied Woodpecker
+Red-eyed Vireo
+Ring-billed Gull
+Rock Pigeon
+---Paul 2014-09-18 Texas|Lake Lavon, Lucas
+
+American Crow
+Carolina Wren
+Chimney Swift
+Cliff Swallow
+Cooper's Hawk
+Double-crested Cormorant
+Eastern Bluebird
+Eastern Phoebe
+Forster's Tern
+Great Blue Heron
+Great Egret
+Killdeer
+Least Sandpiper
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Osprey
+Red-eyed Vireo
+Red-winged Blackbird
+Scissor-tailed Flycatcher
+Snowy Egret
+Tufted Titmouse
+Turkey Vulture
+White-eyed Vireo
+White-faced Ibis
+---Paul 2014-09-18 Texas|Lake Lavon, Lucas
+
+American Crow
+Bell's Vireo
+Blue-gray Gnatcatcher
+Carolina Chickadee
+Carolina Wren
+Downy Woodpecker
+Eastern Phoebe
+Eastern Screech-Owl
+Mourning Dove
+Northern Cardinal
+Red-bellied Woodpecker
+Tufted Titmouse
+White-eyed Vireo
+---Mark 2014-09-19 Michigan|Highway 28
+
+Wild Turkey
+---Mark 2014-09-20 Michigan|Pictured Rocks
+
+Bald Eagle
+Red-breasted Merganser
+chickadee sp.
+---Paul 2014-09-20 Texas|John Butler Sands Wetlands, Compton
+
+American Crow
+Baird's Sandpiper
+Black Vulture
+Black-necked Stilt
+Blue Jay
+Carolina Chickadee
+Cliff Swallow
+Double-crested Cormorant
+European Starling
+Great Egret
+Great Horned Owl
+Greater Yellowlegs
+Mallard
+Pied-billed Grebe
+Red-tailed Hawk
+Red-winged Blackbird
+Ruby-throated Hummingbird
+Snowy Egret
+Turkey Vulture
+---Paul 2014-09-22 Texas|Heritage Ranch, Fairview
+
+American Crow
+Blue Jay
+Brown Thrasher
+Carolina Chickadee
+Carolina Wren
+Downy Woodpecker
+Eastern Bluebird
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Red-bellied Woodpecker
+Red-eyed Vireo
+Tufted Titmouse
+White-winged Dove
+---Mark 2014-09-23 Michigan|Seney NWR
+
+American Crow
+American Robin
+Bald Eagle
+Belted Kingfisher
+Black-capped Chickadee
+Canada Goose
+Common Loon
+Gray Catbird
+Great Blue Heron
+Northern Flicker
+Pied-billed Grebe
+Trumpeter Swan
+Wood Duck
+---Paul 2014-09-23 Texas|Towne Lake Park, McKinney
+
+American Coot (Red-shielded)
+Black Vulture
+Blue Jay
+Carolina Chickadee
+Carolina Wren
+Common Grackle
+Double-crested Cormorant
+Downy Woodpecker
+Eastern Phoebe
+Eurasian Collared-Dove
+European Starling
+Great Blue Heron
+Great Egret
+Great-tailed Grackle
+Indigo Bunting
+Least Flycatcher
+Mallard
+Mourning Dove
+Red-bellied Woodpecker
+Red-shouldered Hawk
+Tufted Titmouse
+Turkey Vulture
+Wilson's Warbler
+Yellow-throated Vireo
+---Paul 2014-09-24 Texas|Heard Wildlife Sanctuary, Fairview
+
+American Crow
+Black Vulture
+Blue Jay
+Carolina Chickadee
+Carolina Wren
+Cooper's Hawk
+Great Blue Heron
+House Finch
+Indigo Bunting
+Killdeer
+Least Flycatcher
+Mourning Dove
+Northern Flicker (Red-shafted)
+Northern Mockingbird
+Northern Rough-winged Swallow
+Red-bellied Woodpecker
+Red-eyed Vireo
+Red-shouldered Hawk
+Ruby-throated Hummingbird
+Tufted Titmouse
+White-eyed Vireo
+Yellow-breasted Chat
+---Paul 2014-09-24 Texas|Heritage Ranch, Fairview
+
+Eurasian Collared-Dove
+European Starling
+Great Egret
+Mourning Dove
+Northern Cardinal
+Red-bellied Woodpecker
+Rock Pigeon
+---Paul 2014-09-25 Texas|Heritage Ranch, Fairview
+
+American Kestrel
+Great Egret
+Red-tailed Hawk
+---Paul 2014-09-25 Texas|Towne Lake Park, McKinney
+
+Canada Goose
+Carolina Chickadee
+Carolina Wren
+Common Grackle
+Double-crested Cormorant
+Downy Woodpecker
+Eastern Phoebe
+European Starling
+Indigo Bunting
+Least Flycatcher
+Mallard
+Mourning Dove
+Northern Cardinal
+Orange-crowned Warbler
+Red-bellied Woodpecker
+Willow Flycatcher
+Wilson's Warbler
+---Paul 2014-09-26 Texas|Lake Lavon, Lucas
+
+American Crow
+Bank Swallow
+Barn Swallow
+Black Tern
+Black Vulture
+Blue Jay
+Brown-headed Cowbird
+Carolina Wren
+Chimney Swift
+Cliff Swallow
+Cooper's Hawk
+Double-crested Cormorant
+Eastern Bluebird
+Eastern Phoebe
+European Starling
+Forster's Tern
+Great Blue Heron
+Great Egret
+Killdeer
+Least Sandpiper
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Olive-sided Flycatcher
+Red-bellied Woodpecker
+Red-winged Blackbird
+Rock Pigeon
+Scissor-tailed Flycatcher
+Sharp-shinned Hawk
+Tufted Titmouse
+Western Sandpiper
+White-winged Dove
+---Mark 2014-09-30 Ohio|Miranova
+
+Killdeer

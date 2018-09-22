@@ -1,0 +1,601 @@
+---Mark 2014-01-01 California|Lafayette Reservoir, California
+
+American Coot
+American Crow
+American White Pelican
+Black-capped Chickadee
+Double-crested Cormorant
+Gadwall
+Mallard
+Pied-billed Grebe
+Ruddy Duck
+---Mark 2014-01-01 California|Orinda, California
+
+Bewick's Wren
+---Mark 2014-01-01 California|Sacramento River, Redding, California
+
+Brown-headed Cowbird
+Turkey Vulture
+---Mark 2014-01-02 California|Arrowhead Marsh, Oakland, California
+
+American Coot
+American Crow
+American Wigeon
+Belted Kingfisher
+Bewick's Wren
+Black Phoebe
+Black-necked Stilt
+Bufflehead
+Burrowing Owl
+California Towhee
+Canada Goose
+Clark's Grebe
+Common Goldeneye
+Cooper's Hawk
+Eared Grebe
+Great Blue Heron
+Greater Scaup
+Greater Yellowlegs
+Green-winged Teal
+Horned Grebe
+Lesser Scaup
+Mallard
+Marbled Godwit
+Northern Harrier
+Northern Shoveler
+Red-tailed Hawk
+Ridgway's Rail
+Say's Phoebe
+Snowy Egret
+Song Sparrow
+Sora
+Spotted Sandpiper
+Surf Scoter
+Turkey Vulture
+Western Grebe
+Western Meadowlark
+White-crowned Sparrow
+Willet
+white-winged gull sp.
+---Mark 2014-01-02 California|Berkeley, California
+
+Painted Redstart
+---Mark 2014-01-02 California|Orinda, California
+
+Anna's Hummingbird
+Common Raven
+Hermit Thrush
+---Mark 2014-01-02 California|Orinda, California
+
+Red-breasted Nuthatch
+---Paul 2014-01-03 Oklahoma|Lake Hefner, OKC
+
+American White Pelican
+Bonaparte's Gull
+Bufflehead
+Common Loon
+Common Merganser
+Dark-eyed Junco (Slate-colored)
+Eared Grebe
+Great-tailed Grackle
+Green-winged Teal
+Herring Gull
+Hooded Merganser
+Lesser Scaup
+Mallard
+Northern Pintail
+Northern Shoveler
+Pied-billed Grebe
+Ring-billed Gull
+Ruddy Duck
+Savannah Sparrow
+Song Sparrow
+---Paul 2014-01-03 Oklahoma|S. Jenkins, Norman
+
+American Crow
+American Kestrel
+Belted Kingfisher
+Blue Jay
+Eastern Bluebird
+Eastern Meadowlark
+Great Blue Heron
+Greater Yellowlegs
+Harris's Sparrow
+House Sparrow
+Northern Cardinal
+Northern Mockingbird
+Red-shouldered Hawk
+Rock Pigeon
+---Paul 2014-01-03 Oklahoma|Spruce St., Norman
+
+American Goldfinch
+Carolina Wren
+---Paul 2014-01-03 Oklahoma|Sutton Lake, Norman
+
+American Coot (Red-shielded)
+Canada Goose
+Common Goldeneye
+European Starling
+Gadwall
+Mourning Dove
+Red-tailed Hawk
+Ring-necked Duck
+---Mark 2014-01-04 California|Oceano
+
+Great-tailed Grackle
+---Mark 2014-01-04 California|Oceano
+
+House Finch
+---Mark 2014-01-04 California|Oceano
+
+House Sparrow
+---Paul 2014-01-04 Oklahoma|36th St., Norman
+
+American Goldfinch
+European Starling
+Great Blue Heron
+House Sparrow
+Mallard
+Northern Shoveler
+---Mark 2014-01-05 California|Back Bay, California
+
+American Avocet
+American Coot
+American Wigeon
+Black Skimmer
+Blue-winged Teal
+Brown Pelican
+Bufflehead
+Common Yellowthroat
+Eared Grebe
+Forster's Tern
+Great Egret
+Marbled Godwit
+Osprey
+Spotted Sandpiper
+Western Grebe
+Willet
+---Mark 2014-01-05 California|Corona del Mar, California
+
+Mourning Dove
+Northern Mockingbird
+---Paul 2014-01-07 Oklahoma|36th St. and Indian Hills, Norman
+
+Eurasian Collared-Dove
+Trumpeter Swan
+---Mark 2014-01-08 Arizona|Benson
+
+Common Raven
+---Mark 2014-01-08 Arizona|Benson
+
+Western Meadowlark
+---Mark 2014-01-08 Arizona|Kartchner Caverns State Park, Arizona
+
+Black-throated Sparrow
+Canyon Wren
+Montezuma Quail
+Rock Wren
+---Paul 2014-01-08 Oklahoma|Golf Course, Duncan
+
+Belted Kingfisher
+---Paul 2014-01-08 Oklahoma|Humphries Lake, Duncan
+
+American White Pelican
+Black Vulture
+Turkey Vulture
+Western Meadowlark
+Wild Turkey
+---Paul 2014-01-08 Oklahoma|Taylor Lake, Rush Springs
+
+American Coot (Red-shielded)
+American Crow
+American Kestrel
+Bald Eagle
+Blue Jay
+Bufflehead
+Canada Goose
+Canvasback
+Carolina Chickadee
+Carolina Wren
+Common Goldeneye
+Common Merganser
+Dark-eyed Junco (Slate-colored)
+Eastern Bluebird
+Eastern Meadowlark
+Eurasian Collared-Dove
+Gadwall
+Great Blue Heron
+Green-winged Teal
+Harris's Sparrow
+House Sparrow
+Lewis's Woodpecker
+Mallard
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Northern Pintail
+Northern Shoveler
+Red-bellied Woodpecker
+Red-headed Woodpecker
+Red-tailed Hawk
+Ring-billed Gull
+Ring-necked Duck
+Ruddy Duck
+White-crowned Sparrow
+---Paul 2014-01-09 Oklahoma|Lake Hefner, OKC
+
+American Coot (Red-shielded)
+American Kestrel
+American White Pelican
+Black-crowned Night-Heron
+Bonaparte's Gull
+Bufflehead
+Canada Goose
+Common Merganser
+Cooper's Hawk
+Double-crested Cormorant
+Eared Grebe
+Gadwall
+Great Blue Heron
+Great Egret
+Green-winged Teal
+Herring Gull
+Hooded Merganser
+Killdeer
+Mallard
+Northern Cardinal
+Northern Pintail
+Northern Shoveler
+Pied-billed Grebe
+Red-tailed Hawk
+Red-winged Blackbird
+Ring-billed Gull
+Ring-necked Duck
+Rock Pigeon
+Ruddy Duck
+---Mark 2014-01-10 Texas|US 60, Hereford
+
+Northern Harrier
+---Paul 2014-01-10 Oklahoma|S. Jenkins, Norman
+
+American Crow
+Carolina Chickadee
+Downy Woodpecker
+Eastern Phoebe
+Great Blue Heron
+Northern Flicker (Red-shafted)
+Northern Mockingbird
+Red-shouldered Hawk
+Red-winged Blackbird
+Rock Pigeon
+Song Sparrow
+Tufted Titmouse
+---Mark 2014-01-12 Oklahoma|Hinton
+
+Great Horned Owl
+---Paul 2014-01-12 Texas|Hagerman NWR
+
+American Coot (Red-shielded)
+American Crow
+Black Vulture
+Bufflehead
+Canvasback
+Common Grackle
+Cooper's Hawk
+Eastern Meadowlark
+Gadwall
+Harris's Sparrow
+Mallard
+Northern Harrier
+Northern Pintail
+Northern Shoveler
+Red-shouldered Hawk
+Red-tailed Hawk
+Ring-necked Duck
+Ruddy Duck
+Snow Goose
+Turkey Vulture
+---Paul 2014-01-13 Texas|Heritage Ranch, Fairview
+
+American Crow
+American Goldfinch
+American Robin
+Blue Jay
+Canada Goose
+Carolina Chickadee
+Carolina Wren
+Cedar Waxwing
+Dark-eyed Junco (Slate-colored)
+Double-crested Cormorant
+Downy Woodpecker
+Eastern Bluebird
+House Finch
+Killdeer
+Mallard
+Mourning Dove
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Northern Mockingbird
+Red-bellied Woodpecker
+Red-shouldered Hawk
+Red-winged Blackbird
+Ruby-crowned Kinglet
+Tufted Titmouse
+Turkey Vulture
+White-throated Sparrow
+Yellow-bellied Sapsucker
+Yellow-rumped Warbler (Myrtle)
+---Paul 2014-01-14 Texas|Heritage Ranch, Fairview
+
+Black Vulture
+Blue Jay
+Carolina Chickadee
+Carolina Wren
+Hermit Thrush
+Mallard
+Red-bellied Woodpecker
+Red-shouldered Hawk
+Red-winged Blackbird
+Tufted Titmouse
+Turkey Vulture
+White-throated Sparrow
+Yellow-bellied Sapsucker
+---Mark 2014-01-15 Ohio|Scioto River, Columbus
+
+Canada Goose
+Great Blue Heron
+Hooded Merganser
+Mallard
+Ring-billed Gull
+---Paul 2014-01-15 Texas|Heritage Ranch, Fairview
+
+Great Blue Heron
+White-breasted Nuthatch
+---Mark 2014-01-16 Ohio|Miranova
+
+Canada Goose
+Great Blue Heron
+Mallard
+Ring-billed Gull
+---Paul 2014-01-16 Texas|Heard Wildlife Sanctuary, Fairview
+
+American Crow
+American Goldfinch
+American Kestrel
+Black Vulture
+Bufflehead
+Canada Goose
+Carolina Chickadee
+Carolina Wren
+Dark-eyed Junco (Slate-colored)
+Downy Woodpecker
+Eastern Phoebe
+European Starling
+Field Sparrow
+Fox Sparrow (Red)
+Gray Catbird
+Harris's Sparrow
+Hooded Merganser
+House Finch
+Mallard
+Northern Cardinal
+Northern Mockingbird
+Red-bellied Woodpecker
+Red-shouldered Hawk
+Red-tailed Hawk
+Red-winged Blackbird
+Ruby-crowned Kinglet
+Rusty Blackbird
+Tufted Titmouse
+Turkey Vulture
+White-throated Sparrow
+Winter Wren
+Wood Duck
+Yellow-rumped Warbler (Myrtle)
+---Paul 2014-01-17 Texas|Heritage Ranch, Fairview
+
+American Crow
+Black Vulture
+Blue Jay
+Brown Thrasher
+Carolina Chickadee
+Carolina Wren
+Dark-eyed Junco (Slate-colored)
+Downy Woodpecker
+Fox Sparrow (Red)
+Northern Cardinal
+Red-bellied Woodpecker
+Ruby-crowned Kinglet
+Tufted Titmouse
+Turkey Vulture
+White-throated Sparrow
+Yellow-bellied Sapsucker
+Yellow-rumped Warbler (Myrtle)
+---Paul 2014-01-17 Texas|Towne Lake Park, McKinney
+
+American Coot (Red-shielded)
+Canada Goose
+Carolina Chickadee
+Double-crested Cormorant
+Downy Woodpecker
+Gadwall
+Great Egret
+Mallard
+Northern Shoveler
+Ring-billed Gull
+Ring-necked Duck
+Ruddy Duck
+Sharp-shinned Hawk
+Tufted Titmouse
+---Mark 2014-01-18 Ohio|Scioto Audubon Metro Park
+
+Northern Cardinal
+---Paul 2014-01-19 Texas|701 Mustang Dr., Fairview
+
+White-winged Dove
+---Paul 2014-01-20 Texas|Lavon Lake, Lucas
+
+American Coot (Red-shielded)
+American Kestrel
+American White Pelican
+Black Vulture
+Bonaparte's Gull
+Dark-eyed Junco (Slate-colored)
+Double-crested Cormorant
+Forster's Tern
+Fox Sparrow (Red)
+Franklin's Gull
+Great Blue Heron
+Great Egret
+Herring Gull
+Lincoln's Sparrow
+Mallard
+Neotropic Cormorant
+Red-bellied Woodpecker
+Red-tailed Hawk
+Ring-billed Gull
+Turkey Vulture
+White-throated Sparrow
+Yellow-headed Blackbird
+---Paul 2014-01-21 Texas|Heard Wildlife Sanctuary, Fairview
+
+Blue Jay
+Brown-headed Cowbird
+Carolina Chickadee
+Cedar Waxwing
+Cooper's Hawk
+Downy Woodpecker
+Fox Sparrow (Red)
+Harris's Sparrow
+Hermit Thrush
+House Finch
+Northern Cardinal
+Northern Mockingbird
+Red-bellied Woodpecker
+Red-shouldered Hawk
+Red-tailed Hawk
+Red-winged Blackbird
+Ruby-crowned Kinglet
+Rusty Blackbird
+Song Sparrow
+Tufted Titmouse
+White-crowned Sparrow
+White-throated Sparrow
+Yellow-rumped Warbler (Myrtle)
+---Paul 2014-01-21 Texas|Lavon Lake, Lucas
+
+American Crow
+Black Vulture
+Bonaparte's Gull
+Carolina Wren
+Double-crested Cormorant
+Eastern Bluebird
+Gadwall
+Herring Gull
+Lesser Scaup
+Mallard
+Mourning Dove
+Neotropic Cormorant
+Northern Harrier
+Orange-crowned Warbler
+Ring-billed Gull
+Ring-necked Duck
+Turkey Vulture
+---Paul 2014-01-22 Texas|701 Mustang Dr., Fairview
+
+Eastern Bluebird
+House Finch
+---Paul 2014-01-22 Texas|Hagerman NWR
+
+American Coot (Red-shielded)
+American Crow
+American Goldfinch
+American Kestrel
+Black Vulture
+Blue Jay
+Canada Goose
+Canvasback
+Carolina Chickadee
+Carolina Wren
+Cedar Waxwing
+Cooper's Hawk
+Dark-eyed Junco (Slate-colored)
+Double-crested Cormorant
+Downy Woodpecker
+Eastern Phoebe
+Eurasian Collared-Dove
+European Starling
+Forster's Tern
+Gadwall
+Great Blue Heron
+Greater Yellowlegs
+Green-winged Teal
+Harris's Sparrow
+House Sparrow
+Killdeer
+Lesser Black-backed Gull (fuscus)
+Mallard
+Mourning Dove
+Neotropic Cormorant
+Northern Cardinal
+Northern Harrier
+Northern Pintail
+Northern Shoveler
+Red-bellied Woodpecker
+Red-shouldered Hawk
+Red-tailed Hawk
+Red-winged Blackbird
+Ring-billed Gull
+Rock Pigeon
+Ruby-crowned Kinglet
+Savannah Sparrow
+Sharp-shinned Hawk
+Snow Goose
+Tufted Titmouse
+Turkey Vulture
+Western Meadowlark
+White-crowned Sparrow
+---Mark 2014-01-24 Ohio|Miranova
+
+Canada Goose
+Mallard
+Ring-billed Gull
+---Mark 2014-01-25 Ohio|Miranova
+
+Double-crested Cormorant
+Hooded Merganser
+---Paul 2014-01-25 Texas|Heritage Ranch, Fairview
+
+American Crow
+Black Vulture
+Carolina Chickadee
+Carolina Wren
+Cedar Waxwing
+Northern Cardinal
+Northern Mockingbird
+Tufted Titmouse
+Turkey Vulture
+---Mark 2014-01-26 Ohio|Miranova
+
+Great Blue Heron
+---Paul 2014-01-31 Texas|Heard Wildlife Sanctuary, Fairview
+
+American Crow
+Carolina Chickadee
+Carolina Wren
+Cooper's Hawk
+Dark-eyed Junco (Slate-colored)
+Field Sparrow
+Great Blue Heron
+Mallard
+Mourning Dove
+Northern Cardinal
+Northern Harrier
+Northern Mockingbird
+Red-bellied Woodpecker
+Red-tailed Hawk
+Red-winged Blackbird
+Ruby-crowned Kinglet
+Rusty Blackbird
+White-throated Sparrow
+Wood Duck

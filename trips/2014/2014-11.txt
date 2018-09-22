@@ -1,0 +1,1133 @@
+---Mark 2014-11-01 Texas|Port Lavaca
+
+Black-bellied Plover
+Bonaparte's Gull
+Brown Pelican
+Eurasian Collared-Dove
+Great Blue Heron
+Great Egret
+Great-tailed Grackle
+Greater Yellowlegs
+Laughing Gull
+Little Blue Heron
+Long-billed Curlew
+Rock Pigeon
+Royal Tern
+Ruddy Turnstone
+Snowy Egret
+Tricolored Heron
+Western Sandpiper
+White Ibis
+Willet
+---Mark 2014-11-02 Texas|Aransas NWR
+
+American Kestrel
+American White Pelican
+Black Vulture
+Brown Pelican
+Common Ground-Dove
+Double-crested Cormorant
+Eastern Phoebe
+Golden-crowned Kinglet
+Great Blue Heron
+Great Egret
+Lesser Black-backed Gull
+Little Blue Heron
+Marsh Wren
+Mourning Dove
+Northern Mockingbird
+Northern Pintail
+Osprey
+Pied-billed Grebe
+Roseate Spoonbill
+Royal Tern
+Snowy Egret
+Tricolored Heron
+Turkey Vulture
+White Ibis
+Willet
+---Mark 2014-11-02 Texas|Highway 77
+
+Brewer's Blackbird
+White-tailed Hawk
+---Mark 2014-11-02 Texas|Highway TX 35
+
+American Kestrel
+Anhinga
+Black Vulture
+Cattle Egret
+Common Grackle
+Mourning Dove
+Red-tailed Hawk
+Turkey Vulture
+Western/Eastern Meadowlark
+---Mark 2014-11-02 Texas|Highway TX474
+
+Scissor-tailed Flycatcher
+---Mark 2014-11-02 Texas|South Padre Island
+
+Belted Kingfisher
+---Paul 2014-11-02 Texas|Aransas NWR
+
+American Avocet
+American Crow
+American Kestrel
+American White Pelican
+Belted Kingfisher
+Black Vulture
+Black-bellied Plover
+Brewer's Blackbird
+Brown Pelican (Atlantic)
+Brown-headed Cowbird
+Carolina Chickadee
+Carolina Wren
+Cattle Egret
+Common Grackle
+Common Ground-Dove
+Crested Caracara
+Double-crested Cormorant
+Eastern Bluebird
+Eastern Phoebe
+Eurasian Collared-Dove
+Forster's Tern
+Franklin's Gull
+Golden-crowned Kinglet
+Great Blue Heron
+Great Egret
+Great-tailed Grackle
+Greater Yellowlegs
+House Sparrow
+Laughing Gull
+Least Sandpiper
+Little Blue Heron
+Long-billed Curlew
+Mallard
+Mourning Dove
+Neotropic Cormorant
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Northern Mockingbird
+Northern Pintail
+Northern Shoveler
+Osprey
+Pied-billed Grebe
+Red-bellied Woodpecker
+Red-tailed Hawk
+Red-winged Blackbird
+Redhead
+Ring-billed Gull
+Rock Pigeon
+Roseate Spoonbill
+Royal Tern
+Ruby-crowned Kinglet
+Ruddy Turnstone
+Sandhill Crane
+Scissor-tailed Flycatcher
+Sharp-shinned Hawk
+Snowy Egret
+Tricolored Heron
+Turkey Vulture
+Western Meadowlark
+White Ibis
+White-tailed Hawk
+White-winged Dove
+Whooping Crane
+Willet
+Winter Wren
+---Mark 2014-11-03 Texas|South Padre Island and Highway 48
+
+American Avocet
+American Coot
+American Kestrel
+American White Pelican
+American Wigeon
+Belted Kingfisher
+Black Skimmer
+Black-bellied Plover
+Black-necked Stilt
+Brown Pelican
+Carolina Wren
+Caspian Tern
+Cattle Egret
+Common Gallinule
+Common Grackle
+Double-crested Cormorant
+Dunlin
+Eastern Meadowlark
+Eurasian Collared-Dove
+Forster's Tern
+Franklin's Gull
+Gray Catbird
+Great Blue Heron
+Great-tailed Grackle
+Gull-billed Tern
+Harris's Hawk
+Herring Gull
+House Sparrow
+Killdeer
+Laughing Gull
+Least Sandpiper
+Lesser Yellowlegs
+Long-billed Curlew
+Marbled Godwit
+Marsh Wren
+Mottled Duck
+Mourning Dove
+Northern Harrier
+Northern Mockingbird
+Osprey
+Pied-billed Grebe
+Piping Plover
+Red-winged Blackbird
+Reddish Egret
+Ring-billed Gull
+Rock Pigeon
+Roseate Spoonbill
+Royal Tern
+Ruddy Turnstone
+Sanderling
+Sandwich Tern
+Semipalmated Plover
+Snowy Egret
+Tricolored Heron
+Tropical Kingbird
+Turkey Vulture
+Western Kingbird
+Western Sandpiper
+White Ibis
+White-tailed Hawk
+White-winged Dove
+Willet
+Wood Stork
+---Paul 2014-11-03 Texas|S. Padre Island
+
+American Avocet
+American Coot (Red-shielded)
+American Kestrel
+American White Pelican
+American Wigeon
+Belted Kingfisher
+Black Skimmer
+Black-bellied Plover
+Black-necked Stilt
+Brown Pelican (Atlantic)
+Carolina Wren (Northeast Mexico/South Texas)
+Caspian Tern
+Cattle Egret
+Common Gallinule
+Common Grackle
+Double-crested Cormorant
+Dunlin
+Eastern Meadowlark
+Eurasian Collared-Dove
+European Starling
+Forster's Tern
+Franklin's Gull
+Gray Catbird
+Great Blue Heron
+Great Egret
+Great-tailed Grackle
+Gull-billed Tern
+Harris's Hawk
+Herring Gull
+House Sparrow
+Killdeer
+Laughing Gull
+Least Sandpiper
+Lesser Yellowlegs
+Little Blue Heron
+Long-billed Curlew
+Marbled Godwit
+Mottled Duck
+Mourning Dove
+Northern Harrier
+Northern Mockingbird
+Osprey
+Pied-billed Grebe
+Piping Plover
+Red-winged Blackbird
+Reddish Egret
+Ring-billed Gull
+Rock Pigeon
+Roseate Spoonbill
+Royal Tern
+Ruddy Turnstone
+Sanderling
+Sandwich Tern
+Semipalmated Plover
+Semipalmated Sandpiper
+Snowy Egret
+Tricolored Heron
+Tropical Kingbird
+Turkey Vulture
+Western Kingbird
+Western Sandpiper
+White Ibis
+White-tailed Hawk
+White-winged Dove
+Willet
+Wood Stork
+---Mark 2014-11-04 Texas|South Padre Island, Laguna Atascosa and Brownsville
+
+American Coot
+American Kestrel
+Black Vulture
+Brown Pelican
+Brown-headed Cowbird
+Caspian Tern
+Common Grackle
+Common Ground-Dove
+Crested Caracara
+Double-crested Cormorant
+Eastern Meadowlark
+Eurasian Collared-Dove
+European Starling
+Forster's Tern
+Golden-fronted Woodpecker
+Grasshopper Sparrow
+Great Blue Heron
+Great Egret
+Great Kiskadee
+Great-tailed Grackle
+Green Jay
+Green Kingfisher
+Gull-billed Tern
+Harris's Hawk
+Laughing Gull
+Least Grebe
+Lilac-crowned Parrot
+Little Blue Heron
+Loggerhead Shrike
+Mourning Dove
+Northern Harrier
+Northern Mockingbird
+Plain Chachalaca
+Red-crowned Parrot
+Red-lored Parrot
+Red-tailed Hawk
+Red-winged Blackbird
+Reddish Egret
+Ring-billed Gull
+Ringed Kingfisher
+Rock Pigeon
+Roseate Spoonbill
+Ruby-throated Hummingbird
+Ruddy Duck
+Ruddy Turnstone
+Sanderling
+Scissor-tailed Flycatcher
+Song Sparrow
+Tropical Kingbird
+Turkey Vulture
+White-fronted Parrot
+White-tipped Dove
+Willet
+Yellow-headed Parrot
+---Paul 2014-11-04 Texas|Laguna Atascosa NWR
+
+American Coot (Red-shielded)
+American Kestrel
+American White Pelican
+Black Vulture
+Brown Pelican (Atlantic)
+Brown-headed Cowbird
+Caspian Tern
+Cattle Egret
+Common Grackle
+Common Ground-Dove
+Crested Caracara
+Double-crested Cormorant
+Eastern Meadowlark
+Eurasian Collared-Dove
+European Starling
+Forster's Tern
+Golden-fronted Woodpecker
+Grasshopper Sparrow
+Great Blue Heron
+Great Egret
+Great Kiskadee
+Great-tailed Grackle
+Green Jay
+Green Kingfisher
+Groove-billed Ani
+Gull-billed Tern
+Harris's Hawk
+Laughing Gull
+Lilac-crowned Parrot
+Little Blue Heron
+Loggerhead Shrike
+Marsh Wren
+Mourning Dove
+Northern Harrier
+Northern Mockingbird
+Osprey
+Plain Chachalaca
+Red-crowned Parrot
+Red-lored Parrot
+Red-tailed Hawk
+Red-winged Blackbird
+Reddish Egret
+Ringed Kingfisher
+Rock Pigeon
+Roseate Spoonbill
+Ruddy Duck
+Ruddy Turnstone
+Sanderling
+Scissor-tailed Flycatcher
+Song Sparrow
+Tropical Kingbird
+Turkey Vulture
+White-fronted Parrot
+White-tipped Dove
+Willet
+Yellow-headed Parrot
+---Mark 2014-11-05 Texas|Hugh Ramsey, Harlingen Lake
+
+American Coot
+American Kestrel
+American Oystercatcher
+American White Pelican
+Belted Kingfisher
+Black-bellied Whistling-Duck
+Brown Pelican
+Buff-bellied Hummingbird
+Caspian Tern
+Curve-billed Thrasher
+Forster's Tern
+Golden-fronted Woodpecker
+Great Blue Heron
+Great Egret
+Great Kiskadee
+Green Jay
+Gull-billed Tern
+House Sparrow
+Inca Dove
+Laughing Gull
+Marbled Godwit
+Northern Cardinal
+Osprey
+Pectoral Sandpiper
+Pied-billed Grebe
+Ring-billed Gull
+Roseate Spoonbill
+Royal Tern
+Snowy Egret
+Tricolored Heron
+Willet
+---Paul 2014-11-05 Texas|Harlingen
+
+American Avocet
+American Coot (Red-shielded)
+American Kestrel
+American White Pelican
+Belted Kingfisher
+Black-bellied Whistling-Duck
+Brown Pelican (Atlantic)
+Buff-bellied Hummingbird
+Caspian Tern
+Cattle Egret
+Curve-billed Thrasher
+Double-crested Cormorant
+Eurasian Collared-Dove
+Forster's Tern
+Golden-fronted Woodpecker
+Great Blue Heron
+Great Egret
+Great Kiskadee
+Great-tailed Grackle
+Green Jay
+Gull-billed Tern
+House Sparrow
+Inca Dove
+Laughing Gull
+Little Blue Heron
+Marbled Godwit
+Mourning Dove
+Northern Cardinal
+Northern Harrier
+Northern Mockingbird
+Osprey
+Pectoral Sandpiper
+Pied-billed Grebe
+Ring-billed Gull
+Rock Pigeon
+Roseate Spoonbill
+Royal Tern
+Ruddy Turnstone
+Sanderling
+Sandhill Crane
+Snowy Egret
+Tricolored Heron
+Tropical Kingbird
+Turkey Vulture
+Willet
+---Mark 2014-11-06 Texas|Estero Llano Grande, Frontera
+
+American Coot
+Black-and-white Warbler
+Black-bellied Whistling-Duck
+Black-crested Titmouse
+Black-necked Stilt
+Blue-headed Vireo
+Blue-winged Teal
+Brown-headed Cowbird
+Buff-bellied Hummingbird
+Common Gallinule
+Common Pauraque
+Common Yellowthroat
+Fulvous Whistling-Duck
+Gadwall
+Golden-fronted Woodpecker
+Great Kiskadee
+Great-tailed Grackle
+Greater Yellowlegs
+Green Jay
+Green-winged Teal
+House Sparrow
+Killdeer
+Least Grebe
+Least Sandpiper
+Lesser Yellowlegs
+Little Blue Heron
+Long-billed Thrasher
+Marsh Wren
+Northern Cardinal
+Orange-crowned Warbler
+Pied-billed Grebe
+Plain Chachalaca
+Red-winged Blackbird
+Ruby-crowned Kinglet
+Ruby-throated Hummingbird
+Snowy Egret
+Spotted Sandpiper
+Stilt Sandpiper
+White Ibis
+White-faced Ibis
+White-tipped Dove
+Wilson's Snipe
+Wilson's Warbler
+Yellow-crowned Night-Heron
+---Paul 2014-11-06 Texas|Estero Llano Grande, Weslaco
+
+American Coot (Red-shielded)
+Barn Swallow
+Black-and-white Warbler
+Black-bellied Whistling-Duck
+Black-crested Titmouse
+Black-necked Stilt
+Blue-winged Teal
+Brown-headed Cowbird
+Buff-bellied Hummingbird
+Common Gallinule
+Common Grackle
+Common Pauraque
+Common Yellowthroat
+Eastern Phoebe
+Fulvous Whistling-Duck
+Gadwall
+Golden-fronted Woodpecker
+Great Kiskadee
+Great-tailed Grackle
+Greater Yellowlegs
+Green Jay
+Green-winged Teal
+House Sparrow
+Inca Dove
+Killdeer
+Least Grebe
+Least Sandpiper
+Lesser Yellowlegs
+Little Blue Heron
+Long-billed Thrasher
+Marsh Wren
+Northern Cardinal
+Northern Mockingbird
+Orange-crowned Warbler
+Pied-billed Grebe
+Red-winged Blackbird
+Rock Pigeon
+Ruby-crowned Kinglet
+Ruby-throated Hummingbird
+Snowy Egret
+Spotted Sandpiper
+Stilt Sandpiper
+White Ibis
+White-faced Ibis
+White-tipped Dove
+Wilson's Snipe
+Wilson's Warbler
+Yellow-crowned Night-Heron
+---Mark 2014-11-07 Texas|Ramsey
+
+Black-bellied Whistling-Duck
+Golden-fronted Woodpecker
+Green Jay
+Long-billed Thrasher
+Northern Cardinal
+Northern Mockingbird
+Plain Chachalaca
+Tropical Kingbird
+White-winged Dove
+---Paul 2014-11-07 Texas|Southmost Preserve
+
+American Kestrel
+American White Pelican
+Belted Kingfisher
+Blue-gray Gnatcatcher
+Blue-winged Teal
+Brown Pelican (Atlantic)
+Carolina Wren
+Common Grackle
+Couch's Kingbird
+Crested Caracara
+Double-crested Cormorant
+Eastern Meadowlark
+Eastern Phoebe
+Golden-fronted Woodpecker
+Great Blue Heron
+Great Egret
+Great Horned Owl
+Great-tailed Grackle
+Greater Yellowlegs
+Green Jay
+Harris's Hawk
+Horned Lark (Western rufous Group)
+Inca Dove
+Laughing Gull
+Loggerhead Shrike
+Marsh Wren
+Mourning Dove
+Northern Harrier
+Northern Mockingbird
+Northern Pintail
+Osprey
+Pied-billed Grebe
+Red-shouldered Hawk
+Red-winged Blackbird
+Reddish Egret
+Ring-billed Gull
+Ruddy Turnstone
+Sanderling
+Scissor-tailed Flycatcher
+Semipalmated Plover
+Snow Goose
+Snowy Egret
+Snowy Plover
+Tree Swallow
+Tropical Kingbird
+Turkey Vulture
+Vermilion Flycatcher
+White Ibis
+White-tailed Hawk
+White-tailed Kite
+Willet
+---Mark 2014-11-08 Texas|Anzalduas County Park, National Butterfly Center, Quinta Mazatlan
+
+American Kestrel
+Anhinga
+Black Vulture
+Black-crested Titmouse
+Black-throated Gray Warbler
+Black-throated Green Warbler
+Blue-gray Gnatcatcher
+Broad-winged Hawk
+Carolina Wren
+Cattle Egret
+Clay-colored Thrush
+Cooper's Hawk
+Crested Caracara
+Curve-billed Thrasher
+Eastern Screech-Owl
+Golden-fronted Woodpecker
+Gray Hawk
+Great Blue Heron
+Great Egret
+Great Kiskadee
+Great-tailed Grackle
+Green Jay
+Green Kingfisher
+House Finch
+House Sparrow
+Inca Dove
+Ladder-backed Woodpecker
+Mourning Dove
+Nashville Warbler
+Northern Mockingbird
+Orange-crowned Warbler
+Osprey
+Plain Chachalaca
+Red-shouldered Hawk
+Red-tailed Hawk
+Ringed Kingfisher
+Rock Pigeon
+Ruby-crowned Kinglet
+Scissor-tailed Flycatcher
+Snowy Egret
+Tropical Kingbird
+Turkey Vulture
+White-eyed Vireo
+White-tipped Dove
+White-winged Dove
+Zone-tailed Hawk
+goose sp.
+---Paul 2014-11-08 Texas|Anzalduas County Park, McAllen
+
+American Kestrel
+Anhinga
+Black Vulture
+Black-crested Titmouse
+Black-throated Gray Warbler
+Black-throated Green Warbler
+Blue-gray Gnatcatcher
+Broad-winged Hawk
+Buff-bellied Hummingbird
+Cattle Egret
+Clay-colored Thrush
+Cooper's Hawk
+Crested Caracara
+Curve-billed Thrasher
+Eastern Phoebe
+Eastern Screech-Owl
+Eurasian Collared-Dove
+European Starling
+Golden-fronted Woodpecker
+Gray Hawk
+Great Blue Heron
+Great Egret
+Great-tailed Grackle
+Green Jay
+Green Kingfisher
+House Finch
+House Sparrow
+Inca Dove
+Ladder-backed Woodpecker
+Mourning Dove
+Nashville Warbler
+Northern Mockingbird
+Orange-crowned Warbler
+Osprey
+Plain Chachalaca
+Red-shouldered Hawk
+Red-tailed Hawk
+Ringed Kingfisher
+Rock Pigeon
+Ruby-crowned Kinglet
+Scissor-tailed Flycatcher
+Snowy Egret
+Tropical Kingbird
+Turkey Vulture
+White-eyed Vireo
+Wilson's Warbler
+Zone-tailed Hawk
+---Mark 2014-11-09 Texas|Pontoon boat ride and  Anzalduas County Park
+
+Altamira Oriole
+American Kestrel
+American White Pelican
+Barn Swallow
+Belted Kingfisher
+Black Phoebe
+Black Vulture
+Black-throated Gray Warbler
+Blue-gray Gnatcatcher
+Broad-winged Hawk
+Double-crested Cormorant
+Eastern Phoebe
+Eurasian Collared-Dove
+Golden-fronted Woodpecker
+Great Blue Heron
+Great Egret
+Great Kiskadee
+Great-tailed Grackle
+Greater White-fronted Goose
+Green Kingfisher
+House Finch
+House Sparrow
+House Wren
+Killdeer
+Lesser Goldfinch
+Mourning Dove
+Muscovy Duck
+Northern Cardinal
+Northern Harrier
+Northern Mockingbird
+Northern Rough-winged Swallow
+Orange-crowned Warbler
+Osprey
+Red-shouldered Hawk
+Ruby-crowned Kinglet
+Savannah Sparrow
+Snowy Egret
+Spotted Sandpiper
+Sprague's Pipit
+Tropical Kingbird
+Turkey Vulture
+Verdin
+Vermilion Flycatcher
+Zone-tailed Hawk
+---Paul 2014-11-09 Texas|Anzalduas County Park, McAllen
+
+Altamira Oriole
+American Kestrel
+American Pipit
+American White Pelican
+Barn Swallow
+Belted Kingfisher
+Black Phoebe
+Black Vulture
+Black-crested Titmouse
+Black-throated Gray Warbler
+Blue-gray Gnatcatcher
+Broad-winged Hawk
+Carolina Wren
+Cattle Egret
+Cedar Waxwing
+Double-crested Cormorant
+Eastern Phoebe
+Eurasian Collared-Dove
+Golden-fronted Woodpecker
+Gray Hawk
+Great Blue Heron
+Great Egret
+Great Kiskadee
+Greater White-fronted Goose
+Green Jay
+Green Kingfisher
+House Finch
+House Sparrow
+House Wren
+Inca Dove
+Killdeer
+Ladder-backed Woodpecker
+Lesser Goldfinch
+Mourning Dove
+Muscovy Duck
+Nashville Warbler
+Northern Cardinal
+Northern Harrier
+Northern Mockingbird
+Northern Rough-winged Swallow
+Orange-crowned Warbler
+Osprey
+Red-shouldered Hawk
+Red-winged Blackbird
+Ringed Kingfisher
+Rock Pigeon
+Ruby-crowned Kinglet
+Rufous Hummingbird
+Savannah Sparrow
+Spotted Sandpiper
+Sprague's Pipit
+Tropical Kingbird
+Turkey Vulture
+Verdin
+Vermilion Flycatcher
+Western Meadowlark
+White-eyed Vireo
+Wilson's Warbler
+Zone-tailed Hawk
+---Mark 2014-11-14 Texas|Blackland Prairie Raptor Center
+
+American Crow
+Black Vulture
+Carolina Chickadee
+Cooper's Hawk
+Double-crested Cormorant
+Downy Woodpecker
+Eastern Bluebird
+Franklin's Gull
+Great Blue Heron
+Killdeer
+Least Sandpiper
+Northern Cardinal
+Northern Flicker
+Ring-billed Gull
+Ruby-crowned Kinglet
+Turkey Vulture
+Yellow-rumped Warbler
+duck sp.
+---Paul 2014-11-14 Texas|Black plains Raptor Center, Lucas
+
+Black Vulture
+Cooper's Hawk
+Double-crested Cormorant
+Downy Woodpecker
+Eastern Bluebird
+Forster's Tern
+Franklin's Gull
+Great Blue Heron
+Killdeer
+Least Sandpiper
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Northern Mockingbird
+Ring-billed Gull
+Ruby-crowned Kinglet
+Turkey Vulture
+Yellow-rumped Warbler (Myrtle)
+---Paul 2014-11-16 Texas|701 Mustang Dr., Fairview
+
+Dark-eyed Junco (Slate-colored)
+Downy Woodpecker
+House Sparrow
+Mourning Dove
+Tufted Titmouse
+---Paul 2014-11-16 Texas|Towne Lake Park, McKinney
+
+American Coot (Red-shielded)
+Belted Kingfisher
+Canada Goose
+Double-crested Cormorant
+Eastern Bluebird
+Gadwall
+Great Blue Heron
+Great Egret
+Mallard
+Northern Mockingbird
+Northern Shoveler
+Pied-billed Grebe
+Ring-billed Gull
+Ring-necked Duck
+Turkey Vulture
+Yellow-rumped Warbler (Myrtle)
+---Mark 2014-11-19 Ohio|I-71 near Cincinnati
+
+Turkey Vulture
+---Mark 2014-11-20 Ohio|Miranova
+
+Ring-billed Gull
+---Mark 2014-11-20 Ohio|Scioto River, Columbus
+
+American Robin
+Canada Goose
+European Starling
+House Sparrow
+Mallard
+White-throated Sparrow
+---Mark 2014-11-21 Ohio|Miranova
+
+Canada Goose
+---Mark 2014-11-21 Ohio|Scioto River, Columbus
+
+American Goldfinch
+Mallard
+Ring-billed Gull
+---Paul 2014-11-22 Oklahoma|On the road, TX to OK
+
+American Kestrel
+Black Vulture
+Broad-winged Hawk
+Red-tailed Hawk
+Turkey Vulture
+---Mark 2014-11-23 Ohio|Scioto Audubon Metro Park
+
+American Goldfinch
+American Robin
+Carolina Chickadee
+Carolina Wren
+Downy Woodpecker
+House Finch
+House Sparrow
+Mourning Dove
+Northern Cardinal
+Ring-billed Gull
+Song Sparrow
+Tufted Titmouse
+duck sp.
+---Paul 2014-11-23 Oklahoma|S. Jenkins, Norman
+
+American Crow
+American Goldfinch
+American Kestrel
+Carolina Chickadee
+Carolina Wren
+Downy Woodpecker
+European Starling
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Northern Mockingbird
+Red-bellied Woodpecker
+Red-shouldered Hawk
+Red-tailed Hawk
+Red-winged Blackbird
+Ring-billed Gull
+Yellow-headed Blackbird
+---Mark 2014-11-26 Ohio|Miranova
+
+American Robin
+House Finch
+---Paul 2014-11-26 Oklahoma|Lake Thunderbird, Norman
+
+American Coot (Red-shielded)
+American Crow
+American Goldfinch
+Blue Jay
+Bonaparte's Gull
+Carolina Chickadee
+Cedar Waxwing
+Dark-eyed Junco (Slate-colored)
+Double-crested Cormorant
+Downy Woodpecker
+Eastern Bluebird
+European Starling
+Field Sparrow
+Franklin's Gull
+Great Blue Heron
+Greater Yellowlegs
+Hairy Woodpecker
+Harris's Sparrow
+Horned Grebe
+House Sparrow
+Killdeer
+Mallard
+Mourning Dove
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Northern Mockingbird
+Pied-billed Grebe
+Pileated Woodpecker
+Red-bellied Woodpecker
+Red-headed Woodpecker
+Red-shouldered Hawk
+Red-tailed Hawk
+Ring-billed Gull
+Tufted Titmouse
+White-breasted Nuthatch
+White-crowned Sparrow
+Yellow-rumped Warbler (Myrtle)
+---Paul 2014-11-26 Oklahoma|Summit Lake, Norman
+
+American Coot (Red-shielded)
+Canada Goose
+Canvasback
+Common Goldeneye
+Gadwall
+Mallard
+Redhead
+Ring-necked Duck
+---Mark 2014-11-29 Ohio|Miranova
+
+American Robin
+Canada Goose
+Great Blue Heron
+---Mark 2014-11-29 Ohio|Scioto River, Columbus
+
+American Robin
+Canada Goose
+Carolina Chickadee
+Mallard
+White-throated Sparrow
+---Paul 2014-11-29 Oklahoma|Lake Thunderbird, Norman
+
+American Coot (Red-shielded)
+American Crow
+American Goldfinch
+Belted Kingfisher
+Blue Jay
+Bonaparte's Gull
+Broad-winged Hawk
+Carolina Chickadee
+Carolina Wren
+Cedar Waxwing
+Dark-eyed Junco (Slate-colored)
+Double-crested Cormorant
+Downy Woodpecker
+Eastern Bluebird
+Harris's Sparrow
+Horned Grebe
+House Sparrow
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Pied-billed Grebe
+Red-bellied Woodpecker
+Red-headed Woodpecker
+Ring-billed Gull
+Tufted Titmouse
+Turkey Vulture
+Yellow-bellied Sapsucker
+Yellow-rumped Warbler (Myrtle)
+---Paul 2014-11-29 Oklahoma|Summit Lake, Norman
+
+American Crow
+American Wigeon
+Bufflehead
+Canada Goose
+Canvasback
+Common Goldeneye
+Gadwall
+Mallard
+Pied-billed Grebe
+Redhead
+Ring-necked Duck
+Ruddy Duck
+---Paul 2014-11-30 Oklahoma|Lake Hefner, Oklahoma City
+
+American Coot (Red-shielded)
+American Crow
+American White Pelican
+American Wigeon
+Bonaparte's Gull
+Bufflehead
+Cackling Goose
+Canada Goose
+Common Grackle
+Common Loon
+Double-crested Cormorant
+Eurasian Collared-Dove
+European Starling
+Forster's Tern
+Gadwall
+Great Blue Heron
+Great-tailed Grackle
+Greater Yellowlegs
+Green-winged Teal
+Herring Gull
+Horned Grebe
+Killdeer
+Least Sandpiper
+Mallard
+Mourning Dove
+Northern Mockingbird
+Northern Pintail
+Northern Shoveler
+Pied-billed Grebe
+Red-breasted Merganser
+Red-winged Blackbird
+Redhead
+Ring-billed Gull
+Ring-necked Duck
+Rock Pigeon
+Ruddy Duck
+---Paul 2014-11-30 Oklahoma|Lake Overholzer, Oklahoma City
+
+American Crow
+American White Pelican
+American Wigeon
+Canada Goose
+Common Merganser
+Franklin's Gull
+Gadwall
+Great Blue Heron
+Greater Scaup
+Greater Yellowlegs
+Green-winged Teal
+Horned Grebe
+Killdeer
+Mallard
+Pied-billed Grebe
+Redhead
+Ring-billed Gull
+Rock Pigeon
+Western Grebe
+---Paul 2014-11-30 Oklahoma|On the road Norman to OKC
+
+American Kestrel
+Canada Goose
+European Starling
+Great-tailed Grackle
+Mallard
+Mourning Dove
+Red-tailed Hawk
+Red-winged Blackbird
+Rock Pigeon

@@ -1,0 +1,696 @@
+---Mark 2015-07-01 Utah|Salt Lake City
+
+Eurasian Collared-Dove
+---Paul 2015-07-02 Texas|Heritage Ranch, Fairview
+
+American Crow
+Barn Swallow
+Brown-headed Cowbird
+Carolina Wren
+Downy Woodpecker
+Eastern Bluebird
+Eastern Phoebe
+Great Crested Flycatcher
+Great Egret
+House Finch
+Mourning Dove
+Northern Cardinal
+Red-bellied Woodpecker
+Red-eyed Vireo
+Red-shouldered Hawk
+Tufted Titmouse
+Turkey Vulture
+White-eyed Vireo
+---Mark 2015-07-03 Nevada|Gold Ranch RV Campground
+
+Steller's Jay
+---Paul 2015-07-03 Texas|Heritage Ranch, Fairview
+
+American Crow
+Barn Swallow
+Carolina Chickadee
+Carolina Wren
+Downy Woodpecker
+Eastern Bluebird
+Great Blue Heron
+Great Egret
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Red-bellied Woodpecker
+Red-eyed Vireo
+Tufted Titmouse
+White-eyed Vireo
+---Mark 2015-07-04 California|Concord
+
+American Robin
+House Finch
+Mourning Dove
+---Mark 2015-07-05 California|Concord
+
+American Robin
+Black Phoebe
+California Scrub-Jay
+Chestnut-backed Chickadee
+House Finch
+House Sparrow
+Mourning Dove
+Ruby-throated Hummingbird
+---Paul 2015-07-05 Texas|Heritage Ranch, Fairview
+
+Mississippi Kite
+Purple Martin
+---Mark 2015-07-06 California|Concord
+
+Barn Swallow
+Canada Goose
+Common Raven
+Great Egret
+Mallard
+Red-tailed Hawk
+Western Bluebird
+---Paul 2015-07-06 Texas|Heritage Ranch, Fairview
+
+Barn Swallow
+Carolina Wren
+Great Blue Heron
+Great Egret
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Red-bellied Woodpecker
+Red-eyed Vireo
+Red-shouldered Hawk
+Snowy Egret
+Tufted Titmouse
+White-eyed Vireo
+White-winged Dove
+---Mark 2015-07-07 California|Concord
+
+Western Tanager
+---Mark 2015-07-08 California|Concord
+
+California Towhee
+---Paul 2015-07-08 Massachusetts|Reed St., Warren
+
+American Crow
+American Goldfinch
+American Robin
+Barn Swallow
+Black-capped Chickadee
+Blue Jay
+Carolina Wren
+Cedar Waxwing
+Chimney Swift
+Chipping Sparrow
+Common Grackle
+Common Yellowthroat
+Downy Woodpecker
+Eastern Bluebird
+Eastern Kingbird
+European Starling
+Gray Catbird
+House Finch
+House Sparrow
+House Wren
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Pine Warbler
+Red-bellied Woodpecker
+Red-eyed Vireo
+Red-winged Blackbird
+Rock Pigeon
+Ruby-throated Hummingbird
+Song Sparrow
+Tree Swallow
+Tufted Titmouse
+White-breasted Nuthatch
+Yellow Warbler
+---Paul 2015-07-09 Massachusetts|Copper Lantern Motel, Quaboag River, West Brookfield
+
+American Goldfinch
+American Robin
+Barn Swallow
+Black-capped Chickadee
+Common Grackle
+Eastern Bluebird
+Eastern Kingbird
+European Starling
+Gray Catbird
+Great Blue Heron
+House Finch
+House Sparrow
+Red-bellied Woodpecker
+Red-winged Blackbird
+Song Sparrow
+Tree Swallow
+Warbling Vireo
+---Paul 2015-07-09 Massachusetts|Lancaster
+
+American Crow
+American Goldfinch
+American Robin
+Barn Swallow
+Canada Goose
+Double-crested Cormorant
+Eastern Bluebird
+European Starling
+Gray Catbird
+Hermit Thrush
+Mourning Dove
+Red-winged Blackbird
+Song Sparrow
+Warbling Vireo
+---Paul 2015-07-09 Massachusetts|Oakham,
+
+Wild Turkey
+---Paul 2015-07-09 Massachusetts|Rutland State Park, Rutland
+
+American Robin
+Eastern Kingbird
+Great Blue Heron
+Hermit Thrush
+Red-eyed Vireo
+Red-winged Blackbird
+Song Sparrow
+---Mark 2015-07-10 California|Glen Ellen
+
+Pileated Woodpecker
+---Paul 2015-07-10 Massachusetts|Lancster
+
+American Goldfinch
+American Robin
+Black-capped Chickadee
+Blue Jay
+Common Loon
+Common Yellowthroat
+European Starling
+Fox Sparrow (Red)
+Great Blue Heron
+Green Heron
+House Wren
+Lark Sparrow
+Mourning Dove
+Northern Cardinal
+Red-eyed Vireo
+Red-winged Blackbird
+Savannah Sparrow
+Song Sparrow
+Tree Swallow
+Turkey Vulture
+White-breasted Nuthatch
+Wild Turkey
+---Mark 2015-07-11 California|Glen Ellen
+
+Chestnut-backed Chickadee
+Spotted Towhee
+White-breasted Nuthatch
+---Mark 2015-07-12 California|Concord
+
+Black Phoebe
+Western Bluebird
+---Mark 2015-07-14 California|Concord
+
+Hooded Oriole
+---Mark 2015-07-15 California|San Francisco
+
+Brown Pelican
+Rock Pigeon
+---Paul 2015-07-15 Massachusetts|Reed St., Warren
+
+American Crow
+American Goldfinch
+American Robin
+Barn Swallow
+Black-capped Chickadee
+Blue Jay
+Bobolink
+Brown-headed Cowbird
+Chestnut-sided Warbler
+Chipping Sparrow
+Common Grackle
+Cooper's Hawk
+Downy Woodpecker
+Eastern Bluebird
+Eastern Kingbird
+European Starling
+Gray Catbird
+Great Blue Heron
+House Finch
+House Sparrow
+House Wren
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Red-winged Blackbird
+Rock Pigeon
+Scarlet Tanager
+Song Sparrow
+Tufted Titmouse
+Yellow Warbler
+---Mark 2015-07-16 California|Concord
+
+Hooded Oriole
+---Paul 2015-07-16 Massachusetts|Reed St., Warren
+
+American Crow
+American Goldfinch
+American Robin
+Bank Swallow
+Barn Swallow
+Blue Jay
+Bobolink
+Cedar Waxwing
+Chimney Swift
+Common Grackle
+Common Yellowthroat
+Downy Woodpecker
+Eastern Bluebird
+Eastern Kingbird
+European Starling
+Gray Catbird
+House Finch
+House Sparrow
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Red-bellied Woodpecker
+Red-winged Blackbird
+Rock Pigeon
+Song Sparrow
+Tufted Titmouse
+White-breasted Nuthatch
+Wood Thrush
+Yellow Warbler
+---Mark 2015-07-17 California|Bodega Bay
+
+American Oystercatcher
+Brandt's Cormorant
+Brown Pelican
+Common Raven
+Turkey Vulture
+White-crowned Sparrow
+Yellow-headed Blackbird
+gull sp.
+---Mark 2015-07-17 California|Petaluma
+
+American Crow
+Eurasian Collared-Dove
+---Paul 2015-07-17 Massachusetts|170 Maple St., Warren,
+
+Prairie Warbler
+Tufted Titmouse
+---Paul 2015-07-17 Massachusetts|Brooks St., West Warren,
+
+American Crow
+American Robin
+Bank Swallow
+Barn Swallow
+Belted Kingfisher
+Black-and-white Warbler
+Black-capped Chickadee
+Broad-winged Hawk
+Canada Goose
+Chimney Swift
+Common Grackle
+Common Yellowthroat
+Eastern Bluebird
+Eastern Kingbird
+Eastern Phoebe
+Gadwall
+Gray Catbird
+Great Blue Heron
+Mourning Dove
+Red-eyed Vireo
+Red-shouldered Hawk
+Red-winged Blackbird
+Ruby-throated Hummingbird
+Song Sparrow
+Tree Swallow
+Tufted Titmouse
+Warbling Vireo
+Wood Duck
+Yellow Warbler
+---Paul 2015-07-18 Massachusetts|Lucy Stone Park, Warren,
+
+American Crow
+American Redstart
+American Robin
+Barn Swallow
+Black-and-white Warbler
+Black-capped Chickadee
+Blue Jay
+Cedar Waxwing
+Chimney Swift
+Common Yellowthroat
+Eastern Phoebe
+Gray Catbird
+Great Blue Heron
+House Wren
+Mourning Dove
+Northern Cardinal
+Northern Waterthrush
+Rock Pigeon
+Song Sparrow
+Tufted Titmouse
+White-breasted Nuthatch
+Yellow Warbler
+---Mark 2015-07-19 California|Highway 29
+
+Wild Turkey
+---Paul 2015-07-19 Massachusetts|Chesterfield,
+
+Magnolia Warbler
+---Mark 2015-07-20 California|Mount Lassen
+
+American Coot
+Great Blue Heron
+Red-breasted Nuthatch
+woodpecker sp.
+---Paul 2015-07-20 Maine|Bar Harbor,
+
+American Black Duck
+American Crow
+American Goldfinch
+Black Guillemot
+Black-capped Chickadee
+Blue-headed Vireo
+Common Eider
+Common Loon
+Common Yellowthroat
+Double-crested Cormorant
+Great Black-backed Gull
+Hermit Thrush
+Herring Gull
+House Sparrow
+Mallard
+Northern Cardinal
+Red-eyed Vireo
+Red-winged Blackbird
+Song Sparrow
+---Mark 2015-07-21 California|Mount Lassen
+
+American Coot
+Clark's Nutcracker
+Western Tanager
+---Mark 2015-07-22 California|Mount Lassen
+
+American Coot
+American Robin
+Belted Kingfisher
+Brown Creeper
+Dark-eyed Junco
+Great Blue Heron
+Mallard
+Mountain Chickadee
+Osprey
+Purple Finch
+Red-breasted Nuthatch
+Red-tailed Hawk
+Red-winged Blackbird
+Steller's Jay
+Tricolored Blackbird
+Turkey Vulture
+Western Tanager
+Western Wood-Pewee
+Yellow-rumped Warbler (Audubon's)
+---Paul 2015-07-22 Maine|Bar Harbor,
+
+American Crow
+American Robin
+Arctic Tern
+Atlantic Puffin
+Bald Eagle
+Black Guillemot
+Black-and-white Warbler
+Blue Jay
+Chestnut-sided Warbler
+Chipping Sparrow
+Common Eider
+Common Loon
+Double-crested Cormorant
+Great Black-backed Gull
+Great Blue Heron
+Great Cormorant
+Great Shearwater
+Herring Gull
+House Sparrow
+Laughing Gull
+Northern Gannet
+Red-necked Phalarope
+Rock Pigeon
+Ruby-throated Hummingbird
+Wilson's Storm-Petrel
+---Paul 2015-07-23 Maine|Bar Harbor,
+
+Blue-headed Vireo
+Chipping Sparrow
+Common Loon
+Double-crested Cormorant
+Downy Woodpecker
+Eastern Phoebe
+Great Black-backed Gull
+Hermit Thrush
+Herring Gull
+Mourning Dove
+Northern Cardinal
+Red-breasted Nuthatch
+Red-eyed Vireo
+Song Sparrow
+Yellow Warbler
+---Paul 2015-07-24 Maine|On the road, Bar Harbor to NH,
+
+American Goldfinch
+Belted Kingfisher
+Black-capped Chickadee
+Eastern Phoebe
+Great Cormorant
+Least Flycatcher
+Mourning Dove
+Red-breasted Nuthatch
+Ring-billed Gull
+Rock Pigeon
+Yellow Warbler
+---Paul 2015-07-25 Massachusetts|Reed St., Warren
+
+American Crow
+American Goldfinch
+American Robin
+Bank Swallow
+Barn Swallow
+Belted Kingfisher
+Black-capped Chickadee
+Blue Jay
+Bobolink
+Broad-winged Hawk
+Brown-headed Cowbird
+Carolina Wren
+Cedar Waxwing
+Chimney Swift
+Chipping Sparrow
+Common Grackle
+Common Yellowthroat
+Downy Woodpecker
+Eastern Bluebird
+Eastern Kingbird
+European Starling
+Gray Catbird
+Hermit Thrush
+House Finch
+House Sparrow
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Pileated Woodpecker
+Red-bellied Woodpecker
+Red-winged Blackbird
+Rock Pigeon
+Rose-breasted Grosbeak
+Ruby-throated Hummingbird
+Song Sparrow
+Tree Swallow
+Tufted Titmouse
+Turkey Vulture
+Vesper Sparrow
+White-breasted Nuthatch
+Yellow Warbler
+---Paul 2015-07-26 Massachusetts|Brooks St., West Warren,
+
+American Crow
+American Robin
+Barn Swallow
+Belted Kingfisher
+Black-capped Chickadee
+Blue Jay
+Canada Goose
+Chimney Swift
+Common Grackle
+Common Yellowthroat
+Downy Woodpecker
+Eastern Bluebird
+Eastern Kingbird
+Eastern Phoebe
+Gray Catbird
+Great Blue Heron
+Mourning Dove
+Northern Cardinal
+Pine Warbler
+Red-eyed Vireo
+Red-winged Blackbird
+Song Sparrow
+Tree Swallow
+Turkey Vulture
+Warbling Vireo
+White-breasted Nuthatch
+Wood Duck
+Yellow Warbler
+---Paul 2015-07-27 Massachusetts|Lucy Stone Park, Warren,
+
+American Crow
+American Goldfinch
+American Robin
+Blue Jay
+Canada Goose
+Chipping Sparrow
+Common Yellowthroat
+Cooper's Hawk
+Downy Woodpecker
+Gray Catbird
+Great Blue Heron
+Mourning Dove
+Northern Cardinal
+Northern Waterthrush
+Red-bellied Woodpecker
+Red-eyed Vireo
+Rock Pigeon
+Ruby-throated Hummingbird
+Song Sparrow
+Tufted Titmouse
+Warbling Vireo
+Yellow Warbler
+---Mark 2015-07-28 Oregon|KOA Albany
+
+American Goldfinch
+Black-capped Chickadee
+Eurasian Collared-Dove
+---Paul 2015-07-28 Massachusetts|Reed St., Warren
+
+American Crow
+American Goldfinch
+American Robin
+Barn Swallow
+Black-capped Chickadee
+Blue Jay
+Cedar Waxwing
+Chimney Swift
+Chipping Sparrow
+Common Grackle
+Common Yellowthroat
+Downy Woodpecker
+Eastern Bluebird
+Eastern Phoebe
+Gray Catbird
+Great Blue Heron
+Hairy Woodpecker
+House Finch
+House Sparrow
+Indigo Bunting
+Mourning Dove
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Northern Mockingbird
+Orange-crowned Warbler
+Pileated Woodpecker
+Red-bellied Woodpecker
+Red-winged Blackbird
+Rock Pigeon
+Rose-breasted Grosbeak
+Ruby-throated Hummingbird
+Song Sparrow
+Tree Swallow
+Tufted Titmouse
+Turkey Vulture
+White-breasted Nuthatch
+Yellow Warbler
+---Paul 2015-07-29 Massachusetts|Brooks St., West Warren,
+
+Canada Goose
+Cedar Waxwing
+Common Grackle
+Common Yellowthroat
+Great Blue Heron
+Mourning Dove
+Red-winged Blackbird
+Song Sparrow
+Tree Swallow
+Turkey Vulture
+Warbling Vireo
+Wood Duck
+---Paul 2015-07-29 Massachusetts|Dean Park, West Warren,
+
+Baltimore Oriole
+Blue Jay
+Downy Woodpecker
+Gray Catbird
+Red-bellied Woodpecker
+---Paul 2015-07-30 Massachusetts|Reed St., Warren
+
+American Goldfinch
+American Robin
+Barn Swallow
+Black-capped Chickadee
+Blue Jay
+Cedar Waxwing
+Chipping Sparrow
+Common Raven
+Common Yellowthroat
+Downy Woodpecker
+Eastern Bluebird
+Eastern Kingbird
+Eastern Phoebe
+European Starling
+Gray Catbird
+House Finch
+House Sparrow
+Indigo Bunting
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Red-bellied Woodpecker
+Red-eyed Vireo
+Red-winged Blackbird
+Rock Pigeon
+Song Sparrow
+Turkey Vulture
+White-breasted Nuthatch
+---Paul 2015-07-31 Massachusetts|Reed St., Warren
+
+American Crow
+American Robin
+Barn Swallow
+Blue Jay
+Carolina Wren
+Cedar Waxwing
+Chipping Sparrow
+Common Grackle
+Common Yellowthroat
+Downy Woodpecker
+Eastern Bluebird
+Eastern Kingbird
+European Starling
+Gray Catbird
+House Finch
+House Sparrow
+Indigo Bunting
+Mourning Dove
+Northern Mockingbird
+Pileated Woodpecker
+Red-winged Blackbird
+Rock Pigeon
+Rose-breasted Grosbeak
+Ruffed Grouse
+Song Sparrow
+Tree Swallow
+White-breasted Nuthatch
+Yellow Warbler

@@ -1,0 +1,317 @@
+---Mark 2004-02-01 California|Sweetwater Marsh NWR, San Diego
+
+American Wigeon
+Anna's Hummingbird
+Brant
+Great Blue Heron
+Great Egret
+House Finch
+Marbled Godwit
+Northern Harrier
+Northern Mockingbird
+Semipalmated Plover
+Snowy Egret
+Song Sparrow
+Surf Scoter
+Tree Swallow
+Western Meadowlark
+White-crowned Sparrow
+Willet
+peep sp.
+---Mark 2004-02-02 California|Tijuana Slough, San Diego
+
+American Coot
+Anna's Hummingbird
+Common Raven
+Great Egret
+Greater Scaup
+Killdeer
+Little Blue Heron
+Marbled Godwit
+Northern Harrier
+Northern Pintail
+Ridgway's Rail
+Short-billed Dowitcher
+Willet
+gull sp.
+peep sp.
+---Mark 2004-02-03 California|Dana Point, California
+
+Double-crested Cormorant
+Snowy Egret
+gull sp.
+---Mark 2004-02-03 California|Del Mar, San Diego
+
+Great Blue Heron
+---Mark 2004-02-03 California|San Elijo Lagoon, San Diego
+
+American Coot
+Blue-gray Gnatcatcher
+California Scrub-Jay
+Forster's Tern
+Greater Scaup
+Green-winged Teal
+House Finch
+Mallard
+Mourning Dove
+Northern Shoveler
+Pied-billed Grebe
+Savannah Sparrow
+Song Sparrow
+Whimbrel
+White-crowned Sparrow
+Willet
+Yellow-rumped Warbler
+---Mark 2004-02-03 California|San Joaquin Wildlife Refuge, Orange County
+
+American Avocet
+American Coot
+American White Pelican
+Barn Swallow
+Cinnamon Teal
+Dark-eyed Junco
+Double-crested Cormorant
+Great Blue Heron
+Great Egret
+Green-winged Teal
+Mallard
+Northern Shoveler
+Osprey
+Pied-billed Grebe
+Red-winged Blackbird
+Ruddy Duck
+Song Sparrow
+Tree Swallow
+Turkey Vulture
+Willet
+hummingbird sp.
+---Mark 2004-02-05 California|Pacific Grove, California
+
+Bonaparte's Gull
+Red-breasted Merganser
+Say's Phoebe
+---Mark 2004-02-05 California|Point Reyes, California
+
+American Coot
+American Kestrel
+American Robin
+Black Oystercatcher
+Black Phoebe
+Brandt's Cormorant
+Bufflehead
+California Quail
+California Scrub-Jay
+Canada Goose
+Common Murre
+Common Raven
+Double-crested Cormorant
+Eared Grebe
+European Starling
+Fox Sparrow
+Greater/Lesser Scaup
+Hermit Thrush
+Lesser Scaup
+Northern Harrier
+Pacific Loon
+Pelagic Cormorant
+Red-tailed Hawk
+Red-throated Loon
+Red-winged Blackbird
+Savannah Sparrow
+Say's Phoebe
+Surf Scoter
+Turkey Vulture
+Western Grebe
+Western Meadowlark
+White-crowned Sparrow
+blackbird sp.
+---Mark 2004-02-06 California|Olema, California
+
+American Crow
+American Robin
+Chestnut-backed Chickadee
+Dark-eyed Junco
+Hutton's Vireo
+Northern Flicker
+Ruby-crowned Kinglet
+Song Sparrow
+---Mark 2004-02-06 California|Point Reyes Limantour, California
+
+American Coot
+American Wigeon
+Bufflehead
+Canvasback
+Common Yellowthroat
+Great Egret
+Marbled Godwit
+Northern Flicker
+Northern Harrier
+Northern Pintail
+Northern Shoveler
+Pied-billed Grebe
+Sanderling
+Savannah Sparrow
+Song Sparrow
+Surf Scoter
+Turkey Vulture
+White-crowned Sparrow
+Willet
+peep sp.
+---Mark 2004-02-12 Washington|Alki
+
+Bald Eagle
+---Mark 2004-02-13 Washington|AlkiCondo
+
+Bald Eagle
+---Mark 2004-02-13 Washington|Discovery Park
+
+American Robin
+American Wigeon
+Anna's Hummingbird
+Barrow's Goldeneye
+Belted Kingfisher
+Bewick's Wren
+Black Scoter
+Black-capped Chickadee
+Brown Creeper
+Bufflehead
+Common Goldeneye
+Dark-eyed Junco
+Downy Woodpecker
+European Starling
+Fox Sparrow
+Gadwall
+Golden-crowned Kinglet
+Golden-crowned Sparrow
+Hermit Thrush
+Horned Grebe
+House Sparrow
+House Wren
+Mallard
+Mourning Dove
+Northern Flicker
+Pacific Wren
+Pigeon Guillemot
+Pine Siskin
+Red-breasted Merganser
+Red-breasted Nuthatch
+Red-tailed Hawk
+Song Sparrow
+Spotted Towhee
+Surf Scoter
+Western Grebe
+Western Kingbird
+White-winged Scoter
+crow sp.
+gull sp.
+---Mark 2004-02-17 Washington|AlkiCondo
+
+Barrow's Goldeneye
+Great Blue Heron
+---Mark 2004-02-17 Washington|Seward Park
+
+Chestnut-backed Chickadee
+Common Merganser
+Hooded Merganser
+---Paul 2004-02-17 California|Ventura
+
+Black Phoebe
+Bonaparte's Gull
+Brewer's Blackbird
+Heermann's Gull
+Iceland Gull (Thayer's)
+White-winged Scoter
+---Mark 2004-02-18 Washington|Alki
+
+Bald Eagle
+Barrow's Goldeneye
+Black Turnstone
+Bonaparte's Gull
+Canada Goose
+Double-crested Cormorant
+European Starling
+Great Blue Heron
+Horned Grebe
+House Sparrow
+Killdeer
+Northern Flicker
+Pigeon Guillemot
+Red-breasted Merganser
+Rock Pigeon
+Surfbird
+crow sp.
+gull sp.
+---Mark 2004-02-18 Washington|AlkiCondo
+
+House Finch
+Northern Flicker
+---Mark 2004-02-19 Washington|Cedar River/Coulon Park, Seattle
+
+American Coot
+Bald Eagle
+Bufflehead
+Common Merganser
+Double-crested Cormorant
+Gadwall
+Mallard
+Red-winged Blackbird
+Ring-billed Gull
+Western Grebe
+crow sp.
+gull sp.
+---Mark 2004-02-21 Washington|Nisqually
+
+American Coot
+American Crow
+American Robin
+American Wigeon
+Bald Eagle
+Belted Kingfisher
+Black-capped Chickadee
+Bufflehead
+Canada Goose
+Cassin's Vireo
+Common Merganser
+Double-crested Cormorant
+Fox Sparrow
+Golden-crowned Kinglet
+Golden-crowned Sparrow
+Great Blue Heron
+Green-winged Teal
+Hooded Merganser
+Horned Grebe
+Mallard
+Marsh Wren
+Northern Flicker
+Northern Harrier
+Northern Pintail
+Northern Shoveler
+Peregrine Falcon
+Pied-billed Grebe
+Pine Siskin
+Red-winged Blackbird
+Ring-necked Duck
+Sanderling
+Song Sparrow
+Spotted Towhee
+Surf Scoter
+Willet
+gull sp.
+---Mark 2004-02-25 Washington|Alki
+
+Brant
+---Mark 2004-02-26 Washington|Alki
+
+Bald Eagle
+---Mark 2004-02-28 Washington|Alki
+
+Barrow's Goldeneye
+Brant
+Bufflehead
+Common Goldeneye
+Red-breasted Merganser
+Surf Scoter
+---Mark 2004-02-28 Washington|Green Lake, Seattle
+
+American Wigeon
+Eurasian Wigeon

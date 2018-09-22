@@ -1,0 +1,497 @@
+---Mark 2015-06-01 Ohio|Miranova
+
+Cliff Swallow
+Common Grackle
+Great Blue Heron
+House Finch
+House Sparrow
+Turkey Vulture
+---Mark 2015-06-02 Ohio|Miranova
+
+American Robin
+Northern Cardinal
+Song Sparrow
+---Mark 2015-06-03 Ohio|Miranova
+
+Canada Goose
+Killdeer
+Mourning Dove
+---Paul 2015-06-03 Oklahoma|S. Jenkins, Norman, OK
+
+American Crow
+Barn Swallow
+Black Vulture
+Blue Jay
+Blue-gray Gnatcatcher
+Brown-headed Cowbird
+Carolina Chickadee
+Carolina Wren
+Cliff Swallow
+Downy Woodpecker
+Eastern Bluebird
+Eastern Meadowlark
+Eastern Phoebe
+European Starling
+Fish Crow
+Great Blue Heron
+Indigo Bunting
+Mallard
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Northern Parula
+Pileated Woodpecker
+Prothonotary Warbler
+Red-bellied Woodpecker
+Red-shouldered Hawk
+Red-tailed Hawk
+Scissor-tailed Flycatcher
+Tufted Titmouse
+Turkey Vulture
+---Mark 2015-06-05 Ohio|Miranova
+
+Ring-billed Gull
+---Mark 2015-06-06 Ohio|Miranova
+
+Mallard
+---Paul 2015-06-06 Oklahoma|S. Jenkins, Norman
+
+American Crow
+American Goldfinch
+Baltimore Oriole
+Barn Swallow
+Bell's Vireo
+Bewick's Wren
+Blue Jay
+Blue-gray Gnatcatcher
+Brown Thrasher
+Brown-headed Cowbird
+Carolina Chickadee
+Carolina Wren
+Cattle Egret
+Common Grackle
+Common Yellowthroat
+Dickcissel
+Downy Woodpecker
+Eastern Bluebird
+Eastern Kingbird
+Eastern Meadowlark
+Eastern Phoebe
+European Starling
+Fish Crow
+Great Blue Heron
+Great Crested Flycatcher
+Green Heron
+Indigo Bunting
+Killdeer
+Lark Sparrow
+Mallard
+Mourning Dove
+Northern Cardinal
+Painted Bunting
+Pileated Woodpecker
+Prothonotary Warbler
+Red-bellied Woodpecker
+Red-eyed Vireo
+Red-shouldered Hawk
+Red-winged Blackbird
+Snowy Egret
+Tufted Titmouse
+Warbling Vireo
+Western Kingbird
+White-eyed Vireo
+Wood Duck
+Yellow-billed Cuckoo
+---Mark 2015-06-07 Ohio|Miranova
+
+Great Blue Heron
+---Paul 2015-06-10 Texas|Heritage Ranch, Fairview
+
+American Crow
+Barn Swallow
+Bewick's Wren
+Blue Jay
+Brown-headed Cowbird
+Carolina Chickadee
+Carolina Wren
+Cattle Egret
+Eastern Bluebird
+Eastern Phoebe
+European Starling
+Great Egret
+House Finch
+Indigo Bunting
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Red-bellied Woodpecker
+Red-eyed Vireo
+Red-shouldered Hawk
+Tufted Titmouse
+White-eyed Vireo
+Yellow-billed Cuckoo
+---Paul 2015-06-11 Texas|Towne Lake Park, McKinney
+
+American Crow
+Baltimore Oriole
+Barn Swallow
+Belted Kingfisher
+Bewick's Wren
+Blue Jay
+Canada Goose
+Carolina Chickadee
+Carolina Wren
+Cliff Swallow
+Downy Woodpecker
+Eastern Bluebird
+Eastern Kingbird
+Eastern Phoebe
+Eurasian Collared-Dove
+European Starling
+Great Crested Flycatcher
+Great Egret
+Great-tailed Grackle
+Mallard
+Northern Cardinal
+Northern Mockingbird
+Purple Martin
+Red-bellied Woodpecker
+Scissor-tailed Flycatcher
+Tufted Titmouse
+Western Kingbird
+---Mark 2015-06-12 Ohio|Miranova
+
+Great Egret
+---Paul 2015-06-13 Texas|Heritage Ranch, Fairview
+
+American Crow
+Barn Swallow
+Blue Jay
+Brown-headed Cowbird
+Canada Goose
+Carolina Chickadee
+Carolina Wren
+Chimney Swift
+Eastern Bluebird
+Eastern Phoebe
+Great Crested Flycatcher
+Great Egret
+Green Heron
+House Finch
+House Sparrow
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Northern Rough-winged Swallow
+Red-bellied Woodpecker
+Red-eyed Vireo
+Ruby-throated Hummingbird
+Tufted Titmouse
+White-eyed Vireo
+Yellow-billed Cuckoo
+---Mark 2015-06-15 Ohio|Miranova
+
+American Goldfinch
+---Paul 2015-06-15 Texas|Heritage Ranch, Fairview
+
+American Crow
+Barn Swallow
+Barred Owl
+Blue Jay
+Brown-headed Cowbird
+Carolina Wren
+Cattle Egret
+Chimney Swift
+Eastern Bluebird
+Eastern Phoebe
+Great Blue Heron
+Great Crested Flycatcher
+Great Egret
+House Finch
+Indigo Bunting
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Northern Rough-winged Swallow
+Red-bellied Woodpecker
+Red-eyed Vireo
+Red-shouldered Hawk
+Tufted Titmouse
+Turkey Vulture
+White-eyed Vireo
+Yellow-billed Cuckoo
+---Paul 2015-06-16 Texas|Heritage Ranch, Fairview
+
+American Crow
+Barn Swallow
+Belted Kingfisher
+Blue Jay
+Canada Goose
+Carolina Chickadee
+Carolina Wren
+Common Grackle
+Eastern Bluebird
+Eastern Phoebe
+Great Crested Flycatcher
+Great Egret
+House Finch
+House Sparrow
+Indigo Bunting
+Mallard
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Red-bellied Woodpecker
+Red-eyed Vireo
+Red-shouldered Hawk
+Tufted Titmouse
+White-eyed Vireo
+---Paul 2015-06-18 Texas|Heritage Ranch, Fairview
+
+American Crow
+Barn Swallow
+Blue Jay
+Carolina Wren
+Eastern Bluebird
+Eastern Phoebe
+Fish Crow
+Great Blue Heron
+Great Crested Flycatcher
+Great Egret
+House Finch
+Indigo Bunting
+Killdeer
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Red-bellied Woodpecker
+Red-eyed Vireo
+Red-shouldered Hawk
+Ruby-throated Hummingbird
+Tufted Titmouse
+Turkey Vulture
+White-eyed Vireo
+Yellow-billed Cuckoo
+---Mark 2015-06-19 Ohio|Confluence, Columbus
+
+Cedar Waxwing
+---Paul 2015-06-19 Texas|Lake Lavon, Lucas
+
+American Crow
+Bank Swallow
+Barn Swallow
+Carolina Chickadee
+Carolina Wren
+Cattle Egret
+Cliff Swallow
+Common Grackle
+Double-crested Cormorant
+Eastern Bluebird
+Eastern Phoebe
+Great Blue Heron
+Great Egret
+Greater Roadrunner
+Indigo Bunting
+Little Blue Heron
+Mallard
+Mississippi Kite
+Neotropic Cormorant
+Northern Cardinal
+Purple Martin
+Red-bellied Woodpecker
+Red-eyed Vireo
+Red-tailed Hawk
+Red-winged Blackbird
+Scissor-tailed Flycatcher
+Snowy Egret
+Tree Swallow
+Tufted Titmouse
+Western Kingbird
+White-eyed Vireo
+Yellow-crowned Night-Heron
+---Paul 2015-06-19 Texas|On the road, Country Club to Lavon
+
+American Crow
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Scissor-tailed Flycatcher
+White-winged Dove
+---Mark 2015-06-20 Ohio|Miranova
+
+Great Egret
+---Mark 2015-06-21 Ohio|Miranova
+
+Great Egret
+---Paul 2015-06-21 Texas|Heritage Ranch, Fairview
+
+Greater Roadrunner
+---Paul 2015-06-23 Texas|Black plains Raptor Center, Lucas
+
+American Crow
+Black Vulture
+Brown-headed Cowbird
+Carolina Chickadee
+Carolina Wren
+Cattle Egret
+Chimney Swift
+Cliff Swallow
+Double-crested Cormorant
+Eastern Bluebird
+Eastern Phoebe
+European Starling
+Great Blue Heron
+Great Egret
+Indigo Bunting
+Little Blue Heron
+Northern Cardinal
+Northern Mockingbird
+Painted Bunting
+Red-eyed Vireo
+Red-tailed Hawk
+Red-winged Blackbird
+Ring-billed Gull
+Scissor-tailed Flycatcher
+Tufted Titmouse
+Turkey Vulture
+White-eyed Vireo
+Yellow-billed Cuckoo
+---Paul 2015-06-24 Texas|Heard Wildlife Sanctuary, Fairview
+
+American Crow
+Blue Jay
+Brown-headed Cowbird
+Carolina Wren
+Downy Woodpecker
+Eastern Bluebird
+Eastern Phoebe
+Great Blue Heron
+Great Crested Flycatcher
+Great Egret
+Indigo Bunting
+Northern Cardinal
+Northern Mockingbird
+Painted Bunting
+Prothonotary Warbler
+Purple Martin
+Red-bellied Woodpecker
+Red-eyed Vireo
+Scissor-tailed Flycatcher
+Tufted Titmouse
+White-eyed Vireo
+Yellow-billed Cuckoo
+Yellow-crowned Night-Heron
+---Paul 2015-06-25 Texas|Heritage Ranch, Fairview
+
+American Crow
+Barn Swallow
+Black Vulture
+Brown-headed Cowbird
+Carolina Wren
+Cattle Egret
+Downy Woodpecker
+Eastern Phoebe
+Fish Crow
+Great Blue Heron
+Great Egret
+House Finch
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Red-bellied Woodpecker
+Red-eyed Vireo
+Tufted Titmouse
+White-eyed Vireo
+Yellow-billed Cuckoo
+---Mark 2015-06-27 Iowa|IA 44 near Guthrie Center
+
+Eastern Meadowlark
+Ring-necked Pheasant
+---Paul 2015-06-27 Texas|Towne Lake Park, McKinney
+
+American Crow
+American Kestrel
+Baltimore Oriole
+Barn Swallow
+Blue Jay
+Canada Goose
+Carolina Chickadee
+Carolina Wren
+Chimney Swift
+Cliff Swallow
+Cooper's Hawk
+Eastern Bluebird
+Eastern Kingbird
+Eurasian Collared-Dove
+European Starling
+Great Blue Heron
+Great Crested Flycatcher
+Great Egret
+Great-tailed Grackle
+Green Heron
+Mallard
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Purple Martin
+Red-bellied Woodpecker
+Scissor-tailed Flycatcher
+Tufted Titmouse
+Western Kingbird
+White-eyed Vireo
+White-winged Dove
+---Mark 2015-06-29 Wyoming|I-80
+
+Black-billed Magpie
+Western Meadowlark
+---Paul 2015-06-29 Texas|Black plains Raptor Center, Lucas
+
+American Crow
+Blue Jay
+Brown-crested Flycatcher
+Brown-headed Cowbird
+Carolina Chickadee
+Carolina Wren
+Cattle Egret
+Cliff Swallow
+Common Grackle
+Cooper's Hawk
+Double-crested Cormorant
+Eastern Bluebird
+Eastern Phoebe
+Great Blue Heron
+Great Egret
+Green Heron
+Indigo Bunting
+Little Blue Heron
+Mallard
+Northern Cardinal
+Painted Bunting
+Red-bellied Woodpecker
+Red-winged Blackbird
+Tufted Titmouse
+Turkey Vulture
+---Paul 2015-06-30 Texas|Heritage Ranch, Fairview
+
+American Crow
+Barn Swallow
+Blue-gray Gnatcatcher
+Brown-headed Cowbird
+Carolina Chickadee
+Carolina Wren
+Cattle Egret
+Downy Woodpecker
+Eastern Bluebird
+Eastern Phoebe
+Great Egret
+House Finch
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Red-bellied Woodpecker
+Red-eyed Vireo
+Red-shouldered Hawk
+Ruby-throated Hummingbird
+Tufted Titmouse
+White-eyed Vireo
+Yellow-billed Cuckoo

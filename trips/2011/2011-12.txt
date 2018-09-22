@@ -1,0 +1,77 @@
+---Paul 2011-12-22 Massachusetts|Warren
+
+American Crow
+Black-capped Chickadee
+Blue Jay
+Dark-eyed Junco (Slate-colored)
+Hairy Woodpecker
+Ring-billed Gull
+Tufted Titmouse
+---Paul 2011-12-25 New Hampshire|Manchester
+
+American Goldfinch
+Dark-eyed Junco (Slate-colored)
+Downy Woodpecker
+Red-tailed Hawk
+Wild Turkey
+---Paul 2011-12-26 Massachusetts|Reservoir, Lancaster
+
+Black-capped Chickadee
+Common Loon
+Common Merganser
+Downy Woodpecker
+Eastern Bluebird
+House Wren
+Tufted Titmouse
+---Paul 2011-12-27 Massachusetts|Rail Trail, Lancaster
+
+American Crow
+American Robin
+Black-capped Chickadee
+Blue-winged Teal
+Common Goldeneye
+Gadwall
+Mallard
+Northern Cardinal
+White-breasted Nuthatch
+---Paul 2011-12-28 Massachusetts|Wachusets Meadow, Lancaster
+
+American Goldfinch
+American Robin
+Black-capped Chickadee
+Dark-eyed Junco (Slate-colored)
+European Starling
+House Sparrow
+Northern Mockingbird
+Red-bellied Woodpecker
+Red-tailed Hawk
+---Paul 2011-12-30 Oklahoma|Great Salt Plains NWR
+
+American Crow
+American Kestrel
+American Wigeon
+Bufflehead
+Canada Goose
+Common Goldeneye
+Cooper's Hawk
+Dark-eyed Junco (Slate-colored)
+Eastern Meadowlark
+European Starling
+Gadwall
+Green-winged Teal
+Harris's Sparrow
+Loggerhead Shrike
+Mallard
+Northern Cardinal
+Northern Harrier
+Northern Pintail
+Red-tailed Hawk
+Red-winged Blackbird
+Redhead
+Ring-necked Duck
+Snow Goose
+Western Meadowlark
+---Paul 2011-12-30 Oklahoma|Marland
+
+Prairie Falcon
+Snowy Owl

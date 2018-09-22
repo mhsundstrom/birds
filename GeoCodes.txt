@@ -1,0 +1,1647 @@
+key,lat,lon,plus,fips
+Alabama|Tillman's Corner,30.5901929,-88.1708352,862HHRRH+3M,01097
+Alaska|Anchorage,61.2180556,-149.9002778,93HG639X+6V,021020
+Alaska|Anchorage and Shipboard,61.2180556,-149.9002778,93HG639X+6V,021020
+"Alaska|Creamer's Field, Fairbanks",64.8377778,-147.7163888,93PJR7QM+4C,021090
+Alaska|Denali National Park,63.1148029,-151.1925951,93MC4R74+WX,021068
+Alaska|Glacier Bay National Park,58.4556812,-135.8862447,94C6F447+7G,021105
+"Alaska|Hubbard Glacier, Yakutat Bay",59.6703672,-139.8590821,94F2M4CR+49,021282
+Alaska|Juneau,58.3019444,-134.4197221,94C78H2J+Q4,021110
+Alaska|Ketchikan,55.3422222,-131.6461112,947C89R3+VH,021130
+Alaska|McKinley Lodge,63.6515264,-148.8162163,93MHM52M+JG,021068
+Alaska|Nanana,64.5414732,-149.1302763,93PGGVR9+HV,021290
+"Alaska|Pioneer Park, Fairbanks",64.8377778,-147.7163888,93PJR7QM+4C,021090
+"Alaska|Princess Riverside Lodge, Fairbanks",64.8377778,-147.7163888,93PJR7QM+4C,021090
+"Alaska|Riverboat, Chena River, Fairbanks",64.8377778,-147.7163888,93PJR7QM+4C,021090
+Alaska|Skagway,59.4583333,-135.313889,94F6FM5P+8C,021105
+"Alaska|Visitor's Center, Fairbanks",64.8377778,-147.7163888,93PJR7QM+4C,021090
+"Arizona|Apache Junction, Arizona",33.4150485,-111.5495777,855CCF82+25,04021
+Arizona|Arizona,,,,
+"Arizona|Arizona Sonora Desert Museum, Arizona",32.244013,-111.168174,854C6RVJ+JP,04019
+"Arizona|Beadie's B&B, Sierra Vista",31.5455001,-110.2772856,853FGPWF+63,04003
+Arizona|Benson,31.9678611,-110.2945174,853FXP94+45,04003
+"Arizona|Environmental Operation Park, Sierra Vista",31.5455001,-110.2772856,853FGPWF+63,04003
+"Arizona|Garden Canyon, Sierra Vista",31.5155418,-110.3284673,853FGM8C+6J,04003
+"Arizona|Grand Canyon, Arizona",36.0544445,-112.1401108,85893V35+QX,04005
+"Arizona|Herb Martyr, Portal",31.9137028,-109.1414495,853GWV75+FC,04003
+"Arizona|Herb Martyr, SWRS",31.9137028,-109.1414495,853GWV75+FC,04003
+"Arizona|Jasper House, Portal",31.9137028,-109.1414495,853GWV75+FC,04003
+"Arizona|Kartchner Caverns State Park, Arizona",31.836596,-110.3488848,853FRMP2+JC,04003
+Arizona|Kayenta,36.7277769,-110.2545767,858FPPHW+45,04017
+Arizona|Madera Canyon,31.7250875,-110.8800869,853FP4G9+2X,04023
+"Arizona|Madera Canyon - Josephine Saddle, Arizona",31.7250875,-110.8800869,853FP4G9+2X,04023
+"Arizona|Madera Canyon, Arizona",31.7250875,-110.8800869,853FP4G9+2X,04023
+Arizona|Monument Valley,36.9913715,-110.1938672,858FXRR4+GF,04017
+"Arizona|Mt Lemmon, Arizona",32.443218,-110.7576749,854FC6VR+7W,04019
+"Arizona|Navajo Bridge, Arizona",36.8176337,-111.6311681,858CR999+3G,04005
+Arizona|Patagonia Lake State Park,31.488333,-110.85381,853FF4QW+8F,04023
+"Arizona|Patagonia Lake State Park, Patagonia",31.488333,-110.85381,853FF4QW+8F,04023
+"Arizona|Patagonia Sonoita Preserve, Patagonia",31.488333,-110.85381,853FF4QW+8F,04023
+"Arizona|Patagonia Sonoita Preserve, Patagonia, AZ",31.488333,-110.85381,853FF4QW+8F,04023
+"Arizona|Paton House, Patagonia",31.488333,-110.85381,853FF4QW+8F,04023
+Arizona|Portal,31.9137028,-109.1414495,853GWV75+FC,04003
+Arizona|Research Station near Portal,31.9137028,-109.1414495,853GWV75+FC,04003
+"Arizona|Saguaro NP - East, Arizona",32.2967359,-111.166615,854C7RWM+M9,04019
+"Arizona|Saguaro NP - West, Arizona",32.2888004,-111.1533456,854C7RQW+GM,04019
+Arizona|Saguaro National Park,32.2888004,-111.1533456,854C7RQW+GM,04019
+"Arizona|Saguaro National Park, Tuscon",32.2888004,-111.1533456,854C7RQW+GM,04019
+Arizona|San Pedro House,31.5480151,-110.1415307,853FGVX5+69,04003
+"Arizona|San Pedro House, Sierra Vista",31.5480151,-110.1415307,853FGVX5+69,04003
+"Arizona|Sedona - Boynton Canyon, Arizona",34.9133015,-111.8521431,856CW47X+84,04025
+"Arizona|Sedona - Cathedral Rock, Arizona",34.8200185,-111.7932108,856CR6C4+2P,04025
+"Arizona|Sedona - Hannig, Arizona",34.8128568,-111.8308639,856CR579+4M,04025
+"Arizona|Sedona - Red Rock SP, Arizona",34.8128568,-111.8308639,856CR579+4M,04025
+"Arizona|Sonora Desert Museum, Tuscon",32.244013,-111.168174,854C6RVJ+JP,04019
+Arizona|Sweetwater Marshlands,32.2788673,-111.0223157,854C7XHH+G3,04019
+"Arizona|Sweetwater Marshlands, Tuscon",32.2788673,-111.0223157,854C7XHH+G3,04019
+Arizona|Tucson,32.2217429,-110.926479,854F63CF+MC,04019
+"Arizona|Tucson - Jacobson, Arizona",32.2217429,-110.926479,854F63CF+MC,04019
+"Arizona|Tucson - La Paloma Golf Course, Arizona",32.2217429,-110.926479,854F63CF+MC,04019
+"Arizona|Tucson - Ventana Canyon, Arizona",32.2217429,-110.926479,854F63CF+MC,04019
+"Arizona|Tucson, Arizona",32.2217429,-110.926479,854F63CF+MC,04019
+Arizona|US-AZ-Cave Creek Canyon--South Fork,34.0873069,-111.851004,856C34PX+WH,04025
+Arizona|US-AZ-Cave Creek Canyon--Southwestern Research Station,34.0873069,-111.851004,856C34PX+WH,04025
+Arizona|US-AZ-Florida Canyon--lower,31.7745307,-110.8678645,853FQ4FJ+RV,04019
+Arizona|US-AZ-Hereford-Coronado National Forest - 31.3899x-110.2445,31.3899,-110.2445,853F9QQ4+X5,04003
+Arizona|US-AZ-Hereford-Coronado National Forest - 31.4275x-110.2911,31.4275,-110.2911,853FCPG5+XH,04003
+Arizona|US-AZ-Hereford-Coronado National Forest - 31.4525x-110.3030,31.4525,-110.303,853FFM3W+2R,04003
+Arizona|US-AZ-Madera Canyon--Proctor Rd.,31.7401577,-110.8932141,853FP4R4+3P,04019
+Arizona|US-AZ-Madera Canyon--Santa Rita Lodge,31.7401577,-110.8932141,853FP4R4+3P,04019
+Arizona|US-AZ-Paradise--George Walker House,31.9348131,-109.2189503,853GWQMJ+WC,04003
+Arizona|US-AZ-Patagonia-409 Pennsylvania Ave - 31.5404x-110.7580,31.5404,-110.758,853FG6RR+5R,04023
+Arizona|US-AZ-Portal--Bob Rodrigues yard (Dave Jasper's old yard),31.9137028,-109.1414495,853GWV75+FC,04003
+Arizona|US-AZ-Portal--Cave Creek Ranch,31.9137028,-109.1414495,853GWV75+FC,04003
+Arizona|US-AZ-Portal--Dave Jasper's new yard (opened 2015),31.9137028,-109.1414495,853GWV75+FC,04003
+Arizona|US-AZ-San Simon-4643-12099 Sulphur Canyon Rd - 31.8142x-109.0597,31.8142,-109.0597,853GRW7R+M4,04003
+Arizona|US-AZ-Sierra Vista-Fort Huachuca - 31.5612x-110.3815,31.5612,-110.3815,853FHJ69+F9,04003
+Arizona|US-AZ-Sierra Vista-San Pedro Riparian National Conservation Area - 31.5480x-110.1425,31.548,-110.1425,853FGVX5+62,04003
+Arizona|US-AZ-Tucson-Tucson Mountain County Park - 32.2444x-111.1674,32.2444,-111.1674,854C6RVM+Q2,04019
+Arizona|US-AZ-Tumacacori-12 Presido Dr - 31.6110x-111.0468,31.611,-111.0468,853CJX63+C7,04023
+"Arizona|Ventana Resort, Tuscon",32.2217429,-110.926479,854F63CF+MC,04019
+"Arizona|Wellton, Arizona",32.6728256,-114.1468821,8547MVF3+46,04027
+Arizona|Whitewater Draw Wildlife Area,31.5616289,-109.7199002,853GH76J+M2,04003
+Arkansas|Eureka Springs,36.4011825,-93.7379711,8688C726+FR,05015
+"Arkansas|Lake Leatherwood, Eureka Springs,",36.4011825,-93.7379711,8688C726+FR,05015
+"Arkansas|On the road, Faiiew, TX to Eureka Springs, AR",,,,
+Austria|Defferregental,,,,
+Austria|Seefeld,,,,
+"California|Alameda - Crown Beach, California",37.7652065,-122.2416355,849VQQ85+38,06001
+"California|Along Forrester Road, El Centro",32.8055764,-115.6380659,8546R946+6Q,06025
+"California|Along I-8, Approaching El Centro",32.792,-115.5630514,8546QCRP+RQ,06025
+"California|Andre Clark Bird Refuge, Santa Barbara",34.4216051,-119.6607812,8562C8CQ+JM,06083
+"California|Anza-Borrego Desert State Park, California",33.2602214,-116.434307,85557H68+37,06073
+"California|Anza-Borrego, Palm Canyon",33.3292148,-116.3937517,85558JH4+MF,06073
+"California|Arrowhead Marsh, Oakland, California",37.7439112,-122.2136231,849VPQVP+HH,06001
+California|Asilomar,36.6530378,-121.796313,848WM633+6F,06053
+"California|Back Bay, California",33.6188829,-117.9298493,8554J39C+H3,06059
+"California|Back Bay, Orange County",33.6188829,-117.9298493,8554J39C+H3,06059
+"California|Beach at Carlitto, Santa Barbara",34.4208305,-119.6981901,8562C8C2+8P,06083
+California|Berkeley,,,,
+"California|Berkeley, California",37.8715926,-122.272747,849VVPCG+JW,06001
+California|Big Sur,36.2704212,-121.807976,848W75CR+5R,06053
+California|Bodega Bay,38.33325,-123.0480571,84CR8XM2+7Q,06097
+California|Bolsa Chica State Park,33.7248578,-118.0376373,8553PXF6+WW,06059
+California|Borrego Springs,33.2558717,-116.375012,85557J4F+8X,06073
+California|Brawley,32.9786566,-115.530267,8546XFH9+FV,06025
+California|California Specialities,,,,
+"California|California Specialities, Watsonville",36.9299162,-121.7906906,848WW6H5+XP,06087
+"California|California Specialties, Watsonville",36.9299162,-121.7906906,848WW6H5+XP,06087
+California|Carmel,36.5552386,-121.9232879,848WH34G+3M,06053
+"California|Cattle Call Park, Brawley",32.9691697,-115.5560809,8546XC9V+MH,06025
+"California|Chula Vista, San Diego",32.6400541,-117.0841955,8544JWR8+28,06073
+"California|Coloma, California",38.7999214,-120.8902916,84CXQ4X5+XV,06017
+California|Concord,37.9779776,-122.0310733,849VXXH9+5H,06013
+"California|Concord, California",37.9779776,-122.0310733,849VXXH9+5H,06013
+California|Corona Del Mar,33.5978595,-117.8730142,8554H4XG+4Q,06059
+"California|Corona del Mar, California",33.5978595,-117.8730142,8554H4XG+4Q,06059
+"California|Corona del Mar, Orange County",33.5978595,-117.8730142,8554H4XG+4Q,06059
+"California|Costanoa, California",37.1552,-122.34805,849V5M42+3Q,06081
+"California|Crescent Bay Park, Laguna Beach",33.5471288,-117.8020379,8554G5WX+V5,06059
+"California|Crystal Cove, Orange County",33.5753013,-117.8414449,8554H5G5+4C,06059
+"California|Dana Point, California",33.4672256,-117.6981014,8554F882+VQ,06059
+"California|Del Mar, San Diego",32.9594891,-117.2653146,8544XP5M+QV,06073
+"California|East bay back roads, California",,,,
+"California|El Camino Real, San Ardo",36.0205207,-120.9051826,848X23CV+6W,06053
+"California|El Capitan State Beach and Ocean Mesa RV Park, California",34.4652674,-120.0253717,846XFX8F+4V,06083
+"California|Elkhorn Slough, California",36.8325072,-121.765131,848WR6MM+2W,06053
+"California|Eureka, California",40.8020712,-124.1636729,84GQRR2P+RG,06023
+"California|Fisherman's Wharf, San Francisco",37.8079996,-122.4177434,849VRH5J+5W,06075
+"California|Gilman Park, Fullerton",33.9022476,-117.8769288,8554W42F+V6,06059
+California|Glen Ellen,38.3640795,-122.5241487,84CV9F7G+J8,06097
+"California|Heisler Park, Laguna Beach",33.5434011,-117.7901115,8554G6V5+9X,06059
+California|Highway 29,,,,
+"California|Hwy 1 coast north, California",,,,
+"California|Hwy 1 near San Simeon, California",35.6470772,-121.1921383,847WJRW5+R4,06079
+"California|Hwy 1, California",,,,
+California|Idyllwild,33.7399245,-116.7188008,8555P7QJ+XF,06065
+"California|Idyllwild, California",33.7467471,-116.7152556,8555P7WM+MV,06065
+California|Irvine Lake and Park,33.6871454,-117.1921178,8554MRP5+V5,06065
+"California|Joshua Tree NP, California",34.134728,-116.3130661,85654MMP+VQ,06071
+California|Joshua Tree National Park,34.134728,-116.3130661,85654MMP+VQ,06071
+California|Julian,33.0786552,-116.6019637,855539HX+F6,06073
+California|Kings Canyon NP--Grant Grove,36.7466296,-118.9759479,8583P2WF+MJ,06019
+California|Kitchen Creek Trail,32.7851606,-116.4509845,8545QGPX+3J,06073
+"California|Klamath River, California",41.8612461,-122.825589,84HVV56F+FQ,06093
+"California|Lafayette Reservoir, California",37.8812127,-122.1426706,849VVVJ4+FW,06013
+"California|Lassen Volcanic NP, California",40.5394389,-120.7120023,84GXG7QQ+Q5,06035
+"California|Lighthouse, San Diego",32.962398,-117.2081837,8544XQ6R+XP,06073
+"California|Livermore, California",37.6818745,-121.7680088,849WM6JJ+PQ,06001
+California|Long Beach,33.7700504,-118.1937395,8553QRC4+2G,06037
+"California|Mercey Hot Springs, California",36.704514,-120.859787,848XP43R+R3,06019
+"California|Mines Rd, Livermore",37.6818745,-121.7680088,849WM6JJ+PQ,06001
+"California|Mission Bay, San Diego",32.7778125,-117.226457,8544QQHF+4C,06073
+"California|Mission Beach, San Diego",32.7706526,-117.2514447,8544QPCX+7C,06073
+"California|Moonglow Dairy, Watsonville",36.910231,-121.7568946,848WW66V+36,06087
+"California|Morro Bay, California",35.3659445,-120.8499924,847X9582+92,06079
+"California|Moss Landing, California",36.8044003,-121.7868953,848WR637+Q6,06053
+California|Moss landing,36.8044003,-121.7868953,848WR637+Q6,06053
+California|Mount Lassen,35.3461017,-119.0744758,85728WWG+C6,06029
+California|Napa,38.2975381,-122.286865,84CV7PX7+27,06055
+"California|Natural Bridges St. Park, Santa Cruz",36.9529053,-122.0567543,848VXW3V+57,06087
+California|New River Wetlands,33.0652374,-115.6486266,85563982+3G,06025
+"California|New River crossing, Lack Road, near Salton Sea",33.0652374,-115.6486266,85563982+3G,06025
+"California|Oakland - Arrowhead Marsh, California",37.7439112,-122.2136231,849VPQVP+HH,06001
+"California|Oakville, Napa, California, US",38.4366996,-122.402785,84CVCHPW+MV,06055
+California|Oceano,35.0988648,-120.612393,847X39XQ+G2,06079
+California|Old Mine Road out of Rodeo,38.032977,-122.2669138,84CV2PMM+56,06013
+"California|Olema, California",38.0407566,-122.7880459,84CV26R6+8Q,06041
+"California|On the Rad, Carmel to Morro Bay",35.3659445,-120.8499924,847X9582+92,06079
+"California|Orinda, California",37.8771476,-122.1796888,849VVRGC+V4,06013
+"California|Pacific Grove, California",36.6177374,-121.9166215,848WJ39M+39,06053
+"California|Peachwood Drive, Laguna Beach",33.5427189,-117.7853568,8554G6V7+3V,06059
+"California|Pelagic Trip, Monterey",36.6002378,-121.8946761,848WJ424+34,06053
+"California|Pelican Point, Pajaro Dunes, Watsonville",36.910231,-121.7568946,848WW66V+36,06087
+"California|Pelican Point, Watsonville",36.8532603,-121.810474,848WV53Q+8R,06087
+California|Petaluma,38.232417,-122.6366524,84CV69J7+X8,06097
+California|Pinnacles Nat’l Park,36.5307965,-121.1451978,848WGVJ3+8W,06069
+California|Pismo Beach,35.1427533,-120.6412827,847X49V5+4F,06079
+"California|Point Lobos State Reserve, Carmel",36.5159123,-121.9422821,848WG385+93,06053
+"California|Point Pinole, California",37.9933568,-122.3398581,849VXMV6+83,06013
+"California|Point Reyes Limantour, California",38.0690894,-122.8069356,84CV359V+J6,06041
+"California|Point Reyes, California",38.0690894,-122.8069356,84CV359V+J6,06041
+"California|Post Ranch Inn, California",38.4339114,-122.6835626,84CVC8M8+HH,06097
+"California|Rancho del Oso, Santa Cruz",37.0974138,-122.274148,849V3PWG+X8,06087
+California|Redding,40.5865396,-122.3916754,84GVHJP5+J8,06089
+California|Redwood City,37.4852152,-122.2363548,849VFQP7+3F,06081
+"California|Redwoods NP;Founder's Grove, California",40.3512665,-123.9360174,84GR9327+GH,06023
+"California|Reef Point, Crystal Cove State Park",33.5672487,-117.8168551,8554H58M+V7,06059
+"California|River channel, San Diego",32.715738,-117.1610838,8544PR8Q+7H,06073
+"California|Round Valley Regional Park / Cosumnes River Preserve, California",37.8520813,-121.7900992,849WV625+RX,06013
+"California|Sacramento NWR, California",39.4298024,-122.1884138,84FVCRH6+WJ,06021
+"California|Sacramento River, Redding",40.6518404,-122.43937,84GVMH26+P7,06089
+"California|Sacramento River, Redding, California",40.6518404,-122.43937,84GVMH26+P7,06089
+California|Salton Sea at Lindsay Road,33.1474773,-115.5212419,85564FWH+XG,06025
+"California|San Diego River, San Diego",32.7602969,-117.2137618,8544QQ6P+4F,06073
+"California|San Elijo Lagoon, San Diego",33.0140584,-117.2529145,85542P7W+JR,06073
+California|San Francisco,37.7749295,-122.4194155,849VQHFJ+X6,06075
+"California|San Francisco, California",37.7749295,-122.4194155,849VQHFJ+X6,06075
+"California|San Joaquin Wildlife Refuge, Orange County",33.6612156,-117.8404283,8554M565+FR,06059
+California|San Joaquin Wildlife Sanctuary,33.6612156,-117.8404283,8554M565+FR,06059
+"California|Santa Barbara, California",34.4208305,-119.6981901,8562C8C2+8P,06083
+California|Santiago Stables,33.6770003,-117.6790527,8554M8GC+R9,06059
+"California|Shasta Caverns Rd, Lakehead",40.79719,-122.2943145,84GVQPW4+V7,06089
+California|Sonny Bono Salton Sea NWR HQ,33.1773226,-115.6175604,855659GJ+WX,06025
+California|Sonny Bono Salton Sea NWR--Unit 1,33.1773226,-115.6175604,855659GJ+WX,06025
+"California|Sweetwater Marsh NWR, San Diego",32.715738,-117.1610838,8544PR8Q+7H,06073
+"California|The Rock, Morro Bay",35.3781464,-120.906855,847X93HV+77,06079
+"California|Tijuana Slough, San Diego",32.5560167,-117.1278582,8544HV4C+CV,06073
+"California|Torrey Pines, San Diego",32.8917558,-117.241156,8544VQR5+PG,06073
+California|Tucker Wildlife Sanctuary,33.7105921,-117.6190174,8554P96J+69,06059
+"California|Tule Lake, California",41.9559884,-121.4774916,84HWXG4F+92,06093
+"California|US 101, Santa Maria",34.844996,-120.3782671,846XRJVC+XM,06083
+California|US-CA-Aguanga-41624-41898 Highway 79 - 33.4686x-116.9362,33.4686,-116.9362,8555F397+CG,06065
+California|US-CA-Bodega Bay--Tides Wharf area,,,,
+California|US-CA-Borrego Springs-Anza-borrego Desert State Park - 33.2579x-116.4059,33.2579,-116.4059,85557H5V+5J,06073
+California|US-CA-Calistoga-4045 Saint Helena Hwy - 38.5580x-122.5421,38.558,-122.5421,84CVHF55+55,06055
+California|US-CA-Capitola City Beach,,,,
+California|US-CA-Carlsbad-3097 Ocean St - 33.1555x-117.3515,33.1555,-117.3515,85545J4X+69,06073
+California|US-CA-Carlsbad-4750-4798 Bayshore Dr - 33.1427x-117.3211,33.1427,-117.3211,85544MVH+3H,06073
+California|US-CA-Carlsbad-7350-7398 Gabbiano Ln - 33.0938x-117.3014,33.0938,-117.3014,85543MVX+GC,06073
+California|US-CA-Carlsbad-Hospital Grove Park - 33.1773x-117.3420,33.1773,-117.342,85545MG5+W6,06073
+California|US-CA-Channel Islands National Pk-Channel Islands National Park - 34.0213x-119.5422,34.0213,-119.5422,85622FC5+G4,06083
+California|US-CA-Encinitas-215 W K St - 33.0364x-117.2943,33.0364,-117.2943,85542PP4+H7,06073
+California|US-CA-Henry Cowell Redwoods SP--Zayante Trail,,,,
+California|US-CA-Lemon Cove-37014-37024 Sierra Dr - 36.3904x-118.9605,36.3904,-118.9605,858392RQ+5R,06107
+California|US-CA-Malibu-Charmlee County Park - 34.0415x-118.8941,34.0415,-118.8941,856324R4+H9,06037
+California|US-CA-Monterey Bay Aquarium,,,,
+California|US-CA-Moonglow Dairy,,,,
+California|US-CA-Moss Landing-Moss Landing State Beach - 36.8156x-121.7901,,,,
+California|US-CA-Napa-314 Soscol Ave - 38.2871x-122.2736,38.2871,-122.2736,84CV7PPG+RH,06055
+California|US-CA-Napa-728 1st St - 38.3010x-122.2828,38.301,-122.2828,84CV8P28+9V,06055
+California|US-CA-Oakville,38.4366996,-122.402785,84CVCHPW+MV,06055
+"California|US-CA-Pacific Ocean - 38.2836x-123.0201 - Oct 8, 2017, 7:58 AM",38.2836,-123.0201,84CR7XMH+CX,06097
+California|US-CA-Paicines-Pinnacles National Park - 36.4932x-121.1463,,,,
+California|US-CA-Pajaro Dunes--Shorebirds Pond,,,,
+California|US-CA-Pajaro Dunes--near Pajaro River mouth (SCZ Co.),,,,
+California|US-CA-San Diego-4454 Pacific Hwy - 32.7517x-117.2010,32.7517,-117.201,8544QQ2X+MJ,06073
+California|US-CA-San Diego-Cabrillo National Monument - 32.6749x-117.2396,32.6749,-117.2396,8544MQF6+X5,06073
+California|US-CA-San Diego-Ellen Browning Scripps Park - 32.8505x-117.2734,32.8505,-117.2734,8544VP2G+5J,06073
+"California|US-CA-Sequoia National Park - 36.6075x-118.7547 - May 21, 2016, 6:09 AM",36.6075,-118.7547,8583J65W+24,06107
+California|US-CA-Squaw Valley-32324 Indian Guide Rd - 36.7317x-119.2273,36.7317,-119.2273,8582PQJF+M3,06019
+California|US-CA-Ventura-3750 Olivas Park Dr - 34.2364x-119.2560,34.2364,-119.256,85626PPV+HH,06111
+"California|US-CA-Yosemite National Park - 37.7452x-119.5856 - May 24, 2016, 2:56 PM",37.7452,-119.5856,8592PCW7+3Q,06043
+"California|US-San Diego-885 W Harbor Dr - 32.7084x-117.1713 - May 11, 2016, 3:23 PM",32.7084,-117.1713,8544PR5H+9F,06073
+California|Upper Newport Bay,33.6545639,-117.8884708,8554M436+RJ,06059
+California|Ventura,34.274646,-119.2290316,85627QFC+V9,06111
+"California|Via Floreado, Orinda",37.8963749,-122.1743349,849VVRWG+G7,06013
+California|Wild Animal Park,33.0974458,-116.9957227,855532W3+XP,06073
+"California|Wild Animal Park, San Diego",33.0974458,-116.9957227,855532W3+XP,06073
+"California|along the sea wall, Salton Sea",33.3096558,-116.1194899,85558V5J+V6,06073
+California|downtown Santa Anna,33.7454725,-117.867653,8554P4WJ+5W,06059
+"Canada|Banff, Alberta",,,,
+"Canada|Broken Group, British Columbia",,,,
+Canada|CA-NB-Hopewell-4266 Route 114 - 45.8244x-64.5908,45.8244,-64.5908,87QQRCF5+QM,
+"Canada|CA-NS-1540-1606 Highway 7 - 44.9631x-62.0815 - Aug 16, 2017, 5:33 PM",44.9631,-62.0815,87PVXW79+69,
+"Canada|CA-NS-401 Hawthorne St - 45.6318x-62.0159 - Aug 15, 2017, 3:09 PM",45.6318,-62.0159,87QVJXJM+PJ,
+"Canada|Calgary - Inglewood, Alberta",,,,
+Canada|Cape Breton Highlands NP--Middle Head,,,,
+"Canada|Churchill, Manitoba",,,,
+Canada|Chéticamp,,,,
+"Canada|Clayoquot Sound, British Columbia",,,,
+Canada|Cole Harbour--Salt Marsh Trail,,,,
+"Canada|Deer Group, British Columbia",,,,
+"Canada|Della Falls, British Columbia",,,,
+"Canada|Edmonton, Alberta",,,,
+"Canada|Fort White Alive, Winnipeg",,,,
+Canada|GC,,,,
+"Canada|GC, HW",,,,
+"Canada|Gordon Island, Queen Charlotte Islands",,,,
+"Canada|Granville Island, Vancouver",,,,
+"Canada|Green Gables, Cavendish",,,,
+"Canada|Grouse Mountain, Vancouver",,,,
+"Canada|Grouse Mt., Vancouver",,,,
+Canada|Gulf Shore Parkway,,,,
+"Canada|Harbor, Port Alberni",,,,
+"Canada|Highway 1, Manitoba",,,,
+"Canada|Highway 19, British Columbia",,,,
+"Canada|Hwy 19 near Nanaimo, British Columbia",,,,
+"Canada|Johnstone Strait, British Columbia",,,,
+"Canada|Kitsuksis River walking trail, Port Alberni",,,,
+"Canada|Kitsuksis, Port Alberni",,,,
+"Canada|LatLon (-124.85052855, 49.29967665), British Columbia",,,,
+"Canada|LatLon (-124.85077213, 49.2992674), British Columbia",,,,
+"Canada|LatLon (-124.85077883, 49.2993169), British Columbia",,,,
+"Canada|LatLon (-124.85080884, 49.29928115), British Columbia",,,,
+"Canada|LatLon (-124.85098226, 49.29936476), British Columbia",,,,
+"Canada|Log Train Trail, Port Alberni",,,,
+"Canada|Midcoast, British Columbia",,,,
+Canada|Nanaimo,,,,
+"Canada|Nanaimo, British Columbia",,,,
+"Canada|Nootka, British Columbia",,,,
+Canada|Peggy's Cove,,,,
+Canada|Point Pelee National Park,,,,
+Canada|Port Alberni,,,,
+"Canada|Portage la Prairie, Manitoba",,,,
+Canada|Queen Charlotte Islands,,,,
+Canada|Rainbow Haven Provincial Park,,,,
+"Canada|Richmond, dyke walk, British Columbia",,,,
+"Canada|Salt spring Island, British Columbia",,,,
+"Canada|Shore Road, Eastern Passage",,,,
+"Canada|Sidney, British Columbia",,,,
+Canada|Spectacle Lake Park,,,,
+"Canada|Springfield, Port Alberni",,,,
+"Canada|Sproat Lake, Port Alberni",,,,
+Canada|Stamp Falls,,,,
+"Canada|Stamp Falls, Port Alberni",,,,
+"Canada|Stanley Park, Vancouver",,,,
+"Canada|Strait of Juan de Fuca, British Columbia",,,,
+"Canada|Swan Island camp, Queen Charlotte Islands",,,,
+"Canada|Tow Hill, Queen Charlotte Islands",,,,
+Canada|Train to Churchill,,,,
+"Canada|Tsawassen ferry terminal, British Columbia",,,,
+Canada|Vancouver,,,,
+"Canada|Vancouver, BC",,,,
+"Canada|Vancouver, British Columbia",,,,
+"Canada|Victoria Harbor, British Columbia",,,,
+"Canada|Victoria and Harbor, British Columbia",,,,
+"Canada|Victoria, British Columbia",,,,
+"Canada|View Royal, British Columbia",,,,
+"Canada|Wandering Island, Queen Charlotte Islands",,,,
+"Canada|Wanukewin, Saskatchewan",,,,
+Canada|West Vancouver,,,,
+"Canada|Wickanninnish Inn, British Columbia",,,,
+Canada|Winnipeg,,,,
+"Canada|Winnipeg, Manitoba",,,,
+Canada|Wood Islands Provincial Park,,,,
+"Canada|Zeballos, British Columbia",,,,
+"Canada|near McLaughlin Bay, British Columbia",,,,
+"Cayman Islands|KY-Cayman Islands - 19.2662x-81.2646 - Mar 6, 2017, 7:35 AM",19.2662,-81.2646,76FW7P8P+F5,
+China|Beijimg,,,,
+China|Beijing,,,,
+"China|Formosa Hotel, Tarokko, Taiwan",,,,
+China|Guilin/Li River,,,,
+China|Hong Kong,,,,
+China|Jingzhou,,,,
+"China|Li River, Guilin",,,,
+China|Shibaozhai Pagoda,,,,
+"China|Shibaozhai Pagoda, Yangtze River",,,,
+"China|Summer Palace, Beijing",,,,
+"China|Temple of Heaven, Beijing",,,,
+"China|Wild Goose Pagoda, Xi-An",,,,
+China|Xi-An,,,,
+China|Yangtze Dam,,,,
+"Colorado|Bear Lake, Rocky Mountain National Park",40.3772059,-105.5216651,85GP9FGH+V8,08069
+Colorado|Black Canyon of the Gunnison Natl Park,38.5753936,-107.7415961,85CJH7G5+59,08085
+"Colorado|Box Canyon Falls, Ouray",38.0180022,-107.6776342,85CJ289C+6W,08091
+"Colorado|CO-125, Colorado",,,,
+"Colorado|Cub Lake, Rocky Mountain National Park",40.3498262,-105.6356032,85GP89X7+WQ,08069
+"Colorado|Devil's Gulch Rd, Rocky Mountain National Park",40.4135621,-105.4838322,85GPCG78+CF,08069
+"Colorado|Dream Lake, Rocky Mountain National Park",40.3772059,-105.5216651,85GP9FGH+V8,08069
+"Colorado|Fall River, Rocky Mountain National Park",40.3772059,-105.5216651,85GP9FGH+V8,08069
+Colorado|Fluorissant Fossil Bed Natl Monument,39.0916586,-104.872758,85FQ34RG+MV,08041
+"Colorado|Garden of the Gods, Colorado",38.8649829,-104.8942428,85CQV474+X8,08041
+"Colorado|Garden of the Gods, Colorado Springs",38.8979579,-104.8722474,85CQV4XH+54,08041
+"Colorado|Great Sand Dunes NP, Colorado",37.7330113,-105.514687,859PPFMP+64,08003
+Colorado|Great Sand Dunes National Park,37.7330113,-105.514687,859PPFMP+64,08003
+Colorado|Gunnison,38.5458246,-106.9253207,85CMG3WF+8V,08051
+"Colorado|Gunnison, Colorado",38.5458246,-106.9253207,85CMG3WF+8V,08051
+Colorado|Mesa Verde Nat'l Park,37.3316468,-108.4179912,859H8HJJ+MR,08083
+"Colorado|Monarch Lake CO, Colorado",40.1045406,-105.7395182,85GP4736+R5,08049
+"Colorado|North Cheyenne Canon Park, Colorado",38.7907924,-104.876138,85CQQ4RF+8G,08041
+Colorado|Ouray,38.0227716,-107.6714487,85CJ28FH+4C,08091
+Colorado|Pagosa Springs,37.26945,-107.0097617,859J7X9R+Q3,08007
+"Colorado|Pikes Peak, Colorado",38.8408865,-105.0510143,85CPRWRX+9H,08041
+Colorado|Rocky Mountain National Park,40.3509173,-105.9566659,85GP922V+98,08069
+Colorado|Silverton,37.811941,-107.6645057,859JR86P+Q5,08111
+"Colorado|Snow Mountain Ranch, Colorado",39.992627,-105.9281357,85FPX3VC+3P,08049
+"Colorado|Wild Basin, Rocky Mountain National Park",40.2077506,-105.56873,85GP6C5J+4G,08013
+"Colorado|Windy Gap, Colorado River, US-40, Colorado",40.1082121,-105.9825573,85GP4258+7X,08049
+"Connecticut|Bluff Point State Park, Connecticut",42.0322074,-72.7497023,87J927J2+V4,09003
+Connecticut|US-CT-Bridgeport-Pequonnock River - 41.1705x-73.1780,41.1705,-73.178,87H85RCC+6R,09001
+Costa Rica|Angostura (Dam),,,,
+Costa Rica|Caldera,,,,
+"Costa Rica|Canopy tour, Costa Rica",,,,
+Costa Rica|Carara National Park,,,,
+Costa Rica|Casa Turire,,,,
+Costa Rica|Catie (Post Office),,,,
+Costa Rica|Cerro de la Muerte,,,,
+Costa Rica|Cicciona,,,,
+Costa Rica|Costa Rica,,,,
+"Costa Rica|Curu, Costa Rica",,,,
+Costa Rica|El Tapir,,,,
+Costa Rica|El Tigre Marsh,,,,
+Costa Rica|Guacilillo Road,,,,
+Costa Rica|Guacimo Road,,,,
+Costa Rica|Hotel Bougainvillea,,,,
+Costa Rica|Japanese Guy's Road,,,,
+Costa Rica|La Mina – Platanillo,,,,
+Costa Rica|La Quinta,,,,
+Costa Rica|La Selva,,,,
+Costa Rica|LaPaz Waterfall Garden,,,,
+Costa Rica|Orosi/Cartago/Cachi Dam,,,,
+Costa Rica|Paraiso Quetzal,,,,
+Costa Rica|Playa Azul,,,,
+Costa Rica|Puntaleone,,,,
+Costa Rica|Rancho Naturalista,,,,
+Costa Rica|Rancho Naturalista - Pools,,,,
+Costa Rica|Restaurant,,,,
+Costa Rica|Rio San Jose,,,,
+Costa Rica|Rio Tarcoles Boat Cruise,,,,
+Costa Rica|Road to Bijagua,,,,
+Costa Rica|Road to Pueblo Nuevo,,,,
+"Costa Rica|SJO airport, Costa Rica",,,,
+"Costa Rica|San Josecito, Costa Rica",,,,
+Costa Rica|Savegre,,,,
+Costa Rica|Silent Mountain,,,,
+Costa Rica|Tarcoles,,,,
+Costa Rica|Tolomuko,,,,
+"Costa Rica|Trapp Family Country Inn, San Jose",,,,
+Costa Rica|Trogon Lodge – Savegre Valley,,,,
+Costa Rica|Turrialba Volcano,,,,
+"Croatia|Bana Josipa Jelačića, Vukovar HR-County of Vukovar-Sirmium (45.3422,19.0191)",,,,
+"Denmark|Copenhagen, Denmark",,,,
+Florida|Biscayne Bay,25.5722,-80.2321,76QXHQC9+V5,12086
+Florida|Biscayne NP,25.5722,-80.2321,76QXHQC9+V5,12086
+"Florida|Brevard County Hot Spots, Merritt Island, local, camp",28.263933,-80.7214417,76WX777H+HC,12009
+Florida|Central Florida Specialties,28.8063892,-81.3218336,76WWRM4H+H7,12117
+Florida|Collier regional park,26.2639879,-81.7496913,76RW7772+H4,12021
+Florida|Corkscrew Audubon Swamp,26.3743958,-81.6091321,76RW99FR+Q8,12021
+Florida|Corkscrew Regional Ecosystem Watershed--Bird Rookery Swamp Trails,26.3743958,-81.6091321,76RW99FR+Q8,12021
+Florida|Crystal River,28.902479,-82.5926012,76WVWC24+XX,12017
+Florida|Ding Darling NWR,26.4454589,-82.1124171,76RVCVWQ+52,12071
+Florida|Everglades,25.8582443,-81.3850695,76QWVJ57+7X,12021
+Florida|Everglades Mangrove Swamp tour,25.8582443,-81.3850695,76QWVJ57+7X,12021
+Florida|Everglades NP--Gulf Coast Visitor's Center,25.8582443,-81.3850695,76QWVJ57+7X,12021
+Florida|FL border to Titusville in RV,28.6122187,-80.8075537,76WXJ56R+VX,12009
+Florida|Fort Clinch State Park,30.6966461,-81.4416324,862WMHW5+M8,12089
+Florida|Frog Pond WMA--Lucky Hammock,25.4380816,-80.5819702,76QXCCQ9+66,12086
+Florida|Green Key park,28.2533355,-82.7501707,76WV763X+8W,12101
+Florida|Hatbill Park,28.6059909,-80.9623121,76WXJ24Q+93,12009
+Florida|Homestead home rental,25.4687224,-80.4775569,76QXFG9C+FX,12086
+Florida|I-75,,,,
+Florida|J. N. Ding Darling NWR--McIntyre Creek,26.4454589,-82.1124171,76RVCVWQ+52,12071
+Florida|Merritt Island NWR,28.6100373,-80.7154359,76WXJ76M+2R,12009
+Florida|Merritt Island NWR--East Gator Creek,28.3180688,-80.6659842,76WX889M+6J,12009
+Florida|Naples rental house,26.1420358,-81.7948103,76RW46R4+R3,12021
+Florida|North Collier Regional Park--Nature Trail,30.5271604,-87.3587384,862JGJGR+VG,12033
+"Florida|Saltgrass Lake Park, St. Petersburg",27.7518284,-82.6267345,76VVQ92F+P8,12103
+Florida|Sawgrass Lake Park,27.8411,-82.669931,76VVR8RJ+C2,12103
+"Florida|Sawgrass Lake Park, St. Petersburg",27.8411,-82.669931,76VVR8RJ+C2,12103
+"Florida|Sawgrass Park, St, Petersburg",27.8411,-82.669931,76VVR8RJ+C2,12103
+"Florida|Seasons in the Sun RV Resort, Titusville, FL",28.6639812,-80.8870909,76WXM477+H5,12009
+Florida|Seasons of the Sun campground,30.8675049,-87.3208697,862JVM9H+2M,12033
+Florida|St. Pete Beach,27.700919,-82.7670745,76VVP62M+95,12103
+Florida|Tampa airport,27.9834776,-82.5370781,76VVXFM7+95,12057
+Florida|The Heather Golf Club,28.5393201,-82.578125,76WVGCQC+PP,12053
+Florida|Three Lakes WMA--Hunter Campground,30.8675049,-87.3208697,862JVM9H+2M,12033
+Florida|Tosohatchee wildlife area,28.4570225,-80.9335465,76WXF348+RH,12095
+Florida|US-FL-Apopka-2874-2964 Lust Rd - 28.6691x-81.5592,28.6691,-81.5592,76WWMC9R+J8,12095
+Florida|US-FL-Astatula-23446 Ranch Rd - 28.6877x-81.7009,28.6877,-81.7009,76WWM7QX+3J,12069
+Florida|US-FL-Christmas-28302 E Colonial Dr - 28.4987x-80.9811,28.4987,-80.9811,76WXF2X9+FH,12095
+Florida|US-FL-Fernandina Beach-Fort Clinch State Park - 30.7011x-81.4585,30.7011,-81.4585,862WPG2R+CH,12089
+Florida|US-FL-Fernandina Beach-Fort Clinch State Park - 30.7013x-81.4583,30.7013,-81.4583,862WPG2R+GM,12089
+Florida|US-FL-Homestead-3074 SE 7th Ct - 25.4631x-80.4313,25.4631,-80.4313,76QXFH79+6F,12086
+Florida|US-FL-Homestead-Everglades National Park - 25.3270x-80.7967,25.327,-80.7967,76QX86G3+Q8,12086
+Florida|US-FL-Jacksonville-Little Talbot Is State Park - 30.4578x-81.4133,30.4578,-81.4133,862WFH5P+4M,12031
+Florida|US-FL-Lecanto-903 E Gulf To Lake Hwy - 28.8589x-82.4209,28.8589,-82.4209,76WVVH5H+HJ,12017
+Florida|US-FL-Marathon-Long Key State Park - 24.8043x-80.8484,24.8043,-80.8484,76PXR532+PJ,12087
+Florida|US-FL-Miami-Everglades National Park - 25.7614x-80.7752,25.7614,-80.7752,76QXQ66F+HW,12086
+Florida|US-FL-Naples-6060 Golden Oaks Ln - 26.2603x-81.7300,26.2603,-81.73,76RW7769+4X,12021
+Florida|US-FL-Naples-I-75 N - 26.2949x-81.7426,26.2949,-81.7426,76RW77V4+XX,12021
+Florida|US-FL-New Port Richey-Green Key Park - 28.2534x-82.7569,28.2534,-82.7569,76WV763V+96,12101
+Florida|US-FL-Rockledge-332-400 Barnes Blvd - 28.2944x-80.7069,28.2944,-80.7069,76WX77VV+Q6,12009
+Florida|US-FL-Saint Petersburg-Sawgrass Lake Park - 27.8385x-82.6680,27.8385,-82.668,76VVR8QJ+9Q,12103
+Florida|US-FL-Weeki Wachee-8983 Lismore Ct - 28.5346x-82.5764,28.5346,-82.5764,76WVGCMF+RC,12053
+"Florida|WDW, Florida",28.3665269,-81.5596943,76WW9C8R+J4,12095
+Florida|Zellwood and Apopka Lake,28.68419,-81.5367399,76WWMFM7+M8,12095
+Georgia|I95,,,,
+Georgia|on the road,,,,
+Germany|Bad Mergentheim,,,,
+Germany|Berlin,,,,
+Germany|Eggolfstein,,,,
+Germany|Forchheim,,,,
+Germany|Freiburg,,,,
+Germany|Konstanz,,,,
+Germany|Mittenwald,,,,
+Germany|Nueremberg,,,,
+Germany|Nuermberg,,,,
+Germany|Oberdurrbac,,,,
+"Germany|On the road, Erfurt",,,,
+Germany|Volkach,,,,
+Germany|Wuerzburg,,,,
+"Hawaii|Big Is. CC, Hawaii",,,,
+"Hawaii|Black sand beach, Hawaii",20.7886606,-156.0035712,73G5QXQW+FH,15009
+Hawaii|Hawaii Big Is. CC,,,,
+Hawaii|Hawaii Kona Coast,19.639994,-155.9969261,73F6J2Q3+X6,15001
+"Hawaii|Hawaii, Kona Coast",19.639994,-155.9969261,73F6J2Q3+X6,15001
+"Hawaii|Hilton Hawaiian Village, Oahu",21.271415,-157.7730083,73H476CG+HQ,15003
+"Hawaii|Hilton Hawaiian Village, Waikiki, Honolulu",21.285002,-157.835698,73H475P7+2P,15003
+"Hawaii|Honolulu, Hawaii",21.3069444,-157.8583333,73H4844R+QM,15003
+"Hawaii|Kapaa, Kauai",22.0881391,-159.3379818,73J23MQ6+7R,15007
+Hawaii|Kauai,21.9661076,-159.5737912,73H2XC8G+CF,15007
+"Hawaii|Kauai, Hanalei NWR, Hawaii",22.201164,-159.468026,73J26G2J+FQ,15007
+"Hawaii|Kauai, Hawaii",21.9661076,-159.5737912,73H2XC8G+CF,15007
+"Hawaii|Kauai, Kilauea Point, Hawaii",22.227729,-159.4013929,73J26HHX+3C,15007
+"Hawaii|Kauai, Kilauea, garden, Hawaii",22.217729,-159.4035557,73J26H9W+3H,15007
+"Hawaii|Kauai, Kokee, Hawaii",22.0624135,-159.664554,73J2386P+X5,15007
+"Hawaii|Kauai, coffee, Hawaii",,,,
+"Hawaii|Kauai, condo, lower lawn, Hawaii",,,,
+"Hawaii|Kauai, east of Hyatt, Hawaii",,,,
+"Hawaii|Kauai, golf course, Hawaii",,,,
+"Hawaii|Keahou, Hawaii",19.639994,-155.9969261,73F6J2Q3+X6,15001
+Hawaii|Kilauae,22.2119444,-159.4122222,73J26H6Q+Q4,15007
+"Hawaii|Kilauea Point, Kauai",22.227729,-159.4013929,73J26HHX+3C,15007
+"Hawaii|Kilauea Pt., Kauai",22.227729,-159.4013929,73J26HHX+3C,15007
+"Hawaii|Kona Coast, Hawaii",19.639994,-155.9969261,73F6J2Q3+X6,15001
+"Hawaii|N. Shore, Oahu",21.5616575,-158.0715983,73H3HW6H+M9,15003
+Hawaii|Oahu,21.4389123,-158.0000565,73H3CXQX+HX,15003
+"Hawaii|Oahu, Hawaii (N. Shore)",21.5001528,-158.0788833,73H3GW2C+3C,15003
+"Hungary|2340 Kiskunlacháza, Kiskunlacháza HU-Pest (47.1954,19.1226)",,,,
+"Hungary|2345 Apaj, Apaj HU-Pest (47.1389,19.1009)",,,,
+"Hungary|2347 Bugyi, Bugyi HU-Pest (47.1679,19.1722)",,,,
+"Hungary|7631 Pécs, Pécs HU-Baranya (46.0605,18.2329)",,,,
+Hungary|Antal József Rakpart- Riverbank of Danube--Budapest,,,,
+Hungary|Budapest Zoo,,,,
+"Hungary|Kiskunsági Nemzeti Park, Kunszentmiklós HU-Bács-Kiskun (47.0505,19.1636)",,,,
+Iceland|Iceland,,,,
+Iceland|Vik,,,,
+Iceland|West Iceland,,,,
+"Idaho|Boise, along river, Idaho",45.9019541,-115.7237433,85Q6W72G+QG,16049
+"Idaho|I-86, Idaho",,,,
+"Idaho|ID-78, Idaho",,,,
+"Idaho|Idaho Falls, Idaho",43.4916514,-112.0339645,85M9FXR8+MC,16019
+"Idaho|Jerome KOA, Idaho",42.660319,-114.444518,85J7MH64+45,16053
+"Idaho|Montpelier, Idaho",42.3221498,-111.2977044,85JC8PC2+VW,16007
+Idaho|Moscow,46.7323875,-117.000165,85R4PXJX+XW,16057
+"Idaho|US-30, Idaho",,,,
+"Idaho|US12, Idaho",46.4210651,-117.0253222,85R4CXCF+CV,16069
+Illinois|I-70,,,,
+"Illinois|US 50 near Lebanon, Illinois",38.6003446,-89.8314496,86CGJ529+4C,17163
+India|Bangalore,,,,
+"Iowa|Effigy Mounds, Iowa",43.0888016,-91.1876928,86MC3RQ6+GW,19005
+"Iowa|Great River Road, Iowa",,,,
+Iowa|IA 44 near Guthrie Center,41.7530909,-94.479976,86H7QG3C+62,19077
+"Iowa|Western Historic Trails Center,Council Bluffs, Iowa",41.6624604,-92.0665197,86H9MW6M+X9,19095
+Italy|Acone,,,,
+Italy|Assissi,,,,
+Italy|Bresanone,,,,
+"Italy|Como, Itlay",,,,
+Italy|IT-Lazio-Fiumicino-Fiumicino Airport - 41.8068x12.2575,41.8068,12.2575,8FHJR744+PX,
+Italy|IT-Lazio-Fiumicino-Viale della Pesca 2 - 41.7717x12.2242,41.7717,12.2242,8FHJQ6CF+MM,
+Italy|IT-Sicily-Caltanissetta-Contrada Grotta d'Acqua - 37.4218x13.9407,37.4218,13.9407,8F9MCWCR+P7,
+Italy|IT-Sicily-Castelvetrano-91022 - 37.5884x12.8340,37.5884,12.834,8F9JHRQM+9J,
+Italy|IT-Sicily-Ortigia-Passeggio Aretusa 1-12 - 37.0574x15.2928,37.0574,15.2928,8F9Q374V+X4,
+Italy|IT-Sicily-Palermo-Via Aquino 92-100 - 38.0748x13.3065,38.0748,13.3065,8FCM38F4+WH,
+Italy|IT-Sicily-Taormina-Via Bagnoli Croci - 37.8504x15.2907,37.8504,15.2907,8F9QV72R+57,
+Italy|IT-Sicily-Taormina-Via Luigi Pirandello - 37.8529x15.2945,37.8529,15.2945,8F9QV73V+5Q,
+"Italy|Il Sileano, Paestum",,,,
+Italy|Isola Bela,,,,
+Italy|Lake Como,,,,
+Italy|Lake Maggiore,,,,
+"Italy|Oasi di Torrile, Torrile",,,,
+Italy|Parma,,,,
+Italy|Po River,,,,
+"Italy|Pro Vobis, Assissi",,,,
+"Italy|Quo Vobis, Assissi",,,,
+Italy|San Salvino,,,,
+"Italy|Settimo Caelis, Sorrento, Itlay",,,,
+"Italy|Settimo Coelis, Sorrento",,,,
+"Jamaica|JM-Middlesex County-Ocho Rios - 18.4131x-77.0749 - Mar 6, 2017, 8:10 AM",18.4131,-77.0749,77C4CW7G+62,
+"Japan|Balestrand, Norway",,,,
+"Japan|Imperial Palace, Tokyo",,,,
+"Japan|Kansai Airport, Osaka",,,,
+Japan|Kyoto River,,,,
+"Japan|Nijo Castle, Kyoto",,,,
+"Japan|Sanjusangendo, Tokyo",,,,
+Japan|Tokyo Prince,,,,
+Kansas|Cheyenne Bottoms NWMA,38.4695838,-98.6512471,86C3F89X+RG,20009
+"Kansas|I-70,central, Kansas",,,,
+Kansas|On the road,39.0018936,-94.6308303,86F72929+QM,20091
+Kansas|Quivira NWR,39.0402827,-94.7766281,86F726RF+48,20091
+"Kentucky|Cumberland Gap, Kentucky",36.9608631,-84.0748653,868QXW6G+83,21235
+Kentucky|Kentucky Horse Park Campground,38.148059,-84.5075658,86CQ4FXR+6X,21067
+"Kentucky|Mammoth Cave NP, Kentucky",37.1861597,-86.0999753,869M5WP2+F2,21061
+Louisiana|Along Highway 82 and 27 in LA,,,,
+Louisiana|Along Interstate 10,,,,
+"Louisiana|Audubon Zoo, New Orleans",29.9266094,-90.1318541,76XFWVG9+J7,22071
+Louisiana|Louisiana,,,,
+Louisiana|Nachitoches,31.7607195,-93.0862749,8638QW67+7F,22069
+Louisiana|New Orleans,29.9510658,-90.0715323,76XFXW2H+C9,22071
+Louisiana|Peveto Woods,29.7575169,-93.6071335,76X8Q95V+24,22023
+Louisiana|Peveto Woods - Baton Rouge Audubon Society Sanctuary,29.7575169,-93.6071335,76X8Q95V+24,22023
+"Louisiana|Sabine, NWR",29.9041299,-93.5205641,76X8WF3H+MQ,22023
+"Maine|Acadia National Park, Bar Harbor",44.3876119,-68.2039123,87PH9QQW+2C,23009
+"Maine|Bar Harbor,",44.3876119,-68.2039123,87PH9QQW+2C,23009
+Maine|Camden,44.2097928,-69.0647838,87PG6W5P+W3,23013
+Maine|Kittery,43.0881256,-70.736137,87MF37Q7+7G,23031
+Maine|Mt Desert Island and vicinity,44.3924341,-68.3021373,87PH9MRX+X4,23009
+"Maine|On the road, Bar Harbor to NH,",,,,
+"Maryland|Assateague Island SP, Maryland",38.2572426,-75.1647236,87C67R4P+V4,24047
+Maryland|Fort McHenry,39.2641151,-76.5798874,87F57C7C+J2,24005
+Maryland|Loch Raven Reservoir,39.4539091,-76.5748309,87F5FC3G+H3,24005
+"Maryland|Mount Washington, Baltimore",39.3622104,-76.6614853,87F5986Q+VC,24005
+"Massachusetts|110 Chace Hill Rd, Lancaster US-MA (42.4292,-71.7132)",,,,
+"Massachusetts|170 Maple St., Warren,",42.2095896,-72.199247,87J96R52+R8,25027
+"Massachusetts|184 W Main St, West Brookfield US-MA (42.2357,-72.1636)",,,,
+"Massachusetts|1–199 Old West Brookfield Rd, Warren US-MA (42.2175,-72.1931)",,,,
+"Massachusetts|209 Maple St, Warren US-MA (42.2088,-72.1983)",,,,
+"Massachusetts|96 Chace Hill Rd, Lancaster US-MA (42.4291,-71.7127)",,,,
+"Massachusetts|96 Chase Hill Rd., Lancaster,",42.4292376,-71.7128211,87JCC7HP+MV,25027
+"Massachusetts|Audubon Society Wildlife Sanctuary, Wellfleet",41.9305468,-70.0309753,87HFWXJ9+6J,25001
+Massachusetts|Barnstable,41.7003208,-70.3002024,87HFPM2X+4W,25001
+Massachusetts|Barre Dam,42.4517565,-72.10119,87J9FV2X+PG,25027
+"Massachusetts|Boston Logan International Airport, Boston US-MA (42.3674,-71.0236)",,,,
+"Massachusetts|Boston harbor, Boston",42.38579,-70.876022,87JF94PF+8H,25025
+"Massachusetts|Brooks Rd., Warren",42.1827175,-72.2246425,87J95QMG+34,25027
+"Massachusetts|Brooks St., West Warren,",42.1827175,-72.2246425,87J95QMG+34,25027
+"Massachusetts|Chapel St., W. Warren",42.2125423,-72.191185,87J96R75+2G,25027
+Massachusetts|Chatham,41.6820897,-69.9597664,87HGM2JR+R3,25001
+"Massachusetts|Chesterfield,",42.3917541,-72.8398172,87J995R6+P3,25015
+"Massachusetts|Coast Guard Beach, National Seashore, Eastham",41.8299634,-69.9740361,87HGR2HG+X9,25001
+"Massachusetts|Copper Lantern Motel, Quaboag River, West Brookfield",42.2353463,-72.1411642,87J96VP5+4G,25027
+"Massachusetts|Copper Lantern, West Brookfield",42.2353463,-72.1411642,87J96VP5+4G,25027
+"Massachusetts|Dean Park, West Warren,",42.2125423,-72.191185,87J96R75+2G,25027
+"Massachusetts|Dean Park/N. St., W. Warren",42.2125423,-72.191185,87J96R75+2G,25027
+Massachusetts|Dexter Drumlin,42.448889,-71.687222,87JCC8X7+H4,25027
+"Massachusetts|Dexter Drumlin, Lancaster",42.448889,-71.687222,87JCC8X7+H4,25027
+Massachusetts|Falmouth,41.5532208,-70.6085886,87HFH93R+7H,25001
+"Massachusetts|First Encounter Beach, Eastham",41.8212916,-70.0039941,87HFRXCW+GC,25001
+"Massachusetts|Fort Hill Trail, Eastham",41.8207279,-69.9605097,87HGR2CQ+7Q,25001
+Massachusetts|Hwy 6 near Barnstable,41.7003208,-70.3002024,87HFPM2X+4W,25001
+Massachusetts|Lancaster,42.4556452,-71.6731242,87JCF84G+7Q,25027
+"Massachusetts|Lancaster,",42.4556452,-71.6731242,87JCF84G+7Q,25027
+Massachusetts|Lancster,42.4556452,-71.6731242,87JCF84G+7Q,25027
+Massachusetts|Logan Airport,,,,
+"Massachusetts|Lucy Stone Park, Warren",42.2125423,-72.191185,87J96R75+2G,25027
+"Massachusetts|Lucy Stone Park, Warren,",42.2125423,-72.191185,87J96R75+2G,25027
+"Massachusetts|Maple St.,",,,,
+Massachusetts|Mt. Wachusett,42.4891723,-71.8870425,87JCF4Q7+M5,25027
+"Massachusetts|N. Street, W. Warren",42.2125423,-72.191185,87J96R75+2G,25027
+"Massachusetts|Nauset Beach, Orleans",41.790556,-70.010281,87HFQXRQ+6V,25001
+Massachusetts|Normandy Farms Campground,,,,
+"Massachusetts|Oakham,",42.3527105,-72.0449783,87J99X34+32,25027
+"Massachusetts|Off S. St., W. Warren",42.2125423,-72.191185,87J96R75+2G,25027
+Massachusetts|Orleans,41.7898354,-69.9897323,87HGQ2Q6+W4,25001
+Massachusetts|Plymouth,41.9584457,-70.6672621,87HFX85M+93,25023
+"Massachusetts|Plymouth Harbor, Plymouth",41.964664,-70.6558817,87HFX87V+VJ,25023
+"Massachusetts|Plymouth, Plymouth",41.9584457,-70.6672621,87HFX85M+93,25023
+Massachusetts|Provincetown,42.0584412,-70.1786425,87JF3R5C+9G,25001
+Massachusetts|Quabbin Reservoir,42.4019614,-72.4488118,87J9CH22+QF,25015
+"Massachusetts|Quabbin Reservoir, Belchertown",42.2813301,-72.3454801,87J97MJ3+GR,25015
+"Massachusetts|Rail Trail, Lancaster",42.4017791,-72.8691671,87J9C42J+P8,25015
+"Massachusetts|Reed St, Warren",42.2125423,-72.191185,87J96R75+2G,25027
+"Massachusetts|Reed St., Warren",42.2125423,-72.191185,87J96R75+2G,25027
+"Massachusetts|Reservoir, Lancaster",42.3743127,-71.7759411,87JC96FF+PJ,25027
+Massachusetts|Rockport,42.6556505,-70.620363,87JFM94H+7V,25009
+"Massachusetts|Rutland State Park, Rutland",42.3610115,-71.99395,87JC9264+CC,25027
+"Massachusetts|Sandy Neck Beach, Barnstable",41.7395673,-70.3873903,87HFPJQ7+R2,25001
+"Massachusetts|Skakeet Beach, Orleans/First Encounter, Eastham",41.8299634,-69.9740361,87HGR2HG+X9,25001
+"Massachusetts|St. Paul's Cemetery, Warren",42.2125423,-72.191185,87J96R75+2G,25027
+Massachusetts|Stage Fort Park,42.6056566,-70.6774439,87JFJ84F+72,25009
+Massachusetts|Sunsetview Farm Campground,42.121613,-72.294421,87J94PC4+J6,25013
+"Massachusetts|Swan Pond, Dennis",41.6789706,-70.1329288,87HFMVH8+HR,25001
+Massachusetts|Turek's Swamp,,,,
+Massachusetts|US-MA-Boston-Boston Inner Harbor - 42.3596x-71.0464,42.3596,-71.0464,87JC9X53+RC,25025
+Massachusetts|US-MA-Clinton-48 S Meadow Rd - 42.4144x-71.7101,42.4144,-71.7101,87JCC77Q+QX,25027
+Massachusetts|US-MA-Lancaster-158-204 Chace Hill Rd - 42.4277x-71.7151,42.4277,-71.7151,87JCC7HM+3X,25027
+Massachusetts|US-MA-Lancaster-289-291 Seven Bridge Rd - 42.4619x-71.6593,42.4619,-71.6593,87JCF86R+Q7,25027
+Massachusetts|US-MA-Lancaster-424-468 Bolton Rd - 42.4455x-71.6586,42.4455,-71.6586,87JCC8WR+6H,25027
+Massachusetts|US-MA-Lancaster-81-231 George Hill Rd - 42.4477x-71.6873,42.4477,-71.6873,87JCC8X7+33,25027
+Massachusetts|US-MA-Lancaster-96 Chase Hill Rd,42.4292376,-71.7128211,87JCC7HP+MV,25027
+Massachusetts|US-MA-New Salem-01355 - 42.4993x-72.3261,42.4993,-72.3261,87J9FMXF+PH,25011
+Massachusetts|US-MA-Princeton-133-163 Goodnow Rd - 42.4554x-71.9056,42.4554,-71.9056,87JCF34V+5Q,25027
+Massachusetts|US-MA-Sterling-9 Hall Ave - 42.4152x-71.7426,42.4152,-71.7426,87JCC784+3X,25027
+Massachusetts|US-MA-Ware-Quabbin Hill Rd - 42.2897x-72.3375,42.2897,-72.3375,87J97MQ6+VX,25015
+Massachusetts|US-MA-Warren-24-76 Old West Brookfield Rd,42.2125423,-72.191185,87J96R75+2G,25027
+Massachusetts|US-MA-Warren-70 Reed St - 42.2054x-72.2030,42.2054,-72.203,87J96Q4W+5Q,25027
+Massachusetts|US-MA-Warren-New Reed St - 42.1811x-72.2374,42.1811,-72.2374,87J95QJ7+C2,25027
+Massachusetts|US-MA-Warren-New Reed St - 42.1813x-72.2363,42.1813,-72.2363,87J95QJ7+GF,25027
+"Massachusetts|US-MA-West Brookfield - 42.2094x-72.1989 - Jul 8, 2015, 6:12 AM",,,,
+Massachusetts|US-MA-West Brookfield-1 Pine Grove Dr,42.2096471,-72.1966223,87J96R53+V9,25027
+Massachusetts|W. Warren,42.2125423,-72.191185,87J96R75+2G,25027
+"Massachusetts|Wachusets Meadow, Lancaster",42.4556452,-71.6731242,87JCF84G+7Q,25027
+Massachusetts|Wachusett Meadow Wildlife Sanctuary,42.4557229,-71.9055527,87JCF34V+7Q,25027
+"Massachusetts|Wachusett Meadow Wildlife Sanctuary, Princeton",42.4557229,-71.9055527,87JCF34V+7Q,25027
+Massachusetts|Wachusetts Meadow (Audubon),42.4557229,-71.9055527,87JCF34V+7Q,25027
+"Massachusetts|Wachusetts Meadow, Princeton",42.4557229,-71.9055527,87JCF34V+7Q,25027
+"Massachusetts|Wahusett Reservoir,",42.3920664,-71.7207271,87JC97RH+RP,25027
+Massachusetts|Warren,42.2125423,-72.191185,87J96R75+2G,25027
+Massachusetts|Warren Meadows,42.2125423,-72.191185,87J96R75+2G,25027
+"Massachusetts|Wellfleet Audubon Wildlife Sanctuary, Eastham",41.8299634,-69.9740361,87HGR2HG+X9,25001
+Massachusetts|West Warren,42.2125423,-72.191185,87J96R75+2G,25027
+Massachusetts|Wickaboag Lake,,,,
+Mexico|MX-QROO-Cozumel-Avenida Rafael E. Melgar 241 - 20.5092x-86.9517,20.5092,-86.9517,76GMG25X+M8,
+Michigan|Highway 28,46.4897639,-87.6427302,86RJF9Q4+WW,26103
+Michigan|Pictured Rocks,46.5614384,-86.3213064,86RMHM6H+HF,26003
+"Michigan|Pictured Rocks, Michigan",46.5614384,-86.3213064,86RMHM6H+HF,26003
+Michigan|Seney NWR,46.288565,-85.946569,86RP73Q3+C9,26153
+"Michigan|Seney NWR, Michigan",46.288565,-85.946569,86RP73Q3+C9,26153
+Michigan|Upper Peninsula,,,,
+"Minnesota|6895 Homestead Rd, Duluth US-MN (47.0094,-91.8474)",,,,
+Minnesota|Arthur V. Rohweder Memorial Hwy Wayside,,,,
+Minnesota|Birch Lake Dam,,,,
+Minnesota|Brighton Beach,,,,
+Minnesota|Crow Wing County Minnesota ,,,,
+"Minnesota|Duluth, MN  55804, Duluth US-MN (46.9699,-91.8573)",,,,
+"Minnesota|Lou’s Feeders, Sax Zim Bog",,,,
+Minnesota|Moccasin Mike Rd.,,,,
+Minnesota|Richard I Bong Airport,,,,
+Minnesota|Sax Zim bog,,,,
+Minnesota|Sax-Zim Bog-- Racek Road Sharp-tailed Grouse Lek,,,,
+Minnesota|Sax-Zim--Admiral Rd. Feeding Station,,,,
+"Minnesota|St. Louis County, Minnesota ",,,,
+Minnesota|Two Harbors--woods W of cemetery,,,,
+Minnesota|Warren Nelson Memorial Bog,,,,
+Mississippi|Along I-10,,,,
+Mississippi|Mississippi,,,,
+"Missouri|Hwy 116 near Missouri River, Missouri",40.2304251,-92.5022751,86G96FJX+53,29001
+"Missouri|I-35 N, Liberty US-MO (39.2851,-94.4166)",39.2851,-94.4166,86F77HPM+29,29047
+"Missouri|I-70, MO-94, along the Katy Trail",38.5972432,-90.8918507,86CFH4W5+V7,29183
+Missouri|Springfield KOA,,,,
+Missouri|Watkins Mill SP,39.4033857,-94.2620544,86F7CP3Q+95,29047
+"Montana|Beartooth Highway, Montana",45.1857782,-109.2468211,85QG5QP3+87,30009
+Montana|Billings,45.7832856,-108.5006904,85QHQFMX+8P,30111
+"Montana|Great Falls, Montana",47.4941836,-111.2833449,85VCFPV8+MM,30013
+Montana|Hardin,45.7324778,-107.6120314,85QJP9JQ+X5,30003
+"Montana|Lee Metcalfe NWR, Montana",46.5559109,-114.0766062,85R7HW4F+99,30081
+Montana|Ryegate,46.2971794,-109.2587859,85RG7PWR+VF,30037
+"Montana|Three Forks, Montana",45.892428,-111.5521925,85QCVCRX+X4,30031
+Montana|Townsend,46.3190976,-111.5208023,85RC8F9H+JM,30007
+"Montana|US 12 — MT 3, Ryegate",46.2973768,-109.25644,85RG7PWV+XC,30037
+"Montana|US93, Montana",,,,
+Netherlands|Amsterdam,,,,
+Netherlands|Delft,,,,
+"Netherlands|Texel, Netherlands",,,,
+Netherlands|Zaanse Schanz,,,,
+Netherlands|Zuider Zee,,,,
+"Netherlands|train to Den Helder, Netherlands",,,,
+Nevada|Gold Ranch RV Campground,39.5018135,-120.0032267,84FXGX2W+PP,32031
+"Nevada|Silver City, Nevada",39.2635236,-119.640455,85F27975+CR,32019
+"New Hampshire|Cathedral of the Pines, Rindge",42.7511964,-72.0098021,87J9QX2R+F3,33005
+"New Hampshire|Colby Inn, Henniker",43.1798323,-71.8222872,87MC55HH+W3,33013
+"New Hampshire|Forrester's Tree Farm, Henniker",43.1798323,-71.8222872,87MC55HH+W3,33013
+New Hampshire|Lebanon,43.6422934,-72.2517569,87M9JPRX+W7,33009
+"New Hampshire|Lebanon, New Hampshire",43.6422934,-72.2517569,87M9JPRX+W7,33009
+New Hampshire|Manchester,42.9956397,-71.4547891,87JCXGWW+73,33011
+"New Hampshire|Quincy Bog Natural Area, Rumney",43.7909478,-71.7774084,87MCQ6RF+92,33009
+"New Hampshire|US-NH-Boston Lot Lake trail--powerline corridor, Lebanon",43.6422934,-72.2517569,87M9JPRX+W7,33009
+New Hampshire|US-NH-Enfield-Northern Rail Trl - 43.6413x-72.1461,43.6413,-72.1461,87M9JVR3+GH,33009
+New Hampshire|US-NH-Hollis-11 Pierce Ln - 42.7555x-71.5564,42.7555,-71.5564,87JCQC4V+5C,33011
+New Hampshire|US-NH-Lebanon-38-90 Alice Peck Day Dr - 43.6439x-72.2653,43.6439,-72.2653,87M9JPVM+HV,33009
+New Hampshire|US-NH-Lebanon-Colburn Park - 43.6423x-72.2514,43.6423,-72.2514,87M9JPRX+WC,33009
+New Hampshire|Waterville Valley,43.9500695,-71.4995204,87MCXG22+25,33009
+New Hampshire|Waterville Valley Resort,43.9615204,-71.5558165,87MCXC6V+JM,33009
+New Hampshire|Waterville Valley resort,43.9615204,-71.5558165,87MCXC6V+JM,33009
+"New Mexico|Albuquerque, New Mexico",35.0853336,-106.6055534,857M39PV+4Q,35001
+New Mexico|Animas Creek,32.9690277,-107.3483394,854JXM92+JM,35051
+"New Mexico|Bitter Lake NWR, Roswell",33.3942655,-104.5230242,855Q9FVG+PQ,35005
+New Mexico|Bosque del Apache,33.8045085,-106.8909954,855MR435+RJ,35053
+New Mexico|Bosque del Apache NWR,33.8044934,-106.8910151,855MR435+QH,35053
+New Mexico|Caballo State Park,32.996389,-107.286944,854JXPW7+H6,35051
+"New Mexico|Canyons/Rest areas, Sandia, Albuquerque",35.0853336,-106.6055534,857M39PV+4Q,35001
+New Mexico|Chaco,32.9311987,-105.9576476,854PW2JR+FW,35035
+New Mexico|El Malpais,34.7622931,-107.9550904,856JQ26V+WX,35006
+"New Mexico|Embudito Canyon, Albuquerque",35.0676143,-106.5241589,857M3F9G+28,35001
+New Mexico|En route,36.7522852,-108.2667454,858HQP2M+W8,35045
+New Mexico|En route to Portal,31.8706767,-109.0438224,853GVXC4+7F,35023
+"New Mexico|Golf Course, Albuquerque",35.1416287,-106.5742896,857M4CRG+M7,35001
+New Mexico|Grants,35.14726,-107.8514466,857J44WX+WC,35006
+"New Mexico|Grants, New Mexico",35.14726,-107.8514466,857J44WX+WC,35006
+New Mexico|Hwy 14 Pullouts,,,,
+"New Mexico|Lannois' House, Albuquerque",35.0853336,-106.6055534,857M39PV+4Q,35001
+"New Mexico|Las Vegas NWR, Las Vegas",35.5510195,-105.1666955,857PHR2M+C8,35047
+"New Mexico|Linnois' House, Albuquerque",35.0957995,-106.5714216,857M3CWH+8C,35001
+New Mexico|Percha Dam State Park,32.8684659,-107.3063745,854JVM9V+9F,35051
+"New Mexico|Petroglyph Nat'l Monument, Albuquerque",35.0853336,-106.6055534,857M39PV+4Q,35001
+"New Mexico|Petroglyph Nt'l Monument, Albuquerque",35.0853336,-106.6055534,857M39PV+4Q,35001
+"New Mexico|Petroglyphs, Albuquerque",35.1150371,-106.732063,857M4789+25,35001
+"New Mexico|Rest Area, Sandia, Albuquerque",35.0853336,-106.6055534,857M39PV+4Q,35001
+"New Mexico|Rio Grand Nature, New Mexico",35.1286772,-106.6828715,857M48H8+FV,35001
+"New Mexico|Rio Grande Nature Center, Albuquerque",35.1286772,-106.6828715,857M48H8+FV,35001
+New Mexico|Road to Santa Fe,35.6869752,-105.937799,857PM3P6+QV,35049
+New Mexico|Rodeo,31.8353718,-109.0311699,853GRXP9+4G,35023
+New Mexico|Sandia Crest,35.2102777,-106.4497222,857M6H62+44,35001
+"New Mexico|Sandia Crest, Albuquerque",35.2102777,-106.4497222,857M6H62+44,35001
+"New Mexico|Sandia Park, Albuquerque",35.1633402,-106.4354008,857M5H77+8R,35001
+"New Mexico|Sandia, Albuquerque",35.1633402,-106.4354008,857M5H77+8R,35001
+"New Mexico|Sandia, New Mexico",35.1633402,-106.4354008,857M5H77+8R,35001
+"New Mexico|Socarro, New Mexico",34.0583995,-106.8914159,856M3455+9C,35053
+"New Mexico|Sulfur Canyon Rd., Rodeo",31.8353718,-109.0311699,853GRXP9+4G,35023
+New Mexico|Taos,36.4072485,-105.5730665,858PCC4G+VQ,35055
+"New Mexico|Tijera, New Mexico",35.0795244,-106.3878905,857M3JH6+RR,35001
+New Mexico|US-NM-Bitter Lakes NWR - Visitor Center,33.4560557,-104.4016747,855QFH4X+C8,35005
+New Mexico|US-NM-Cave Creek Canyon--Southwestern Research Station,,,,
+New Mexico|US-NM-Mesilla-2180-2198 S Fairacres Rd - 32.2495x-106.8216,32.2495,-106.8216,854M65XH+Q9,35013
+"New Mexico|Ventana Canyon, Albuquerque",35.1849328,-106.7331048,857M57M8+XQ,35001
+"New Mexico|Willow Tank, Rodeo",31.8353718,-109.0311699,853GRXP9+4G,35023
+New Mexico|Zuni,35.0694767,-108.8484168,857H3592+QJ,35031
+"New York|Central Park, NYC",40.7711329,-73.9741874,87G8Q2CG+F8,36061
+New York|Cooperstown KOA,42.8525218,-74.8909396,87J7V435+2J,36043
+"New York|Jamaica Bay NWR, New York",40.6166907,-73.8271232,87G8J58F+M5,36081
+"New York|Plattekill KOA campground, New York",41.6239741,-74.0593872,87H7JWFR+H6,36111
+"New York|US-East Hampton-Gardiners Bay - 41.1129x-72.1592 - Jul 24, 2016, 11:11 AM",41.1129,-72.1592,87H94R7R+58,36103
+New York|US-NY-Brookhaven-221-225 Harbor Beach Rd - 40.9654x-73.0278,40.9654,-73.0278,87G8XX8C+5V,36103
+New York|US-NY-Brookhaven-84 Mill Rd - 40.8398x-72.9435,40.8398,-72.9435,87G9R3Q4+WH,36103
+New York|US-NY-Brookhaven-Long Island Sound - 40.9781x-73.0983,40.9781,-73.0983,87G8XWH2+6M,36103
+New York|US-NY-Brookhaven-Stony Brook University - 40.9112x-73.1194,40.9112,-73.1194,87G8WV6J+F6,36103
+"Nicaragua|Granada, Nicaragua",,,,
+"Nicaragua|Masaya Volcano National Park, Nicaragua",,,,
+"North Carolina|Beaufort, North Carolina",34.7182174,-76.6638186,8765P89P+7F,37031
+North Carolina|Bodie Island Lighthouse & Pond,35.8186021,-75.5631089,8776RC9P+CQ,37055
+North Carolina|Corolla,,,,
+"North Carolina|On the Road - Rodanthe, NC to SC Border",,,,
+North Carolina|On the road,36.409795,-81.4015035,868WCH5X+W9,37009
+North Carolina|Outer Banks,35.5584932,-75.4665158,8776HG5M+99,37055
+North Carolina|Pine Island Audubon Sanctuary and Center,,,,
+North Carolina|US-NC-Buxton-Cape Hatteras National Seashore - 35.2515x-75.5278,35.2515,-75.5278,87767F2C+HV,37055
+North Carolina|US-NC-Nags Head-Cape Hatteras National Seashore - 35.7371x-75.5023,35.7371,-75.5023,8776PFPX+R3,37055
+North Carolina|US-NC-Rodanthe-Cape Hatteras National Seashore - 35.5742x-75.4626,35.5742,-75.4626,8776HGFP+MX,37055
+North Carolina|logan,36.0681963,-79.7715283,8782369H+79,37081
+North Carolina|on the road,36.409795,-81.4015035,868WCH5X+W9,37009
+"North Dakota|Bismarck, North Dakota",46.8083268,-100.7837392,85RXR658+8G,38015
+"North Dakota|Fort Mandan, North Dakota",47.2984814,-101.0856905,85VW7WX7+9P,38055
+"North Dakota|Hwy 1804, North Dakota",,,,
+"North Dakota|I-94, North Dakota",,,,
+"North Dakota|Lake Ilo, North Dakota",47.344906,-102.6711409,85VV88VH+XG,38025
+"North Dakota|Theodore Roosevelt NP, North Dakota",46.9160782,-103.5242909,85RRWF8G+C7,38007
+Norway|Balestrand,,,,
+Norway|Balestrand to Lilehammer,,,,
+Norway|Bergen,,,,
+Norway|Flam,,,,
+"Ohio|2795–2799 Port Rd, Groveport US-OH (39.8296,-82.9251)",,,,
+"Ohio|301–499 Cherry Dr, Columbus US-OH (39.9548,-83.0103)",39.9562764,-83.0099389,86FRXX4R+G2,39049
+"Ohio|3758 Kauffman Rd, Stow US-OH (41.1600,-81.4164)",,,,
+"Ohio|709 S Market St, Loudonville US-OH (40.6247,-82.2398)",,,,
+"Ohio|Antrim Lake, Columbus",39.9611755,-82.9987942,86FVX262+FF,39049
+"Ohio|Audubon Center, Columbus",39.9611755,-82.9987942,86FVX262+FF,39049
+"Ohio|Baymont Inn & Suites, Hudson",41.240056,-81.440667,86HW6HR5+2P,39153
+"Ohio|Beck St, Columbus",39.9611755,-82.9987942,86FVX262+FF,39049
+"Ohio|Bicentennial Park, Columbus US-OH (39.9631,-83.0059)",,,,
+Ohio|Big Island,40.6122803,-83.2168608,86GRJQ6M+W7,39101
+Ohio|Blendon Woods Metro Park,40.0620007,-82.8775218,86GV346C+RX,39049
+Ohio|Blendon Woods Metro Park--Thoreau Pond,40.0620007,-82.8775218,86GV346C+RX,39049
+"Ohio|Chestnut Ridge Metro Park, Columbus",39.808693,-82.753871,86FVR65W+FF,39045
+Ohio|Clear Creek Metro Park,39.591017,-82.5872257,86FVHCR7+C4,39073
+"Ohio|Clear Creek Metro Park, Ohio",39.591017,-82.5872257,86FVHCR7+C4,39073
+"Ohio|Clifton Gorge, Ohio",39.7941094,-83.8314927,86FRQ5V9+JC,39057
+Ohio|Columbus,39.9611755,-82.9987942,86FVX262+FF,39049
+"Ohio|Confluence, Columbus",39.9611755,-82.9987942,86FVX262+FF,39049
+Ohio|Conneaut,,,,
+Ohio|Conneaut Marsh,,,,
+Ohio|Cuyahoga National Park,41.433923,-81.67582,86HWC8MF+HM,39035
+Ohio|Cuyahoga Valley NP--Ira Rd. Beaver Marsh,,,,
+"Ohio|Cuyahoga Valley, Cuyahoga Falls US-OH (41.1844,-81.5829)",,,,
+Ohio|Darby Creek Metro Park,39.8056782,-83.1748547,86FRRR4G+73,39129
+Ohio|Dawes Arboretum,39.980131,-82.413102,86FVXHJP+3Q,39089
+Ohio|Deer Creek State Park,39.638716,-83.244641,86FRJQQ4+F4,39129
+Ohio|Dillon State Park,,,,
+"Ohio|Gahanna Woods, Columbus",40.0463107,-82.8179863,86GV25WJ+GR,39049
+Ohio|Geneva SP,,,,
+Ohio|Geneva State Park,,,,
+"Ohio|Geneva State Park, Geneva US-OH (41.8499,-80.9861)",,,,
+Ohio|German Village,39.9477051,-82.9918172,86FVW2X5+37,39049
+"Ohio|German Village, Columbus",39.9611755,-82.9987942,86FVX262+FF,39049
+Ohio|Goodale Park,39.9756342,-83.0069982,86FRXXGV+76,39049
+Ohio|Grandview,39.9797863,-83.0407403,86FRXXH5+WP,39049
+"Ohio|Greenlawn, Columbus",39.9611755,-82.9987942,86FVX262+FF,39049
+Ohio|Hadocy RV,39.9524735,-83.1034628,86FRXV2W+XJ,39049
+"Ohio|Happy Hooker, Oregon",41.6436603,-83.4868768,86HRJGV7+F6,39095
+Ohio|Harrison Lake State Park,41.6429471,-84.3669896,86HQJJVM+56,39051
+Ohio|Highbanks Metro Park,39.2839626,-84.3914151,86FQ7JM5+HC,39061
+"Ohio|Highway 315, Columbus",39.9611755,-82.9987942,86FVX262+FF,39049
+Ohio|Hocking Hills,39.4265525,-82.5357328,86FVCFG7+JP,39073
+"Ohio|Hocking Hills - Conkles Hollow, Ohio",39.4568889,-82.5760745,86FVFC4F+QH,39073
+Ohio|Hoover Reservoir--Spillway,40.1080116,-82.8820637,86GV4459+65,39049
+Ohio|Hubbard Valley Park,,,,
+"Ohio|I-71 N, Mount Gilead US-OH (40.4923,-82.7235)",,,,
+Ohio|I-71 near Cincinnati,39.1031182,-84.5120196,86FQ4F3Q+65,39061
+"Ohio|Inniswood Metro Gardens, Columbus",40.101547,-82.899566,86GV4422+J5,39049
+"Ohio|Kauffman Road, Stow",,,,
+Ohio|Ledges,,,,
+Ohio|Logan,39.5400672,-82.4070986,86FVGHRV+25,39073
+Ohio|Magee Marsh,41.6275352,-83.1903543,86HRJRH5+2V,39095
+Ohio|Maumee Bay State Park,41.6788644,-83.3740311,86HRMJHG+G9,39095
+"Ohio|Maumee Bay State Park, Ohio",41.6788644,-83.3740311,86HRMJHG+G9,39095
+"Ohio|Metzger Marsh, Ohio",41.6275352,-83.1903543,86HRJRH5+2V,39095
+"Ohio|Metzger Marsh, Oregon",41.6275352,-83.1903543,86HRJRH5+2V,39095
+Ohio|Miranova,39.9546281,-83.005498,86FRXX3V+VR,39049
+"Ohio|N Vance St, Carey",40.95703,-83.3819661,86GRXJ49+R6,39175
+"Ohio|North Bank Park, Columbus",39.9611755,-82.9987942,86FVX262+FF,39049
+"Ohio|Oak Openings Metro Park, Ohio",41.5517744,-83.8526036,86HRH42W+PX,39095
+"Ohio|Ohio Highway 2, Ohio",41.6268435,-82.9931607,86HVJ2G4+PP,39123
+"Ohio|Ohio State University wetlands, Columbus",39.9611755,-82.9987942,86FVX262+FF,39049
+Ohio|Olentangy River,40.0415268,-83.0330268,86GR2XR8+JQ,39049
+"Ohio|Olentangy River near Ohio State, Columbus",39.9611755,-82.9987942,86FVX262+FF,39049
+"Ohio|Olentangy River, Columbus",39.9611755,-82.9987942,86FVX262+FF,39049
+"Ohio|Olentangy Trail, Columbus",39.9611755,-82.9987942,86FVX262+FF,39049
+"Ohio|Olentangy near OSU, Columbus",39.9611755,-82.9987942,86FVX262+FF,39049
+Ohio|Oregon,41.6436603,-83.4868768,86HRJGV7+F6,39095
+"Ohio|Park Rd 10, Oregon",41.6436603,-83.4868768,86HRJGV7+F6,39095
+"Ohio|Park Rd 17, Oregon",41.6436603,-83.4868768,86HRJGV7+F6,39095
+"Ohio|Pearson Metro Park North, Oregon",41.6409604,-83.4370851,86HRJHR7+95,39095
+"Ohio|Pearson Metro Park, Ohio",41.6409604,-83.4370851,86HRJHR7+95,39095
+"Ohio|Pearson Metro Park, Oregon",41.6409604,-83.4370851,86HRJHR7+95,39095
+"Ohio|Pearson Metro Park, north wetlands, Ohio",41.6409604,-83.4370851,86HRJHR7+95,39095
+"Ohio|Pickerington Pond, Columbus",39.8745013,-82.7827948,86FVV6F8+RV,39045
+Ohio|Pickerington Ponds,,,,
+Ohio|Pickerington Ponds--Ellis Pond,,,,
+Ohio|Pickerington Ponds--Wood Duck Picnic Area,,,,
+"Ohio|Prairie Oaks Metro Park, Columbus",39.991272,-83.2639782,86FRXPRP+GC,39097
+"Ohio|Rickenbacker International Airport, Groveport US-OH (39.8296,-82.9247)",,,,
+Ohio|Salt Fork State Park,,,,
+"Ohio|Schiller Park, Columbus",39.9611755,-82.9987942,86FVX262+FF,39049
+Ohio|Scioto Audubon Metro Park,39.9463562,-83.0051794,86FRWXWV+GW,39049
+Ohio|Scioto Greenways,39.963137,-83.0216461,86FRXX7H+78,39049
+"Ohio|Scioto Greenways, Columbus",39.9611755,-82.9987942,86FVX262+FF,39049
+Ohio|Scioto Grove Metro Park,39.8555727,-83.0278692,86FRVX4C+6V,39049
+Ohio|Scioto Loop,39.963137,-83.0216461,86FRXX7H+78,39049
+Ohio|Scioto River,39.963137,-83.0216461,86FRXX7H+78,39049
+"Ohio|Scioto River at Broad Street, Columbus",39.9611755,-82.9987942,86FVX262+FF,39049
+"Ohio|Scioto River, Columbus",39.9611755,-82.9987942,86FVX262+FF,39049
+"Ohio|Scioto Trail, Columbus",39.9611755,-82.9987942,86FVX262+FF,39049
+Ohio|Scioto and Olentangy rivers,39.963137,-83.0216461,86FRXX7H+78,39049
+"Ohio|Sciotto Park, Columbus",39.9611755,-82.9987942,86FVX262+FF,39049
+Ohio|Sharon Woods Metro Park,40.1140074,-82.9490509,86GV4372+J9,39049
+"Ohio|Short Street, Columbus",39.9611755,-82.9987942,86FVX262+FF,39049
+Ohio|Slate Run Metro Park,39.759258,-82.834342,86FVQ558+P7,39129
+Ohio|Streetsboro KOA,41.245267,-81.386947,86HW6JW7+46,39133
+"Ohio|The Virginia Kendall State Park, Peninsula US-OH (41.2239,-81.5102)",,,,
+"Ohio|Three Creeks Metro Park, Columbus",39.8948129,-82.9140727,86FVV3VP+W9,39049
+"Ohio|US 23 north central, Ohio",41.156998,-83.4168702,86HR5H4M+Q7,39147
+"Ohio|US 23, Marion",40.5886699,-83.1285242,86GRHVQC+FH,39101
+Ohio|US-OH-Antrim Park,40.0784222,-83.0376693,86GR3XH6+9W,39049
+Ohio|US-OH-Canal Winchester-4150 Bowen Rd - 39.8917x-82.8038,39.8917,-82.8038,86FVV5RW+MF,39049
+Ohio|US-OH-Columbus-Scioto River near downtown and upstream,39.9611755,-82.9987942,86FVX262+FF,39049
+"Ohio|US-OH-Green Lawn Cemetery, Columbus",39.9611755,-82.9987942,86FVX262+FF,39049
+Ohio|US-OH-Highbanks Metro Park,39.2839626,-84.3914151,86FQ7JM5+HC,39061
+Ohio|US-OH-Ohio State University--Wetlands,40.0163181,-83.0209304,86GR2X8H+GJ,39049
+Ohio|US-OH-Pickerington Ponds--Ellis Pond,39.8745013,-82.7827948,86FVV6F8+RV,39045
+Ohio|US-OH-Pickerington Ponds--Yellowlegs Trail,39.8745013,-82.7827948,86FVV6F8+RV,39045
+Ohio|US-OH-Prairie Oaks Metro Park (Madison Co.),39.991272,-83.2639782,86FRXPRP+GC,39097
+Ohio|US-OH-Scioto Audubon Metro Park,39.9611755,-82.9987942,86FVX262+FF,39049
+Ohio|US-OH-Sheldon Marsh State Nature Preserve,41.4083864,-82.6026597,86HVC95W+9W,39043
+Ohio|US-OH-Three Creeks Metro Park,39.8948129,-82.9140727,86FVV3VP+W9,39049
+Ohio|US-OH-Watermark Quarries,39.9611755,-82.9987942,86FVX262+FF,39049
+Ohio|US-OH-Westerville-Sharon Woods Metro Park - 40.1112x-82.9556,40.1112,-82.9556,86GV426V+FQ,39049
+Ohio|US23 south of Columbus,39.9611755,-82.9987942,86FVX262+FF,39049
+"Ohio|Walden Pond, Blendon Woods Metro Park",40.0722016,-82.8775218,86GV34CC+VX,39049
+"Ohio|downtown library, Columbus",39.9611755,-82.9987942,86FVX262+FF,39049
+Ohio|logan,39.5400672,-82.4070986,86FVGHRV+25,39073
+"Ohio|near Olentangy River, Highbanks Metro Park",39.2839626,-84.3914151,86FQ7JM5+HC,39061
+"Oklahoma|10 Mile Flats, Norman",35.2833975,-97.5433702,86747FM4+9M,40027
+"Oklahoma|10 mile flats, Norman",35.2833975,-97.5433702,86747FM4+9M,40027
+"Oklahoma|10-mile flats, Norman",35.2833975,-97.5433702,86747FM4+9M,40027
+"Oklahoma|1413 Spruce St., Norman",35.1946205,-97.4626269,86745GVP+RW,40027
+"Oklahoma|24th St., NW,, north of Robinson, Norman",35.232961,-97.480411,86746GM9+5R,40027
+"Oklahoma|27209–27389 Ladd Ave, Goldsby US-OK (35.1209,-97.4413)",,,,
+"Oklahoma|3001–3051 W Tecumseh Rd, Norman US-OK (35.2621,-97.4875)",,,,
+"Oklahoma|3003 River Oaks Dr,. Norman",35.222605,-97.48692,86746GF7+26,40027
+"Oklahoma|3003 River Oaks Dr., Norman",35.222605,-97.48692,86746GF7+26,40027
+"Oklahoma|3300 Healthplex Pkwy, Norman US-OK (35.2600,-97.4894)",,,,
+"Oklahoma|36th St. and Indian Hills, Norman",35.290785,-97.4943946,86747GR4+86,40027
+"Oklahoma|36th St., Norman",35.2577723,-97.4943144,86747G54+47,40027
+"Oklahoma|4800 Corbett Dr., Norman",35.2289587,-97.5124795,86746FHQ+H2,40027
+"Oklahoma|4800 Corbett, Norman",35.2289587,-97.5124795,86746FHQ+H2,40027
+"Oklahoma|48th St., Norman",35.2225668,-97.4394777,86746HF6+26,40027
+"Oklahoma|48th and Main, Norman",35.2183665,-97.5118594,86746F9Q+87,40027
+Oklahoma|Arbor Gardens Park,,,,
+"Oklahoma|Arbor Lake, Norman",35.2225668,-97.4394777,86746HF6+26,40027
+Oklahoma|Ardmore,34.1742611,-97.1436254,86645VF4+PG,40019
+Oklahoma|Beaver Bend State Park,34.131148,-94.6906958,866748J5+FP,40089
+Oklahoma|Beaver’s Bend Park Ranger Station,34.131148,-94.6906958,866748J5+FP,40089
+"Oklahoma|Benton Farm, Kenton",36.9028348,-102.9633725,858VW23P+4M,40025
+Oklahoma|Boise City,36.7294675,-102.5132419,858VPFHP+QP,40025
+"Oklahoma|Boundary St, Temple US-OK (34.2757,-98.2264)",,,,
+"Oklahoma|Bricktown Pallpark, OKC",35.464418,-97.509031,8674FF7R+Q9,40109
+Oklahoma|Broken Bow,34.0292764,-94.7391045,866727H6+P9,40089
+Oklahoma|Broken Bow Park,34.0292764,-94.7391045,866727H6+P9,40089
+Oklahoma|Cambridge - Norman,35.2225668,-97.4394777,86746HF6+26,40027
+"Oklahoma|Cambridge Lake, Norman",35.2225668,-97.4394777,86746HF6+26,40027
+"Oklahoma|Cambridge Park, Norman",35.2225668,-97.4394777,86746HF6+26,40027
+"Oklahoma|Cambridge, Norman",35.2225668,-97.4394777,86746HF6+26,40027
+Oklahoma|Canton Lake,36.1188018,-98.6637153,8683489P+GG,40043
+"Oklahoma|Cedar Mt. Area, Broken Bow",34.0292764,-94.7391045,866727H6+P9,40089
+Oklahoma|Chichasaw NRA,34.507525,-96.9699845,8665G25J+22,40099
+"Oklahoma|City Park, Broken Bow",34.0292764,-94.7391045,866727H6+P9,40089
+"Oklahoma|Convention Center, Idabell",33.8956647,-94.8263281,8657V5WF+7F,40089
+"Oklahoma|Dolese Sand Pits, Guthrie, OK",35.878937,-97.4253185,8674VHHF+HV,40083
+Oklahoma|Durant,,,,
+Oklahoma|East Norman,35.2225668,-97.4394777,86746HF6+26,40027
+"Oklahoma|Education Center, Wichita NWR",34.7328466,-98.7131984,8663P7MP+4P,40031
+Oklahoma|El Dorado,34.4720173,-99.6481484,8662F9C2+RP,40065
+"Oklahoma|Embassy Suites, Norman",35.2225668,-97.4394777,86746HF6+26,40027
+Oklahoma|Fort Supply,36.5736459,-99.5723366,8682HCFH+F3,40153
+Oklahoma|Goldsby,35.141179,-97.4769773,86744GRF+F6,40087
+Oklahoma|Goldsby Sod Farm,35.141179,-97.4769773,86744GRF+F6,40087
+"Oklahoma|Goldsby Sod Farm, Goldsby",35.141179,-97.4769773,86744GRF+F6,40087
+"Oklahoma|Golf Course, Duncan",34.4595794,-97.6655165,8664F85M+RQ,40137
+Oklahoma|Gr. Salt Plains,36.7244971,-98.2103619,8683PQFQ+QV,40003
+Oklahoma|Great Salt Plains,36.7244971,-98.2103619,8683PQFQ+QV,40003
+Oklahoma|Great Salt Plains NWR,36.7244971,-98.2103619,8683PQFQ+QV,40003
+"Oklahoma|Great Salt Plains NWR, Jet,",36.7244971,-98.2103619,8683PQFQ+QV,40003
+Oklahoma|Hackberry Flat WMA--Sandpiper Unit,,,,
+Oklahoma|Hackberry Flats,34.2764846,-98.9637713,866372GP+HF,40141
+Oklahoma|Hackberry Flats NWR,34.2764846,-98.9637713,866372GP+HF,40141
+"Oklahoma|Hackberry Flats, Fredricksburg",34.2764846,-98.9637713,866372GP+HF,40141
+Oklahoma|Highway to Wichita NWR,,,,
+Oklahoma|Hinton,35.4714415,-98.3556162,8673FJCV+HQ,40015
+"Oklahoma|Homeland, Robinson, Norman",35.2225668,-97.4394777,86746HF6+26,40027
+"Oklahoma|Humphries Lake, Duncan",34.5970908,-97.8980146,8664H4W2+RQ,40137
+Oklahoma|I44,,,,
+Oklahoma|I44 near Lawton,34.6035669,-98.3959291,8663JJ33+CJ,40031
+Oklahoma|I44 to and from Wichita NWR,,,,
+"Oklahoma|Jenkins Rd., Norman",35.1839074,-97.4413201,86745HM5+HF,40027
+"Oklahoma|Jenkins, Norman",35.1839074,-97.4413201,86745HM5+HF,40027
+Oklahoma|Kenton,36.9028348,-102.9633725,858VW23P+4M,40025
+"Oklahoma|Kizziar Feed Lot, Altus",34.637765,-99.3340442,8662JMQ8+49,40065
+"Oklahoma|Kulli Recreation Center, Idabell",33.8956647,-94.8263281,8657V5WF+7F,40089
+"Oklahoma|Lagoons, Wichita NWR",34.7328466,-98.7131984,8663P7MP+4P,40031
+"Oklahoma|Lake Carl Blackwell, Stillwater",36.1344138,-97.2302295,86844QM9+QW,40119
+Oklahoma|Lake Hefner,35.5723968,-97.5951577,8674HCC3+XW,40109
+"Oklahoma|Lake Hefner, OKC",35.5723968,-97.5951577,8674HCC3+XW,40109
+"Oklahoma|Lake Hefner, Oklahoma",35.5723968,-97.5951577,8674HCC3+XW,40109
+"Oklahoma|Lake Hefner, Oklahoma City",35.5723968,-97.5951577,8674HCC3+XW,40109
+Oklahoma|Lake Hefner--Oklahoma City Docks,,,,
+Oklahoma|Lake McGee State Park,33.9359519,-96.1828631,8655WRP8+9V,40013
+"Oklahoma|Lake Overholzer, Oklahoma City",35.4933978,-97.66554,8674F8VM+9Q,40109
+Oklahoma|Lake Stanley Draper,35.3555444,-97.3936839,86749J44+6G,40027
+Oklahoma|Lake Texoma,33.9385714,-96.6753622,8655W8QF+CV,40095
+"Oklahoma|Lake Thunderbid, Norman",35.2194324,-97.2476577,86746Q92+QW,40027
+"Oklahoma|Lake Thunderbird Area, Norman",35.2194324,-97.2476577,86746Q92+QW,40027
+"Oklahoma|Lake Thunderbird, Norman",35.2194324,-97.2476577,86746Q92+QW,40027
+Oklahoma|Lake Tom Sneed,34.7684642,-99.0366024,8662QX97+99,40075
+Oklahoma|Lake Waurika--Beaver Creek Landing Park,,,,
+"Oklahoma|Lesser Prairie Chicken Festival, Woodward",36.4336481,-99.3903862,8682CJM5+FR,40153
+Oklahoma|Little River NWR,33.9525009,-94.7048723,8657X73W+23,40089
+"Oklahoma|Little River NWR, Idabell",33.9525009,-94.7048723,8657X73W+23,40089
+"Oklahoma|Lost Lake, Wichita Mts. NWR",34.7328466,-98.7131984,8663P7MP+4P,40031
+"Oklahoma|Lost Lake, Wichita NWR",34.7328466,-98.7131984,8663P7MP+4P,40031
+Oklahoma|Marland,36.5608732,-97.1511535,8684HR6X+8G,40103
+Oklahoma|McCurtain County Wilderness,34.2991285,-94.6347041,866779X8+M4,40089
+Oklahoma|Mileage marker 47,,,,
+Oklahoma|Mileage marker 67,,,,
+Oklahoma|Mileage marker 73,,,,
+"Oklahoma|Mileage marker 73, I-35",,,,
+Oklahoma|Mileage marker 84,,,,
+Oklahoma|Mitch Park,35.6860139,-97.5055395,8674MFPV+CQ,40109
+"Oklahoma|Mitch Park, OKC",35.6860139,-97.5055395,8674MFPV+CQ,40109
+Oklahoma|Norman,35.2225668,-97.4394777,86746HF6+26,40027
+"Oklahoma|Norman, Oklahoma",35.2225668,-97.4394777,86746HF6+26,40027
+Oklahoma|Norman--South Jenkins Ave.,35.2225668,-97.4394777,86746HF6+26,40027
+"Oklahoma|Norman; Jenkins Rd, Oklahoma",35.2225668,-97.4394777,86746HF6+26,40027
+"Oklahoma|Norman; nearby fields, Oklahoma",35.2225668,-97.4394777,86746HF6+26,40027
+Oklahoma|Oklahoma,35.4675602,-97.5164276,8674FF9M+2C,40109
+"Oklahoma|Oklahoma, Oklahoma",35.6038323,-97.3516558,8674JJ3X+G8,40109
+Oklahoma|On the road,,,,
+Oklahoma|On the road Norma to Hagerman NWR,,,,
+Oklahoma|On the road Norman to OKC,35.4675602,-97.5164276,8674FF9M+2C,40109
+"Oklahoma|On the road, Hwy 9, Norman",35.2225668,-97.4394777,86746HF6+26,40027
+"Oklahoma|On the road, I-35, Norman to Gainesville,",,,,
+"Oklahoma|On the road, Norman to OKC",35.4675602,-97.5164276,8674FF9M+2C,40109
+"Oklahoma|On the road, TX to OK",,,,
+"Oklahoma|Playas on Yukon Parkway, Yukon,",35.5067215,-97.7625441,8674G64P+MX,40017
+Oklahoma|Pond on OK 37,,,,
+Oklahoma|Quartz Mountain,34.907004,-99.3234172,8662WM4G+RJ,40055
+Oklahoma|Red Slough NWR,33.7395559,-94.6535434,8657P8QW+RH,40089
+"Oklahoma|Red Slough NWR, Idabell",33.7395559,-94.6535434,8657P8QW+RH,40089
+"Oklahoma|Red Slough WMA, Idabell",33.7395559,-94.6535434,8657P8QW+RH,40089
+"Oklahoma|Red Slough, Idabel",33.7395559,-94.6535434,8657P8QW+RH,40089
+"Oklahoma|Red Slough, Idabell",33.7395559,-94.6535434,8657P8QW+RH,40089
+"Oklahoma|Red Slough, NWR, Idabell",33.7395559,-94.6535434,8657P8QW+RH,40089
+"Oklahoma|Robinson (Homeland), Norman",35.2225668,-97.4394777,86746HF6+26,40027
+Oklahoma|Rose Lake,,,,
+"Oklahoma|S. Jenkins Rd, Norman",35.2225668,-97.4394777,86746HF6+26,40027
+"Oklahoma|S. Jenkins Rd., Norman",35.2225668,-97.4394777,86746HF6+26,40027
+"Oklahoma|S. Jenkins St., Norman",35.2225668,-97.4394777,86746HF6+26,40027
+"Oklahoma|S. Jenkins, Norman",35.2225668,-97.4394777,86746HF6+26,40027
+"Oklahoma|S. Jenkins, Norman,",35.2225668,-97.4394777,86746HF6+26,40027
+"Oklahoma|S. Jenkins, Norman, OK",35.2225668,-97.4394777,86746HF6+26,40027
+"Oklahoma|Salt Plains NWR R/T, Oklahoma",36.7851506,-98.1790574,8683QRPC+39,40003
+"Oklahoma|Salt Plains State Park, Oklahoma",36.7429599,-98.1329308,8683PVV8+5R,40003
+"Oklahoma|Selman Ranch, Woodward",36.4336481,-99.3903862,8682CJM5+FR,40153
+Oklahoma|Sequoia NWR,35.4302406,-95.0570869,8676CWJV+35,40061
+"Oklahoma|Sewage treament plant, Wichita Mts",,,,
+Oklahoma|Slapout,36.615833,-100.108333,858XJV8R+8M,40007
+"Oklahoma|Sod Farm, Goldsby",35.141179,-97.4769773,86744GRF+F6,40087
+"Oklahoma|Sod Farm, Ladd Rd., Goldsby",35.141179,-97.4769773,86744GRF+F6,40087
+"Oklahoma|South Jenkins, Norman",35.2225668,-97.4394777,86746HF6+26,40027
+"Oklahoma|Spruce St., Norman",35.2225668,-97.4394777,86746HF6+26,40027
+Oklahoma|Sulfur,34.5078669,-96.9683498,8665G25J+4M,40099
+"Oklahoma|Summit Lake, Norman",35.2225668,-97.4394777,86746HF6+26,40027
+"Oklahoma|Sunrise, Wichita NWR",,,,
+"Oklahoma|Sutton Lake, Norman",35.2225668,-97.4394777,86746HF6+26,40027
+"Oklahoma|Sutton Wilderness, Norman",35.2225668,-97.4394777,86746HF6+26,40027
+"Oklahoma|Sutton Winderness, Norman",35.2225668,-97.4394777,86746HF6+26,40027
+"Oklahoma|Sutton, Oklahoma",35.2225668,-97.4394777,86746HF6+26,40027
+"Oklahoma|Tall Grass Prairie Preserve, Pawhuska",36.846143,-96.422924,8685RHWG+FR,40113
+Oklahoma|Taylor Lake,34.7497476,-97.9272823,8664P3XF+V3,40051
+"Oklahoma|Taylor Lake, Rush Springs",34.7543561,-97.9320956,8664Q339+P5,40051
+Oklahoma|Ten Mile Flats,,,,
+Oklahoma|Texoma,33.9239625,-97.2174618,8654WQFM+H2,40085
+"Oklahoma|Thunderbird Lake, Norman",35.2479172,-97.2980763,86746PX2+5Q,40027
+Oklahoma|Tishimingo NWR,34.1927177,-96.6464899,866559V3+3C,40069
+Oklahoma|Tishomingo NWR,34.1927177,-96.6464899,866559V3+3C,40069
+"Oklahoma|Treeline, Arbor Lake, Norman",35.2225668,-97.4394777,86746HF6+26,40027
+"Oklahoma|Trisha Lane, Norman",35.2291375,-97.513776,86746FHP+MF,40027
+"Oklahoma|Trisha Ln, Norman",35.2291375,-97.513776,86746FHP+MF,40027
+Oklahoma|Tulsa,36.1539816,-95.992775,86865234+HV,40143
+Oklahoma|US-OK-Davidson - 34.2789x-98.9273,34.2789,-98.9273,866373HF+H3,40141
+Oklahoma|US-OK-Frederick-73542 - 34.3313x-98.9329,34.3313,-98.9329,866383J8+GR,40141
+Oklahoma|US-OK-Lake Thunderbird SP--Little Axe Area,35.2314049,-97.2229607,86746QJG+HR,40027
+Oklahoma|US-OK-Little River SP,35.2126591,-97.2474259,86746Q73+32,40027
+Oklahoma|US-OK-Norman--South Jenkins Ave.,35.1839074,-97.4413201,86745HM5+HF,40027
+Oklahoma|US-OK-Norman-1020 W Boyd St - 35.2097x-97.4554,35.2097,-97.4554,86746G5V+VR,40027
+Oklahoma|US-OK-Norman-1413 Spruce Dr - 35.1945x-97.4627,35.1945,-97.4627,86745GVP+RW,40027
+Oklahoma|US-OK-Norman-1423-1601 60th Ave NW,35.2342001,-97.5295771,86746FMC+M5,40027
+Oklahoma|US-OK-Norman-2217 24th Ave SW - 35.1906x-97.4762,35.1906,-97.4762,86745GRF+6G,40027
+Oklahoma|US-OK-Norman-2500 Conference Dr - 35.2425x-97.4786,35.2425,-97.4786,86746GVC+2H,40027
+Oklahoma|US-OK-Norman-3878-3914 W Main St - 35.2183x-97.4967,35.2183,-97.4967,86746G93+88,40027
+Oklahoma|US-OK-Norman-4495 S Jenkins Ave,35.1696679,-97.4413879,86745H95+VC,40027
+Oklahoma|US-OK-Norman-4497-4799 S Jenkins Ave,35.1696147,-97.4413841,86745H95+RC,40027
+Oklahoma|US-OK-Norman-4901-5003 W Main St - 35.2193x-97.5195,35.2193,-97.5195,86746F9J+P6,40027
+Oklahoma|US-OK-Norman-601 Stone Well Dr - 35.2119x-97.5009,35.2119,-97.5009,86746F6X+QJ,40027
+Oklahoma|US-OK-Norman-912-994 168th Ave NE - 35.2279x-97.1952,35.2279,-97.1952,86746RH3+5W,40027
+Oklahoma|US-OK-Norman-Little River State Park - 35.2034x-97.2417,35.2034,-97.2417,86746Q35+98,40027
+Oklahoma|US-OK-Oklahoma City-3800-3998 W Overholser Dr - 35.5112x-97.6921,35.5112,-97.6921,8674G865+F5,40017
+Oklahoma|US-OK-Oklahoma City-5209 SW 149th St - 35.3196x-97.6183,35.3196,-97.6183,8674899J+RM,40027
+Oklahoma|US-OK-Oklahoma City-73099 - 35.5350x-97.7058,35.535,-97.7058,8674G7MV+XM,40017
+Oklahoma|US-OK-Oklahoma City-9219 Lake Hefner Pkwy - 35.5643x-97.5768,35.5643,-97.5768,8674HC7F+P7,40109
+Oklahoma|US-OK-Oklahoma City-Lake Hefner - 35.5608x-97.6102,35.5608,-97.6102,8674H96Q+8W,40109
+Oklahoma|US-OK-Oklahoma City-Lake Hefner - 35.5621x-97.6117,35.5621,-97.6117,8674H96Q+R8,40109
+Oklahoma|US-OK-Oklahoma City-Lake Hefner Golf Club - 35.5561x-97.6085,35.5561,-97.6085,8674H94R+CH,40109
+Oklahoma|US-OK-Riley Park,35.1556914,-97.4009239,86745H4X+7J,40027
+Oklahoma|US-OK-Thackerville-I-35 N - 33.7378x-97.1456,33.7378,-97.1456,8654PVQ3+4Q,40085
+Oklahoma|US-OK-Washington-E1300 Rd - 35.1312x-97.4384,35.1312,-97.4384,86744HJ6+FJ,40087
+Oklahoma|US-OK-Washington-E1300 Rd - 35.1314x-97.4398,35.1314,-97.4398,86744HJ6+H3,40087
+Oklahoma|US-OK-Washington-E1300 Rd - 35.1317x-97.4364,35.1317,-97.4364,86744HJ7+MC,40087
+Oklahoma|Visitors Center,34.647991,-98.4124256,8663JHXQ+52,40031
+"Oklahoma|Washita NWR, Washita",35.1028386,-98.3408881,86734M35+4J,40015
+"Oklahoma|Wichita Falls NWR, Oklahoma",35.4675602,-97.5164276,8674FF9M+2C,40109
+"Oklahoma|Wichita Mountains, Lawton",34.7106382,-98.6237125,8663P96G+7G,40031
+Oklahoma|Wichita Mtns Wildlife Refuge--The Holy City of the Wichitas,,,,
+"Oklahoma|Wichita Mtns, Oklahoma",34.7106382,-98.6237125,8663P96G+7G,40031
+Oklahoma|Wichita Mts.,34.7106382,-98.6237125,8663P96G+7G,40031
+Oklahoma|Wichita Mts. NWR,34.7328466,-98.7131984,8663P7MP+4P,40031
+"Oklahoma|Wichita NWR, Lawton",34.7328466,-98.7131984,8663P7MP+4P,40031
+"Oklahoma|Wichita NWR, Sunrise",34.7328466,-98.7131984,8663P7MP+4P,40031
+"Oklahoma|Wichita NWR, Visitor's Ctr.",34.7328466,-98.7131984,8663P7MP+4P,40031
+"Oklahoma|Wichita's NWR, Lawton",34.7328466,-98.7131984,8663P7MP+4P,40031
+Oklahoma|Woodward,36.4336481,-99.3903862,8682CJM5+FR,40153
+"Oregon|Albany KOA, Oregon",44.563739,-123.152854,84PRHR7W+FV,41043
+"Oregon|Astoria, Oregon",46.1878841,-123.8312534,84RR55Q9+5F,41007
+"Oregon|Boiler Bay, Oregon",44.8084467,-124.0631713,84PQRW5P+9P,41041
+"Oregon|Brookings Harbor, Oregon",42.0526114,-124.2839819,84JQ3P38+2C,41015
+"Oregon|Bullard's Beach State Park, Oregon",43.1604347,-124.4052086,84MQ5H6V+5W,41011
+"Oregon|Cannon Beach, Oregon",45.8917738,-123.9615274,84QRV2RQ+P9,41007
+"Oregon|Cape Arago, Oregon",43.3534513,-124.3125576,84MQ9M3P+9X,41011
+"Oregon|Columbia River Gorge, Oregon",,,,
+"Oregon|Crater Lake and Diamond Lake campsite, Oregon",42.9445872,-122.1090039,84JVWVVR+R9,41035
+"Oregon|Crater Lake, Oregon",42.9445872,-122.1090039,84JVWVVR+R9,41035
+"Oregon|Farewell Bend State Park, Oregon",44.306727,-117.225,85P48Q4G+M2,41001
+Oregon|Fort Stevens State Park,46.1879271,-123.9685463,84RR52QJ+5H,41007
+"Oregon|Harris State Beach, Oregon",42.0655479,-124.3060599,84JQ3M8V+6H,41015
+"Oregon|Hecata Head Lighthouse area, Oregon",44.1373833,-124.1281066,84PQ4VPC+XQ,41039
+"Oregon|Highway 97 near Klamath Falls, Oregon",42.2372942,-121.7789989,84JW66PC+WC,41035
+"Oregon|I-84, Oregon",,,,
+Oregon|KOA Albany,44.563739,-123.152854,84PRHR7W+FV,41043
+"Oregon|Klamath Falls, Oregon",42.224867,-121.7816704,84JW66F9+W8,41035
+"Oregon|Klamath Lake, Oregon",42.3995908,-121.8777461,84JW94XC+RW,41035
+"Oregon|La Grande, Oregon",45.3245771,-118.0877188,85Q38WF6+RW,41061
+"Oregon|Loeb State Park, Oregon",42.1118737,-124.1868245,84JQ4R67+P7,41015
+"Oregon|McNary Dam, Oregon",45.929722,-119.296111,85Q2WPH3+VH,41059
+"Oregon|Mt Hood, Oregon",45.5378947,-121.568408,84QWGCQJ+5J,41027
+Oregon|Nehalem Bay State Park,45.7058946,-123.9328622,84QRP348+9V,41057
+"Oregon|North Bend, Oregon",43.4065012,-124.2242803,84MQCQ4G+J7,41011
+"Oregon|Oregon Dunes, Oregon",43.8831751,-124.1151165,84MQVVMM+7X,41039
+"Oregon|Rockaway, Oregon",45.613438,-123.9429115,84QRJ374+9R,41057
+Oregon|South Beach State Park,44.6051968,-124.0603726,84PQJW4Q+3V,41041
+"Oregon|Tillamook, Oregon",45.4562158,-123.8440137,84QRF544+F9,41057
+"Oregon|Umatilla, Oregon",45.9173549,-119.3425179,85Q2WM84+WX,41059
+"Oregon|Winchester Bay, Oregon",43.6770608,-124.1748369,84MQMRGG+R3,41019
+Pennsylvania|Archbald,41.4948038,-75.5368521,87H6FFV7+W7,42069
+"Pennsylvania|Big Rock Rd, Lakeville",41.4425309,-75.2139175,87H6CQVP+2C,42127
+Pennsylvania|Gettysburg,39.8309293,-77.2310955,87F4RQJ9+9H,42001
+"Pennsylvania|Gettysburg, Pennsylvania",39.8309293,-77.2310955,87F4RQJ9+9H,42001
+"Pennsylvania|Hawk Mtn, Pennsylvania",40.6349348,-75.9869638,87G6J2M7+X6,42011
+Pennsylvania|Honesdale,41.5767552,-75.2587871,87H6HPGR+PF,42127
+"Pennsylvania|Honesdale, Pennsylvania",41.5767552,-75.2587871,87H6HPGR+PF,42127
+Pennsylvania|Johnstown,40.3267407,-78.9219698,87G383GH+M6,42021
+"Pennsylvania|Lake house, Pennsylvania",41.4759224,-75.1821189,87H6FRG9+95,42127
+Pennsylvania|Myrtle Rd,41.533048,-75.274921,87H6GPMG+62,42127
+"Pennsylvania|On the road, I-80",40.3226343,-76.4718306,87G58GFH+37,42075
+Pennsylvania|Shenandoah National Park,38.903025,-78.1947838,87C3WR34+63,42123
+Pennsylvania|Shuman Point trail,41.4506428,-75.2050517,87H6FQ2V+7X,42127
+Pennsylvania|Tionesta,41.49534,-79.4558798,87H2FGWV+4J,42053
+"Pennsylvania|Trough Creek State Park, Pennsylvania",40.3223214,-78.1265104,87G38VCF+W9,42061
+Pennsylvania|US-PA-Dorflinger-Suydam Wildlife Sanctuary,41.5397359,-75.1906401,87H6GRQ5+VP,42127
+Pennsylvania|US-PA-Lacawac Sanctuary,41.377388,-75.294628,87H69PG4+X4,42127
+Pennsylvania|US-PA-Presque Isle SP (IBA),42.1404302,-80.146411,86JX4VR3+5C,42049
+Pennsylvania|US-PA-Presque Isle SP--Beach 11,42.1404302,-80.146411,86JX4VR3+5C,42049
+Poland|PL-Greater Poland-Pobiedziska-62-007 - 52.4766x17.1454,52.4766,17.1454,9F4VF4GW+J5,
+Poland|PL-Greater Poland-Poznan-Arcybiskupa Antoniego Baraniaka 88-88D - 52.4019x16.9653,52.4019,16.9653,9F4RCX28+Q4,
+Poland|PL-Kuiavia-Pomerania-Torun-Grudziądzka 32 - 53.0187x18.6089,53.0187,18.6089,9F5W2J95+FH,
+Poland|PL-Lesser Poland-Lisia Góra-33-151 - 50.0967x21.0745,50.0967,21.0745,9G2333WF+MR,
+Poland|PL-Lesser Poland-Tarnów-Tadeusza Kościuszki 12 - 50.0094x20.9748,50.0094,20.9748,9G222X5F+QW,
+Poland|PL-Lesser Poland-Zakopane-Ogrodowa 2 - 49.2938x19.9516,49.2938,19.9516,8FXX7XV2+GJ,
+Poland|PL-Lesser Poland-Zakopane-Tatrzański Park Narodowy - 49.2328x19.9495,49.2328,19.9495,8FXX6WMX+4R,
+Poland|PL-Masovian-Zegrze Południowe-Warszawska - 52.4537x21.0143,52.4537,21.0143,9G43F237+FP,
+Poland|PL-Pomeranian-Malbork-Malbork Castle Museum - 54.0410x19.0284,54.041,19.0284,9F6X22RH+99,
+Poland|PL-Silesian-Częstochowa-Świętej Jadwigi 112/120-141g - 50.8062x19.0814,50.8062,19.0814,9F2XR34J+FH,
+Poland|PL-Warmia and Masuria-Ketrzyn-Tadeusza Kościuszki 2 - 54.0784x21.3765,54.0784,21.3765,9G6339HG+9H,
+Poland|PL-Warmia and Masuria-Stawiguda-51 - 53.7155x20.4298,53.7155,20.4298,9G52PC8H+5W,
+Poland|Park Praski,,,,
+Poland|Royal Łazienki Park,,,,
+Poland|Vistula River--Warsaw,,,,
+Portugal|Lisbon,,,,
+"Rhode Island|Sachuest NWR, Rhode Island",41.4804796,-71.2444051,87HCFQJ4+56,44005
+"Rhode Island|Trustom Pond NWR, Rhode Island",41.3766487,-71.5875745,87HC9CG6+MX,44009
+"Romania|RO-Constanţa-Canal Dunărea - Marea Neagră (44.1680,28.4095)",,,,
+"Romania|RO-Călăraşi-A2 (44.3790,27.8583)",,,,
+"Romania|RO-Prahova-Strada Mihai Eminescu, 106100 (45.3431,25.5445)",,,,
+"Romania|RO-Teleorman (43.7284,25.0107)",,,,
+Scotland|Ben Nevis,,,,
+Scotland|Caledonian Canal,,,,
+Scotland|Dyce,,,,
+Scotland|Fort Augustus,,,,
+Scotland|Hike from Tobermory,,,,
+Scotland|Inverness,,,,
+Scotland|Loch Linnhe,,,,
+"Scotland|Loch Ness, Drumnadrochit",,,,
+"Scotland|Loch Ness, Urquhart Castle",,,,
+"Scotland|River Clyde, Glasgow",,,,
+Scotland|St. Andrews,,,,
+Scotland|Tobermory,,,,
+Scotland|Tobermory to Crinnan,,,,
+Scotland|on the road,,,,
+"Serbia|Ulica Sibinjanin Janka 2–24, Belgrade RS-Grad Beograd (44.8495,20.4102)",,,,
+Serbia|Vratna river gorge,,,,
+"Slovakia|Danube River boat, Slovakia",,,,
+"Slovakia|Devin Castle, Slovakia",,,,
+"South Carolina|Charleston, South Carolina",32.7764749,-79.9310512,8742Q3G9+HH,45019
+South Carolina|Huntington Beach State Park,33.5156094,-79.0597786,8752GW8R+63,45043
+"South Carolina|OTR Myrtle Beach, SC to GA Border.yaml",,,,
+South Carolina|On the road,32.811527,-79.9052768,8742R36V+JV,45019
+South Carolina|On the road - SC border to Myrtle Beach,33.6890603,-78.8866943,8753M4Q7+J8,45051
+South Carolina|US-SC-Pawleys Island-Huntington Beach State Park - 33.5077x-79.0641,33.5077,-79.0641,8752GW5P+39,45043
+"South Carolina|near Charleston, South Carolina",32.7764749,-79.9310512,8742Q3G9+HH,45019
+South Carolina|on the road in South Carolina,32.811527,-79.9052768,8742R36V+JV,45019
+"South Dakota|Black Hills, South Dakota",43.767,-103.61,85MRQ98R+Q2,46033
+"South Dakota|Chamberlain, South Dakota",43.810828,-99.3306556,86M2RM69+8P,46015
+"South Dakota|Mt Rushmore, South Dakota",43.8791025,-103.4590667,85MRVGHR+J9,46103
+Sweden|Uppsala,,,,
+"Taiwan|An Ping Fort, Tainan",,,,
+Taiwan|Cheng Cjeng-Kung Palace,,,,
+Taiwan|East Coast Drive,,,,
+"Taiwan|Formosa Hotel, Tarokko",,,,
+Taiwan|Guandu Nature Park,,,,
+Taiwan|Kaohsiung,,,,
+Taiwan|Kenting Nat'l Park,,,,
+Taiwan|Tainan City,,,,
+Tennessee|Great Smoky Mountains National Park,35.6565365,-83.5808765,867RMC49+JJ,47155
+"Texas|113–129 S Angel Pkwy, Allen US-TX (33.0998,-96.6203)",33.1012399,-96.6204306,8655492H+FR,48085
+"Texas|13000–13198 Chandler Rd, Taylor US-TX (30.6079,-97.4595)",30.610474,-97.4464954,8624JH63+5C,48491
+"Texas|1301 Stacy Rd, Fairview US-TX (33.1307,-96.5994)",33.131061,-96.5995611,86554CJ2+C5,48085
+"Texas|1701–1751 W FM 6, Lavon US-TX (33.0431,-96.4233)",33.0216,-96.4568,86552GCV+J7,48085
+"Texas|1701–1799 N US Highway 75, Sherman US-TX (33.6554,-96.6115)",33.6549403,-96.6108368,8655M93Q+XM,48181
+"Texas|1761–2185 W State Highway 29, Georgetown US-TX (30.6338,-97.7209)",30.6331755,-97.7154372,8624J7MM+7R,48491
+"Texas|1945–2225 W Elm Mott Dr, Elm Mott US-TX (31.6565,-97.1281)",31.6714143,-97.0999078,8634MWC2+H2,48309
+"Texas|33.0812x-96.5501 - Jan 26, 2015, 9:17 AM",31.7954512,-94.1790862,8637QRWC+59,48419
+"Texas|4033–4123 Medical Center Dr, McKinney US-TX (33.1621,-96.6353)",33.1576805,-96.6266568,8655595F+38,48085
+"Texas|465 Scenic Ranch Cir, Fairview US-TX (33.1382,-96.5947)",33.1423394,-96.590153,86554CR5+WW,48085
+"Texas|579 Country Club Rd, McKinney US-TX (33.1565,-96.6282)",33.1576805,-96.6266568,8655595F+38,48085
+"Texas|655 Martin Ln, Seagoville US-TX (32.6135,-96.5006)",32.6138631,-96.5073323,8645JF7V+G3,48257
+"Texas|672–694 Scenic Ranch Cir, Fairview US-TX (33.1424,-96.5915)",33.1426709,-96.5907555,86554CV5+3M,48085
+"Texas|672–694 Scenic Ranch Cir, Fairview US-TX (33.1425,-96.5908)",33.1423394,-96.590153,86554CR5+WW,48085
+"Texas|701 Mustang Dr, Fairview US-TX (33.1423,-96.5902)",33.1426,-96.5901,86554CV5+2X,48085
+"Texas|701 Mustang Dr., Fairview",33.1423394,-96.590153,86554CR5+WW,48085
+Texas|701 Mustang Trail,33.1423394,-96.590153,86554CR5+WW,48085
+"Texas|703 Mustang Dr, Fairview US-TX (33.1426,-96.5901)",33.1426,-96.5901,86554CV5+2X,48085
+"Texas|958–964 W Exchange Pkwy, Allen US-TX (33.1154,-96.6806)",33.1152968,-96.6525686,8655488W+4X,48085
+Texas|Allen,33.1031744,-96.6705503,8655483H+7Q,48085
+"Texas|Allen Station Park, Allen US-TX (33.1102,-96.6662)",33.1104386,-96.6655983,8655486M+5Q,48085
+Texas|Along Highway US175,32.8024682,-96.8350999,8645R527+XX,48113
+Texas|Amarillo,35.2219971,-101.8312969,857W65C9+QF,48375
+Texas|Anahuac NWR,29.8219945,-94.6644511,76X7R8CP+Q6,48071
+"Texas|Angel Pkwy, Allen US-TX (33.1066,-96.6215)",33.1012399,-96.6204306,8655492H+FR,48085
+Texas|Anzalduas County Park,26.1052418,-98.2604415,76R34P4Q+3R,48215
+"Texas|Anzalduas County Park, McAllen",26.1052418,-98.2604415,76R34P4Q+3R,48215
+"Texas|Anzalduas County Park, National Butterfly Center, Quinta Mazatlan",26.1052418,-98.2604415,76R34P4Q+3R,48215
+Texas|Anzalduas Pontoon boat ride,26.1052418,-98.2604415,76R34P4Q+3R,48215
+Texas|Aransas NWR,28.1169577,-96.8002633,76W5458X+QV,48057
+"Texas|Arbor Hills Nature Preserve, Plano",33.0198431,-96.6988856,86552892+WC,48085
+Texas|Argyle,33.1212321,-97.1833475,86544RC8+FM,48121
+"Texas|Atascosa NWR, Laguna Atascosa",26.228991,-97.3473122,76R46MH3+H3,48061
+"Texas|Audubon Thicket, Weslaco",26.1595194,-97.9908366,76R45255+RM,48215
+"Texas|Beach, Galveston",29.3013479,-94.7976958,76X78622+GW,48167
+Texas|Bentsen State Park,26.1987212,-98.3769689,76R35JXF+F6,48215
+"Texas|Bentsen-Rio Grande State Park, Mission",26.185498,-98.3794443,76R35JPC+56,48215
+Texas|Bentsen-Rio Grande State Park. Mission,26.185498,-98.3794443,76R35JPC+56,48215
+"Texas|Black plains Raptor Center, Lucas",33.0842854,-96.5766577,86553CMF+P8,48085
+Texas|Blackland Prairie Raptor Center,31.7954512,-94.1790862,8637QRWC+59,48419
+Texas|Bolivar Island,29.4782878,-94.5799145,76X7FCHC+82,48167
+Texas|Bonham State Park,33.5471427,-96.1445492,8655GVW4+V5,48147
+"Texas|Brockdale Park, Lake Lavon",33.0276193,-96.4341524,86552HH8+28,48085
+"Texas|Brockdale Park, Lake Lavon, Lucas",33.0276193,-96.4341524,86552HH8+28,48085
+"Texas|Brockdale Park, Lake Lavon, Luvas",33.0276193,-96.4341524,86552HH8+28,48085
+"Texas|Brockdale Park, Wylie US-TX (33.0811,-96.5502)",33.0813,-96.5501,86553CJX+GX,48085
+Texas|Brownsville,25.9017472,-97.4974838,76Q4WG23+M2,48061
+Texas|Brownsville Landfill (LTC 041),25.9383015,-97.4024395,76Q4WHQX+82,48061
+Texas|Buffalo Lake NWR,34.919543,-102.11101,856VWV9Q+RH,48381
+Texas|CR 637 near Nevada,33.0407895,-96.344967,86552MR4+82,48085
+"Texas|Celebration Park, Angel Parkway, Allen",33.1075896,-96.6256354,8655495F+2P,48085
+Texas|Chapeño,26.534403,-99.154991,76R2GRMW+Q2,48427
+"Texas|Choke Canyon State Park, campsite",28.4888,-98.3419,76W3FMQ5+G6,48311
+"Texas|Convention Center, Harlingen",26.139941,-97.1750439,76R44RQF+XX,48061
+"Texas|Corps Woods, Galveston",29.3013479,-94.7976958,76X78622+GW,48167
+"Texas|Country Club Road, McKinney",33.1972465,-96.6397822,865559W6+V3,48085
+"Texas|County Road 637, Nevada",33.0407895,-96.344967,86552MR4+82,48085
+"Texas|Denison Dam/Eisenhower State Park, Denison",33.7556593,-96.536658,8655QF47+78,48181
+Texas|Denton,33.2148412,-97.1330683,86546V78+WQ,48121
+"Texas|E. Lucas Rd, Lucas",33.0859652,-96.5626469,86553CPP+9W,48085
+Texas|Edinburg Scenic Wetlands,26.2916686,-98.1348747,76R37VR8+M3,48215
+"Texas|Estero Llano Grande, Frontera",26.1261237,-97.9578255,76R442GR+CV,48215
+"Texas|Estero Llano Grande, Weslaco",26.1261237,-97.9578255,76R442GR+CV,48215
+"Texas|Estero Llano State Park, Weslaco",26.1261237,-97.9578255,76R442GR+CV,48215
+Texas|Fort Worth,32.7554883,-97.3307658,8644QM49+5M,48439
+"Texas|Fort Worth Botannical Gardens, Japanese Garden",32.7402492,-97.3624408,8644PJRQ+32,48439
+Texas|Fort Worth Nature Ctr.--Boardwalk,32.8434116,-97.4773265,8644RGVF+93,48439
+"Texas|Frontera Audubon, Weslaco",26.1471899,-97.9882384,76R442W6+VP,48215
+Texas|Galveston,29.3013479,-94.7976958,76X78622+GW,48167
+Texas|Galveston Island,29.3013479,-94.7976958,76X78622+GW,48167
+Texas|Galveston Most Wanted,29.3013479,-94.7976958,76X78622+GW,48167
+Texas|Goliad,28.6683252,-97.3883265,76W4MJ96+8M,48175
+Texas|Granger Lake--Wilson H. Fox Park,30.701667,-97.340556,8624PM25+MQ,48491
+"Texas|Greenville and Exchange, Allen",33.1152968,-96.6525686,8655488W+4X,48085
+"Texas|Hackberry Flats, Frederick",30.5765947,-94.176299,8627HRGF+JF,48457
+Texas|Hagerman NWR,33.7392487,-96.7522094,8655P6QX+M4,48181
+Texas|Hagerman NWR--Harris Creek trail,33.7391209,-96.7522848,8655P6QX+J3,48181
+Texas|Hagerman NWR--Raasch Trail,33.7391209,-96.7522848,8655P6QX+J3,48181
+Texas|Hagerman National Wildlife Refuge,33.7391209,-96.7522848,8655P6QX+J3,48181
+Texas|Hagerman Wildlife Refuge,33.7391209,-96.7522848,8655P6QX+J3,48181
+Texas|Harlingen,26.1906306,-97.6961026,76R458R3+7H,48061
+Texas|Heard Nat. Sci. Mus.& Wildlife Sanct,33.1615487,-96.6148533,8655596P+J3,48085
+Texas|Heard Wildlife Sanctuary,33.1615487,-96.6148533,8655596P+J3,48085
+"Texas|Heard Wildlife Sanctuary, Fairview",33.1615487,-96.6148533,8655596P+J3,48085
+Texas|Heritage Ranch,33.1578952,-96.6316593,86555959+58,48085
+"Texas|Heritage Ranch, Fairview",33.1578952,-96.6316593,86555959+58,48085
+Texas|High Island,29.5668955,-94.3935216,76X7HJ84+QH,48167
+Texas|Highway 48,26.1118401,-97.1681257,76R44R6J+PP,48061
+Texas|Highway 77,33.2148412,-97.1330683,86546V78+WQ,48121
+Texas|Highway TX 35,33.2148412,-97.1330683,86546V78+WQ,48121
+Texas|Highway TX474,26.1865632,-97.6622712,76R458PQ+J3,48061
+"Texas|Highways TX72, US281",28.4888,-98.3419,76W3FMQ5+G6,48311
+Texas|Hornsby Bend (HOTE 037),30.2655492,-97.7466255,86247783+68,48453
+"Texas|Hugh Ramsey, Harlingen Lake",26.1978647,-97.6911024,76R458X5+4H,48061
+"Texas|I35 - MM 1-110 (OK); US82 -Gainesville to Sherman (TX); US75 - Sherman to McKinney (TX); Serenity Pond, McKinney (TX)",33.6356618,-96.6088805,8655J9PR+7C,48181
+"Texas|John Butler Sands Wetlands, Compton",31.7954512,-94.1790862,8637QRWC+59,48419
+"Texas|Jones St, Lewisville US-TX (33.0639,-96.9895)",33.0639,-96.9895,86553276+H5,48121
+"Texas|Jones St, Lewisville US-TX (33.0661,-96.9753)",33.066,-96.9752,8655328F+CW,48121
+"Texas|Jones St, Lewisville US-TX (33.0683,-96.9646)",33.066,-96.9752,8655328F+CW,48121
+Texas|Justin,33.0848442,-97.2961286,86543PM3+WG,48121
+Texas|Katy Conservancy,29.7857853,-95.8243956,76X6Q5PG+86,48157
+"Texas|Katy Prairie Conservancy, Katy",29.7857853,-95.8243956,76X6Q5PG+86,48157
+Texas|Kingsville,27.4978,-97.8438,76V4F5X4+4F,48273
+Texas|Laguna Atascosa NWR,26.228991,-97.3473122,76R46MH3+H3,48061
+Texas|Lake Georgetown--Cedar Breaks Pk (HOTE 030),30.6711431,-97.7373576,8624M7C7+F3,48491
+Texas|Lake Lavon,33.0299257,-96.4409051,86552HH5+XJ,48085
+"Texas|Lake Lavon - Tickey Creek Park, Princeton",33.1801161,-96.4980424,86555GJ2+2Q,48085
+"Texas|Lake Lavon, Lucas",33.0493092,-96.5342305,86552FX8+P8,48085
+"Texas|Lake Lavon, Wiley",33.0495378,-96.5341805,86552FX8+R8,48085
+"Texas|Landa Park, New Braunfels",29.7142762,-98.1360204,76X3PV77+PH,48091
+"Texas|Lavon Lake, Lucas",33.0969168,-96.4663286,86553GWM+QF,48085
+Texas|Lavon Lake--Brockdale Pk area,33.0276193,-96.4341524,86552HH8+28,48085
+Texas|Louisville,31.7948959,-106.4591435,853MQGVR+X8,48141
+"Texas|Mallard Park, Nevada",33.0486139,-96.4254352,86552HXF+CR,48085
+"Texas|Marsh, Galveston",29.3013479,-94.7976958,76X78622+GW,48167
+Texas|Muleshoe NWR,34.2264676,-102.7238263,856V67GG+HF,48017
+"Texas|National Butterfly Center, Mission",26.1797991,-98.366481,76R35JHM+WC,48215
+"Texas|Oak Point Nature Preserve, Plano",33.0198431,-96.6988856,86552892+WC,48085
+"Texas|On the Roard, Lucas",33.0842854,-96.5766577,86553CMF+P8,48085
+Texas|On the road Hagerman NWR to Fairview,33.1423394,-96.590153,86554CR5+WW,48085
+Texas|On the road to Waller,30.0566085,-95.9268986,8626334F+J6,48473
+"Texas|On the road,",33.7062406,-96.663812,8655P84P+FF,48181
+"Texas|On the road, Country Club to Lavon",33.0493092,-96.5342305,86552FX8+P8,48085
+"Texas|On the road, Country Club to Lavon,",33.0493092,-96.5342305,86552FX8+P8,48085
+"Texas|On the road, Fairview,",33.1578952,-96.6316593,86555959+58,48085
+"Texas|On the road, I-45",32.2619765,-96.8350999,86457567+QX,48139
+"Texas|On the road, US 75 Sherman to Fairview,",33.6356618,-96.6088805,8655J9PR+7C,48181
+"Texas|On the road, US 75 and US 82",33.7062406,-96.663812,8655P84P+FF,48181
+"Texas|On the road, US 82, Gainesville to Sherman,",33.6356618,-96.6088805,8655J9PR+7C,48181
+"Texas|On the road, US77, Kingsville",27.4978,-97.8438,76V4F5X4+4F,48273
+Texas|Palo Duro Canyon,34.9020377,-101.7979613,856WW622+RR,48381
+"Texas|Park near Pace HS, Brownsville",25.9017472,-97.4974838,76Q4WG23+M2,48061
+"Texas|Park on Angel Parkway, Allen",33.1015052,-96.6204325,8655492H+JR,48085
+Texas|Pilot Point,33.396503,-96.9605608,865592WQ+JQ,48121
+Texas|Plano Outdoor Learning Ctr./Woodruff Pk N.,,,,
+Texas|Plano- Oak Point Pk,33.0576988,-96.67129,8655385H+3F,48085
+"Texas|Ponds, Angel Parkway, Allen",33.1031744,-96.6705503,8655483H+7Q,48085
+Texas|Pontoon boat ride and  Anzalduas County Park,26.1052418,-98.2604415,76R34P4Q+3R,48215
+Texas|Port Lavaca,28.6149968,-96.6260892,76W5J97F+XH,48057
+Texas|Quinta Mazatlan,26.1829428,-98.2818844,76R35PM9+56,48215
+"Texas|Ramsay Park, Harlingen",26.2076305,-97.737902,76R46756+3R,48061
+Texas|Ramsey,26.1865632,-97.6622712,76R458PQ+J3,48061
+"Texas|Riverwalk, San Antonio",29.4334076,-98.4846139,76X3CGM8+95,48029
+Texas|Rte 377,33.7556593,-96.536658,8655QF47+78,48181
+Texas|S. Padre Island,26.1118401,-97.1681257,76R44R6J+PP,48061
+"Texas|Sabal Palm Audubon Center, Brownsville",25.9017472,-97.4974838,76Q4WG23+M2,48061
+Texas|Saliñeno,26.5256956,-99.1096477,76R2GVGR+74,48427
+Texas|Santa Ana National Wildlife Refuge,26.0732056,-98.1495308,76R33VF2+75,48215
+Texas|Santa Margarita bluffs,26.5256956,-99.1096477,76R2GVGR+74,48427
+Texas|SeaWind RV Park,27.3178161,-97.6797381,76V4889C+44,48273
+Texas|Serenity Lake (near the Heard),33.1615487,-96.6148533,8655596P+J3,48085
+"Texas|Serenity Lake, Fairview",33.1578952,-96.6316593,86555959+58,48085
+Texas|South Padre Island,26.1118401,-97.1681257,76R44R6J+PP,48061
+Texas|South Padre Island Birding and Nature Center,26.1118401,-97.1681257,76R44R6J+PP,48061
+Texas|South Padre Island and Highway 48,26.1118401,-97.1681257,76R44R6J+PP,48061
+"Texas|South Padre Island, Laguna Atascosa and Brownsville",26.1118401,-97.1681257,76R44R6J+PP,48061
+Texas|Southmost Preserve,25.8642006,-97.3933089,76Q4VJ74+MM,48061
+"Texas|Stacy Rd., Frisco,",33.1520272,-96.7195711,8655572J+R5,48085
+"Texas|Stacy Road, Fairview",33.1578952,-96.6316593,86555959+58,48085
+Texas|Starr County State Park,26.580562,-99.1502062,76R2HRJX+6W,48427
+Texas|Terrell,32.7359626,-96.2752569,8645PPPF+9V,48257
+Texas|The Heard Wildlife Sanctuary,33.1615487,-96.6148533,8655596P+J3,48085
+"Texas|Tickey Creek Park, Lake Lavon",33.1801161,-96.4980424,86555GJ2+2Q,48085
+"Texas|Tickey Creek Park, Lake Lavon, Lucas",33.1801161,-96.4980424,86555GJ2+2Q,48085
+"Texas|Tickey Creek Park, Lake Lavon, Princeton",33.1801161,-96.4980424,86555GJ2+2Q,48085
+"Texas|Town Lake Rec Area Pond, McKinney US-TX (33.1846,-96.6314)",33.1846,-96.6314,865559M9+RC,48085
+Texas|Towne Lake Park,32.8214162,-97.0094811,8644RXCR+H6,48113
+"Texas|Towne Lake Park, McKinney",33.1853836,-96.6381381,865559P6+5P,48085
+"Texas|US 60, Hereford",34.8150622,-102.3977036,856VRJ82+2W,48117
+Texas|US-82 Sherman to Gainesville,33.6356618,-96.6088805,8655J9PR+7C,48181
+"Texas|US-TX-(28.4719,-98.3393)",28.4888,-98.3419,76W3FMQ5+G6,48311
+"Texas|US-TX-164 Landa Park Dr, New Braunfels US-TX (29.7071,-98.1320)",29.7142762,-98.1360204,76X3PV77+PH,48091
+"Texas|US-TX-2007 S US Highway 77 Byp, Kingsville US-TX (27.4978,-97.8438)",27.4978,-97.8438,76V4F5X4+4F,48273
+"Texas|US-TX-2017 County Road 152, Georgetown US-TX (30.6897,-97.6367)",30.6840607,-97.6398929,8624M9M6+J2,48491
+"Texas|US-TX-2601 E Dunkin Cir, Harlingen US-TX (26.2176,-97.6944)",26.2176,-97.6944,76R46894+26,48061
+"Texas|US-TX-33.1430x-96.5895 - May 6, 2015, 1:18 PM",33.1423394,-96.590153,86554CR5+WW,48085
+"Texas|US-TX-5100 Gulf Blvd, South Padre Island US-TX (26.1232,-97.1665)",26.1118401,-97.1681257,76R44R6J+PP,48061
+"Texas|US-TX-5100 Gulf Blvd, South Padre Island US-TX (26.1232,-97.1666)",26.1118401,-97.1681257,76R44R6J+PP,48061
+Texas|US-TX-Allen-1515 N Greenville Ave - 33.1227x-96.6502,33.1227,-96.6502,865548FX+3W,48085
+Texas|US-TX-Anzalduas Park (LTC 068),26.1052418,-98.2604415,76R34P4Q+3R,48215
+Texas|US-TX-Bentsen-Rio Grande Val. SP--HQ Buildings area,26.1987212,-98.3769689,76R35JXF+F6,48215
+Texas|US-TX-Brownsville Landfill (LTC 041),25.9383015,-97.4024395,76Q4WHQX+82,48061
+Texas|US-TX-Choke Canyon SP--Calliham Unit (McMullen Co.)(CTC 082),28.4888,-98.3419,76W3FMQ5+G6,48311
+"Texas|US-TX-Choke Canyon State Park, Calliham US-TX (28.4888,-98.3419)",28.4888,-98.3419,76W3FMQ5+G6,48311
+Texas|US-TX-Davis Mountains SP--Limpia Creek Trail,30.59905,-103.9293852,852RH3XC+J6,48243
+Texas|US-TX-Edinburg Scenic Wetlands WBC (LTC 061),26.2916686,-98.1348747,76R37VR8+M3,48215
+Texas|US-TX-Fairview-706 Mustang Dr,33.1426,-96.5901,86554CV5+2X,48085
+Texas|US-TX-Fairview-711 Mustang Dr,33.1423394,-96.590153,86554CR5+WW,48085
+Texas|US-TX-Fairview-721 Mustang Dr,33.1426,-96.5901,86554CV5+2X,48085
+Texas|US-TX-Fairview-970 Winged Foot Dr,33.1445185,-96.5939098,86554CV4+RC,48085
+Texas|US-TX-Fort Davis-Davis Mountains State Park - 30.5929x-103.9435,30.5929,-103.9435,852RH3V4+5H,48243
+Texas|US-TX-Galveston-1405 Harbor View Dr - 29.3244x-94.7737,29.3244,-94.7737,76X786FG+QG,48167
+Texas|US-TX-Galveston-6010 Seawall Blvd - 29.2673x-94.8257,29.2673,-94.8257,76X7758F+WP,48167
+Texas|US-TX-Galveston-Apffel Park - 29.3156x-94.7616,29.3156,-94.7616,76X7868Q+69,48167
+Texas|US-TX-Georgetown--Berry Springs Park,30.6840607,-97.6398929,8624M9M6+J2,48491
+Texas|US-TX-Goliad SP (CTC 039),28.6683252,-97.3883265,76W4MJ96+8M,48175
+Texas|US-TX-Harlingen City Lake (LTC 025),26.1978647,-97.6911024,76R458X5+4H,48061
+Texas|US-TX-Hugh Ramsey Park (Harlingen Arroyo Colorado) WBC (LTC 026),26.1865632,-97.6622712,76R458PQ+J3,48061
+Texas|US-TX-Johnson City-Odiorne Rd - 30.2589x-98.3908,30.2589,-98.3908,86237J55+HM,48031
+Texas|US-TX-Kaufman-W Highway 175 - 32.5897x-96.3372,32.5897,-96.3372,8645HMQ7+V4,48257
+Texas|US-TX-Lavon-9922-9948 State Highway 205 - 33.0216x-96.4568,33.0216,-96.4568,86552GCV+J7,48085
+Texas|US-TX-Leander-Balcones Canyonlands National Wildlife Refuge - 30.5048x-98.0114,30.5048,-98.0114,8623GX3Q+WC,48453
+Texas|US-TX-Lewisville-Jones St - 33.0652x-96.9762,33.0652,-96.9762,8655328F+3G,48121
+Texas|US-TX-Lewisville-Jones St - 33.0660x-96.9752,33.066,-96.9752,8655328F+CW,48121
+Texas|US-TX-McKinney-1 Nature Pl,33.1972465,-96.6397822,865559W6+V3,48085
+Texas|US-TX-McKinney-1401 Wilson Creek Pkwy,33.1972465,-96.6397822,865559W6+V3,48085
+Texas|US-TX-McKinney-3000-3148 Medical Center Dr - 33.1722x-96.6368,33.1722,-96.6368,865559C7+V7,48085
+Texas|US-TX-McKinney-965-1149 Wilson Creek Pkwy - 33.1843x-96.6310,33.1843,-96.631,865559M9+PH,48085
+Texas|US-TX-McKinney-Town Lake Rec Area Pond - 33.1845x-96.6313,33.1845,-96.6313,865559M9+QF,48085
+Texas|US-TX-Mother Neff SP (PPW-W 032),31.3256467,-97.4695136,86348GGJ+75,48099
+Texas|US-TX-New Hope-101-169 Rockcrest Rd - 33.2106x-96.5649,33.2106,-96.5649,86556C6P+62,48085
+"Texas|US-TX-Paradise RV Park, Harlingen US-TX (26.2057,-97.7229)",31.8670861,-103.0844938,853RVW88+R6,48495
+"Texas|US-TX-Plano - 33.0580x-96.6732 - Oct 7, 2015, 8:25 AM",33.058,-96.6732,8655385G+5P,48085
+Texas|US-TX-Plano- Oak Point Pk,33.0198431,-96.6988856,86552892+WC,48085
+Texas|US-TX-Plano-5901 Los Rios Blvd - 33.0581x-96.6741,33.0581,-96.6741,8655385G+69,48085
+Texas|US-TX-Plano-901 Ledgemont Dr - 33.0776x-96.7073,33.0776,-96.7073,865537HV+23,48085
+Texas|US-TX-Princeton-Clear Lake Park - 33.0574x-96.4857,33.0574,-96.4857,86553G47+XP,48085
+Texas|US-TX-Princeton-Ticky Creek Park - 33.1042x-96.4764,33.1042,-96.4764,86554G3F+MC,48085
+Texas|US-TX-Quinta Mazatlan WBC (LTC 063),26.1829428,-98.2818844,76R35PM9+56,48215
+Texas|US-TX-Resaca de la Palma SP WBC (Brownsville) (LTC 048),25.9774234,-97.549097,76Q4XFG2+X9,48061
+Texas|US-TX-Rio Grande River--by boat N. of Anzalduas Dam (USA side),26.1052418,-98.2604415,76R34P4Q+3R,48215
+"Texas|US-TX-Riviera, TX  78379, Riviera US-TX (27.3172,-97.6817)",27.3172,-97.6817,76V48889+V8,48273
+Texas|US-TX-Royse City-20817-21651 Co Rd 637,32.9751204,-96.3324817,8645XMG9+22,48397
+Texas|US-TX-Royse City-21421 County Road 638 - 33.0399x-96.3318,33.0399,-96.3318,86552MQ9+X7,48085
+Texas|US-TX-Salineño (LTC 080),26.5256956,-99.1096477,76R2GVGR+74,48427
+Texas|US-TX-Santa Margarita Ranch bluff (now closed to public),26.5256956,-99.1096477,76R2GVGR+74,48427
+Texas|US-TX-Sherman-6465 Refuge Rd,33.7391209,-96.7522848,8655P6QX+J3,48181
+Texas|US-TX-South Padre Is.--Birding and Nature Center,26.1118401,-97.1681257,76R44R6J+PP,48061
+Texas|US-TX-South Padre Is.--Valley Land Fund lots (LTC 036),26.1118401,-97.1681257,76R44R6J+PP,48061
+Texas|US-TX-South Padre Is.--WBC/Conv. Center/Laguna Madre Trail (LTC 035),26.1118401,-97.1681257,76R44R6J+PP,48061
+Texas|US-TX-South Padre Is.--jetty,26.1118401,-97.1681257,76R44R6J+PP,48061
+Texas|US-TX-Wichita Falls-Lake Arrowhead State Park - 33.7546x-98.3889,33.7546,-98.3889,8653QJ36+RC,48077
+Texas|US-TX-Wylie-Brockdale Park - 33.0744x-96.5493,33.0744,-96.5493,86553FF2+Q7,48085
+Texas|US-TX-Wylie-Brockdale Park - 33.0813x-96.5501,33.0813,-96.5501,86553CJX+GX,48085
+Texas|US-TX-Wylie-Brockdale Park - 33.0814x-96.5505,33.0814,-96.5505,86553CJX+HR,48085
+Texas|US-TX-Wylie-Collin Park - 33.0465x-96.5316,33.0465,-96.5316,86552FW9+J9,48085
+"Texas|UTMB Campus, Galveston",29.3013479,-94.7976958,76X78622+GW,48167
+Texas|W. Lucas Rd. Allen,33.0855662,-96.6199418,865539PJ+62,48085
+Texas|Western Isle and Marshes,29.3013479,-94.7976958,76X78622+GW,48167
+Texas|White Rock Lake,32.8424171,-96.7172516,8645R7RM+X3,48113
+Texas|White Rock Lake & Old Fish Hatchery (PPW-W 086),32.8424171,-96.7172516,8645R7RM+X3,48113
+"Texas|White Rock Lake, Garland",32.8424171,-96.7172516,8645R7RM+X3,48113
+Texas|Wolf Springs Rd (incl. Blue Sky Sod Farm),32.544997,-96.63336,8645G9V8+XM,48139
+"Texas|lake Lavon, Lucasa",33.0493092,-96.5342305,86552FX8+P8,48085
+Texas|on the road to Galveston,29.3013479,-94.7976958,76X78622+GW,48167
+Utah|Arches Nat'l Park,38.733081,-109.5925139,85CGPCM4+6X,49019
+"Utah|Bear River NWR, Utah",40.0966287,-111.5706786,85GC3CWH+MP,49049
+"Utah|Bryce Canyon NP, Utah",37.6283161,-112.1676947,8599JRHJ+8W,49017
+Utah|Bryce Canyon Nat'l Park,37.6283161,-112.1676947,8599JRHJ+8W,49017
+Utah|Bryce Pines Motel,37.6283161,-112.1676947,8599JRHJ+8W,49017
+Utah|Canyonlands Nat'l Park,38.2271598,-110.1807788,85CF6RG9+VM,49055
+Utah|Capitol Reef Nat'l Park,38.2914549,-111.2642257,85CC7PRP+H8,49055
+Utah|Escalante,37.7702663,-111.602119,859CQ9CX+45,49017
+Utah|Hotel near Zion,37.1770407,-113.2991533,85985PG2+R8,49053
+Utah|Salt Lake City,40.7607793,-111.8910474,85GCQ465+8H,49035
+Utah|US 89 near Bryce,37.6543337,-112.4341903,8599MH38+P8,49017
+Utah|Zion Nat'l Park,37.201979,-112.9905926,85996225+QQ,49053
+"Vermont|Herrick Pond, Vermont",,,,
+"Vermont|Montpelier, Vermont",44.2600593,-72.5753869,87P97C6F+2R,50023
+"Vermont|Mt Ascutney, Vermont",43.437086,-72.4289429,87M9CHPC+RC,50027
+"Vermont|NY border at US2, Vermont",44.9890036,-73.296376,87P8XPQ3+JC,50013
+"Vermont|Woodford State Park, Vermont",42.8912432,-73.0384665,87J8VXR6+FJ,50003
+"Virginia|Jamestown, Virginia",37.2082678,-76.7740897,8795665G+89,51095
+Virginia|Staunton/Walnut Hills,38.0527132,-79.1054522,87C23V3V+3R,51015
+Virginia|Wytheville campground,37.0246481,-81.2077542,869W2QFR+VV,51197
+"Washington|13409 SE 59th St, Bellevue US-WA (47.5497,-122.1601)",,,,
+"Washington|13th Dr SE, Bothell",47.8279655,-122.2141982,84VVRQHP+58,53061
+Washington|Alki,47.5754629,-122.4106578,84VVHHGQ+5P,53033
+"Washington|Alki East, Alki",47.5754629,-122.4106578,84VVHHGQ+5P,53033
+"Washington|Alki, Alki",47.5754629,-122.4106578,84VVHHGQ+5P,53033
+"Washington|Alki, Edmonds Pier",47.5754629,-122.4106578,84VVHHGQ+5P,53033
+"Washington|Alki, Seattle",47.5754629,-122.4106578,84VVHHGQ+5P,53033
+Washington|AlkiCondo,47.5754629,-122.4106578,84VVHHGQ+5P,53033
+"Washington|AlkiEast, Alki",47.5754629,-122.4106578,84VVHHGQ+5P,53033
+"Washington|Anacortes-Sidney ferry, Washington",48.5126045,-122.6126718,84WVG97P+2W,53057
+Washington|Bainbridge Island Ferry,47.6232283,-122.5109015,84VVJFFQ+7J,53035
+"Washington|Bainbridge ferry, Seattle",47.6232283,-122.5109015,84VVJFFQ+7J,53035
+"Washington|Ballard Locks, Seattle",47.6792172,-122.3860312,84VVMJH7+MH,53033
+"Washington|Ballard, Seattle",47.6792172,-122.3860312,84VVMJH7+MH,53033
+Washington|Bellevue,47.6101497,-122.2015159,84VVJQ6X+39,53033
+"Washington|Bellevue, Seattle",47.6101497,-122.2015159,84VVJQ6X+39,53033
+"Washington|Bellevue, Washington",47.6101497,-122.2015159,84VVJQ6X+39,53033
+"Washington|Big Pines Campground, Washington",46.7962575,-120.4631338,84RXQGWP+GP,53037
+"Washington|Bloedel Reserve, Bainbridge Island",47.6232283,-122.5109015,84VVJFFQ+7J,53035
+"Washington|Bloedel Reserve, Seattle",47.6232283,-122.5109015,84VVJFFQ+7J,53035
+Washington|Bothell,47.76095,-122.2055884,84VVQQ6V+9Q,53033
+"Washington|Bothell Landing, Seattle",47.7575457,-122.2698598,84VVQP5J+23,53033
+"Washington|Bothell, North Creek area, Washington",47.8012851,-122.2064408,84VVRQ2V+GC,53061
+"Washington|Bothell, North Creek, Seattle",47.8012851,-122.2064408,84VVRQ2V+GC,53061
+"Washington|Bowerman Basin, Washington",46.9795973,-123.9326316,84RRX3H8+RW,53027
+"Washington|Camp Long, Seattle",47.5573775,-122.3731954,84VVHJ4G+XP,53033
+Washington|Castle Rock,46.275111,-122.9076141,84RV73GR+2X,53015
+"Washington|Cedar River/Coulon Park, Seattle",47.6062095,-122.3320708,84VVJM49+F5,53033
+"Washington|Dash Point County Park, Washington",47.319115,-122.4265017,84VV8H9F+J9,53053
+"Washington|Deception Pass, Washington",48.4075536,-122.6450944,84WVC953+2X,53057
+"Washington|Des Moines Marina, Washington",47.4017661,-122.3242901,84VVCM2G+P7,53033
+Washington|Discovery Park,47.657302,-122.405496,84VVMH4V+WR,53033
+"Washington|Discovery Park, Seattle",47.657302,-122.405496,84VVMH4V+WR,53033
+"Washington|Dodson Rd, Washington",47.1022734,-119.5564992,85V24C2V+WC,53025
+"Washington|Dumas Bay, Washington",47.3287772,-122.3827782,84VV8JH8+GV,53033
+"Washington|Edmonds Marsh and Pier, Seattle",47.6062095,-122.3320708,84VVJM49+F5,53033
+Washington|Edmonds Pier,47.8110597,-122.3843103,84VVRJ68+C7,53061
+"Washington|Everett, Washington",47.9789848,-122.2020795,84VVXQHX+H5,53061
+"Washington|Ferry near Edmonds, Washington",47.8106521,-122.3773551,84VVRJ6F+73,53061
+"Washington|Gog-Le-Hi-Te Wetland, Washington",47.2507286,-122.4108725,84VV7H2Q+7M,53053
+"Washington|Golden Gardens, Seattle",47.6917517,-122.4030912,84VVMHRW+PQ,53033
+"Washington|Green Lake, Seattle",47.6797182,-122.3256609,84VVMMHF+VP,53033
+"Washington|Greenlake, Seattle",47.6797182,-122.3256609,84VVMMHF+VP,53033
+"Washington|Harbor park viewpoint, Alki",47.5754629,-122.4106578,84VVHHGQ+5P,53033
+"Washington|Heart of the Forest Trail, Port Angeles",48.118146,-123.4307413,84WR4H99+7P,53009
+"Washington|Heimar Pk, Washington",,,,
+"Washington|Hurricane Ridge Rd, Port Angeles",48.0362433,-123.429905,84WR2HPC+F2,53009
+"Washington|I-90 w of Spokane, Washington",,,,
+"Washington|Interbay, Seattle",47.6406735,-122.3821101,84VVJJR9+75,53033
+"Washington|Jack Block Park, Alki",47.5754629,-122.4106578,84VVHHGQ+5P,53033
+Washington|Juanita Bay,47.6986138,-122.2110985,84VVMQXQ+CH,53033
+"Washington|Juanita Bay, Seattle",47.6986138,-122.2110985,84VVMQXQ+CH,53033
+"Washington|Kenmore Logboom Park, Seattle",47.7577462,-122.2643101,84VVQP5P+37,53033
+"Washington|Kent Ponds, Seattle",47.4440297,-122.1451626,84VVCVV3+JW,53033
+"Washington|Kerring House Park, Alki",47.5754629,-122.4106578,84VVHHGQ+5P,53033
+"Washington|Lake Sammamish State Park, Seattle",47.5549499,-122.0651741,84VVHW3M+XW,53033
+"Washington|LatLon (-122.39925857, 47.81375641)",47.8138,-122.3993,84VVRJ72+G7,53061
+"Washington|Lighthouse, Alki",47.5754629,-122.4106578,84VVHHGQ+5P,53033
+"Washington|Lincoln Park, Seattle",47.530571,-122.395992,84VVGJJ3+6J,53033
+"Washington|Logboom Park, Seattle",47.7577462,-122.2643101,84VVQP5P+37,53033
+Washington|Marymoor Park,47.6617093,-122.1214992,84VVMV6H+MC,53033
+"Washington|Marymoor, Seattle",47.669499,-122.1331329,84VVMV98+QP,53033
+"Washington|Meadowdale Park, Seattle",47.8571809,-122.3165018,84VVVM4M+V9,53061
+"Washington|Medina Park, Seattle",47.6202373,-122.2315881,84VVJQC9+39,53033
+"Washington|Medina Pk, Seattle",47.6202373,-122.2315881,84VVJQC9+39,53033
+"Washington|Mount Baker, Washington",47.5832374,-122.2923417,84VVHPM5+73,53033
+"Washington|Mount St Helens Visitor Center, Washington",46.1914006,-122.1955508,84RV5RR3+HQ,53059
+Washington|Mt Rainier,46.765992,-122.0023965,84RVQX8X+92,53053
+"Washington|Mt Rainier, Washington",46.765992,-122.0023965,84RVQX8X+92,53053
+"Washington|Mt St Helens, Washington",46.1914006,-122.1955508,84RV5RR3+HQ,53059
+Washington|Mt. Rainier,46.765992,-122.0023965,84RVQX8X+92,53053
+Washington|Nisqually,47.0564855,-122.7012417,84VV374X+HG,53067
+Washington|North Bainbridge Island,47.6248791,-122.5210007,84VVJFFH+XH,53035
+"Washington|North Creek Park, Mill Creek, Washington",47.8600971,-122.2042966,84VVVQ6W+27,53061
+"Washington|North Creek Park, Washington",47.8326728,-122.2193008,84VVRQMJ+37,53061
+"Washington|North Creek, Seattle",47.64376,-122.3030202,84VVJMVW+GQ,53033
+"Washington|Ocean Shores, Washington",46.9736986,-124.1562852,84RQXRFV+FF,53027
+Washington|Paradise Valley,47.5141617,-117.2877422,85V4GP76+MW,53063
+Washington|Pioneer Trails RV Park,48.455193,-122.5867371,84WVFC47+38,53057
+"Washington|Point Defiance, Washington",47.3060041,-122.5142218,84VV8F4P+C8,53053
+Washington|Port Angeles,48.118146,-123.4307413,84WR4H99+7P,53009
+"Washington|Port Angeles Harbor, Washington",48.0422194,-123.3208689,84WR2MRH+VM,53009
+Washington|Port Townsend,48.1170387,-122.7604471,84WV468Q+RR,53031
+"Washington|Pt Defiance Park, Washington",47.3022364,-122.5234174,84VV8F2G+VJ,53053
+"Washington|Richland, Washington",46.2856907,-119.2844621,85R27PP8+76,53005
+"Washington|San Juan Island, Washington",48.5371738,-123.2074735,84WRGQPV+V2,53055
+"Washington|Schmitz Park, Alki",47.5754629,-122.4106578,84VVHHGQ+5P,53033
+"Washington|Scullywest, Washington",47.8126463,-122.2275754,84VVRQ7C+3X,53061
+Washington|Seattle,47.6062095,-122.3320708,84VVJM49+F5,53033
+Washington|Seattle KOA,47.411956,-122.2624149,84VVCP6Q+Q2,53033
+"Washington|Seattle, Seattle",47.6131746,-122.4821482,84VVJG79+74,53035
+Washington|Seward Park,47.5502603,-122.26485,84VVHP2P+43,53033
+"Washington|Seward Park, Seattle",47.5502603,-122.26485,84VVHP2P+43,53033
+"Washington|Ship Canal, Seattle",47.6557698,-122.3221997,84VVMM4H+84,53033
+"Washington|Smith Cove, Seattle",47.6284219,-122.3914719,84VVJJH5+9C,53033
+"Washington|Snohomish, Jardin del Sol, Washington",47.9482316,-122.0909257,84VVWWX5+7J,53061
+"Washington|Snohomish-Arlington Centennial Trail, Washington",48.1953203,-122.127498,84WV5VWF+42,53061
+Washington|Spencer Island,47.9931654,-122.1666667,84VVXRVM+78,53061
+"Washington|Spencer Island, Washington",47.9930011,-122.1643868,84VVXRVP+66,53061
+"Washington|Spokane, Washington",47.6587802,-117.4260465,85V4MH5F+GH,53063
+"Washington|Totem Lake, Seattle",47.7081862,-122.1805125,84VVPR59+7Q,53033
+"Washington|Tukwila Pond, Seattle",47.4537911,-122.2595323,84VVFP3R+G5,53033
+"Washington|Union Bay, Seattle",47.6490843,-122.2977675,84VVJPX2+JV,53033
+"Washington|WA221/Zillah, Washington",46.4020734,-120.2619988,84RXCP2Q+R6,53077
+"Washington|West, Marymoor Park",47.6617093,-122.1214992,84VVMV6H+MC,53033
+"Washington|Whidbey Island, Washington",48.1582274,-122.8395971,84WV5556+75,53031
+"Washington|Winslow Harbor, Washington",47.4672933,-122.6889296,84VVF886+WC,53035
+"Washington|hillside, AlkiCondo",47.5754629,-122.4106578,84VVHHGQ+5P,53033
+"Washington|south beach near Alki Lighthouse, Alki",47.5754629,-122.4106578,84VVHHGQ+5P,53033
+"Washington|waterfront, Seattle",47.6545101,-122.2925076,84VVMP34+RX,53033
+West Virginia|Reststop,39.3898944,-81.443717,86FW9HQ4+XG,54107
+West Virginia|on the road,37.5643649,-80.6871325,869XH877+P4,54063
+Wisconsin|Madison,43.0730517,-89.4012302,86MG3HFX+6G,55025
+Wyoming|Beartooth Hwy,44.933827,-109.6681487,85PGW8MJ+GP,56029
+"Wyoming|Christian Lake, Yellowstone",44.4622269,-110.3333074,85PFFM68+VM,56039
+"Wyoming|Devils Tower NM, Wyoming",44.5886461,-104.6985456,85PQH8Q2+FH,56011
+"Wyoming|Fishing Bridge, Yellowstone",44.4622269,-110.3333074,85PFFM68+VM,56039
+"Wyoming|Gull Point, Yellowstone",44.4622269,-110.3333074,85PFFM68+VM,56039
+Wyoming|I-80,,,,
+"Wyoming|I-80, Wyoming",,,,
+"Wyoming|Lyman, campground, Wyoming",41.327451,-110.2929325,85HF8PG4+XR,56041
+Wyoming|Old Faithful,44.4604788,-110.8281377,85PFF56C+5P,56039
+"Wyoming|Swan Lake, Yellowstone",44.4622269,-110.3333074,85PFFM68+VM,56039
+"Wyoming|US-30, Wyoming",,,,
+Wyoming|Upton,44.0997037,-104.6280156,85PQ39XC+VQ,56045
+"Wyoming|WY-130, Wyoming",,,,
+"Wyoming|Washington Blvd, Newcastle",43.8488162,-104.1894382,85MQRRX6+G6,56045
+Wyoming|Yellowstone,44.4622269,-110.3333074,85PFFM68+VM,56039
+Wyoming|Yellowstone Lake,44.4622269,-110.3333074,85PFFM68+VM,56039
+"Wyoming|Yellowstone NP - Lower Falls, Wyoming",44.7180487,-110.4963684,85PFPG93+6F,56029
+"Wyoming|Yellowstone NP, Wyoming",44.4279684,-110.5884542,85PFCCH6+5J,56029
+"Wyoming|near Alpine, Wyoming",43.1610946,-111.0164822,85MC5X6M+CC,56023

@@ -1,0 +1,401 @@
+---Mark 2014-06-01 Ohio|Slate Run Metro Park
+
+American Crow
+American Goldfinch
+American Robin
+American Woodcock
+Canada Goose
+Carolina Wren
+Chipping Sparrow
+Eastern Bluebird
+Eastern Meadowlark
+Eastern Phoebe
+Eastern Towhee
+Eastern Wood-Pewee
+House Wren
+Mallard
+Northern Bobwhite
+Northern Cardinal
+Pileated Woodpecker
+Red-winged Blackbird
+Sandhill Crane
+Tree Swallow
+Tufted Titmouse
+Turkey Vulture
+---Paul 2014-06-04 Texas|Heritage Ranch, Fairview
+
+American Crow
+Barn Swallow
+Blue Jay
+Carolina Chickadee
+Carolina Wren
+Cattle Egret
+Eastern Bluebird
+Eastern Phoebe
+Great Blue Heron
+House Finch
+Indigo Bunting
+Mallard
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Red-bellied Woodpecker
+Tufted Titmouse
+White-eyed Vireo
+Yellow-billed Cuckoo
+---Mark 2014-06-05 Ohio|Scioto Audubon Metro Park
+
+American Goldfinch
+American Robin
+Baltimore Oriole
+Blue-gray Gnatcatcher
+Brown-headed Cowbird
+Canada Goose
+Chimney Swift
+Eastern Wood-Pewee
+European Starling
+Gray Catbird
+Great Egret
+House Finch
+House Wren
+Mallard
+Northern Cardinal
+Northern Mockingbird
+Osprey
+Red-bellied Woodpecker
+Red-winged Blackbird
+Song Sparrow
+Tree Swallow
+Yellow Warbler
+sparrow sp.
+swallow sp.
+---Paul 2014-06-07 Oklahoma|S. Jenkins, Norman
+
+American Crow
+American Goldfinch
+Blue-gray Gnatcatcher
+Brown-headed Cowbird
+Carolina Chickadee
+Cattle Egret
+Common Grackle
+Dickcissel
+Eastern Bluebird
+Eastern Meadowlark
+Eastern Phoebe
+European Starling
+Great Egret
+Great-tailed Grackle
+House Finch
+House Sparrow
+Indigo Bunting
+Killdeer
+Lark Sparrow
+Mallard
+Northern Cardinal
+Pileated Woodpecker
+Prothonotary Warbler
+Red-eyed Vireo
+Red-shouldered Hawk
+Red-winged Blackbird
+Scissor-tailed Flycatcher
+Snowy Egret
+Tufted Titmouse
+Turkey Vulture
+Western Kingbird
+White-eyed Vireo
+Yellow-billed Cuckoo
+---Paul 2014-06-10 Oklahoma|Bricktown Pallpark, OKC
+
+Chimney Swift
+Common Nighthawk
+---Paul 2014-06-10 Oklahoma|Dolese Sand Pits, Guthrie, OK
+
+American Crow
+American Robin
+American White Pelican
+Barn Swallow
+Bell's Vireo
+Black Tern
+Blue-gray Gnatcatcher
+Blue-winged Teal
+Brown Pelican (Atlantic)
+Brown-headed Cowbird
+Canada Goose
+Carolina Wren
+Cliff Swallow
+Common Loon
+Dickcissel
+Double-crested Cormorant
+Eastern Bluebird
+Eastern Kingbird
+Eurasian Collared-Dove
+European Starling
+Forster's Tern
+Franklin's Gull
+Great Blue Heron
+Great Egret
+Great-tailed Grackle
+Green Heron
+House Finch
+Indigo Bunting
+Killdeer
+Least Tern
+Little Blue Heron
+Mallard
+Mourning Dove
+Northern Flicker (Yellow-shafted)
+Northern Shoveler
+Red-eyed Vireo
+Red-necked Phalarope
+Red-shouldered Hawk
+Red-winged Blackbird
+Ring-billed Gull
+Rock Pigeon
+Ruddy Duck
+Scissor-tailed Flycatcher
+Snowy Egret
+Tufted Titmouse
+Western Kingbird
+White-eyed Vireo
+---Mark 2014-06-11 Ohio|Miranova
+
+American Goldfinch
+---Paul 2014-06-11 Oklahoma|Goldsby Sod Farm, Goldsby
+
+Barn Swallow
+Blue Jay
+Cliff Swallow
+Dickcissel
+Eastern Bluebird
+Eastern Meadowlark
+Eastern Phoebe
+European Starling
+Grasshopper Sparrow
+Great Blue Heron
+Horned Lark (Western pale Group)
+House Finch
+Killdeer
+Lark Sparrow
+Mourning Dove
+Northern Bobwhite
+Red-tailed Hawk
+Red-winged Blackbird
+Ring-necked Pheasant
+Scissor-tailed Flycatcher
+---Mark 2014-06-13 Ohio|Miranova
+
+American Robin
+Canada Goose
+Killdeer
+Mallard
+Mourning Dove
+Northern Cardinal
+Peregrine Falcon
+Song Sparrow
+Turkey Vulture
+---Mark 2014-06-15 Ohio|Miranova
+
+American Goldfinch
+American Robin
+Carolina Chickadee
+Great Blue Heron
+House Finch
+House Sparrow
+Killdeer
+Northern Rough-winged Swallow
+Song Sparrow
+---Mark 2014-06-15 Ohio|Scioto Audubon Metro Park
+
+American Goldfinch
+Barn Swallow
+Brown-headed Cowbird
+Downy Woodpecker
+Indigo Bunting
+Northern Cardinal
+Northern Mockingbird
+Osprey
+Tree Swallow
+Turkey Vulture
+---Paul 2014-06-16 Texas|Heritage Ranch, Fairview
+
+American Crow
+Barn Swallow
+Blue Jay
+Brown-headed Cowbird
+Carolina Chickadee
+Carolina Wren
+Cattle Egret
+Downy Woodpecker
+Eastern Bluebird
+Eastern Phoebe
+Great Blue Heron
+House Finch
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Purple Martin
+Red-bellied Woodpecker
+Red-shouldered Hawk
+Ruby-throated Hummingbird
+Tufted Titmouse
+White-eyed Vireo
+Yellow-billed Cuckoo
+---Paul 2014-06-19 Texas|Heard Wildlife Sanctuary, Fairview
+
+American Crow
+Barn Swallow
+Blue Jay
+Blue-gray Gnatcatcher
+Carolina Chickadee
+Carolina Wren
+Cattle Egret
+Eastern Kingbird
+Eastern Phoebe
+Eurasian Collared-Dove
+Great Blue Heron
+Great Egret
+Great-tailed Grackle
+Green Heron
+Indigo Bunting
+Little Blue Heron
+Mallard
+Mourning Dove
+Northern Cardinal
+Painted Bunting
+Prothonotary Warbler
+Red-bellied Woodpecker
+Red-eyed Vireo
+Tufted Titmouse
+White Ibis
+White-breasted Nuthatch
+White-eyed Vireo
+Yellow-crowned Night-Heron
+---Paul 2014-06-20 Texas|Towne Lake Park, McKinney
+
+Baltimore Oriole
+Barn Swallow
+Belted Kingfisher
+Canada Goose
+Carolina Wren
+Cliff Swallow
+Common Grackle
+Eastern Bluebird
+Eastern Kingbird
+Eurasian Collared-Dove
+European Starling
+Great Blue Heron
+Great Egret
+Great-tailed Grackle
+Green Heron
+Mallard
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Purple Martin
+Red-bellied Woodpecker
+Rock Pigeon
+Snowy Egret
+Tufted Titmouse
+Western Kingbird
+White-eyed Vireo
+Yellow-crowned Night-Heron
+---Paul 2014-06-21 Texas|Heritage Ranch, Fairview
+
+American Crow
+Barn Swallow
+Blue Jay
+Blue-gray Gnatcatcher
+Carolina Chickadee
+Carolina Wren
+Cattle Egret
+Downy Woodpecker
+Eastern Bluebird
+Eastern Phoebe
+Great Egret
+House Finch
+Mourning Dove
+Northern Cardinal
+Northern Rough-winged Swallow
+Red-bellied Woodpecker
+Red-shouldered Hawk
+Ruby-throated Hummingbird
+Tufted Titmouse
+White-eyed Vireo
+---Paul 2014-06-24 Texas|Heard Wildlife Sanctuary, Fairview
+
+Anhinga
+Barn Swallow
+Carolina Chickadee
+Carolina Wren
+Cattle Egret
+Cliff Swallow
+Common Grackle
+Eastern Bluebird
+Great Blue Heron
+Great Egret
+Green Heron
+Indigo Bunting
+Little Blue Heron
+Northern Cardinal
+Northern Mockingbird
+Northern Rough-winged Swallow
+Painted Bunting
+Prothonotary Warbler
+Purple Martin
+Red-bellied Woodpecker
+Ruby-throated Hummingbird
+Scissor-tailed Flycatcher
+Tufted Titmouse
+White Ibis
+White-eyed Vireo
+Yellow-billed Cuckoo
+Yellow-crowned Night-Heron
+---Paul 2014-06-29 Alaska|Creamer's Field, Fairbanks
+
+Alder Flycatcher
+Cliff Swallow
+Dark-eyed Junco (Slate-colored)
+Hermit Thrush
+Mallard
+Rock Pigeon
+Sandhill Crane
+Spotted Sandpiper
+Tree Swallow
+Western Wood-Pewee
+Yellow Warbler
+---Paul 2014-06-29 Alaska|Princess Riverside Lodge, Fairbanks
+
+Alder Flycatcher
+American Robin
+Common Raven
+Violet-green Swallow
+Yellow Warbler
+Yellow-rumped Warbler (Myrtle)
+---Paul 2014-06-30 Alaska|Creamer's Field, Fairbanks
+
+American Robin
+Sandhill Crane
+Tree Swallow
+---Paul 2014-06-30 Alaska|Pioneer Park, Fairbanks
+
+American Robin
+Cinnamon Teal
+Mallard
+Mew Gull (American)
+---Paul 2014-06-30 Alaska|Princess Riverside Lodge, Fairbanks
+
+Alder Flycatcher
+American Robin
+Black-capped Chickadee
+Common Raven
+Dark-eyed Junco (Slate-colored)
+Herring Gull
+Mallard
+Orange-crowned Warbler
+Violet-green Swallow
+Yellow Warbler
+---Paul 2014-06-30 Alaska|Visitor's Center, Fairbanks
+
+Common Raven
+Mew Gull (American)
+Tree Swallow

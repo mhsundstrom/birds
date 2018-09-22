@@ -1,0 +1,260 @@
+---Mark 2004-06-01 Washington|Alki East, Alki
+
+American Goldfinch
+American Robin
+Bald Eagle
+Barn Swallow
+Belted Kingfisher
+Canada Goose
+European Starling
+Fox Sparrow
+Great Blue Heron
+House Finch
+House Sparrow
+Killdeer
+Northern Flicker
+Pigeon Guillemot
+Purple Martin
+Rock Pigeon
+Violet-green Swallow
+White-crowned Sparrow
+crow sp.
+---Mark 2004-06-01 Washington|AlkiCondo
+
+American Robin
+Barn Swallow
+Belted Kingfisher
+European Starling
+Fox Sparrow
+Great Blue Heron
+House Finch
+House Sparrow
+Pigeon Guillemot
+Spotted Towhee
+crow sp.
+gull sp.
+---Mark 2004-06-02 Washington|AlkiCondo
+
+American Goldfinch
+Bewick's Wren
+---Mark 2004-06-03 Washington|AlkiCondo
+
+Bald Eagle
+---Mark 2004-06-03 Washington|Juanita Bay, Seattle
+
+American Goldfinch
+American Robin
+Barn Swallow
+Black-capped Chickadee
+Bullock's Oriole
+Bushtit
+Canada Goose
+Cedar Waxwing
+Downy Woodpecker
+Fox Sparrow
+Great Blue Heron
+House Sparrow
+Killdeer
+Marsh Wren
+Northern Flicker
+Red-breasted Sapsucker
+Red-winged Blackbird
+Tree Swallow
+Violet-green Swallow
+Willow Flycatcher
+crow sp.
+hummingbird sp.
+---Mark 2004-06-03 Washington|Marymoor Park
+
+American Goldfinch
+American Robin
+Bald Eagle
+Barn Swallow
+Black-capped Chickadee
+Black-headed Grosbeak
+Cedar Waxwing
+Downy Woodpecker
+Fox Sparrow
+Marsh Wren
+Red-tailed Hawk
+Red-winged Blackbird
+Savannah Sparrow
+Spotted Towhee
+Swainson's Thrush
+Violet-green Swallow
+White-crowned Sparrow
+Willow Flycatcher
+crow sp.
+---Mark 2004-06-03 Washington|Totem Lake, Seattle
+
+American Goldfinch
+Barn Swallow
+Black-capped Chickadee
+Fox Sparrow
+House Finch
+Marsh Wren
+Northern Flicker
+Pied-billed Grebe
+Red-winged Blackbird
+Spotted Towhee
+Violet-green Swallow
+White-crowned Sparrow
+Willow Flycatcher
+crow sp.
+---Mark 2004-06-04 Washington|AlkiEast, Alki
+
+Bald Eagle
+---Mark 2004-06-04 Washington|Discovery Park
+
+Swainson's Thrush
+---Mark 2004-06-04 Washington|Smith Cove, Seattle
+
+Caspian Tern
+Great Blue Heron
+Purple Martin
+---Mark 2004-06-05 Washington|AlkiCondo
+
+Belted Kingfisher
+Double-crested Cormorant
+---Mark 2004-06-06 Washington|AlkiCondo
+
+Violet-green Swallow
+---Mark 2004-06-07 Washington|AlkiCondo
+
+Bald Eagle
+Belted Kingfisher
+Caspian Tern
+Great Blue Heron
+---Mark 2004-06-08 Washington|Kerring House Park, Alki
+
+American Goldfinch
+American Robin
+Black-capped Chickadee
+Blue-winged Teal
+Bushtit
+Canada Goose
+Cedar Waxwing
+House Finch
+Killdeer
+Purple Martin
+Red-tailed Hawk
+Spotted Sandpiper
+Violet-green Swallow
+White-crowned Sparrow
+crow sp.
+---Mark 2004-06-09 Washington|AlkiCondo
+
+Belted Kingfisher
+---Mark 2004-06-09 Washington|AlkiEast, Alki
+
+Pigeon Guillemot
+Violet-green Swallow
+---Mark 2004-06-09 Washington|Smith Cove, Seattle
+
+Great Blue Heron
+---Mark 2004-06-11 Washington|AlkiCondo
+
+Bald Eagle
+Barn Swallow
+Caspian Tern
+Osprey
+---Mark 2004-06-14 Washington|Seward Park
+
+Bald Eagle
+owl sp.
+---Mark 2004-06-15 Washington|AlkiCondo
+
+Bald Eagle
+Great Blue Heron
+---Mark 2004-06-17 Washington|AlkiCondo
+
+Belted Kingfisher
+Caspian Tern
+---Paul 2004-06-17 Germany|Wuerzburg
+
+Western Yellow Wagtail
+---Mark 2004-06-19 Washington|AlkiCondo
+
+Bald Eagle
+Belted Kingfisher
+---Mark 2004-06-20 Washington|Alki
+
+Belted Kingfisher
+Canada Goose
+---Paul 2004-06-20 Germany|Wuerzburg
+
+Eurasian Bullfinch
+Eurasian Linnet
+Icterine Warbler
+Yellow Warbler
+---Paul 2004-06-22 Italy|Quo Vobis, Assissi
+
+Red-backed Shrike
+---Mark 2004-06-23 Washington|AlkiCondo
+
+Bald Eagle
+Barn Swallow
+Belted Kingfisher
+cormorant sp.
+---Mark 2004-06-26 Canada|Highway 19, British Columbia
+
+Bald Eagle
+Swainson's Thrush
+Turkey Vulture
+Varied Thrush
+---Mark 2004-06-27 Canada|Nootka, British Columbia
+
+Bald Eagle
+Black Oystercatcher
+Song Sparrow
+Swainson's Thrush
+---Mark 2004-06-27 Canada|Zeballos, British Columbia
+
+American Robin
+Bald Eagle
+Common Merganser
+European Starling
+Northwestern Crow
+Pacific Wren
+Song Sparrow
+Swainson's Thrush
+Violet-green Swallow
+Wilson's Warbler
+---Mark 2004-06-28 Canada|Nootka, British Columbia
+
+American Robin
+Bald Eagle
+Black Oystercatcher
+Chestnut-backed Chickadee
+Fox Sparrow
+Hairy Woodpecker
+Northwestern Crow
+Pacific Wren
+Rufous Hummingbird
+Song Sparrow
+Swainson's Thrush
+Varied Thrush
+---Mark 2004-06-29 Canada|Nootka, British Columbia
+
+American Robin
+Bald Eagle
+Black Oystercatcher
+Common Loon
+Song Sparrow
+Swainson's Thrush
+Varied Thrush
+gull sp.
+hummingbird sp.
+---Mark 2004-06-30 Canada|Nootka, British Columbia
+
+American Robin
+Bald Eagle
+Chestnut-backed Chickadee
+Common Merganser
+Common Raven
+Pacific Wren
+Song Sparrow
+Surf Scoter
+Swainson's Thrush
+Varied Thrush
+hummingbird sp.

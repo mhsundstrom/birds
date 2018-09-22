@@ -1,0 +1,168 @@
+---Mark 2003-04-01 Washington|Alki
+
+Bald Eagle
+Barrow's Goldeneye
+Bufflehead
+Common Goldeneye
+Horned Grebe
+Pigeon Guillemot
+Red-necked Grebe
+White-crowned Sparrow
+---Mark 2003-04-04 Washington|Alki
+
+Brant
+Red-breasted Merganser
+---Mark 2003-04-05 Washington|AlkiCondo
+
+American Goldfinch
+Red-breasted Merganser
+---Mark 2003-04-06 Washington|AlkiCondo
+
+Bald Eagle
+---Mark 2003-04-06 Washington|Seward Park
+
+American Coot
+American Wigeon
+Bald Eagle
+Bufflehead
+Chestnut-backed Chickadee
+Common Goldeneye
+Common Merganser
+Golden-crowned Kinglet
+Northern Flicker
+Pacific Wren
+Pied-billed Grebe
+Ring-necked Duck
+Spotted Towhee
+Violet-green Swallow
+---Mark 2003-04-08 Washington|Alki
+
+Brant
+---Mark 2003-04-09 Washington|Alki
+
+Bald Eagle
+Barrow's Goldeneye
+Killdeer
+Red-necked Grebe
+Western Grebe
+White-crowned Sparrow
+swallow sp.
+---Mark 2003-04-10 Washington|Alki
+
+Brant
+---Mark 2003-04-10 Washington|AlkiCondo
+
+Bald Eagle
+Belted Kingfisher
+Horned Grebe
+---Mark 2003-04-11 Washington|Deception Pass, Washington
+
+American Robin
+Black Oystercatcher
+Common Loon
+Double-crested Cormorant
+Hutton's Vireo
+Red-breasted Merganser
+Red-winged Blackbird
+Rufous Hummingbird
+Song Sparrow
+White-crowned Sparrow
+---Mark 2003-04-12 Washington|Whidbey Island, Washington
+
+Great Blue Heron
+Killdeer
+---Mark 2003-04-13 Washington|Alki
+
+Bonaparte's Gull
+Horned Grebe
+Killdeer
+Red-necked Grebe
+Western Grebe
+White-crowned Sparrow
+---Mark 2003-04-13 Washington|AlkiCondo
+
+Bald Eagle
+Bewick's Wren
+---Mark 2003-04-16 Washington|Discovery Park
+
+American Goldfinch
+American Wigeon
+Belted Kingfisher
+Black-capped Chickadee
+Brant
+Bufflehead
+Dark-eyed Junco
+Double-crested Cormorant
+Fox Sparrow
+Lesser Scaup
+Osprey
+Pileated Woodpecker
+Red-necked Grebe
+Red-tailed Hawk
+Red-winged Blackbird
+Savannah Sparrow
+Spotted Towhee
+Western Grebe
+White-crowned Sparrow
+Yellow-rumped Warbler
+duck sp.
+---Mark 2003-04-17 Washington|Alki
+
+Brant
+Bufflehead
+Red-breasted Merganser
+---Mark 2003-04-17 Washington|AlkiCondo
+
+Bald Eagle
+---Mark 2003-04-17 Washington|Schmitz Park, Alki
+
+Pileated Woodpecker
+---Mark 2003-04-18 Washington|Alki
+
+Killdeer
+Pigeon Guillemot
+Red-necked Grebe
+---Mark 2003-04-21 Washington|AlkiCondo
+
+Osprey
+---Mark 2003-04-22 Washington|AlkiCondo
+
+Killdeer
+---Mark 2003-04-23 Washington|AlkiCondo
+
+Common Loon
+Horned Grebe
+---Mark 2003-04-26 Washington|Everett, Washington
+
+Great Blue Heron
+---Mark 2003-04-26 Washington|Heimar Pk, Washington
+
+American Wigeon
+Bufflehead
+---Mark 2003-04-26 Washington|North Creek Park, Mill Creek, Washington
+
+American Robin
+Marsh Wren
+Red-winged Blackbird
+Savannah Sparrow
+Song Sparrow
+Violet-green Swallow
+Yellow-rumped Warbler
+---Mark 2003-04-26 Washington|Spencer Island, Washington
+
+American Goldfinch
+Barn Swallow
+Belted Kingfisher
+Black-capped Chickadee
+Bushtit
+Canada Goose
+Common Merganser
+European Starling
+House Finch
+Mallard
+Marsh Wren
+Northern Harrier
+Osprey
+Red-tailed Hawk
+Red-winged Blackbird
+White-crowned Sparrow

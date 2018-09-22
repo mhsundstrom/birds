@@ -1,0 +1,288 @@
+---Mark 2007-03-18 Oklahoma|Norman; nearby fields, Oklahoma
+
+American Robin
+Black-capped Chickadee
+Blue Jay
+Canada Goose
+Carolina Wren
+Downy Woodpecker
+Eastern Phoebe
+European Starling
+Fox Sparrow
+Great Crested Flycatcher
+House Finch
+Killdeer
+Mallard
+Mute Swan
+Northern Cardinal
+Northern Flicker
+Northern Harrier
+Northern Mockingbird
+Red-bellied Woodpecker
+Red-winged Blackbird
+Western/Eastern Meadowlark
+Yellow-rumped Warbler
+---Mark 2007-03-19 Oklahoma|Oklahoma
+
+American Crow
+American White Pelican
+Canada Goose
+European Starling
+Great-tailed Grackle
+Mourning Dove
+Mute Swan
+Red-winged Blackbird
+Ring-billed Gull
+Rock Pigeon
+Western/Eastern Meadowlark
+---Mark 2007-03-20 New Mexico|Rio Grand Nature, New Mexico
+
+American Coot
+American Crow
+American Kestrel
+Bewick's Wren
+Canada Goose
+Cinnamon Teal
+Downy Woodpecker
+European Starling
+Gadwall
+Greater Scaup
+Green-winged Teal
+House Finch
+Mallard
+Mountain Chickadee
+Mourning Dove
+Northern Flicker
+Northern Harrier
+Northern Shoveler
+Pied-billed Grebe
+Red-winged Blackbird
+Ring-necked Duck
+Rock Wren
+Ruddy Duck
+Spotted Towhee
+White-breasted Nuthatch
+White-crowned Sparrow
+Wood Duck
+---Mark 2007-03-20 New Mexico|Sandia, New Mexico
+
+American Crow
+Common Raven
+Dark-eyed Junco
+Steller's Jay
+---Paul 2007-03-20 New Mexico|Rio Grande Nature Center, Albuquerque
+
+American Coot (Red-shielded)
+American Crow
+American Kestrel
+Bewick's Wren
+Canada Goose
+Cinnamon Teal
+Downy Woodpecker
+European Starling
+Gadwall
+Green-winged Teal
+House Finch
+House Sparrow
+Mallard
+Mountain Chickadee
+Mourning Dove
+Northern Harrier
+Northern Shoveler
+Pied-billed Grebe
+Red-winged Blackbird
+Ring-necked Duck
+Rock Wren
+Ruddy Duck
+White-breasted Nuthatch
+White-crowned Sparrow
+Wood Duck
+---Paul 2007-03-20 New Mexico|Sandia Crest, Albuquerque
+
+Common Raven
+Dark-eyed Junco (Pink-sided)
+Steller's Jay
+---Mark 2007-03-21 New Mexico|Socarro, New Mexico
+
+American Coot
+American Crow
+American Kestrel
+American Robin
+American White Pelican
+American Wigeon
+Barn Swallow
+Black Phoebe
+Black-throated Sparrow
+Brewer's Blackbird
+Bufflehead
+Burrowing Owl
+Canada Goose
+Chihuahuan Raven
+Cinnamon Teal
+Clark's Grebe
+Eurasian Collared-Dove
+European Starling
+Ferruginous Hawk
+Gadwall
+Great Blue Heron
+Great Egret
+Greater Scaup
+Greater Yellowlegs
+Green-winged Teal
+House Finch
+House Sparrow
+Killdeer
+Lesser Goldfinch
+Long-billed Dowitcher
+Mallard
+Marsh Wren
+Mountain Bluebird
+Mourning Dove
+Neotropic Cormorant
+Northern Harrier
+Northern Pintail
+Northern Shoveler
+Pied-billed Grebe
+Red-tailed Hawk
+Red-winged Blackbird
+Redhead
+Ruddy Duck
+Say's Phoebe
+Snow Goose
+Turkey Vulture
+Vermilion Flycatcher
+Western Meadowlark
+White-crowned Sparrow
+Yellow-headed Blackbird
+---Paul 2007-03-21 New Mexico|Bosque del Apache
+
+American Coot (Red-shielded)
+American Crow
+American Kestrel
+American Robin
+American White Pelican
+American Wigeon
+Black Phoebe
+Black-throated Sparrow
+Brewer's Blackbird
+Bufflehead
+Burrowing Owl
+Canada Goose
+Chihuahuan Raven
+Cinnamon Teal
+Clark's Grebe
+Eurasian Collared-Dove
+European Starling
+Ferruginous Hawk
+Gadwall
+Great Blue Heron
+Great Egret
+Greater Scaup
+Greater Yellowlegs
+Green-winged Teal
+House Finch
+House Sparrow
+Killdeer
+Lesser Goldfinch
+Long-billed Dowitcher
+Mallard
+Marsh Wren
+Mountain Bluebird
+Mourning Dove
+Neotropic Cormorant
+Northern Harrier
+Northern Pintail
+Northern Shoveler
+Pied-billed Grebe
+Red-winged Blackbird
+Redhead
+Ring-billed Gull
+Ring-necked Duck
+Ring-necked Pheasant
+Ruddy Duck
+Say's Phoebe
+Snow Goose
+Snowy Egret
+Turkey Vulture
+Vermilion Flycatcher
+Violet-green Swallow
+Western Meadowlark
+White-crowned Sparrow
+White-winged Dove
+Yellow-headed Blackbird
+---Paul 2007-03-21 New Mexico|Sandia Crest
+
+Dark-eyed Junco (Pink-sided)
+---Mark 2007-03-22 New Mexico|Albuquerque, New Mexico
+
+Scaled Quail
+---Mark 2007-03-22 New Mexico|Tijera, New Mexico
+
+American Crow
+American Robin
+Black Phoebe
+Black-throated Sparrow
+Canyon Towhee
+Chipping Sparrow
+Common Raven
+Cooper's Hawk
+Gambel's Quail
+House Finch
+Juniper Titmouse
+Killdeer
+Ladder-backed Woodpecker
+Mallard
+Mountain Chickadee
+Mourning Dove
+Pinyon Jay
+Rock Wren
+Say's Phoebe
+Song Sparrow
+Steller's Jay
+Townsend's Solitaire
+Western Bluebird
+White-crowned Sparrow
+---Paul 2007-03-22 New Mexico|Canyons/Rest areas, Sandia, Albuquerque
+
+American Crow
+American Robin
+Black Phoebe
+Chipping Sparrow
+Common Raven
+Cooper's Hawk
+House Finch
+Juniper Titmouse
+Ladder-backed Woodpecker
+Mountain Chickadee
+Mourning Dove
+Pinyon Jay
+Say's Phoebe
+Steller's Jay
+Townsend's Solitaire
+Western Bluebird
+---Paul 2007-03-22 New Mexico|Linnois' House, Albuquerque
+
+House Finch
+House Sparrow
+Say's Phoebe
+Scaled Quail
+---Paul 2007-03-22 New Mexico|Petroglyph Nat'l Monument, Albuquerque
+
+Black-throated Sparrow
+Chipping Sparrow
+Gambel's Quail
+Rock Wren
+White-crowned Sparrow
+---Paul 2007-03-22 New Mexico|Petroglyphs, Albuquerque
+
+Gambel's Quail
+---Paul 2007-03-22 New Mexico|Rest Area, Sandia, Albuquerque
+
+Townsend's Solitaire
+---Paul 2007-03-22 New Mexico|Sandia, Albuquerque
+
+Juniper Titmouse
+Ladder-backed Woodpecker
+Pinyon Jay
+Rock Wren
+Western Bluebird

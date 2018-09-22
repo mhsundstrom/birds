@@ -1,0 +1,277 @@
+---Paul 2011-03-10 New Mexico|En route
+
+Canada Goose
+Common Raven
+Red-tailed Hawk
+Rock Pigeon
+---Paul 2011-03-11 New Mexico|Embudito Canyon, Albuquerque
+
+Cactus Wren
+Curve-billed Thrasher
+Golden-crowned Sparrow
+Pinyon Jay
+Rufous-crowned Sparrow
+---Paul 2011-03-11 New Mexico|Hwy 14 Pullouts
+
+American Robin
+Chihuahuan Raven
+House Finch
+Northern Flicker (Red-shafted)
+Townsend's Solitaire
+---Paul 2011-03-11 New Mexico|Rio Grande Nature Center, Albuquerque
+
+American Coot (Red-shielded)
+American Robin
+Black Phoebe
+Bufflehead
+Canada Goose
+Dark-eyed Junco (Oregon)
+Gadwall
+Green-winged Teal
+Mallard
+Northern Flicker (Red-shafted)
+Northern Shoveler
+Pied-billed Grebe
+Red-winged Blackbird
+Ring-necked Duck
+White-breasted Nuthatch
+White-crowned Sparrow
+Wood Duck
+---Paul 2011-03-11 New Mexico|Sandia Crest, Albuquerque
+
+Black Rosy-Finch
+Brown-capped Rosy-Finch
+Dark-eyed Junco (Oregon)
+Gray-crowned Rosy-Finch
+Mountain Chickadee
+Red-breasted Nuthatch
+Steller's Jay
+White-breasted Nuthatch
+---Paul 2011-03-11 New Mexico|Sandia Park, Albuquerque
+
+Juniper Titmouse
+Palm Warbler
+Red-breasted Nuthatch
+---Paul 2011-03-12 New Mexico|En route to Portal
+
+American Kestrel
+---Paul 2011-03-12 New Mexico|Percha Dam State Park
+
+Arizona Woodpecker
+Crissal Thrasher
+Dark-eyed Junco (Oregon)
+House Finch
+Lesser Goldfinch
+Phainopepla
+White-winged Dove
+Yellow-rumped Warbler (Audubon's)
+---Paul 2011-03-12 Arizona|Research Station near Portal
+
+Chipping Sparrow
+Dark-eyed Junco (Oregon)
+Say's Phoebe
+---Paul 2011-03-12 New Mexico|Sulfur Canyon Rd., Rodeo
+
+Black-throated Sparrow
+Canada Jay (Rocky Mts.)
+Chestnut-collared Longspur
+---Paul 2011-03-13 Arizona|Herb Martyr, Portal
+
+Montezuma Quail
+Steller's Jay
+---Paul 2011-03-13 Arizona|Herb Martyr, SWRS
+
+Montezuma Quail
+---Paul 2011-03-13 Arizona|Jasper House, Portal
+
+Black-throated Sparrow
+Cassin's Finch
+Crissal Thrasher
+Dark-eyed Junco (Oregon)
+House Finch
+Pyrrhuloxia
+Savannah Sparrow
+Say's Phoebe
+White-crowned Sparrow
+---Paul 2011-03-13 Arizona|Portal
+
+Lesser Goldfinch
+Pyrrhuloxia
+Ruby-crowned Kinglet
+Turkey Vulture
+---Paul 2011-03-13 Arizona|Research Station near Portal
+
+Acorn Woodpecker
+American Robin
+House Wren
+Lesser Goldfinch
+Mexican Jay
+Painted Redstart
+Red Crossbill
+---Paul 2011-03-13 New Mexico|Willow Tank, Rodeo
+
+Bendire's Thrasher
+Mourning Dove
+---Paul 2011-03-14 Arizona|Portal
+
+Acorn Woodpecker
+Black-throated Sparrow
+Cactus Wren
+Curve-billed Thrasher
+Lesser Goldfinch
+Pine Siskin
+Pyrrhuloxia
+Rock Pigeon
+White-crowned Sparrow
+---Paul 2011-03-14 New Mexico|Rodeo
+
+Lark Bunting
+---Paul 2011-03-14 Arizona|San Pedro House
+
+Black-throated Sparrow
+Curve-billed Thrasher
+Gila Woodpecker
+Green-tailed Towhee
+House Finch
+House Sparrow
+Lesser Goldfinch
+Pyrrhuloxia
+Vermilion Flycatcher
+White-crowned Sparrow
+---Paul 2011-03-14 Arizona|Whitewater Draw Wildlife Area
+
+Black Phoebe
+Brown-crested Flycatcher
+Chestnut-collared Longspur
+Cinnamon Teal
+Great Horned Owl
+Greater Yellowlegs
+Green-winged Teal
+Killdeer
+Ladder-backed Woodpecker
+Least Sandpiper
+Loggerhead Shrike
+Long-billed Dowitcher
+Sandhill Crane
+Savannah Sparrow
+Turkey Vulture
+White-crowned Sparrow
+Yellow-rumped Warbler (Audubon's)
+---Paul 2011-03-15 Arizona|Beadie's B&B, Sierra Vista
+
+Anna's Hummingbird
+Mourning Dove
+---Paul 2011-03-15 Arizona|Environmental Operation Park, Sierra Vista
+
+American Coot (Red-shielded)
+Common Grackle
+Gadwall
+Loggerhead Shrike
+Northern Harrier
+Redhead
+Ring-necked Duck
+---Paul 2011-03-15 Arizona|Garden Canyon, Sierra Vista
+
+Mexican Jay
+Say's Phoebe
+---Paul 2011-03-15 Arizona|Portal
+
+Cassin's Finch
+---Paul 2011-03-15 Arizona|San Pedro House
+
+Abert's Towhee
+American Coot (Red-shielded)
+Black Phoebe
+Common Ground-Dove
+Curve-billed Thrasher
+Gila Woodpecker
+Great-tailed Grackle
+Greater Roadrunner
+Green-tailed Towhee
+House Finch
+House Sparrow
+Lesser Goldfinch
+Lincoln's Sparrow
+Mourning Dove
+Northern Shoveler
+Pyrrhuloxia
+Sagebrush Sparrow
+Savannah Sparrow
+Say's Phoebe
+Song Sparrow
+Vermilion Flycatcher
+White-crowned Sparrow
+White-winged Dove
+Yellow-headed Blackbird
+Yellow-rumped Warbler (Audubon's)
+---Paul 2011-03-15 Arizona|San Pedro House, Sierra Vista
+
+Abert's Towhee
+Sagebrush Sparrow
+---Paul 2011-03-15 Arizona|Whitewater Draw Wildlife Area
+
+Brown-crested Flycatcher
+Great Horned Owl
+Red-tailed Hawk
+---Paul 2011-03-16 Arizona|Madera Canyon
+
+Chipping Sparrow
+Dark-eyed Junco (Oregon)
+Lincoln's Sparrow
+Mexican Jay
+Pyrrhuloxia
+Rufous Hummingbird
+White-breasted Nuthatch
+White-crowned Sparrow
+Wild Turkey
+---Paul 2011-03-16 Arizona|Patagonia Lake State Park
+
+American Coot (Red-shielded)
+Bewick's Wren
+Black Phoebe
+Bridled Titmouse
+Cinnamon Teal
+Double-crested Cormorant
+Gadwall
+Great Blue Heron
+House Finch
+Ladder-backed Woodpecker
+Mallard
+Northern Mockingbird
+Phainopepla
+Say's Phoebe
+Turkey Vulture
+Vermilion Flycatcher
+Yellow-rumped Warbler (Audubon's)
+---Paul 2011-03-16 Arizona|Patagonia Lake State Park, Patagonia
+
+Bridled Titmouse
+---Paul 2011-03-16 Arizona|Patagonia Sonoita Preserve, Patagonia
+
+Black-chinned Hummingbird
+Broad-billed Hummingbird
+Northern Cardinal
+Phainopepla
+Pyrrhuloxia
+Rufous Hummingbird
+Western Screech-Owl
+White-crowned Sparrow
+---Paul 2011-03-16 Arizona|Patagonia Sonoita Preserve, Patagonia, AZ
+
+Yellow-rumped Warbler (Audubon's)
+---Paul 2011-03-16 Arizona|Paton House, Patagonia
+
+Bullock's Oriole
+Curve-billed Thrasher
+Gambel's Quail
+Gila Woodpecker
+House Finch
+Lazuli Bunting
+Lesser Goldfinch
+Lincoln's Sparrow
+Northern Cardinal
+Pyrrhuloxia
+Violet-crowned Hummingbird
+White-breasted Nuthatch
+White-crowned Sparrow
+White-winged Dove

@@ -1,0 +1,162 @@
+---Mark 2003-06-01 Ohio|Sharon Woods Metro Park
+
+American Goldfinch
+Baltimore Oriole
+Carolina Chickadee
+Chipping Sparrow
+Common Grackle
+Downy Woodpecker
+Eastern Bluebird
+Northern Cardinal
+Northern Flicker
+Red-eyed Vireo
+Red-winged Blackbird
+Scarlet Tanager
+Tree Swallow
+Tufted Titmouse
+Wood Thrush
+---Mark 2003-06-02 Ohio|Columbus
+
+Northern Mockingbird
+---Paul 2003-06-03 Wyoming|Old Faithful
+
+Mountain Chickadee
+---Mark 2003-06-04 Ohio|Highbanks Metro Park
+
+American Goldfinch
+Blue Jay
+Canada Goose
+Carolina Chickadee
+Carolina Wren
+Downy Woodpecker
+Eastern Towhee
+Eastern Wood-Pewee
+Gray Catbird
+House Finch
+Indigo Bunting
+Mourning Dove
+Pileated Woodpecker
+Red-bellied Woodpecker
+Red-winged Blackbird
+Tree Swallow
+Tufted Titmouse
+White-breasted Nuthatch
+Yellow Warbler
+vireo sp.
+---Mark 2003-06-05 Ohio|Inniswood Metro Gardens, Columbus
+
+Blue-gray Gnatcatcher
+House Wren
+---Mark 2003-06-08 Ohio|Slate Run Metro Park
+
+Red-bellied Woodpecker
+Wood Thrush
+flycatcher sp. (Tyrannidae sp.)
+---Mark 2003-06-09 Ohio|Columbus
+
+Gray Catbird
+---Mark 2003-06-12 Washington|AlkiCondo
+
+Belted Kingfisher
+Caspian Tern
+White-crowned Sparrow
+---Mark 2003-06-15 Washington|Nisqually
+
+American Goldfinch
+American Robin
+Bald Eagle
+Barn Swallow
+Black-capped Chickadee
+Canada Goose
+Caspian Tern
+Cedar Waxwing
+Common Yellowthroat
+European Starling
+Killdeer
+Mallard
+Marsh Wren
+Pied-billed Grebe
+Purple Martin
+Red-winged Blackbird
+Rufous Hummingbird
+Song Sparrow
+Willow Flycatcher
+Wilson's Snipe
+Yellow Warbler
+crow sp.
+gull sp.
+---Paul 2003-06-16 Norway|Bergen
+
+Fieldfare
+White Wagtail
+---Paul 2003-06-17 Norway|Flam
+
+Common Tern
+---Mark 2003-06-18 Washington|AlkiCondo
+
+Bald Eagle
+Belted Kingfisher
+Great Blue Heron
+---Paul 2003-06-18 Norway|Balestrand
+
+Arctic Tern
+Common House-Martin
+Common Redstart
+Common Swift
+Eurasian Blackbird
+Eurasian Magpie
+Eurasian Oystercatcher
+Herring Gull
+Hooded Crow
+House Sparrow
+Mallard
+White Wagtail
+---Paul 2003-06-18 Japan|Balestrand, Norway
+
+Eurasian Oystercatcher
+---Paul 2003-06-19 Norway|Balestrand to Lilehammer
+
+Coal Tit
+Eurasian Magpie
+European Greenfinch
+Fieldfare
+Hooded Crow
+Spotless Starling
+---Mark 2003-06-21 Washington|Discovery Park
+
+American Goldfinch
+Black-capped Chickadee
+Bushtit
+Chestnut-backed Chickadee
+Fox Sparrow
+Northern Flicker
+Savannah Sparrow
+Spotted Towhee
+Violet-green Swallow
+Western Wood-Pewee
+Willow Flycatcher
+---Paul 2003-06-21 Sweden|Uppsala
+
+Common Raven
+Eurasian Jackdaw
+Rook
+---Paul 2003-06-22 Sweden|Uppsala
+
+Eurasian Magpie
+European Stonechat
+---Paul 2003-06-23 Sweden|Uppsala
+
+Common Wood-Pigeon
+---Mark 2003-06-24 Washington|AlkiCondo
+
+Bald Eagle
+Caspian Tern
+---Paul 2003-06-24 Sweden|Uppsala
+
+Common Tern
+Eurasian Blackbird
+Mute Swan
+---Mark 2003-06-30 Washington|AlkiCondo
+
+Bald Eagle
+Osprey

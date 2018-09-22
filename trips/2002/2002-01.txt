@@ -1,0 +1,94 @@
+---Mark 2002-01-01 Canada|Port Alberni
+
+Northern Flicker
+---Mark 2002-01-02 Canada|Nanaimo, British Columbia
+
+Belted Kingfisher
+Bufflehead
+---Mark 2002-01-03 Washington|Alki
+
+Barrow's Goldeneye
+Surf Scoter
+---Mark 2002-01-03 Washington|Seward Park
+
+American Coot
+Barrow's Goldeneye
+Bufflehead
+Common Merganser
+Pacific Wren
+Ring-necked Duck
+---Mark 2002-01-04 Washington|AlkiCondo
+
+wren sp.
+---Mark 2002-01-07 Ohio|Miranova
+
+American Robin
+---Mark 2002-01-08 Ohio|Scioto River, Columbus
+
+Canada Goose
+Dark-eyed Junco
+Mallard
+Northern Cardinal
+Ring-billed Gull
+---Mark 2002-01-10 Ohio|Antrim Lake, Columbus
+
+American Coot
+American Crow
+American Goldfinch
+Belted Kingfisher
+Carolina Chickadee
+Song Sparrow
+Tufted Titmouse
+White-breasted Nuthatch
+White-throated Sparrow
+---Mark 2002-01-11 Ohio|Columbus
+
+Carolina Wren
+European Starling
+---Mark 2002-01-12 Ohio|Blendon Woods Metro Park
+
+American Black Duck
+American Coot
+American Crow
+Canada Goose
+Carolina Chickadee
+Downy Woodpecker
+Eastern Bluebird
+House Sparrow
+Mallard
+Northern Cardinal
+Pileated Woodpecker
+Red-bellied Woodpecker
+Red-tailed Hawk
+Ring-necked Duck
+Tufted Titmouse
+White-breasted Nuthatch
+---Mark 2002-01-13 Ohio|downtown library, Columbus
+
+House Finch
+---Mark 2002-01-16 Ohio|Antrim Lake, Columbus
+
+Carolina Chickadee
+---Mark 2002-01-21 Ohio|Miranova
+
+Great Blue Heron
+---Mark 2002-01-25 Ohio|Miranova
+
+Double-crested Cormorant
+---Mark 2002-01-26 Ohio|Highbanks Metro Park
+
+American Crow
+American Goldfinch
+Canada Goose
+Carolina Chickadee
+Downy Woodpecker
+Eastern Bluebird
+House Finch
+Mallard
+Mourning Dove
+Northern Cardinal
+Red-bellied Woodpecker
+Red-tailed Hawk
+Ring-necked Duck
+Tufted Titmouse
+White-breasted Nuthatch

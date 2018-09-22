@@ -1,0 +1,236 @@
+---Mark 2004-07-01 Canada|Nootka, British Columbia
+
+American Robin
+Bald Eagle
+Black Oystercatcher
+Chestnut-backed Chickadee
+Common Loon
+Fox Sparrow
+Northwestern Crow
+Pacific Wren
+Rufous Hummingbird
+Song Sparrow
+Swainson's Thrush
+---Mark 2004-07-02 Canada|Nootka, British Columbia
+
+Bald Eagle
+Black Oystercatcher
+Fox Sparrow
+Marbled Murrelet
+Pacific Wren
+Song Sparrow
+Swainson's Thrush
+Townsend's Warbler
+---Paul 2004-07-04 Italy|Assissi
+
+Eurasian Hoopoe
+---Paul 2004-07-05 Italy|Parma
+
+Eurasian Jay
+---Mark 2004-07-08 Washington|AlkiCondo
+
+Barn Swallow
+Great Blue Heron
+---Mark 2004-07-09 Washington|AlkiCondo
+
+Bald Eagle
+Great Blue Heron
+---Mark 2004-07-09 Washington|AlkiEast, Alki
+
+Canada Goose
+House Sparrow
+Purple Martin
+White-crowned Sparrow
+---Mark 2004-07-12 Washington|AlkiCondo
+
+Bald Eagle
+Osprey
+---Mark 2004-07-13 Washington|Alki
+
+White-crowned Sparrow
+---Mark 2004-07-13 Washington|AlkiCondo
+
+Bald Eagle
+Caspian Tern
+Great Blue Heron
+---Mark 2004-07-14 Washington|Alki
+
+Great Blue Heron
+Osprey
+Purple Martin
+---Mark 2004-07-14 Washington|AlkiCondo
+
+Barn Swallow
+Great Blue Heron
+Osprey
+---Mark 2004-07-15 Washington|Alki
+
+Osprey
+---Mark 2004-07-15 Washington|AlkiCondo
+
+Northern Flicker
+White-crowned Sparrow
+---Mark 2004-07-16 Washington|AlkiCondo
+
+Bald Eagle
+Canada Goose
+Osprey
+---Mark 2004-07-18 Washington|Alki
+
+Purple Martin
+---Mark 2004-07-19 Washington|AlkiCondo
+
+Canada Goose
+Caspian Tern
+Great Blue Heron
+Osprey
+---Mark 2004-07-19 Washington|Ballard, Seattle
+
+American Robin
+Barn Swallow
+Belted Kingfisher
+Black-capped Chickadee
+Canada Goose
+Downy Woodpecker
+European Starling
+Great Blue Heron
+Rock Pigeon
+Swainson's Thrush
+crow sp.
+---Mark 2004-07-20 Washington|Mt Rainier, Washington
+
+Common Raven
+Dark-eyed Junco
+Gray-crowned Rosy-Finch
+Sooty Grouse
+Steller's Jay
+Varied Thrush
+---Paul 2004-07-20 Italy|Isola Bela
+
+Italian Sparrow
+---Mark 2004-07-21 Washington|Alki
+
+American Goldfinch
+---Mark 2004-07-21 Washington|AlkiCondo
+
+Bald Eagle
+Canada Goose
+Osprey
+---Mark 2004-07-23 Washington|Alki
+
+Bald Eagle
+Purple Martin
+---Mark 2004-07-23 Washington|AlkiCondo
+
+Barn Swallow
+Canada Goose
+Osprey
+---Mark 2004-07-25 Washington|AlkiCondo
+
+Bald Eagle
+Double-crested Cormorant
+Osprey
+Pigeon Guillemot
+---Mark 2004-07-25 Washington|Green Lake, Seattle
+
+Pied-billed Grebe
+---Mark 2004-07-26 Washington|AlkiCondo
+
+Bald Eagle
+Caspian Tern
+Osprey
+Rock Pigeon
+---Mark 2004-07-27 Washington|Alki
+
+White-crowned Sparrow
+---Mark 2004-07-27 Washington|AlkiCondo
+
+Bald Eagle
+Barn Swallow
+Caspian Tern
+Great Blue Heron
+Osprey
+Spotted Towhee
+---Mark 2004-07-28 Washington|AlkiCondo
+
+Bald Eagle
+Black-capped Chickadee
+Canada Goose
+Caspian Tern
+Great Blue Heron
+Marbled Murrelet
+Osprey
+Pigeon Guillemot
+---Mark 2004-07-29 Washington|AlkiCondo
+
+Bald Eagle
+Caspian Tern
+Great Blue Heron
+Osprey
+Rock Pigeon
+crow sp.
+---Mark 2004-07-29 Washington|Jack Block Park, Alki
+
+Belted Kingfisher
+Purple Martin
+---Mark 2004-07-29 Washington|Juanita Bay, Seattle
+
+American Coot
+Barn Swallow
+Belted Kingfisher
+Canada Goose
+Great Blue Heron
+Mallard
+Osprey
+Pied-billed Grebe
+Violet-green Swallow
+Wood Duck
+---Mark 2004-07-29 Washington|Marymoor Park
+
+Black-capped Chickadee
+Bushtit
+Great Blue Heron
+House Sparrow
+Osprey
+Red-eyed Vireo
+Western Wood-Pewee
+crow sp.
+---Mark 2004-07-29 Washington|West, Marymoor Park
+
+American Goldfinch
+American Robin
+Bewick's Wren
+Black-capped Chickadee
+Green Heron
+House Finch
+Mallard
+Violet-green Swallow
+Willow Flycatcher
+---Paul 2004-07-29 Washington|Alki, Seattle
+
+Caspian Tern
+Marbled Murrelet
+---Paul 2004-07-29 Washington|Marymoor, Seattle
+
+Western Wood-Pewee
+Willow Flycatcher
+---Mark 2004-07-30 Washington|AlkiCondo
+
+Bald Eagle
+Caspian Tern
+Osprey
+---Mark 2004-07-30 Washington|Schmitz Park, Alki
+
+American Robin
+Black-capped Chickadee
+Brown Creeper
+Northern Flicker
+Spotted Towhee
+Steller's Jay
+White-breasted Nuthatch
+---Mark 2004-07-31 Washington|AlkiCondo
+
+Barn Swallow
+Canada Goose
+Caspian Tern
+Osprey

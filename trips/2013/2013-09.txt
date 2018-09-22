@@ -1,0 +1,412 @@
+---Mark 2013-09-01 Wyoming|I-80, Wyoming
+
+Common Raven
+---Mark 2013-09-01 Idaho|Montpelier, Idaho
+
+Black-billed Magpie
+Black-capped Chickadee
+---Mark 2013-09-01 Idaho|US-30, Idaho
+
+Mourning Dove
+---Mark 2013-09-01 Wyoming|US-30, Wyoming
+
+Black-billed Magpie
+---Mark 2013-09-02 Colorado|CO-125, Colorado
+
+American Crow
+Black-billed Magpie
+---Mark 2013-09-02 Wyoming|I-80, Wyoming
+
+American Crow
+---Mark 2013-09-02 Wyoming|WY-130, Wyoming
+
+Black-billed Magpie
+---Mark 2013-09-02 Colorado|Windy Gap, Colorado River, US-40, Colorado
+
+American White Pelican
+Canada Goose
+---Mark 2013-09-07 California|Chula Vista, San Diego
+
+Osprey
+Snowy Egret
+---Mark 2013-09-08 California|Chula Vista, San Diego
+
+American Crow
+Black-chinned Hummingbird
+California Gull
+Eurasian Collared-Dove
+Great Blue Heron
+Long-billed Curlew
+Mallard
+Marbled Godwit
+Rock Pigeon
+Short-billed/Long-billed Dowitcher
+gull sp.
+tern sp.
+---Paul 2013-09-11 California|Big Sur
+
+California Condor
+Western Meadowlark
+---Paul 2013-09-11 California|California Specialities
+
+Acorn Woodpecker
+American White Pelican
+Bald Eagle
+Barn Swallow
+California Scrub-Jay
+California Thrasher
+Canada Goose
+Canyon Wren
+Golden Eagle
+Greater Roadrunner
+Hairy Woodpecker
+Loggerhead Shrike
+Northern Harrier
+Nuttall's Woodpecker
+Red-tailed Hawk
+Rufous-crowned Sparrow
+Steller's Jay
+Wilson's Warbler
+---Paul 2013-09-11 California|California Specialities, Watsonville
+
+California Towhee
+---Paul 2013-09-11 California|Moonglow Dairy, Watsonville
+
+American Goldfinch
+Blue-winged Teal
+Brewer's Blackbird
+Brown-headed Cowbird
+Cinnamon Teal
+Eurasian Collared-Dove
+European Starling
+Northern Pintail
+Northern Shoveler
+Pectoral Sandpiper
+Red-necked Phalarope
+Red-winged Blackbird (California Bicolored)
+Semipalmated Sandpiper
+Tricolored Blackbird
+White-tailed Kite
+---Paul 2013-09-11 California|Moss landing
+
+American Avocet
+Black-necked Stilt
+Brandt's Cormorant
+Brown Pelican (California)
+Common Merganser
+Common Tern
+Double-crested Cormorant
+Elegant Tern
+Forster's Tern
+Heermann's Gull
+Mallard
+Marbled Godwit
+Western Gull
+Whimbrel
+---Paul 2013-09-11 California|Natural Bridges St. Park, Santa Cruz
+
+American Crow
+Anna's Hummingbird
+Bewick's Wren
+Black Oystercatcher
+Black Turnstone
+Black-bellied Plover
+Black-headed Grosbeak
+Common Raven
+Dark-eyed Junco (Oregon)
+Downy Woodpecker
+Mourning Dove
+Northern Mockingbird
+Oak Titmouse
+Pygmy Nuthatch
+Semipalmated Plover
+Surfbird
+Townsend's Warbler
+White-breasted Nuthatch
+Yellow Warbler
+---Paul 2013-09-11 California|Pelagic Trip, Monterey
+
+Black-footed Albatross
+Buller's Shearwater
+California Gull
+Cassin's Auklet
+Common Murre
+Parasitic Jaeger
+Pelagic Cormorant
+Pigeon Guillemot
+Pink-footed Shearwater
+Pomarine Jaeger
+Rhinoceros Auklet
+Sooty Shearwater
+---Paul 2013-09-11 California|Pelican Point, Pajaro Dunes, Watsonville
+
+American Kestrel
+American Robin
+Black Phoebe
+Black-crowned Night-Heron
+Common Loon
+Eared Grebe
+Great Blue Heron
+Great Egret
+House Finch
+House Sparrow
+House Wren
+Killdeer
+Least Sandpiper
+Lesser Yellowlegs
+Lincoln's Sparrow
+Long-billed Curlew
+Peregrine Falcon
+Red-shouldered Hawk
+Red-throated Loon
+Rock Pigeon
+Sanderling
+Say's Phoebe
+Short-billed Dowitcher
+Snowy Egret
+Snowy Plover
+Turkey Vulture
+Western Sandpiper
+White-crowned Sparrow
+Willet
+---Paul 2013-09-11 California|Pinnacles Nat’l Park
+
+California Quail
+Lesser Goldfinch
+Wild Turkey
+Yellow-billed Magpie
+---Paul 2013-09-11 California|Rancho del Oso, Santa Cruz
+
+American Coot (Red-shielded)
+Belted Kingfisher
+Bushtit
+California Towhee
+Chestnut-backed Chickadee
+Common Yellowthroat
+Hutton's Vireo
+Lark Sparrow
+Pacific Wren
+Pacific-slope Flycatcher
+Pied-billed Grebe
+Purple Finch
+Ring-billed Gull
+Song Sparrow
+Swainson's Thrush
+Vaux's Swift
+Violet-green Swallow
+Warbling Vireo
+Western Bluebird
+Western Tanager
+Willow Flycatcher
+Wrentit
+---Paul 2013-09-12 California|California Specialities, Watsonville
+
+California Thrasher
+Nuttall's Woodpecker
+---Paul 2013-09-12 California|California Specialties, Watsonville
+
+Red-winged Blackbird (California Bicolored)
+---Paul 2013-09-12 California|Moonglow Dairy, Watsonville
+
+Tricolored Blackbird
+---Paul 2013-09-12 California|Moss landing
+
+Elegant Tern
+---Mark 2013-09-13 California|Chula Vista, San Diego
+
+Black Phoebe
+Great Blue Heron
+Great Egret
+Mallard
+Snowy Egret
+Spotted Sandpiper
+---Mark 2013-09-13 California|Mission Bay, San Diego
+
+American Kestrel
+Belted Kingfisher
+---Mark 2013-09-13 California|Mission Beach, San Diego
+
+Brown Pelican
+Heermann's Gull
+---Mark 2013-09-13 California|San Diego River, San Diego
+
+Great Blue Heron
+Greater/Lesser Yellowlegs
+Little Blue Heron
+Long-billed Curlew
+Snowy Egret
+---Paul 2013-09-13 California|Rancho del Oso, Santa Cruz
+
+California Towhee
+Pacific Wren
+Pacific-slope Flycatcher
+Wrentit
+---Paul 2013-09-14 California|Natural Bridges St. Park, Santa Cruz
+
+Surfbird
+---Paul 2013-09-14 California|Rancho del Oso, Santa Cruz
+
+Vaux's Swift
+---Paul 2013-09-15 California|Pelagic Trip, Monterey
+
+Buller's Shearwater
+Cassin's Auklet
+Common Murre
+Pink-footed Shearwater
+Pomarine Jaeger
+Rhinoceros Auklet
+Sooty Shearwater
+---Paul 2013-09-15 California|Pelican Point, Watsonville
+
+Belted Kingfisher
+Brown Pelican (California)
+California Gull
+Common Loon
+Common Murre
+Eared Grebe
+Elegant Tern
+Heermann's Gull
+House Finch
+Long-billed Curlew
+Marbled Godwit
+Peregrine Falcon
+Pink-footed Shearwater
+Purple Finch
+Red-throated Loon
+Semipalmated Plover
+Snowy Plover
+Sooty Shearwater
+Western Gull
+White-crowned Sparrow
+---Paul 2013-09-16 California|Big Sur
+
+California Condor
+---Paul 2013-09-16 California|Pinnacles Nat’l Park
+
+California Quail
+Yellow-billed Magpie
+---Paul 2013-09-20 Texas|Heard Wildlife Sanctuary, Fairview
+
+American Crow
+Barn Swallow
+Brown-headed Cowbird
+Carolina Chickadee
+Cattle Egret
+Great Blue Heron
+Great Egret
+House Finch
+Lark Sparrow
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Tufted Titmouse
+Turkey Vulture
+---Paul 2013-09-20 Texas|Heritage Ranch, Fairview
+
+Carolina Chickadee
+Downy Woodpecker
+Tufted Titmouse
+White-eyed Vireo
+White-winged Dove
+---Mark 2013-09-21 Ohio|Miranova
+
+Double-crested Cormorant
+---Mark 2013-09-21 Ohio|Scioto Audubon Metro Park
+
+American Robin
+Canada Goose
+Carolina Wren
+Double-crested Cormorant
+European Starling
+Gray Catbird
+Killdeer
+Mallard
+Northern Flicker
+---Mark 2013-09-22 Ohio|Highbanks Metro Park
+
+American Crow
+American Goldfinch
+American Robin
+Blue Jay
+Carolina Chickadee
+Carolina Wren
+Downy Woodpecker
+Eastern Bluebird
+European Starling
+Gray Catbird
+Northern Cardinal
+Red-bellied Woodpecker
+Tufted Titmouse
+White-breasted Nuthatch
+Yellow Warbler
+---Mark 2013-09-23 Ohio|Miranova
+
+Double-crested Cormorant
+Mallard
+Turkey Vulture
+---Paul 2013-09-23 Texas|Heard Wildlife Sanctuary, Fairview
+
+American Crow
+Belted Kingfisher
+Blue Jay
+Carolina Chickadee
+Cattle Egret
+Common Grackle
+Downy Woodpecker
+Eastern Bluebird
+Great Blue Heron
+Great Egret
+Indigo Bunting
+Little Blue Heron
+Mississippi Kite
+Northern Cardinal
+Painted Bunting
+Pied-billed Grebe
+Prothonotary Warbler
+Red-bellied Woodpecker
+Tree Swallow
+Tufted Titmouse
+Turkey Vulture
+White-eyed Vireo
+Wood Duck
+Yellow-crowned Night-Heron
+---Mark 2013-09-24 Ohio|Miranova
+
+Black-crowned Night-Heron
+Canada Goose
+Double-crested Cormorant
+Great Blue Heron
+Mallard
+Ring-billed Gull
+---Paul 2013-09-25 Texas|Heritage Ranch, Fairview
+
+American Crow
+Barn Swallow
+Brown-headed Cowbird
+Carolina Chickadee
+Cattle Egret
+Great Blue Heron
+Great Egret
+House Finch
+Lark Sparrow
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Tufted Titmouse
+Turkey Vulture
+---Mark 2013-09-26 Pennsylvania|Trough Creek State Park, Pennsylvania
+
+Pileated Woodpecker
+Turkey Vulture
+---Mark 2013-09-27 Pennsylvania|Big Rock Rd, Lakeville
+
+White-breasted Nuthatch
+---Mark 2013-09-29 Pennsylvania|Lake house, Pennsylvania
+
+Hairy Woodpecker
+---Mark 2013-09-30 Pennsylvania|Lake house, Pennsylvania
+
+Carolina Wren
+Dark-eyed Junco
+Double-crested Cormorant
+Red-tailed Hawk

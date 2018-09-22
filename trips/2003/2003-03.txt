@@ -1,0 +1,172 @@
+---Mark 2003-03-01 Idaho|Boise, along river, Idaho
+
+Belted Kingfisher
+Black-billed Magpie
+Canada Goose
+Common Raven
+Great Blue Heron
+Mallard
+Red-winged Blackbird
+Wood Duck
+---Mark 2003-03-03 Kansas|I-70,central, Kansas
+
+Great-tailed Grackle
+---Mark 2003-03-06 Ohio|Columbus
+
+American Robin
+House Finch
+House Sparrow
+Northern Cardinal
+---Mark 2003-03-08 Ohio|Columbus
+
+House Sparrow
+---Mark 2003-03-08 Ohio|Miranova
+
+Mourning Dove
+Song Sparrow
+---Mark 2003-03-08 Ohio|Three Creeks Metro Park, Columbus
+
+American Crow
+Canada Goose
+Carolina Chickadee
+Downy Woodpecker
+Eastern Meadowlark
+Northern Cardinal
+Red-bellied Woodpecker
+Tufted Titmouse
+White-breasted Nuthatch
+---Mark 2003-03-12 Washington|Alki
+
+Barrow's Goldeneye
+Belted Kingfisher
+Bufflehead
+Double-crested Cormorant
+Red-breasted Merganser
+---Mark 2003-03-13 Washington|AlkiCondo
+
+Belted Kingfisher
+---Mark 2003-03-14 Washington|AlkiCondo
+
+House Finch
+---Mark 2003-03-14 Washington|Discovery Park
+
+American Robin
+American Wigeon
+Bald Eagle
+Barrow's Goldeneye
+Bewick's Wren
+Black-capped Chickadee
+Bufflehead
+Bushtit
+Double-crested Cormorant
+Fox Sparrow
+Greater Scaup
+Horned Grebe
+House Finch
+Hutton's Vireo
+Mallard
+Northern Flicker
+Northern Shrike
+Northwestern Crow
+Pileated Woodpecker
+Red-tailed Hawk
+Red-winged Blackbird
+Ruby-crowned Kinglet
+Song Sparrow
+Spotted Towhee
+Turkey Vulture
+Western Grebe
+gull sp.
+---Paul 2003-03-14 Washington|Discovery Park, Seattle
+
+American Wigeon
+Bushtit
+Fox Sparrow (Sooty)
+Greater Scaup
+Horned Grebe
+Hutton's Vireo
+Northern Shrike
+Pied-billed Grebe
+Pileated Woodpecker
+Song Sparrow
+Spotted Towhee (oregonus Group)
+Western Grebe
+---Paul 2003-03-14 Washington|Seward Park, Seattle
+
+Chestnut-backed Chickadee
+---Mark 2003-03-15 Washington|AlkiCondo
+
+Bald Eagle
+---Mark 2003-03-16 Washington|Alki
+
+Yellow Warbler
+---Mark 2003-03-17 Washington|Seward Park
+
+American Wigeon
+Bald Eagle
+Bufflehead
+Chestnut-backed Chickadee
+Common Merganser
+Double-crested Cormorant
+Fox Sparrow
+Golden-crowned Kinglet
+Greater Scaup
+Northern Flicker
+Pied-billed Grebe
+vireo sp.
+---Mark 2003-03-18 Washington|Alki
+
+Bald Eagle
+Barrow's Goldeneye
+Belted Kingfisher
+Common Goldeneye
+Pigeon Guillemot
+---Mark 2003-03-24 Washington|Alki
+
+Bald Eagle
+Belted Kingfisher
+Brant
+Bufflehead
+Surf Scoter
+---Mark 2003-03-25 Washington|AlkiCondo
+
+Bald Eagle
+House Finch
+Northern Flicker
+---Paul 2003-03-25 Oklahoma|Norman
+
+House Finch
+---Mark 2003-03-27 Washington|Alki
+
+American Robin
+Bald Eagle
+Barrow's Goldeneye
+Belted Kingfisher
+Common Goldeneye
+Double-crested Cormorant
+Pigeon Guillemot
+Red-breasted Merganser
+---Mark 2003-03-28 Washington|AlkiCondo
+
+Surf Scoter
+---Mark 2003-03-29 Washington|Discovery Park
+
+American Wigeon
+Bald Eagle
+Belted Kingfisher
+Bewick's Wren
+Black-capped Chickadee
+Bufflehead
+Killdeer
+Red-winged Blackbird
+Spotted Towhee
+Steller's Jay
+Western Grebe
+White-winged Scoter
+Yellow-rumped Warbler
+---Mark 2003-03-30 Washington|AlkiCondo
+
+Northern Flicker
+---Mark 2003-03-31 Washington|Alki
+
+Brant

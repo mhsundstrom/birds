@@ -1,0 +1,377 @@
+---Mark 2004-03-02 Washington|Cedar River/Coulon Park, Seattle
+
+American Coot
+American Robin
+Bufflehead
+Double-crested Cormorant
+Red-winged Blackbird
+gull sp.
+---Mark 2004-03-02 Washington|Marymoor Park
+
+American Coot
+American Robin
+Black-capped Chickadee
+Fox Sparrow
+Gadwall
+Great Blue Heron
+House Finch
+Mallard
+Pied-billed Grebe
+Red-tailed Hawk
+Spotted Towhee
+Steller's Jay
+gull sp.
+sparrow sp.
+wren sp.
+---Mark 2004-03-06 Washington|Alki
+
+American Robin
+Barrow's Goldeneye
+Black-capped Chickadee
+Brant
+Brown Creeper
+Bufflehead
+Bushtit
+European Starling
+Fox Sparrow
+Golden-crowned Kinglet
+Great Blue Heron
+Horned Grebe
+Hutton's Vireo
+Northern Flicker
+Pacific Wren
+Rock Pigeon
+Ruby-crowned Kinglet
+Spotted Towhee
+Steller's Jay
+Surf Scoter
+Varied Thrush
+White-breasted Nuthatch
+crow sp.
+gull sp.
+hummingbird sp.
+---Mark 2004-03-06 Washington|AlkiCondo
+
+Bald Eagle
+House Finch
+woodpecker sp.
+---Mark 2004-03-08 Washington|AlkiCondo
+
+Bald Eagle
+---Mark 2004-03-12 Washington|Alki
+
+Belted Kingfisher
+Bufflehead
+Double-crested Cormorant
+---Mark 2004-03-12 Washington|AlkiCondo
+
+Barrow's Goldeneye
+Bufflehead
+Double-crested Cormorant
+Great Blue Heron
+Surf Scoter
+---Mark 2004-03-13 Washington|AlkiCondo
+
+Canada Goose
+Great Blue Heron
+---Mark 2004-03-15 Washington|Seattle
+
+American Coot
+American Robin
+American Wigeon
+Black-capped Chickadee
+Canada Goose
+Common Merganser
+Double-crested Cormorant
+European Starling
+Gadwall
+Lesser Scaup
+Mallard
+Northern Shoveler
+Pied-billed Grebe
+Red-winged Blackbird
+Ring-necked Duck
+crow sp.
+gull sp.
+---Mark 2004-03-17 Washington|Alki
+
+Barrow's Goldeneye
+Brant
+Double-crested Cormorant
+Harlequin Duck
+Red-breasted Merganser
+Surf Scoter
+---Paul 2004-03-17 Washington|Alki, Edmonds Pier
+
+Brant (Black)
+---Paul 2004-03-17 Washington|Seattle
+
+Red-breasted Merganser
+Surf Scoter
+---Mark 2004-03-18 Washington|AlkiCondo
+
+Belted Kingfisher
+---Mark 2004-03-18 Washington|Juanita Bay, Seattle
+
+American Coot
+American Robin
+Bald Eagle
+Bufflehead
+Double-crested Cormorant
+Fox Sparrow
+Great Blue Heron
+Green-winged Teal
+Hairy Woodpecker
+Lesser Scaup
+Marsh Wren
+Northern Flicker
+Pied-billed Grebe
+Red-winged Blackbird
+Ruby-crowned Kinglet
+Spotted Towhee
+Violet-green Swallow
+---Mark 2004-03-18 Washington|Marymoor Park
+
+American Coot
+American Robin
+Bewick's Wren
+Black-capped Chickadee
+Bufflehead
+Dark-eyed Junco
+Downy Woodpecker
+European Starling
+Gadwall
+Golden-crowned Kinglet
+Mallard
+Pied-billed Grebe
+Red-winged Blackbird
+Violet-green Swallow
+crow sp.
+---Mark 2004-03-18 Washington|Medina Park, Seattle
+
+American Coot
+American Goldfinch
+American Robin
+American Wigeon
+Black-capped Chickadee
+Canada Goose
+Double-crested Cormorant
+Downy Woodpecker
+Eurasian Wigeon
+European Starling
+Gadwall
+Great Blue Heron
+Green-winged Teal
+Mallard
+Northern Shoveler
+Red-winged Blackbird
+crow sp.
+---Paul 2004-03-18 Texas|Denton
+
+Lesser Goldfinch
+---Paul 2004-03-18 Washington|Juanita Bay
+
+Marsh Wren
+---Paul 2004-03-18 Washington|Marymoor, Seattle
+
+Dark-eyed Junco (Oregon)
+Gadwall
+---Paul 2004-03-18 Washington|Medina Park, Seattle
+
+Eurasian Wigeon
+---Paul 2004-03-18 Idaho|Moscow
+
+Black-billed Magpie
+---Mark 2004-03-19 Washington|Edmonds Marsh and Pier, Seattle
+
+American Goldfinch
+Bald Eagle
+Belted Kingfisher
+Bewick's Wren
+Black-capped Chickadee
+Brant
+Bushtit
+Canada Goose
+Double-crested Cormorant
+European Starling
+Fox Sparrow
+Great Blue Heron
+Green-winged Teal
+Horned Grebe
+House Finch
+House Sparrow
+Killdeer
+Lesser Scaup
+Mallard
+Pelagic Cormorant
+Red-breasted Merganser
+Red-necked Grebe
+Red-tailed Hawk
+Red-winged Blackbird
+crow sp.
+gull sp.
+---Mark 2004-03-19 Washington|Green Lake, Seattle
+
+American Coot
+American Wigeon
+Bufflehead
+Common Goldeneye
+Common Merganser
+Eurasian Wigeon
+Pied-billed Grebe
+Violet-green Swallow
+---Paul 2004-03-19 Washington|Edmonds Pier
+
+Pelagic Cormorant
+---Paul 2004-03-19 Washington|Greenlake, Seattle
+
+American Coot (Red-shielded)
+---Mark 2004-03-21 Washington|Alki
+
+Brant
+Bufflehead
+Common Goldeneye
+Killdeer
+---Mark 2004-03-27 Washington|Marymoor Park
+
+Fox Sparrow
+Golden-crowned Kinglet
+Marsh Wren
+Northern Flicker
+Northern Shrike
+Red-tailed Hawk
+Ruby-crowned Kinglet
+Song Sparrow
+Spotted Towhee
+Violet-green Swallow
+crow sp.
+---Mark 2004-03-27 Washington|Medina Park, Seattle
+
+American Coot
+American Robin
+American Wigeon
+Bufflehead
+Canada Goose
+Fox Sparrow
+Great Blue Heron
+Green Heron
+Lesser Scaup
+Mallard
+Red-winged Blackbird
+crow sp.
+---Mark 2004-03-27 Washington|West, Marymoor Park
+
+American Robin
+Bewick's Wren
+Black-capped Chickadee
+Bufflehead
+Bushtit
+Fox Sparrow
+Lesser Scaup
+Marsh Wren
+Red-winged Blackbird
+Spotted Towhee
+Steller's Jay
+Wood Duck
+---Paul 2004-03-28 Oklahoma|Norman
+
+Purple Martin
+---Mark 2004-03-29 Washington|AlkiCondo
+
+Bald Eagle
+---Mark 2004-03-29 Washington|Seward Park
+
+American Coot
+American Robin
+Bewick's Wren
+Black-capped Chickadee
+Brown Creeper
+Bufflehead
+Bushtit
+Canada Goose
+Chestnut-backed Chickadee
+Common Merganser
+Double-crested Cormorant
+Fox Sparrow
+Golden-crowned Kinglet
+House Finch
+Lesser Scaup
+Mallard
+Northern Flicker
+Pacific Wren
+Pied-billed Grebe
+Pileated Woodpecker
+Red-necked Grebe
+Ring-necked Duck
+Spotted Towhee
+Steller's Jay
+Western Grebe
+White-breasted Nuthatch
+crow sp.
+gull sp.
+---Mark 2004-03-30 Washington|Alki
+
+Brant
+Bufflehead
+---Mark 2004-03-30 Washington|AlkiCondo
+
+Bald Eagle
+Barrow's Goldeneye
+Belted Kingfisher
+Double-crested Cormorant
+Horned Grebe
+Red-necked Grebe
+Surf Scoter
+Western Gull
+---Mark 2004-03-31 Washington|Alki
+
+Barrow's Goldeneye
+White-crowned Sparrow
+---Paul 2004-03-31 Oklahoma|Ardmore
+
+American Kestrel
+Black Vulture
+---Paul 2004-03-31 Oklahoma|Cambridge Lake, Norman
+
+Cackling Goose
+Double-crested Cormorant
+Great Egret
+Great-tailed Grackle
+Red-winged Blackbird
+---Paul 2004-03-31 Oklahoma|Cambridge, Norman
+
+Double-crested Cormorant
+---Paul 2004-03-31 Oklahoma|Mileage marker 47
+
+Turkey Vulture
+---Paul 2004-03-31 Oklahoma|Mileage marker 67
+
+Rock Pigeon
+---Paul 2004-03-31 Oklahoma|Mileage marker 73
+
+Great Blue Heron
+---Paul 2004-03-31 Oklahoma|Mileage marker 73, I-35
+
+Great Blue Heron
+---Paul 2004-03-31 Oklahoma|Mileage marker 84
+
+Red-tailed Hawk
+---Paul 2004-03-31 Oklahoma|Norman
+
+American Robin
+Brown-headed Cowbird
+European Starling
+House Sparrow
+Mourning Dove
+Northern Mockingbird
+---Paul 2004-03-31 Oklahoma|Tishomingo NWR
+
+American Coot (Red-shielded)
+Blue-winged Teal
+Carolina Chickadee
+Eastern Bluebird
+Eastern Phoebe
+Great Blue Heron
+Great Egret
+Lark Sparrow
+Northern Shoveler

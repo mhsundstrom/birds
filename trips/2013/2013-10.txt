@@ -1,0 +1,135 @@
+---Mark 2013-10-01 Pennsylvania|Lake house, Pennsylvania
+
+American Crow
+Black-capped Chickadee
+Blue Jay
+Canada Goose
+Downy Woodpecker
+Mallard
+White-breasted Nuthatch
+---Mark 2013-10-02 Pennsylvania|Lake house, Pennsylvania
+
+Bald Eagle
+---Mark 2013-10-03 Connecticut|Bluff Point State Park, Connecticut
+
+American Crow
+American Robin
+Black-capped Chickadee
+Blue Jay
+Canada Goose
+Carolina Wren
+Double-crested Cormorant
+Downy Woodpecker
+Eastern Phoebe
+Eastern Towhee
+Gray Catbird
+Great Egret
+Ring-billed Gull
+Sharp-shinned Hawk
+Tufted Titmouse
+Yellow-rumped Warbler
+sparrow sp.
+---Mark 2013-10-06 New Hampshire|Lebanon, New Hampshire
+
+Pileated Woodpecker
+---Mark 2013-10-07 New Hampshire|Lebanon, New Hampshire
+
+American Goldfinch
+Black-capped Chickadee
+Canada Goose
+Downy Woodpecker
+Gray Catbird
+---Mark 2013-10-08 Vermont|Herrick Pond, Vermont
+
+Belted Kingfisher
+Black-capped Chickadee
+Blue Jay
+Greater Yellowlegs
+Indigo Bunting
+Northern Flicker
+Pileated Woodpecker
+Song Sparrow
+Wild Turkey
+---Mark 2013-10-08 Vermont|Woodford State Park, Vermont
+
+Blue Jay
+Dark-eyed Junco
+Eastern Phoebe
+Northern Flicker
+White-breasted Nuthatch
+---Mark 2013-10-10 New York|Plattekill KOA campground, New York
+
+Barred Owl
+Carolina Wren
+---Mark 2013-10-12 Pennsylvania|Archbald
+
+Eastern Bluebird
+---Mark 2013-10-16 Ohio|Miranova
+
+Double-crested Cormorant
+Great Blue Heron
+---Mark 2013-10-16 Ohio|Scioto River, Columbus
+
+Mallard
+---Mark 2013-10-17 Ohio|Scioto River, Columbus
+
+White-crowned Sparrow
+---Mark 2013-10-18 Ohio|Miranova
+
+Canada Goose
+Double-crested Cormorant
+Ring-billed Gull
+---Mark 2013-10-20 Ohio|Olentangy River, Columbus
+
+American Goldfinch
+Belted Kingfisher
+---Paul 2013-10-20 Oklahoma|Taylor Lake
+
+Lewis's Woodpecker
+---Mark 2013-10-21 Ohio|Miranova
+
+Black-crowned Night-Heron
+Double-crested Cormorant
+Great Blue Heron
+Ring-billed Gull
+---Mark 2013-10-21 Ohio|Olentangy River, Columbus
+
+House Sparrow
+Mallard
+---Mark 2013-10-24 Illinois|US 50 near Lebanon, Illinois
+
+Bald Eagle
+---Mark 2013-10-25 Oklahoma|Salt Plains State Park, Oklahoma
+
+American Avocet
+Great Horned Owl
+---Mark 2013-10-27 New Mexico|Grants, New Mexico
+
+House Finch
+Western Bluebird
+---Mark 2013-10-29 Arizona|Apache Junction, Arizona
+
+Cactus Wren
+Curve-billed Thrasher
+Great Horned Owl
+House Finch
+Mourning Dove
+---Mark 2013-10-29 Arizona|Wellton, Arizona
+
+Eurasian Collared-Dove
+---Mark 2013-10-30 California|Chula Vista, San Diego
+
+American Coot
+American Crow
+Mallard
+Red-tailed Hawk
+---Mark 2013-10-30 Arizona|Wellton, Arizona
+
+Great Horned Owl
+---Mark 2013-10-31 California|Mission Bay, San Diego
+
+Belted Kingfisher
+Brown Pelican
+Bufflehead
+Heermann's Gull
+Marbled Godwit

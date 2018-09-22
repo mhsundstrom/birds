@@ -1,0 +1,248 @@
+---Mark 2008-05-01 Ohio|Miranova
+
+Great Blue Heron
+Turkey Vulture
+---Mark 2008-05-02 Ohio|Miranova
+
+Barn Swallow
+Canada Goose
+Double-crested Cormorant
+Song Sparrow
+Wood Thrush
+---Mark 2008-05-02 Ohio|Scioto Greenways, Columbus
+
+Black-crowned Night-Heron
+---Mark 2008-05-03 Ohio|Miranova
+
+American Robin
+White-throated Sparrow
+---Paul 2008-05-03 Oklahoma|Lost Lake, Wichita Mts. NWR
+
+Black-and-white Warbler
+---Paul 2008-05-03 Oklahoma|Visitors Center
+
+Cave Swallow
+---Paul 2008-05-03 Oklahoma|Wichita Mts.
+
+Cave Swallow
+---Paul 2008-05-04 Oklahoma|Cambridge Lake, Norman
+
+Blue Grosbeak
+---Mark 2008-05-05 Ohio|Scioto Audubon Metro Park
+
+American Goldfinch
+American Robin
+Baltimore Oriole
+Blue-gray Gnatcatcher
+Brown-headed Cowbird
+Canada Goose
+Double-crested Cormorant
+European Starling
+Gray Catbird
+Great Blue Heron
+House Wren
+Mallard
+Northern Cardinal
+Northern Mockingbird
+Red-winged Blackbird
+Song Sparrow
+Tree Swallow
+Turkey Vulture
+White-throated Sparrow
+Yellow Warbler
+Yellow-rumped Warbler
+---Mark 2008-05-06 Ohio|Miranova
+
+Belted Kingfisher
+---Mark 2008-05-08 Ohio|Miranova
+
+American Goldfinch
+Barn Swallow
+---Mark 2008-05-10 Ohio|Miranova
+
+Double-crested Cormorant
+---Paul 2008-05-10 Oklahoma|East Norman
+
+Chimney Swift
+---Paul 2008-05-10 Texas|Hagerman NWR
+
+American Coot (Red-shielded)
+American Crow
+Baird's Sandpiper
+Barn Swallow
+Black Vulture
+Blue-winged Teal
+Brown-headed Cowbird
+Canada Goose
+Carolina Chickadee
+Cattle Egret
+Chipping Sparrow
+Cliff Swallow
+Common Grackle
+Dickcissel
+Downy Woodpecker
+Eastern Bluebird
+Eastern Kingbird
+Eastern Phoebe
+Great Blue Heron
+Great Egret
+Great-tailed Grackle
+Greater Roadrunner
+Greater Yellowlegs
+Least Sandpiper
+Lesser Yellowlegs
+Little Blue Heron
+Mallard
+Mourning Dove
+Northern Cardinal
+Northern Harrier
+Pectoral Sandpiper
+Red-bellied Woodpecker
+Red-winged Blackbird
+Scissor-tailed Flycatcher
+Snowy Egret
+Spotted Sandpiper
+Turkey Vulture
+White-faced Ibis
+White-rumped Sandpiper
+Wilson's Phalarope
+Yellow-headed Blackbird
+---Paul 2008-05-10 Texas|Hagerman National Wildlife Refuge
+
+Spotted Sandpiper
+---Mark 2008-05-12 Ohio|Miranova
+
+Great Blue Heron
+---Paul 2008-05-18 Oklahoma|Treeline, Arbor Lake, Norman
+
+American Robin
+Baltimore Oriole
+Barn Swallow
+Blue Jay
+Dickcissel
+Great-tailed Grackle
+Killdeer
+Mallard
+Northern Mockingbird
+Red-bellied Woodpecker
+Red-tailed Hawk
+Red-winged Blackbird
+Scissor-tailed Flycatcher
+Snowy Egret
+---Paul 2008-05-20 Oklahoma|Homeland, Robinson, Norman
+
+Common Nighthawk
+---Paul 2008-05-20 Oklahoma|Robinson (Homeland), Norman
+
+Common Nighthawk
+---Paul 2008-05-21 Oklahoma|Hackberry Flats NWR
+
+American Avocet
+American Coot (Red-shielded)
+American Wigeon
+Baird's Sandpiper
+Black-necked Stilt
+Blue-winged Teal
+Canada Goose
+Clay-colored Sparrow
+Dickcissel
+Eastern Kingbird
+Forster's Tern
+Gadwall
+Glossy Ibis
+Great Egret
+Greater Yellowlegs
+Killdeer
+Mallard
+Mourning Dove
+Northern Shoveler
+Red-winged Blackbird
+Ring-billed Gull
+Ruddy Duck
+Scissor-tailed Flycatcher
+Short-billed Dowitcher
+Snowy Egret
+Turkey Vulture
+Western Kingbird
+White-faced Ibis
+Yellow-headed Blackbird
+---Paul 2008-05-21 Oklahoma|I44 near Lawton
+
+Cattle Egret
+---Paul 2008-05-21 Oklahoma|I44 to and from Wichita NWR
+
+American Kestrel
+Mississippi Kite
+Northern Harrier
+Red-tailed Hawk
+---Paul 2008-05-21 Oklahoma|Lost Lake, Wichita NWR
+
+Barn Swallow
+Black-and-white Warbler
+Brown-headed Cowbird
+Cliff Swallow
+Eastern Bluebird
+Great Crested Flycatcher
+Lark Sparrow
+Painted Bunting
+Red-bellied Woodpecker
+Red-shouldered Hawk
+Townsend's Solitaire
+Tufted Titmouse
+White-breasted Nuthatch
+---Paul 2008-05-21 Oklahoma|Wichita NWR, Visitor's Ctr.
+
+Lark Sparrow
+---Paul 2008-05-29 Oklahoma|Education Center, Wichita NWR
+
+Barn Swallow
+Black-and-white Warbler
+Canyon Wren
+Carolina Chickadee
+Dickcissel
+Eastern Meadowlark
+Northern Cardinal
+Scissor-tailed Flycatcher
+Yellow-rumped Warbler (Myrtle)
+---Paul 2008-05-29 Oklahoma|Highway to Wichita NWR
+
+Great Blue Heron
+Mississippi Kite
+Red-tailed Hawk
+Ring-billed Gull
+---Paul 2008-05-29 Oklahoma|Lagoons, Wichita NWR
+
+American Crow
+Mallard
+---Paul 2008-05-29 Oklahoma|Lost Lake, Wichita NWR
+
+Canada Goose
+Eastern Bluebird
+Red-bellied Woodpecker
+---Paul 2008-05-29 Oklahoma|Sunrise, Wichita NWR
+
+American Tree Sparrow
+Bewick's Wren
+Black-capped Vireo
+Blue-gray Gnatcatcher
+Carolina Wren
+Cattle Egret
+Cliff Swallow
+Downy Woodpecker
+Eastern Phoebe
+Eastern Wood-Pewee
+European Starling
+Great Crested Flycatcher
+Indigo Bunting
+Lark Sparrow
+Mourning Dove
+Orchard Oriole
+Painted Bunting
+Ruby-throated Hummingbird
+Turkey Vulture
+White-eyed Vireo
+---Paul 2008-05-29 Oklahoma|Wichita NWR, Sunrise
+
+American Tree Sparrow
+Eastern Wood-Pewee
+White-eyed Vireo

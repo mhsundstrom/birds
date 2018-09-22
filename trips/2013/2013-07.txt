@@ -1,0 +1,277 @@
+---Paul 2013-07-13 Ohio|Audubon Center, Columbus
+
+American Kestrel
+American Robin
+Barn Swallow
+Blue-gray Gnatcatcher
+Canada Goose
+Carolina Chickadee
+Cedar Waxwing
+Cliff Swallow
+Common Grackle
+Double-crested Cormorant
+Downy Woodpecker
+European Starling
+Gray Catbird
+Great Blue Heron
+Great Egret
+House Finch
+House Sparrow
+Indigo Bunting
+Killdeer
+Mallard
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Osprey
+Purple Martin
+Red-eyed Vireo
+Red-winged Blackbird
+Ring-billed Gull
+Rock Pigeon
+Tree Swallow
+Tufted Titmouse
+Turkey Vulture
+---Mark 2013-07-14 Ohio|Scioto Audubon Metro Park
+
+American Goldfinch
+American Robin
+Canada Goose
+Carolina Wren
+Downy Woodpecker
+Gray Catbird
+House Finch
+House Sparrow
+House Wren
+Indigo Bunting
+Killdeer
+Northern Cardinal
+Osprey
+Red-eyed Vireo
+Red-winged Blackbird
+Tufted Titmouse
+White-crowned Sparrow
+---Paul 2013-07-15 Ohio|Cuyahoga National Park
+
+Black-crowned Night-Heron
+Cattle Egret
+Cliff Swallow
+Great Blue Heron
+Great Egret
+Green Heron
+Indigo Bunting
+Painted Bunting
+Prothonotary Warbler
+Red-bellied Woodpecker
+Tree Swallow
+Tufted Titmouse
+White-eyed Vireo
+Wood Duck
+---Paul 2013-07-17 Ohio|Baymont Inn & Suites, Hudson
+
+Chipping Sparrow
+Gray Catbird
+Red-eyed Vireo
+Red-winged Blackbird
+Song Sparrow
+Tufted Titmouse
+White-breasted Nuthatch
+---Mark 2013-07-19 Ohio|Miranova
+
+Turkey Vulture
+---Paul 2013-07-20 Massachusetts|Copper Lantern, West Brookfield
+
+American Robin
+Black-capped Chickadee
+Eastern Kingbird
+Eastern Phoebe
+Gray Catbird
+House Finch
+House Sparrow
+Song Sparrow
+Tree Swallow
+---Paul 2013-07-22 Massachusetts|Reed St., Warren
+
+American Crow
+American Goldfinch
+American Robin
+Barn Swallow
+Black-capped Chickadee
+Blue Jay
+Carolina Wren
+Chipping Sparrow
+Common Grackle
+Eastern Bluebird
+Eastern Kingbird
+Eastern Phoebe
+European Starling
+Gray Catbird
+Hermit Thrush
+House Finch
+House Sparrow
+Indigo Bunting
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Red-bellied Woodpecker
+Red-eyed Vireo
+Rock Pigeon
+Song Sparrow
+White-crowned Sparrow
+Yellow Warbler
+---Paul 2013-07-23 Massachusetts|Reed St., Warren
+
+American Crow
+American Robin
+Gray Catbird
+Great Blue Heron
+House Finch
+House Sparrow
+Mourning Dove
+Northern Cardinal
+Red-eyed Vireo
+Ruby-throated Hummingbird
+Song Sparrow
+---Paul 2013-07-24 Massachusetts|Reed St, Warren
+
+Belted Kingfisher
+Blue-winged Teal
+Great Blue Heron
+Red-winged Blackbird
+Wood Duck
+---Paul 2013-07-24 Massachusetts|Reed St., Warren
+
+American Crow
+American Robin
+Barn Swallow
+Black-capped Chickadee
+Blue Jay
+Carolina Wren
+Cedar Waxwing
+Downy Woodpecker
+Eastern Bluebird
+Eastern Phoebe
+European Starling
+Gray Catbird
+House Finch
+House Sparrow
+Northern Cardinal
+Northern Mockingbird
+Red-winged Blackbird
+Song Sparrow
+Tufted Titmouse
+---Mark 2013-07-25 Montana|Hardin
+
+Western Kingbird
+---Mark 2013-07-25 Wyoming|Upton
+
+Wild Turkey
+---Mark 2013-07-25 Wyoming|Washington Blvd, Newcastle
+
+Mountain Bluebird
+---Paul 2013-07-25 Massachusetts|Reed St., Warren
+
+American Crow
+American Goldfinch
+American Robin
+Barn Swallow
+Black-capped Chickadee
+Blue Jay
+Canada Goose
+Carolina Wren
+Cedar Waxwing
+Eastern Bluebird
+Eastern Phoebe
+European Starling
+Gray Catbird
+House Sparrow
+Indigo Bunting
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Red-bellied Woodpecker
+Red-eyed Vireo
+Rock Pigeon
+Ruby-throated Hummingbird
+Song Sparrow
+Tree Swallow
+Tufted Titmouse
+White-crowned Sparrow
+Yellow Warbler
+---Mark 2013-07-26 Montana|Ryegate
+
+Black-billed Magpie
+---Mark 2013-07-26 Montana|Townsend
+
+American White Pelican
+---Mark 2013-07-26 Montana|Townsend
+
+Western Kingbird
+---Mark 2013-07-26 Montana|US 12 — MT 3, Ryegate
+
+Bald Eagle
+---Paul 2013-07-26 New Hampshire|Colby Inn, Henniker
+
+American Robin
+Gray Catbird
+Northern Cardinal
+White-throated Sparrow
+---Paul 2013-07-27 New Hampshire|Colby Inn, Henniker
+
+American Robin
+Black-capped Chickadee
+Black-throated Blue Warbler
+Chipping Sparrow
+Eastern Phoebe
+Gray Catbird
+House Wren
+Song Sparrow
+---Paul 2013-07-27 New Hampshire|Forrester's Tree Farm, Henniker
+
+Ruby-throated Hummingbird
+Summer Tanager
+---Paul 2013-07-28 New Hampshire|Colby Inn, Henniker
+
+American Robin
+Black-capped Chickadee
+Carolina Wren
+Cedar Waxwing
+Chipping Sparrow
+Gray Catbird
+House Wren
+Northern Cardinal
+Red-eyed Vireo
+Song Sparrow
+---Mark 2013-07-30 Washington|13th Dr SE, Bothell
+
+Belted Kingfisher
+---Mark 2013-07-30 Washington|Bothell
+
+Bewick's Wren
+---Paul 2013-07-30 Massachusetts|Rockport
+
+American Crow
+Barn Swallow
+Black-capped Chickadee
+Blue Jay
+Common Eider
+Common Loon
+Double-crested Cormorant
+Eastern Kingbird
+Gray Catbird
+Great Black-backed Gull
+Herring Gull
+House Finch
+House Sparrow
+Mallard
+Mourning Dove
+Northern Mockingbird
+Rock Pigeon
+---Paul 2013-07-31 New Hampshire|Lebanon
+
+American Crow
+Cedar Waxwing
+Gray Catbird
+Herring Gull
+Pied-billed Grebe
+Red-eyed Vireo

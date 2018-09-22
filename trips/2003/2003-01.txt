@@ -1,0 +1,244 @@
+---Mark 2003-01-01 California|Back Bay, Orange County
+
+American Coot
+American Kestrel
+Belted Kingfisher
+Bufflehead
+California Gnatcatcher
+Common Yellowthroat
+Great Blue Heron
+Great Egret
+Mallard
+Mourning Dove
+Snowy Egret
+Wandering Tattler
+Western Grebe
+Western Meadowlark
+flycatcher sp. (Tyrannidae sp.)
+sparrow sp.
+tern sp.
+---Mark 2003-01-01 California|Corona del Mar, Orange County
+
+American Crow
+Anna's Hummingbird
+Belted Kingfisher
+Brown Pelican
+Double-crested Cormorant
+Heermann's Gull
+Northern Mockingbird
+Pacific Loon
+Rock Pigeon
+Sanderling
+Surf Scoter
+Western Gull
+Willet
+grebe sp.
+---Mark 2003-01-02 California|Hwy 1, California
+
+American Kestrel
+---Mark 2003-01-02 California|Morro Bay, California
+
+Black Oystercatcher
+Black Phoebe
+Brown Pelican
+Common Loon
+Double-crested Cormorant
+Eared Grebe
+European Starling
+Great Blue Heron
+Great Egret
+Heermann's Gull
+Marbled Murrelet
+Pacific Loon
+Pelagic Cormorant
+Pied-billed Grebe
+Red-breasted Merganser
+Surf Scoter
+Turkey Vulture
+Western Grebe
+Western Gull
+Whimbrel
+White-crowned Sparrow
+hummingbird sp.
+---Mark 2003-01-03 California|Elkhorn Slough, California
+
+Acorn Woodpecker
+American Crow
+Anna's Hummingbird
+Belted Kingfisher
+Bushtit
+California Scrub-Jay
+Clark's Grebe
+Common Goldeneye
+Common Merganser
+Great Blue Heron
+Great Egret
+Mallard
+Northern Flicker
+Oak Titmouse
+Red-tailed Hawk
+Ruby-crowned Kinglet
+Say's Phoebe
+Snowy Egret
+---Mark 2003-01-03 California|Hwy 1 near San Simeon, California
+
+Black Phoebe
+Brown Pelican
+Double-crested Cormorant
+Great Blue Heron
+Great Egret
+Northern Harrier
+Osprey
+Song Sparrow
+Surf Scoter
+Turkey Vulture
+Western Meadowlark
+---Mark 2003-01-05 Oregon|Brookings Harbor, Oregon
+
+Clark's Grebe
+Pelagic Cormorant
+Western Grebe
+---Mark 2003-01-05 Oregon|Harris State Beach, Oregon
+
+Black Oystercatcher
+Purple Finch
+Ruby-crowned Kinglet
+---Mark 2003-01-05 Oregon|Loeb State Park, Oregon
+
+Hermit Thrush
+Varied Thrush
+---Mark 2003-01-06 Oregon|North Bend, Oregon
+
+Belted Kingfisher
+---Mark 2003-01-06 Oregon|Winchester Bay, Oregon
+
+American Robin
+Bufflehead
+Killdeer
+---Mark 2003-01-08 Washington|Alki
+
+Bald Eagle
+---Mark 2003-01-09 Washington|Alki
+
+Bald Eagle
+Barrow's Goldeneye
+---Mark 2003-01-10 Washington|Alki
+
+Double-crested Cormorant
+Red-tailed Hawk
+---Mark 2003-01-10 Washington|Seattle
+
+American Wigeon
+Black-capped Chickadee
+Canada Goose
+---Mark 2003-01-11 Washington|Alki
+
+Bufflehead
+Surf Scoter
+---Mark 2003-01-14 Washington|Alki
+
+Red-breasted Merganser
+---Mark 2003-01-15 Washington|Alki
+
+Belted Kingfisher
+Common Goldeneye
+Harlequin Duck
+---Mark 2003-01-15 Washington|AlkiCondo
+
+Common Goldeneye
+---Mark 2003-01-16 Washington|Camp Long, Seattle
+
+Fox Sparrow
+---Mark 2003-01-18 Washington|Alki
+
+Canada Goose
+Common Goldeneye
+Double-crested Cormorant
+European Starling
+Harlequin Duck
+House Sparrow
+Surf Scoter
+Western Grebe
+---Mark 2003-01-18 Washington|Seattle
+
+Northern Flicker
+---Mark 2003-01-19 Washington|Alki
+
+Barrow's Goldeneye
+Bufflehead
+Common Goldeneye
+Double-crested Cormorant
+Great Blue Heron
+House Sparrow
+Red-breasted Merganser
+Rock Pigeon
+Steller's Jay
+Surf Scoter
+Western Grebe
+crow sp.
+gull sp.
+---Mark 2003-01-23 Washington|AlkiCondo
+
+Bald Eagle
+---Mark 2003-01-24 Washington|Alki
+
+American Robin
+Bald Eagle
+Belted Kingfisher
+Canada Goose
+Common Goldeneye
+Red-breasted Merganser
+Western Grebe
+---Mark 2003-01-24 Washington|AlkiCondo
+
+Barrow's Goldeneye
+Bufflehead
+Double-crested Cormorant
+---Mark 2003-01-25 Washington|AlkiCondo
+
+Great Blue Heron
+---Mark 2003-01-25 Washington|Discovery Park
+
+American Coot
+American Crow
+American Robin
+American Wigeon
+Anna's Hummingbird
+Bald Eagle
+Barrow's Goldeneye
+Bewick's Wren
+Black-capped Chickadee
+Bufflehead
+Canada Goose
+Common Goldeneye
+Dark-eyed Junco
+Double-crested Cormorant
+European Starling
+Fox Sparrow
+Mallard
+Red-breasted Merganser
+Red-tailed Hawk
+Ruby-crowned Kinglet
+Sanderling
+Song Sparrow
+Surf Scoter
+Western Grebe
+White-winged Scoter
+gull sp.
+---Mark 2003-01-31 Washington|Green Lake, Seattle
+
+American Coot
+American Wigeon
+Black-capped Chickadee
+Bufflehead
+Bushtit
+Eurasian Wigeon
+Pied-billed Grebe
+Red-winged Blackbird
+goose sp.
+---Mark 2003-01-31 Washington|Ship Canal, Seattle
+
+Greater Scaup
+---Paul 2003-01-31 Oklahoma|Norman
+
+Savannah Sparrow

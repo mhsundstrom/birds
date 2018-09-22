@@ -1,0 +1,575 @@
+---Mark 2017-03-01 Ohio|Miranova
+
+American Robin
+Killdeer
+Song Sparrow
+---Paul 2017-03-01 Cayman Islands|KY-Cayman Islands - 19.2662x-81.2646 - Mar 6, 2017, 7:35 AM
+
+American Coot (White-shielded)
+Bananaquit (Greater Antillean)
+Barn Swallow
+Black-and-white Warbler
+Brown Pelican (Southern)
+Caribbean Elaenia
+Cattle Egret
+Eurasian Collared-Dove
+Gray Catbird
+Great Egret
+Greater Antillean Grackle
+Laughing Gull
+Loggerhead Kingbird
+Magnolia Warbler
+Northern Mockingbird
+Palm Warbler
+Rock Pigeon
+Royal Tern
+Ruddy Turnstone
+Smooth-billed Ani
+Snowy Egret
+Turkey Vulture
+White-crowned Pigeon
+White-winged Dove
+Worm-eating Warbler
+Yellow-faced Grassquit
+Zenaida Dove
+---Paul 2017-03-02 Jamaica|JM-Middlesex County-Ocho Rios - 18.4131x-77.0749 - Mar 6, 2017, 8:10 AM
+
+African Collared-Dove
+American Coot (White-shielded)
+Barn Swallow
+Black Swift
+Brown Pelican (Southern)
+Caribbean Dove
+Cattle Egret
+Great Egret
+Greater Antillean Grackle
+Jamaican Crow
+Jamaican Mango
+Laughing Gull
+Loggerhead Kingbird
+Magnificent Frigatebird
+Northern Mockingbird
+Olive-throated Parakeet (Jamaican)
+Royal Tern
+Ruddy Turnstone
+Sandwich Tern
+Streamertail (Red-billed)
+Turkey Vulture
+White-crowned Pigeon
+---Mark 2017-03-03 Ohio|Miranova
+
+Ring-billed Gull
+Turkey Vulture
+---Mark 2017-03-04 Ohio|Scioto Greenways
+
+Northern Cardinal
+Northern Mockingbird
+---Paul 2017-03-05 Texas|US-TX-Galveston-1405 Harbor View Dr - 29.3244x-94.7737
+
+American Crow
+American Kestrel
+American White Pelican
+Black Vulture
+Brown Pelican (Atlantic)
+Common Grackle
+Double-crested Cormorant
+Eurasian Collared-Dove
+Great Egret
+Great-tailed Grackle
+Mourning Dove
+Neotropic Cormorant
+Rock Pigeon
+Roseate Spoonbill
+Swallow-tailed Kite
+Turkey Vulture
+White Ibis
+White-faced Ibis
+---Mark 2017-03-06 Ohio|Scioto Greenways
+
+Carolina Chickadee
+Great Blue Heron
+Northern Cardinal
+---Paul 2017-03-06 Texas|US-TX-Fairview-711 Mustang Dr
+
+American Crow
+American Robin
+Black Vulture
+Blue Jay
+Brown Creeper
+Carolina Chickadee
+Carolina Wren
+Cedar Waxwing
+Dark-eyed Junco (Slate-colored)
+Eastern Bluebird
+Eastern Phoebe
+Fox Sparrow (Red)
+Harris's Sparrow
+House Finch
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Northern Mockingbird
+Red-bellied Woodpecker
+Red-shouldered Hawk
+Red-winged Blackbird
+Tufted Titmouse
+Turkey Vulture
+White-throated Sparrow
+White-winged Dove
+Yellow-rumped Warbler (Myrtle)
+---Paul 2017-03-07 Texas|US-TX-Fairview-711 Mustang Dr
+
+Barred Owl
+---Mark 2017-03-08 Ohio|Highbanks Metro Park
+
+Tufted Titmouse
+Turkey Vulture
+---Paul 2017-03-08 Texas|US-TX-McKinney-1 Nature Pl
+
+American Coot (Red-shielded)
+American Crow
+American Goldfinch
+Black Vulture
+Blue Jay
+Blue-winged Teal
+Brown Creeper
+Canada Goose
+Carolina Wren
+Cedar Waxwing
+Dark-eyed Junco (Slate-colored)
+Double-crested Cormorant
+Downy Woodpecker
+Eastern Bluebird
+Eastern Phoebe
+Fish Crow
+Fox Sparrow (Red)
+Gadwall
+Great Blue Heron
+Great Egret
+Hermit Thrush
+Hooded Merganser
+Lincoln's Sparrow
+Mallard
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Northern Mockingbird
+Northern Shoveler
+Pied-billed Grebe
+Purple Martin
+Red-bellied Woodpecker
+Red-shouldered Hawk
+Red-winged Blackbird
+Rock Pigeon
+Ruby-crowned Kinglet
+Savannah Sparrow
+Song Sparrow
+Swamp Sparrow
+Tufted Titmouse
+Turkey Vulture
+White-throated Sparrow
+Winter Wren
+Yellow-bellied Sapsucker
+Yellow-rumped Warbler (Myrtle)
+---Mark 2017-03-09 Ohio|Miranova
+
+House Finch
+Northern Cardinal
+---Paul 2017-03-09 Texas|US-TX-Fairview-711 Mustang Dr
+
+American Crow
+American Robin
+Black Vulture
+Blue Jay
+Canada Goose
+Carolina Chickadee
+Carolina Wren
+Cedar Waxwing
+Chipping Sparrow
+Dark-eyed Junco (Slate-colored)
+Double-crested Cormorant
+Downy Woodpecker
+Eastern Bluebird
+Eastern Phoebe
+Fox Sparrow (Red)
+Great Blue Heron
+House Finch
+House Sparrow
+Killdeer
+Mallard
+Mourning Dove
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Northern Mockingbird
+Purple Martin
+Red-bellied Woodpecker
+Red-shouldered Hawk
+Ring-necked Duck
+Rock Pigeon
+Ruby-crowned Kinglet
+Tufted Titmouse
+Turkey Vulture
+White-throated Sparrow
+White-winged Dove
+Wood Duck
+Yellow-bellied Sapsucker
+Yellow-rumped Warbler (Myrtle)
+---Mark 2017-03-11 Ohio|Scioto Greenways
+
+Canada Goose
+House Finch
+House Sparrow
+Killdeer
+Mallard
+Red-tailed Hawk
+---Paul 2017-03-11 Texas|US-TX-McKinney-Town Lake Rec Area Pond - 33.1845x-96.6313
+
+American Coot (Red-shielded)
+Barred Owl
+Canada Goose
+Carolina Chickadee
+Carolina Wren
+Common Grackle
+Double-crested Cormorant
+Downy Woodpecker
+European Starling
+Gadwall
+Great-tailed Grackle
+Hairy Woodpecker
+Mallard
+Northern Cardinal
+Northern Shoveler
+Pied-billed Grebe
+Red-bellied Woodpecker
+Red-shouldered Hawk
+Ring-billed Gull
+Ring-necked Duck
+Rock Pigeon
+Tufted Titmouse
+Turkey Vulture
+Yellow-bellied Sapsucker
+Yellow-rumped Warbler (Myrtle)
+---Mark 2017-03-13 Ohio|Scioto Audubon Metro Park
+
+Osprey
+---Paul 2017-03-14 Oklahoma|US-OK-Norman-4495 S Jenkins Ave
+
+American Crow
+Black Vulture
+Brown Creeper
+Carolina Chickadee
+Carolina Wren
+Dark-eyed Junco (Slate-colored)
+Downy Woodpecker
+Eastern Bluebird
+Eastern Meadowlark
+Eastern Phoebe
+European Starling
+Fish Crow
+Fox Sparrow (Red)
+House Sparrow
+Killdeer
+Northern Cardinal
+Red-bellied Woodpecker
+Red-shouldered Hawk
+Red-tailed Hawk
+Red-winged Blackbird
+Savannah Sparrow
+Song Sparrow
+Yellow-rumped Warbler (Myrtle)
+---Mark 2017-03-16 Ohio|Miranova
+
+Canada Goose
+Mallard
+---Mark 2017-03-16 Ohio|Scioto Audubon Metro Park
+
+Carolina Wren
+---Mark 2017-03-17 Maryland|Mount Washington, Baltimore
+
+Downy Woodpecker
+House Sparrow
+Mourning Dove
+Northern Cardinal
+Pileated Woodpecker
+Tufted Titmouse
+---Paul 2017-03-17 Oklahoma|US-OK-Norman-4495 S Jenkins Ave
+
+American Crow
+American Robin
+Bald Eagle
+Blue Jay
+Brown-headed Cowbird
+Canada Goose
+Carolina Chickadee
+Carolina Wren
+Cooper's Hawk
+Downy Woodpecker
+Eastern Bluebird
+Eastern Phoebe
+Eurasian Collared-Dove
+European Starling
+Field Sparrow
+Fish Crow
+Great Blue Heron
+Great-tailed Grackle
+Harris's Sparrow
+Killdeer
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Pileated Woodpecker
+Red-bellied Woodpecker
+Red-shouldered Hawk
+Red-tailed Hawk
+Red-winged Blackbird
+Savannah Sparrow
+Song Sparrow
+Tufted Titmouse
+Turkey Vulture
+Vesper Sparrow
+Yellow-bellied Sapsucker
+Yellow-rumped Warbler (Myrtle)
+---Mark 2017-03-18 Maryland|Loch Raven Reservoir
+
+American Crow
+Black-capped Chickadee
+Canada Goose
+Common Merganser
+Downy Woodpecker
+Mourning Dove
+Pileated Woodpecker
+Red-bellied Woodpecker
+Tufted Titmouse
+Turkey Vulture
+White-breasted Nuthatch
+gull sp.
+---Mark 2017-03-19 Maryland|Fort McHenry
+
+Bufflehead
+grebe sp.
+---Paul 2017-03-20 Texas|US-TX-Fairview-711 Mustang Dr
+
+American Crow
+American Robin
+Barn Swallow
+Black Vulture
+Blue Jay
+Brown Thrasher
+Brown-headed Cowbird
+Carolina Chickadee
+Carolina Wren
+Cedar Waxwing
+Dark-eyed Junco (Slate-colored)
+Double-crested Cormorant
+Downy Woodpecker
+Eastern Bluebird
+Eastern Phoebe
+Great Blue Heron
+Harris's Sparrow
+House Finch
+Mallard
+Mourning Dove
+Northern Cardinal
+Northern Harrier
+Northern Mockingbird
+Pileated Woodpecker
+Red-bellied Woodpecker
+Red-shouldered Hawk
+Red-tailed Hawk
+Red-winged Blackbird
+Rock Pigeon
+Tufted Titmouse
+Turkey Vulture
+White-eyed Vireo
+White-throated Sparrow
+White-winged Dove
+Yellow-rumped Warbler (Myrtle)
+Yellow-throated Vireo
+---Paul 2017-03-20 Texas|US-TX-Fairview-711 Mustang Dr
+
+Barred Owl
+---Mark 2017-03-21 Pennsylvania|Myrtle Rd
+
+Black-capped Chickadee
+Blue Jay
+Mourning Dove
+Tufted Titmouse
+Turkey Vulture
+Wild Turkey
+---Mark 2017-03-23 Pennsylvania|On the road, I-80
+
+Dark-eyed Junco
+---Paul 2017-03-23 Texas|US-TX-Allen-1515 N Greenville Ave - 33.1227x-96.6502
+
+Sharp-shinned Hawk
+---Mark 2017-03-24 Ohio|Miranova
+
+Killdeer
+---Mark 2017-03-25 Ohio|Miranova
+
+American Robin
+Canada Goose
+Common Grackle
+House Finch
+House Sparrow
+Northern Cardinal
+Song Sparrow
+---Mark 2017-03-25 Ohio|Scioto Audubon Metro Park
+
+American Goldfinch
+American Robin
+Blue Jay
+Brown Creeper
+Canada Goose
+Carolina Chickadee
+Common Grackle
+Downy Woodpecker
+Eastern Meadowlark
+European Starling
+Golden-crowned Kinglet
+Great Blue Heron
+House Finch
+House Sparrow
+Killdeer
+Mallard
+Mourning Dove
+Northern Cardinal
+Osprey
+Red-bellied Woodpecker
+Red-winged Blackbird
+Ring-billed Gull
+Ruby-crowned Kinglet
+Song Sparrow
+Tree Swallow
+---Mark 2017-03-26 Ohio|Miranova
+
+American Goldfinch
+American Robin
+Canada Goose
+House Finch
+Mallard
+Northern Cardinal
+Rock Pigeon
+---Paul 2017-03-27 Texas|US-TX-Fairview-711 Mustang Dr
+
+American Crow
+Blue Jay
+Carolina Wren
+Downy Woodpecker
+Eastern Phoebe
+Great Blue Heron
+Mourning Dove
+Northern Cardinal
+Red-bellied Woodpecker
+Tufted Titmouse
+White-throated Sparrow
+White-winged Dove
+Yellow-rumped Warbler (Myrtle)
+---Paul 2017-03-28 Texas|US-TX-Wylie-Collin Park - 33.0465x-96.5316
+9:26 AM
+Traveling
+2.00 miles
+95 Minutes
+All birds reported? Yes
+Comments: Overcast and mild, 65 F
+Submitted from eBird for iOS, version 1.1.5 Build 44
+
+American Crow
+Bald Eagle
+Blue Jay
+Carolina Chickadee
+Carolina Wren
+Double-crested Cormorant
+Eastern Bluebird
+European Starling
+Forster's Tern
+Great Blue Heron
+Great Egret
+Mallard
+Mourning Dove
+Neotropic Cormorant
+Northern Cardinal
+Northern Mockingbird
+Osprey
+Pied-billed Grebe
+Red-bellied Woodpecker
+Red-tailed Hawk
+Ring-billed Gull # First year
+Tufted Titmouse
+Turkey Vulture
+White-winged Dove
+Wood Duck
+Yellow-rumped Warbler (Myrtle)
+---Mark 2017-03-29 Ohio|US-OH-Watermark Quarries
+08:44
+Traveling
+0.50 miles
+26 Minutes
+All birds reported? Yes
+Comments: Chilly, low 40 s
+Submitted from eBird for iOS, version 1.4.2 Build 114
+
+American Coot
+American Goldfinch
+American Robin
+Canada Goose
+Carolina Chickadee
+Dark-eyed Junco
+Great Blue Heron
+Horned Grebe
+House Finch
+Lesser Scaup
+Mallard
+Mourning Dove
+Mute Swan
+Northern Cardinal
+Red-winged Blackbird
+Song Sparrow
+---Paul 2017-03-29 Texas|US-TX-Fairview-711 Mustang Dr
+9:47 AM
+Traveling
+2.50 miles
+112 Minutes
+All birds reported? Yes
+Comments: Sunny and mild, 65 F.
+Submitted from eBird for iOS, version 1.1.5 Build 44
+
+American Crow
+Barn Swallow
+Barred Owl
+Black Vulture
+Blue Jay
+Brown-headed Cowbird
+Carolina Chickadee
+Carolina Wren
+Eastern Bluebird
+Eastern Phoebe
+Great Blue Heron
+Great Egret
+House Finch
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Red-bellied Woodpecker
+Red-shouldered Hawk
+Red-winged Blackbird
+Tufted Titmouse
+Turkey Vulture
+White-eyed Vireo
+White-throated Sparrow
+---Paul 2017-03-29 Texas|US-TX-McKinney-Town Lake Rec Area Pond - 33.1845x-96.6313
+2:17 AM
+Stationary
+5 Minutes
+All birds reported? Yes
+Comments: Submitted from eBird for iOS, version 1.1.5 Build 44
+
+Purple Martin
+Scissor-tailed Flycatcher # FOS
+---Mark 2017-03-30 Ohio|Miranova
+
+House Finch # two on the balcony railing looking to nest
+---Mark 2017-03-30 Ohio|Scioto Greenways
+
+Bufflehead # a pair between Main and Rich St bridges
+Dark-eyed Junco
+Northern Flicker
+Pied-billed Grebe # near the confluence

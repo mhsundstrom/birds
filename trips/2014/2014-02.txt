@@ -1,0 +1,451 @@
+---Mark 2014-02-01 Ohio|Scioto Audubon Metro Park
+
+American Crow
+American Goldfinch
+American Robin
+Carolina Wren
+Double-crested Cormorant
+European Starling
+Great Blue Heron
+House Finch
+Mallard
+Mourning Dove
+Northern Cardinal
+White-breasted Nuthatch
+---Mark 2014-02-02 Ohio|Schiller Park, Columbus
+
+Redhead
+---Paul 2014-02-02 Texas|On the road, I-45
+
+American Crow
+American Kestrel
+American White Pelican
+Chipping Sparrow
+Great Egret
+Northern Harrier
+Red-tailed Hawk
+Savannah Sparrow
+---Mark 2014-02-03 Ohio|Miranova
+
+Hooded Merganser
+---Mark 2014-02-03 Ohio|Scioto River, Columbus
+
+Belted Kingfisher
+---Paul 2014-02-03 Texas|Galveston Island
+
+American Black Duck
+American Coot (Red-shielded)
+American Kestrel
+American White Pelican
+American Wigeon
+Belted Kingfisher
+Black Skimmer
+Black-bellied Plover
+Black-crowned Night-Heron
+Blue-winged Teal
+Boat-tailed Grackle
+Brown Pelican (Atlantic)
+Caspian Tern
+Common Grackle
+Double-crested Cormorant
+Eurasian Collared-Dove
+European Starling
+Gadwall
+Great-tailed Grackle
+Gull-billed Tern
+Herring Gull
+House Sparrow
+Laughing Gull
+Little Blue Heron
+Loggerhead Shrike
+Long-billed Curlew
+Marbled Godwit
+Mottled Duck
+Mourning Dove
+Neotropic Cormorant
+Northern Harrier
+Northern Shoveler
+Osprey
+Pied-billed Grebe
+Red-breasted Merganser
+Redhead
+Ring-billed Gull
+Rock Pigeon
+Roseate Spoonbill
+Ruddy Turnstone
+Sanderling
+Sandhill Crane
+Savannah Sparrow
+Snowy Egret
+White Ibis
+Willet
+Yellow-rumped Warbler (Myrtle)
+---Mark 2014-02-04 Ohio|Miranova
+
+Great Blue Heron
+Pied-billed Grebe
+---Paul 2014-02-04 Texas|Galveston Island
+
+American Coot (Red-shielded)
+American Kestrel
+American Wigeon
+Belted Kingfisher
+Black Skimmer
+Black-crowned Night-Heron
+Blue-winged Teal
+Boat-tailed Grackle
+Brown Pelican (Atlantic)
+Brown-headed Cowbird
+Caspian Tern
+Common Grackle
+Double-crested Cormorant
+Eared Grebe
+European Starling
+Forster's Tern
+Gadwall
+Great Blue Heron
+Green-winged Teal
+Herring Gull
+Killdeer
+Laughing Gull
+Lesser Yellowlegs
+Little Blue Heron
+Loggerhead Shrike
+Long-billed Dowitcher
+Mottled Duck
+Mourning Dove
+Neotropic Cormorant
+Northern Harrier
+Northern Shoveler
+Osprey
+Pied-billed Grebe
+Reddish Egret
+Redhead
+Ring-billed Gull
+Ring-necked Duck
+Rock Pigeon
+Roseate Spoonbill
+Sanderling
+Savannah Sparrow
+Short-billed Dowitcher
+Snowy Egret
+Tricolored Heron
+Willet
+Yellow-rumped Warbler (Myrtle)
+---Mark 2014-02-05 Ohio|Scioto River, Columbus
+
+Dark-eyed Junco
+---Paul 2014-02-05 Texas|Galveston Island
+
+American Black Duck
+American Coot (Red-shielded)
+American Kestrel
+American White Pelican
+American Wigeon
+Belted Kingfisher
+Black Skimmer
+Black-bellied Plover
+Blue-winged Teal
+Boat-tailed Grackle
+Brown Pelican (Atlantic)
+Brown-headed Cowbird
+Caspian Tern
+Chipping Sparrow
+Common Grackle
+Common Ground-Dove
+Double-crested Cormorant
+Eastern Meadowlark
+Eastern Phoebe
+European Starling
+Gadwall
+Great Blue Heron
+Great Egret
+Great-tailed Grackle
+Green-winged Teal
+Herring Gull
+House Sparrow
+Laughing Gull
+Lesser Yellowlegs
+Little Blue Heron
+Loggerhead Shrike
+Neotropic Cormorant
+Northern Cardinal
+Northern Harrier
+Northern Mockingbird
+Northern Shoveler
+Orange-crowned Warbler
+Osprey
+Pied-billed Grebe
+Redhead
+Ring-billed Gull
+Ring-necked Duck
+Rock Pigeon
+Roseate Spoonbill
+Sandhill Crane
+Savannah Sparrow
+Snowy Egret
+Tricolored Heron
+Western Sandpiper
+White Ibis
+White-tailed Hawk
+Yellow-crowned Night-Heron
+Yellow-rumped Warbler (Myrtle)
+---Paul 2014-02-05 Texas|High Island
+
+American Avocet
+Bonaparte's Gull
+Crested Caracara
+Dunlin
+Gull-billed Tern
+Lark Sparrow
+Marbled Godwit
+Short-billed Dowitcher
+Snow Goose
+---Mark 2014-02-09 Ohio|Miranova
+
+Trumpeter Swan
+---Paul 2014-02-13 Texas|Heard Wildlife Sanctuary, Fairview
+
+American Crow
+Black Vulture
+Blue Jay
+Brown Thrasher
+Cedar Waxwing
+Cooper's Hawk
+Dark-eyed Junco (Slate-colored)
+Downy Woodpecker
+Eastern Bluebird
+Eastern Phoebe
+Field Sparrow
+Gadwall
+Hermit Thrush
+House Finch
+Mallard
+Mourning Dove
+Northern Cardinal
+Red-bellied Woodpecker
+Red-winged Blackbird
+Ruby-crowned Kinglet
+Tufted Titmouse
+Turkey Vulture
+White-throated Sparrow
+Yellow-bellied Sapsucker
+Yellow-rumped Warbler (Myrtle)
+---Paul 2014-02-13 Texas|Serenity Lake, Fairview
+
+Killdeer
+Ring-necked Duck
+Ruddy Duck
+---Mark 2014-02-17 Ohio|Scioto River, Columbus
+
+Red-breasted Merganser
+---Paul 2014-02-18 Oklahoma|S. Jenkins, Norman
+
+American Crow
+Blue Jay
+Canada Goose
+Carolina Chickadee
+Carolina Wren
+Downy Woodpecker
+Eastern Bluebird
+Eastern Meadowlark
+European Starling
+Lincoln's Sparrow
+Mallard
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Red-bellied Woodpecker
+Red-shouldered Hawk
+Red-tailed Hawk
+Song Sparrow
+Swamp Sparrow
+Tufted Titmouse
+Turkey Vulture
+---Paul 2014-02-19 Oklahoma|S. Jenkins, Norman
+
+American Crow
+Blue Jay
+Carolina Chickadee
+Downy Woodpecker
+Eastern Bluebird
+Eastern Meadowlark
+European Starling
+Killdeer
+Mallard
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Pied-billed Grebe
+Red-tailed Hawk
+Red-winged Blackbird
+Rock Pigeon
+Tufted Titmouse
+Turkey Vulture
+---Mark 2014-02-24 Oklahoma|Norman, Oklahoma
+
+American Coot
+Common Grackle
+Eurasian Collared-Dove
+European Starling
+Great-tailed Grackle
+Mourning Dove
+Red-winged Blackbird
+Ring-billed Gull
+---Mark 2014-02-24 Oklahoma|Norman; Jenkins Rd, Oklahoma
+
+American Crow
+American Robin
+Belted Kingfisher
+Canada Goose
+Carolina Chickadee
+Carolina Wren
+Downy Woodpecker
+Eastern Bluebird
+Eastern Phoebe
+Gadwall
+Great Blue Heron
+Greater Yellowlegs
+Lincoln's Sparrow
+Mallard
+Northern Cardinal
+Northern Flicker
+Northern Mockingbird
+Red-shouldered Hawk
+Red-tailed Hawk
+Rock Pigeon
+Song Sparrow
+Swamp Sparrow
+Tufted Titmouse
+Turkey Vulture
+White-crowned Sparrow
+---Paul 2014-02-24 Oklahoma|Norman
+
+American Coot (Red-shielded)
+Common Grackle
+Eurasian Collared-Dove
+European Starling
+Great-tailed Grackle
+Mourning Dove
+Red-winged Blackbird
+Ring-billed Gull
+---Paul 2014-02-24 Oklahoma|S. Jenkins, Norman
+
+American Crow
+American Robin
+Belted Kingfisher
+Canada Goose
+Carolina Chickadee
+Carolina Wren
+Downy Woodpecker
+Eastern Bluebird
+Eastern Phoebe
+Gadwall
+Great Blue Heron
+Greater Yellowlegs
+Lincoln's Sparrow
+Mallard
+Northern Cardinal
+Northern Mockingbird
+Red-shouldered Hawk
+Red-tailed Hawk
+Rock Pigeon
+Song Sparrow
+Swamp Sparrow
+Tufted Titmouse
+Turkey Vulture
+White-crowned Sparrow
+---Mark 2014-02-25 Oklahoma|Lake Hefner, Oklahoma
+
+American Coot
+American Crow
+American Robin
+American White Pelican
+Bufflehead
+Canada Goose
+Common Goldeneye
+Common Grackle
+Common Loon
+Double-crested Cormorant
+Eared Grebe
+Eurasian Collared-Dove
+European Starling
+Gadwall
+Great Blue Heron
+Greater Yellowlegs
+Green-winged Teal
+Hooded Merganser
+House Sparrow
+Killdeer
+Lesser Scaup
+Mallard
+Neotropic Cormorant
+Northern Cardinal
+Northern Pintail
+Northern Shoveler
+Pied-billed Grebe
+Red-bellied Woodpecker
+Red-breasted Merganser
+Red-winged Blackbird
+Ring-billed Gull
+Ring-necked Duck
+Rock Pigeon
+Ruddy Duck
+Short-billed/Long-billed Dowitcher
+---Mark 2014-02-25 Oklahoma|Norman, Oklahoma
+
+American Kestrel
+Mute Swan
+Red-tailed Hawk
+---Paul 2014-02-25 Oklahoma|Lake Hefner, OKC
+
+American Coot (Red-shielded)
+American Crow
+American Robin
+American White Pelican
+Bufflehead
+Canada Goose
+Common Goldeneye
+Common Grackle
+Common Loon
+Double-crested Cormorant
+Eared Grebe
+Eurasian Collared-Dove
+European Starling
+Gadwall
+Great Blue Heron
+Greater Yellowlegs
+Green-winged Teal
+Hooded Merganser
+House Sparrow
+Killdeer
+Lesser Scaup
+Mallard
+Neotropic Cormorant
+Northern Cardinal
+Northern Pintail
+Northern Shoveler
+Pied-billed Grebe
+Red-bellied Woodpecker
+Red-breasted Merganser
+Red-winged Blackbird
+Ring-billed Gull
+Ring-necked Duck
+Rock Pigeon
+Ruddy Duck
+---Paul 2014-02-25 Oklahoma|Norman
+
+American Kestrel
+Mute Swan
+Red-tailed Hawk
+---Paul 2014-02-25 Oklahoma|Pond on OK 37
+
+Mute Swan
+---Paul 2014-02-27 Oklahoma|36th St., Norman
+
+Sharp-shinned Hawk
+---Mark 2014-02-28 Ohio|Scioto River, Columbus
+
+Black-crowned Night-Heron
+Great Blue Heron
+Hooded Merganser
+Mallard

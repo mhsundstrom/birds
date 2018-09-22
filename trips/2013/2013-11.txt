@@ -1,0 +1,435 @@
+---Mark 2013-11-03 California|Chula Vista, San Diego
+
+American Coot
+American Crow
+Brown Pelican
+Eared Grebe
+Mallard
+Marbled Godwit
+Rock Pigeon
+gull sp.
+hummingbird sp.
+---Paul 2013-11-04 Texas|Brownsville
+
+Buff-bellied Hummingbird
+---Paul 2013-11-04 Texas|South Padre Island
+
+American Coot (Red-shielded)
+American Kestrel
+American Redstart
+American White Pelican
+Belted Kingfisher
+Black Vulture
+Black-bellied Plover
+Black-bellied Whistling-Duck
+Black-necked Stilt
+Black-throated Green Warbler
+Blackpoll Warbler
+Brown Pelican (Atlantic)
+Caspian Tern
+Common Gallinule
+Common Yellowthroat
+Double-crested Cormorant
+Eastern Meadowlark
+Eurasian Collared-Dove
+Forster's Tern
+Franklin's Gull
+Gray Catbird
+Great Blue Heron
+Great Egret
+Great-tailed Grackle
+Gull-billed Tern
+Harris's Hawk
+House Sparrow
+Lark Sparrow
+Laughing Gull
+Least Bittern
+Least Tern
+Little Blue Heron
+Loggerhead Shrike
+Long-billed Curlew
+Marbled Godwit
+Marsh Wren
+Mottled Duck
+Mourning Dove
+Nashville Warbler
+Northern Harrier
+Northern Mockingbird
+Northern Pintail
+Orange-crowned Warbler
+Osprey
+Pied-billed Grebe
+Red-tailed Hawk
+Red-winged Blackbird
+Reddish Egret
+Redhead
+Ring-billed Gull
+Rock Pigeon
+Roseate Spoonbill
+Ruby-crowned Kinglet
+Ruddy Duck
+Sanderling
+Sandwich Tern
+Scissor-tailed Flycatcher
+Semipalmated Plover
+Semipalmated Sandpiper
+Snowy Egret
+Snowy Plover
+Spotted Sandpiper
+Tricolored Heron
+Turkey Vulture
+Western Sandpiper
+White Ibis
+White-eyed Vireo
+White-winged Dove
+Willet
+Wilson's Warbler
+Yellow-headed Blackbird
+Yellow-rumped Warbler (Audubon's)
+---Paul 2013-11-05 Texas|Audubon Thicket, Weslaco
+
+Green Jay
+Plain Chachalaca
+White-tipped Dove
+---Paul 2013-11-05 Texas|Estero Llano State Park, Weslaco
+
+Anhinga
+Blue-winged Teal
+Cattle Egret
+Common Pauraque
+Cooper's Hawk
+Eastern Screech-Owl (McCall's)
+European Starling
+Fulvous Whistling-Duck
+Golden-fronted Woodpecker
+Great Kiskadee
+Green Jay
+Green Kingfisher
+House Wren
+Inca Dove
+Least Grebe
+Northern Cardinal
+Northern Shoveler
+Ring-necked Duck
+Ruby-throated Hummingbird
+Solitary Sandpiper
+Sora
+Stilt Sandpiper
+White-tipped Dove
+Yellow-crowned Night-Heron
+---Paul 2013-11-05 Texas|Frontera Audubon, Weslaco
+
+Plain Chachalaca
+---Mark 2013-11-06 California|Borrego Springs
+
+American Kestrel
+---Paul 2013-11-06 Texas|Atascosa NWR, Laguna Atascosa
+
+American Avocet
+Common Ground-Dove
+Crested Caracara
+Greater Yellowlegs
+Least Sandpiper
+Long-billed Dowitcher
+White-tailed Kite
+---Mark 2013-11-07 California|Anza-Borrego Desert State Park, California
+
+American Crow
+American Kestrel
+House Finch
+Mourning Dove
+White-crowned Sparrow
+---Paul 2013-11-07 Texas|Chapeño
+
+Eastern Phoebe
+Greater White-fronted Goose
+---Paul 2013-11-07 Texas|Saliñeno
+
+Altamira Oriole
+Audubon's Oriole
+Bewick's Wren
+Black-crested Titmouse
+Blue-gray Gnatcatcher
+Chipping Sparrow
+Curve-billed Thrasher
+Gray Hawk
+Green Kingfisher
+Hermit Thrush
+Hooded Oriole
+Lincoln's Sparrow
+Long-billed Thrasher
+Olive Sparrow
+Red-shouldered Hawk
+Ringed Kingfisher
+White-crowned Sparrow
+---Paul 2013-11-07 Texas|Starr County State Park
+
+Painted Bunting
+Sandhill Crane
+---Mark 2013-11-08 California|Idyllwild
+
+White-breasted Nuthatch
+---Mark 2013-11-08 California|Idyllwild, California
+
+California Quail
+Common Raven
+---Paul 2013-11-08 Texas|Brownsville
+
+Green Parakeet
+Killdeer
+Lilac-crowned Parrot
+Red-crowned Parrot
+Red-lored Parrot
+White-fronted Parrot
+Yellow-headed Parrot
+---Paul 2013-11-08 Texas|Park near Pace HS, Brownsville
+
+Lilac-crowned Parrot
+Red-crowned Parrot
+Red-lored Parrot
+White-fronted Parrot
+Yellow-headed Parrot
+---Paul 2013-11-08 Texas|Ramsay Park, Harlingen
+
+Buff-bellied Hummingbird
+---Paul 2013-11-08 Texas|Santa Ana National Wildlife Refuge
+
+American Wigeon
+Black-and-white Warbler
+Carolina Wren
+Cave Swallow
+Gadwall
+Green-winged Teal
+Ladder-backed Woodpecker
+Lesser Yellowlegs
+Savannah Sparrow
+Short-billed Dowitcher
+Tree Swallow
+Vermilion Flycatcher
+White-faced Ibis
+Wood Duck
+Yellow-bellied Sapsucker
+---Mark 2013-11-09 California|Idyllwild, California
+
+Common Raven
+Dark-eyed Junco
+Ruby-crowned Kinglet
+Steller's Jay
+White-breasted Nuthatch
+---Paul 2013-11-09 Texas|Brownsville
+
+Amazon Kingfisher
+---Paul 2013-11-09 Texas|Convention Center, Harlingen
+
+Brewer's Blackbird
+Bronzed Cowbird
+Tropical Kingbird
+---Paul 2013-11-09 Texas|National Butterfly Center, Mission
+
+Clay-colored Thrush
+---Paul 2013-11-09 Texas|Sabal Palm Audubon Center, Brownsville
+
+Amazon Kingfisher
+Blue-headed Vireo
+Clay-colored Thrush
+Least Flycatcher
+Merlin
+Snow Goose
+---Mark 2013-11-10 California|Idyllwild, California
+
+Mountain Chickadee
+Oak Titmouse
+---Paul 2013-11-10 Texas|Bentsen-Rio Grande State Park, Mission
+
+Olive Sparrow
+---Paul 2013-11-10 Texas|Bentsen-Rio Grande State Park. Mission
+
+Black Phoebe
+Yellow-rumped Warbler (Myrtle)
+---Mark 2013-11-12 California|El Capitan State Beach and Ocean Mesa RV Park, California
+
+American Crow
+Brown Pelican
+Bushtit
+California Thrasher
+Common Yellowthroat
+Cooper's Hawk
+Elegant Tern
+Heermann's Gull
+House Finch
+Killdeer
+Osprey
+Surf Scoter
+Whimbrel
+White-crowned Sparrow
+Yellow-rumped Warbler
+---Mark 2013-11-13 California|El Capitan State Beach and Ocean Mesa RV Park, California
+
+American Robin
+California Scrub-Jay
+California Towhee
+Red-tailed Hawk
+White-crowned Sparrow
+---Mark 2013-11-13 California|Santa Barbara, California
+
+American Coot
+Black Phoebe
+Brown Pelican
+Western Grebe
+---Mark 2013-11-14 California|El Camino Real, San Ardo
+
+Turkey Vulture
+---Mark 2013-11-14 California|Moss Landing, California
+
+American Coot
+Brandt's Cormorant
+Brown Pelican
+Great Blue Heron
+Surf Scoter
+Western Grebe
+White-crowned Sparrow
+gull sp.
+---Mark 2013-11-14 California|US 101, Santa Maria
+
+Black-billed Magpie
+---Mark 2013-11-15 California|Lafayette Reservoir, California
+
+American Coot
+American Crow
+American White Pelican
+Bufflehead
+Canada Goose
+Cooper's Hawk
+Double-crested Cormorant
+Eared Grebe
+Gadwall
+Great Blue Heron
+Pied-billed Grebe
+Red-winged Blackbird
+Steller's Jay
+Wild Turkey
+Yellow-rumped Warbler
+---Mark 2013-11-15 California|Moss Landing, California
+
+American Coot
+Black Phoebe
+Brown Pelican
+European Starling
+Great Horned Owl
+Greater Yellowlegs
+Killdeer
+Mallard
+Red-tailed Hawk
+Semipalmated Plover
+Surf Scoter
+Western Grebe
+White-crowned Sparrow
+White-throated Sparrow
+gull sp.
+---Mark 2013-11-16 California|Orinda, California
+
+Western Screech-Owl
+---Mark 2013-11-17 California|Lafayette Reservoir, California
+
+Canvasback
+Red-shouldered Hawk
+---Mark 2013-11-18 California|Livermore, California
+
+Acorn Woodpecker
+American Robin
+Black Phoebe
+California Scrub-Jay
+Cedar Waxwing
+Common Raven
+Golden Eagle
+Golden-crowned Sparrow
+Loggerhead Shrike
+Steller's Jay
+Turkey Vulture
+Western Bluebird
+Western Meadowlark
+White-breasted Nuthatch
+White-crowned Sparrow
+White-tailed Kite
+---Mark 2013-11-18 California|Mines Rd, Livermore
+
+Lewis's Woodpecker
+---Mark 2013-11-18 California|Orinda, California
+
+Band-tailed Pigeon
+---Mark 2013-11-18 California|Via Floreado, Orinda
+
+Chestnut-backed Chickadee
+---Mark 2013-11-21 Oregon|Bullard's Beach State Park, Oregon
+
+American Coot
+American Robin
+Black-capped Chickadee
+Brown Creeper
+Bufflehead
+Cassin's Vireo
+Chestnut-backed Chickadee
+Fox Sparrow
+Golden-crowned Kinglet
+Northern Flicker
+Ruby-crowned Kinglet
+Spotted Towhee
+Townsend's Warbler
+Western Grebe
+White-crowned Sparrow
+Yellow-rumped Warbler
+---Mark 2013-11-22 Oregon|Cape Arago, Oregon
+
+Common Goldeneye
+Fox Sparrow
+Northern Flicker
+Pelagic Cormorant
+Western Grebe
+---Mark 2013-11-23 Oregon|Cape Arago, Oregon
+
+Harlequin Duck
+Pelagic Cormorant
+Peregrine Falcon
+Surf Scoter
+---Mark 2013-11-24 Oregon|Hecata Head Lighthouse area, Oregon
+
+Hermit Thrush
+hummingbird sp.
+---Mark 2013-11-26 Washington|Castle Rock
+
+Belted Kingfisher
+---Mark 2013-11-26 Washington|Mount St Helens Visitor Center, Washington
+
+Belted Kingfisher
+---Mark 2013-11-28 Washington|Bellevue, Washington
+
+Black-capped Chickadee
+hummingbird sp.
+---Mark 2013-11-29 Washington|Bothell, North Creek area, Washington
+
+American Coot
+American Wigeon
+Bufflehead
+Canada Goose
+Double-crested Cormorant
+Gadwall
+Great Blue Heron
+Green-winged Teal
+Hooded Merganser
+House Finch
+Mallard
+Red-tailed Hawk
+Ring-necked Duck
+---Mark 2013-11-30 Washington|Bothell, North Creek, Seattle
+
+American Crow
+American Robin
+American Wigeon
+Black-capped Chickadee
+Bufflehead
+Downy Woodpecker
+Fox Sparrow
+Great Blue Heron
+Green-winged Teal
+Mallard
+Red-winged Blackbird

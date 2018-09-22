@@ -1,0 +1,103 @@
+---Mark 2002-09-01 Colorado|Garden of the Gods, Colorado
+
+Rock Pigeon
+Woodhouse's Scrub-Jay
+---Mark 2002-09-01 Colorado|Pikes Peak, Colorado
+
+grouse sp.
+hawk sp.
+---Mark 2002-09-02 Colorado|North Cheyenne Canon Park, Colorado
+
+Black-capped Chickadee
+Brown Creeper
+Clark's Nutcracker
+Gray Catbird
+Pygmy Nuthatch
+Red-breasted Nuthatch
+---Mark 2002-09-03 Colorado|Gunnison, Colorado
+
+American White Pelican
+---Mark 2002-09-07 Arizona|Kartchner Caverns State Park, Arizona
+
+Black-throated Sparrow
+Broad-billed Hummingbird
+---Mark 2002-09-08 Arizona|Mt Lemmon, Arizona
+
+Black-throated Gray Warbler
+---Mark 2002-09-09 Arizona|Sedona - Hannig, Arizona
+
+Green-tailed Towhee
+Juniper Titmouse
+---Mark 2002-09-10 Arizona|Sedona - Hannig, Arizona
+
+Black-headed Grosbeak
+---Mark 2002-09-10 Arizona|Sedona - Red Rock SP, Arizona
+
+Belted Kingfisher
+Bewick's Wren
+Blue Grosbeak
+Brewer's Sparrow
+Broad-tailed Hummingbird
+Canyon Towhee
+Gila Woodpecker
+Green-tailed Towhee
+Mallard
+Northern Flicker
+Summer Tanager
+Warbling Vireo
+Wilson's Warbler
+Woodhouse's Scrub-Jay
+Yellow Warbler
+flycatcher sp. (Tyrannidae sp.)
+---Mark 2002-09-11 Arizona|Sedona - Cathedral Rock, Arizona
+
+Rock Wren
+---Mark 2002-09-11 Arizona|Sedona - Hannig, Arizona
+
+Lesser Goldfinch
+---Mark 2002-09-12 Arizona|Sedona - Boynton Canyon, Arizona
+
+Bewick's Wren
+Bridled Titmouse
+Bushtit
+Canyon Wren
+Cassin's Vireo
+Hairy Woodpecker
+Juniper Titmouse
+Ruby-crowned Kinglet
+Spotted Towhee
+Steller's Jay
+White-breasted Nuthatch
+Woodhouse's Scrub-Jay
+hummingbird sp.
+warbler sp. (Parulidae sp.)
+---Mark 2002-09-14 California|Back Bay, Orange County
+
+Belted Kingfisher
+Brown Pelican
+Great Blue Heron
+Great Egret
+tern sp.
+---Mark 2002-09-23 Canada|Clayoquot Sound, British Columbia
+
+Belted Kingfisher
+Common Loon
+Common Raven
+Double-crested Cormorant
+murrelet sp.
+---Mark 2002-09-24 Canada|Clayoquot Sound, British Columbia
+
+Black Oystercatcher
+Common Loon
+Common Murre
+Osprey
+Pacific Wren
+Pigeon Guillemot
+cormorant sp.
+---Mark 2002-09-25 Canada|Clayoquot Sound, British Columbia
+
+Bald Eagle
+Northern Flicker
+Red-breasted Merganser
+Steller's Jay
+Surf Scoter

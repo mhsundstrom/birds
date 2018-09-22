@@ -1,0 +1,806 @@
+---Paul 2016-02-01 Texas|Black plains Raptor Center, Lucas
+
+American Crow
+American Robin
+Bewick's Wren
+Black Vulture
+Blue Jay
+Bonaparte's Gull
+Carolina Chickadee
+Cedar Waxwing
+Dark-eyed Junco (Slate-colored)
+Double-crested Cormorant
+Downy Woodpecker
+Eared Grebe
+Eastern Bluebird
+Eastern Meadowlark
+Eastern Phoebe
+Forster's Tern
+Fox Sparrow (Red)
+Gadwall
+Golden-crowned Kinglet
+Great Blue Heron
+Harris's Sparrow
+Mallard
+Mourning Dove
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Northern Mockingbird
+Orange-crowned Warbler
+Pied-billed Grebe
+Pine Siskin
+Pine Warbler
+Red-bellied Woodpecker
+Red-tailed Hawk
+Ring-billed Gull
+Ruby-crowned Kinglet
+Song Sparrow
+Tufted Titmouse
+Turkey Vulture
+Yellow-rumped Warbler (Myrtle)
+---Mark 2016-02-02 Ohio|Miranova
+
+Canada Goose
+Hooded Merganser
+Mallard
+---Paul 2016-02-02 Texas|Heard Wildlife Sanctuary, Fairview
+
+American Coot (Red-shielded)
+American Crow
+American Goldfinch
+American Robin
+Black Vulture
+Blue Jay
+Brown Creeper
+Canada Goose
+Carolina Chickadee
+Carolina Wren
+Dark-eyed Junco (Slate-colored)
+Downy Woodpecker
+Eastern Phoebe
+Field Sparrow
+Fox Sparrow (Red)
+Gadwall
+Golden-crowned Kinglet
+Great Blue Heron
+Great Egret
+Green-winged Teal
+Hermit Thrush
+Hooded Merganser
+House Finch
+Lincoln's Sparrow
+Mallard
+Mourning Dove
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Northern Mockingbird
+Northern Shoveler
+Pine Siskin
+Red-bellied Woodpecker
+Red-winged Blackbird
+Ring-necked Duck
+Ruby-crowned Kinglet
+Swamp Sparrow
+Tufted Titmouse
+Turkey Vulture
+White-throated Sparrow
+Winter Wren
+Wood Duck
+Yellow-rumped Warbler (Myrtle)
+---Paul 2016-02-03 Texas|Towne Lake Park, McKinney
+
+American Coot (Red-shielded)
+American Crow
+American Robin
+Blue Jay
+Brown Creeper
+Canada Goose
+Carolina Chickadee
+Carolina Wren
+Cedar Waxwing
+Dark-eyed Junco (Slate-colored)
+Double-crested Cormorant
+Downy Woodpecker
+Eastern Bluebird
+European Starling
+Golden-crowned Kinglet
+Great Blue Heron
+Great-tailed Grackle
+Killdeer
+Mallard
+Northern Flicker (Yellow-shafted)
+Orange-crowned Warbler
+Pied-billed Grebe
+Red-shouldered Hawk
+Ring-billed Gull
+Ruby-crowned Kinglet
+Tufted Titmouse
+White-breasted Nuthatch
+White-throated Sparrow
+Yellow-bellied Sapsucker
+Yellow-rumped Warbler (Myrtle)
+---Mark 2016-02-05 Ohio|Miranova
+
+Red-breasted Merganser
+---Paul 2016-02-05 Texas|Oak Point Nature Preserve, Plano
+
+American Crow
+American Kestrel
+American Robin
+Blue Jay
+Carolina Chickadee
+Carolina Wren
+Dark-eyed Junco (Slate-colored)
+Double-crested Cormorant
+Downy Woodpecker
+Eastern Bluebird
+Golden-crowned Kinglet
+Great Egret
+Great-tailed Grackle
+Greater Scaup
+Hairy Woodpecker
+Harris's Sparrow
+Mallard
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Northern Mockingbird
+Red-bellied Woodpecker
+Red-tailed Hawk
+Ruby-crowned Kinglet
+Tufted Titmouse
+Yellow-rumped Warbler (Myrtle)
+---Mark 2016-02-06 Ohio|Columbus
+
+White-throated Sparrow
+---Paul 2016-02-06 Texas|White Rock Lake, Garland
+
+American Coot (Red-shielded)
+American Crow
+American White Pelican
+Blue Jay
+Bonaparte's Gull
+Double-crested Cormorant
+Forster's Tern
+Gadwall
+Great Blue Heron
+Killdeer
+Mallard
+Monk Parakeet
+Mourning Dove
+Northern Cardinal
+Ring-billed Gull
+Rock Pigeon
+Ruddy Duck
+---Mark 2016-02-08 Ohio|Scioto Audubon Metro Park
+
+American Goldfinch
+Hooded Merganser
+House Finch
+Northern Cardinal
+Ring-billed Gull
+---Paul 2016-02-08 Texas|Black plains Raptor Center, Lucas
+
+American Coot (Red-shielded)
+American Crow
+American Robin
+Bewick's Wren
+Black Vulture
+Blue Jay
+Carolina Chickadee
+Carolina Wren
+Cedar Waxwing
+Dark-eyed Junco (Slate-colored)
+Double-crested Cormorant
+Eastern Bluebird
+Eastern Phoebe
+Fox Sparrow (Red)
+Gadwall
+Great Blue Heron
+Great Horned Owl
+Harris's Sparrow
+Lincoln's Sparrow
+Mourning Dove
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Northern Mockingbird
+Orange-crowned Warbler
+Pine Siskin
+Pine Warbler
+Red-bellied Woodpecker
+Red-winged Blackbird
+Ring-billed Gull
+Ring-necked Duck
+Ruby-crowned Kinglet
+Song Sparrow
+Tufted Titmouse
+Turkey Vulture
+White-throated Sparrow
+Yellow-rumped Warbler (Myrtle)
+---Paul 2016-02-09 Texas|Heard Wildlife Sanctuary, Fairview
+
+American Coot (Red-shielded)
+American Crow
+American Goldfinch
+Black Vulture
+Blue Jay
+Brown Creeper
+Brown Thrasher
+Canada Goose
+Carolina Chickadee
+Carolina Wren
+Cedar Waxwing
+Dark-eyed Junco (Slate-colored)
+Double-crested Cormorant
+Downy Woodpecker
+Eastern Bluebird
+Eastern Phoebe
+Fox Sparrow (Red)
+Gadwall
+Golden-crowned Kinglet
+Great Blue Heron
+Harris's Sparrow
+Hermit Thrush
+Hooded Merganser
+House Finch
+Lincoln's Sparrow
+Mallard
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Northern Shoveler
+Pied-billed Grebe
+Pine Siskin
+Red-bellied Woodpecker
+Red-shouldered Hawk
+Red-winged Blackbird
+Ring-necked Duck
+Ruby-crowned Kinglet
+Song Sparrow
+Spotted Towhee
+Swamp Sparrow
+Tufted Titmouse
+White-throated Sparrow
+Winter Wren
+Wood Duck
+Yellow-bellied Sapsucker
+Yellow-rumped Warbler (Myrtle)
+---Paul 2016-02-10 Texas|Heritage Ranch, Fairview
+
+American Crow
+American Goldfinch
+Blue Jay
+Canada Goose
+Carolina Chickadee
+Carolina Wren
+Chipping Sparrow
+Dark-eyed Junco (Slate-colored)
+Double-crested Cormorant
+Downy Woodpecker
+Eastern Bluebird
+Eastern Phoebe
+European Starling
+Golden-crowned Kinglet
+House Sparrow
+Killdeer
+Mallard
+Mourning Dove
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Northern Mockingbird
+Pine Siskin
+Pine Warbler
+Red-bellied Woodpecker
+Red-shouldered Hawk
+Red-tailed Hawk
+Red-winged Blackbird
+Ring-necked Duck
+Ruby-crowned Kinglet
+Tufted Titmouse
+Turkey Vulture
+White-breasted Nuthatch
+White-throated Sparrow
+Yellow-bellied Sapsucker
+Yellow-rumped Warbler (Myrtle)
+---Paul 2016-02-11 Texas|Hagerman National Wildlife Refuge
+
+American Coot (Red-shielded)
+American Crow
+American Goldfinch
+American Kestrel
+American Robin
+Barred Owl
+Belted Kingfisher
+Bewick's Wren
+Bonaparte's Gull
+Brown Creeper
+Brown Thrasher
+Canada Goose
+Carolina Wren
+Dark-eyed Junco (Slate-colored)
+Double-crested Cormorant
+Downy Woodpecker
+Eastern Bluebird
+Eastern Phoebe
+European Starling
+Field Sparrow
+Forster's Tern
+Fox Sparrow (Red)
+Gadwall
+Golden-crowned Kinglet
+Great Blue Heron
+Great Egret
+Greater Roadrunner
+Greater Yellowlegs
+Green-winged Teal
+Harris's Sparrow
+Hermit Thrush
+Killdeer
+Least Sandpiper
+Lesser Black-backed Gull (fuscus)
+Lincoln's Sparrow
+Mallard
+Mourning Dove
+Neotropic Cormorant
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Northern Pintail
+Northern Shoveler
+Orange-crowned Warbler
+Pied-billed Grebe
+Red-bellied Woodpecker
+Red-shouldered Hawk
+Red-tailed Hawk
+Red-winged Blackbird
+Redhead
+Ring-billed Gull
+Ross's Goose
+Ruby-crowned Kinglet
+Savannah Sparrow
+Sharp-shinned Hawk
+Snow Goose
+Song Sparrow
+Spotted Towhee
+Tufted Titmouse
+Turkey Vulture
+Vesper Sparrow
+White-crowned Sparrow
+White-throated Sparrow
+Wild Turkey
+Yellow-bellied Sapsucker
+Yellow-rumped Warbler (Myrtle)
+---Paul 2016-02-16 Texas|Black plains Raptor Center, Lucas
+
+American Coot (Red-shielded)
+American Crow
+American Robin
+Blue Jay
+Bonaparte's Gull
+Carolina Chickadee
+Carolina Wren
+Dark-eyed Junco (Slate-colored)
+Double-crested Cormorant
+Downy Woodpecker
+Eastern Bluebird
+Eastern Phoebe
+Forster's Tern
+Gadwall
+Great Blue Heron
+Great Egret
+Lincoln's Sparrow
+Mallard
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Northern Mockingbird
+Orange-crowned Warbler
+Osprey
+Pied-billed Grebe
+Pine Warbler
+Red-bellied Woodpecker
+Red-winged Blackbird
+Ring-billed Gull
+Ring-necked Duck
+Ruby-crowned Kinglet
+Savannah Sparrow
+Song Sparrow
+Tufted Titmouse
+Turkey Vulture
+White-throated Sparrow
+Yellow-rumped Warbler (Myrtle)
+---Paul 2016-02-17 Texas|Heard Wildlife Sanctuary, Fairview
+
+American Coot (Red-shielded)
+American Crow
+American Goldfinch
+American Robin
+Black Vulture
+Blue Jay
+Canada Goose
+Carolina Chickadee
+Carolina Wren
+Dark-eyed Junco (Slate-colored)
+Double-crested Cormorant
+Downy Woodpecker
+Eastern Bluebird
+Eastern Phoebe
+Field Sparrow
+Fox Sparrow (Red)
+Gadwall
+Great Blue Heron
+Great Egret
+Hairy Woodpecker
+Harris's Sparrow
+Hermit Thrush
+Hooded Merganser
+Mallard
+Mourning Dove
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Northern Mockingbird
+Northern Shoveler
+Pied-billed Grebe
+Pine Siskin
+Red-bellied Woodpecker
+Red-shouldered Hawk
+Red-tailed Hawk
+Red-winged Blackbird
+Ring-necked Duck
+Rock Pigeon
+Ruby-crowned Kinglet
+Rusty Blackbird
+Savannah Sparrow
+Song Sparrow
+Tufted Titmouse
+Turkey Vulture
+White-throated Sparrow
+White-winged Dove
+Yellow-rumped Warbler (Myrtle)
+---Paul 2016-02-18 Texas|Oak Point Nature Preserve, Plano
+
+American Crow
+American Kestrel
+American Robin
+Blue Jay
+Brown Creeper
+Carolina Chickadee
+Carolina Wren
+Dark-eyed Junco (Slate-colored)
+Double-crested Cormorant
+Downy Woodpecker
+Eastern Bluebird
+Eastern Meadowlark
+Eastern Phoebe
+European Starling
+Field Sparrow
+Golden-crowned Kinglet
+Hairy Woodpecker
+Lincoln's Sparrow
+Mallard
+Mourning Dove
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Pied-billed Grebe
+Red-bellied Woodpecker
+Red-shouldered Hawk
+Red-tailed Hawk
+Red-winged Blackbird
+Redhead
+Ring-billed Gull
+Ruby-crowned Kinglet
+Savannah Sparrow
+Song Sparrow
+Tufted Titmouse
+Turkey Vulture
+White-breasted Nuthatch
+White-throated Sparrow
+Winter Wren
+Yellow-bellied Sapsucker
+Yellow-rumped Warbler (Myrtle)
+---Paul 2016-02-19 Texas|Heritage Ranch, Fairview
+
+American Crow
+American Robin
+Barred Owl
+Blue Jay
+Brown Thrasher
+Canada Goose
+Carolina Wren
+Dark-eyed Junco (Slate-colored)
+Double-crested Cormorant
+Downy Woodpecker
+Eastern Bluebird
+Eastern Phoebe
+European Starling
+Field Sparrow
+Fox Sparrow (Red)
+Harris's Sparrow
+House Sparrow
+Killdeer
+Lesser Scaup
+Mallard
+Mourning Dove
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Northern Mockingbird
+Red-bellied Woodpecker
+Red-shouldered Hawk
+Red-winged Blackbird
+Ring-billed Gull
+Tufted Titmouse
+Turkey Vulture
+White-throated Sparrow
+Yellow-bellied Sapsucker
+Yellow-rumped Warbler (Myrtle)
+---Paul 2016-02-19 Texas|Mallard Park, Nevada
+
+American Coot (Red-shielded)
+American Crow
+American Goldfinch
+American Kestrel
+American Robin
+Blue Jay
+Double-crested Cormorant
+Eastern Bluebird
+Eurasian Collared-Dove
+European Starling
+Forster's Tern
+Great-tailed Grackle
+Killdeer
+Mallard
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Red-tailed Hawk
+Red-winged Blackbird
+Ring-billed Gull
+Turkey Vulture
+---Paul 2016-02-22 Texas|Towne Lake Park, McKinney
+
+American Coot (Red-shielded)
+American Crow
+Black Vulture
+Blue Jay
+Canada Goose
+Carolina Wren
+Dark-eyed Junco (Slate-colored)
+Double-crested Cormorant
+Eastern Bluebird
+European Starling
+Great Blue Heron
+Great Egret
+Great-tailed Grackle
+Lesser Scaup
+Mallard
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Northern Shoveler
+Pied-billed Grebe
+Red-bellied Woodpecker
+Ring-billed Gull
+Rock Pigeon
+Tufted Titmouse
+Turkey Vulture
+White-throated Sparrow
+White-winged Dove
+Yellow-rumped Warbler (Myrtle)
+---Paul 2016-02-24 Texas|Heritage Ranch, Fairview
+
+American Crow
+American Goldfinch
+American Robin
+Barred Owl
+Black Vulture
+Blue Jay
+Brown Thrasher
+Carolina Chickadee
+Carolina Wren
+Dark-eyed Junco (Slate-colored)
+Downy Woodpecker
+Eastern Bluebird
+Fox Sparrow (Red)
+Great Blue Heron
+Harris's Sparrow
+House Finch
+Mallard
+Mourning Dove
+Northern Cardinal
+Orange-crowned Warbler
+Red-bellied Woodpecker
+Red-shouldered Hawk
+Red-tailed Hawk
+Red-winged Blackbird
+Ruby-crowned Kinglet
+Tufted Titmouse
+Turkey Vulture
+White-throated Sparrow
+Yellow-rumped Warbler (Myrtle)
+---Paul 2016-02-25 Texas|John Butler Sands Wetlands, Compton
+
+American Coot (Red-shielded)
+American Crow
+American Kestrel
+American White Pelican
+Anhinga
+Bald Eagle
+Blue Jay
+Brewer's Blackbird
+Brown Thrasher
+Carolina Chickadee
+Carolina Wren
+Dark-eyed Junco (Slate-colored)
+Double-crested Cormorant
+Downy Woodpecker
+Eastern Bluebird
+Eastern Meadowlark
+Eastern Phoebe
+Eastern Towhee
+Fox Sparrow (Red)
+Gadwall
+Golden-crowned Kinglet
+Great Blue Heron
+Killdeer
+Mallard
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Northern Mockingbird
+Northern Pintail
+Northern Shoveler
+Red-bellied Woodpecker
+Red-tailed Hawk
+Red-winged Blackbird
+Rock Pigeon
+Ruby-crowned Kinglet
+Savannah Sparrow
+Tufted Titmouse
+Turkey Vulture
+White-throated Sparrow
+Wilson's Snipe
+Yellow-bellied Sapsucker
+Yellow-rumped Warbler (Myrtle)
+---Mark 2016-02-26 Texas|Fort Worth Botannical Gardens, Japanese Garden
+
+Wood Duck
+---Paul 2016-02-26 Texas|Heard Wildlife Sanctuary, Fairview
+
+American Coot (Red-shielded)
+American Crow
+American Goldfinch
+American Robin
+Blue Jay
+Brown Thrasher
+Brown-headed Cowbird
+Canada Goose
+Carolina Chickadee
+Carolina Wren
+Common Grackle
+Dark-eyed Junco (Slate-colored)
+Double-crested Cormorant
+Downy Woodpecker
+Eastern Bluebird
+Eastern Phoebe
+Field Sparrow
+Fox Sparrow (Red)
+Gadwall
+Great Blue Heron
+Great Egret
+Hairy Woodpecker
+Harris's Sparrow
+Hermit Thrush
+Hooded Merganser
+Mallard
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Pied-billed Grebe
+Purple Martin
+Red-bellied Woodpecker
+Red-winged Blackbird
+Ring-necked Duck
+Rock Pigeon
+Ruby-crowned Kinglet
+Tufted Titmouse
+White-throated Sparrow
+Yellow-bellied Sapsucker
+Yellow-rumped Warbler (Myrtle)
+---Paul 2016-02-27 Texas|Heritage Ranch, Fairview
+
+American Crow
+American Robin
+Blue Jay
+Brown Creeper
+Brown Thrasher
+Canada Goose
+Carolina Chickadee
+Carolina Wren
+Chipping Sparrow
+Double-crested Cormorant
+Downy Woodpecker
+Eastern Bluebird
+Eastern Phoebe
+European Starling
+Great Blue Heron
+House Sparrow
+Killdeer
+Lesser Scaup
+Lincoln's Sparrow
+Mallard
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Northern Mockingbird
+Red-bellied Woodpecker
+Ring-billed Gull
+Ring-necked Duck
+Ruby-crowned Kinglet
+Tufted Titmouse
+White-breasted Nuthatch
+White-throated Sparrow
+Yellow-bellied Sapsucker
+Yellow-rumped Warbler (Myrtle)
+---Mark 2016-02-29 Texas|White Rock Lake
+
+American Coot
+American Robin
+American White Pelican
+Blue Jay
+Bonaparte's Gull
+Brown-headed Cowbird
+Carolina Chickadee
+Carolina Wren
+Common Grackle
+Double-crested Cormorant
+Downy Woodpecker
+European Starling
+Gadwall
+Killdeer
+Mallard
+Monk Parakeet
+Mourning Dove
+Neotropic Cormorant
+Northern Cardinal
+Northern Flicker
+Northern Mockingbird
+Northern Shoveler
+Pied-billed Grebe
+Red-shouldered Hawk
+Red-winged Blackbird
+Rock Pigeon
+Ruddy Duck
+Tufted Titmouse
+Turkey Vulture
+White-winged Dove
+Yellow-rumped Warbler
+---Paul 2016-02-29 Texas|White Rock Lake, Garland
+
+American Coot (Red-shielded)
+American Crow
+American Robin
+American White Pelican
+Blue Jay
+Bonaparte's Gull
+Brown-headed Cowbird
+Carolina Wren
+Double-crested Cormorant
+Downy Woodpecker
+Eastern Bluebird
+European Starling
+Gadwall
+Great-tailed Grackle
+Killdeer
+Mallard
+Monk Parakeet
+Mourning Dove
+Neotropic Cormorant
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Northern Mockingbird
+Northern Shoveler
+Pied-billed Grebe
+Purple Martin
+Red-shouldered Hawk
+Red-winged Blackbird
+Ring-billed Gull
+Ruddy Duck
+Tufted Titmouse
+Turkey Vulture
+White-winged Dove
+Yellow-rumped Warbler (Myrtle)

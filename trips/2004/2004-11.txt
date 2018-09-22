@@ -1,0 +1,55 @@
+---Mark 2004-11-02 Washington|AlkiCondo
+
+Belted Kingfisher
+Bufflehead
+Horned Grebe
+---Mark 2004-11-04 Washington|Alki
+
+Bufflehead
+Harlequin Duck
+Red-breasted Merganser
+Surf Scoter
+---Mark 2004-11-26 Oregon|Astoria, Oregon
+
+American Coot
+Black-capped Chickadee
+Bufflehead
+Double-crested Cormorant
+Great Blue Heron
+Mallard
+Steller's Jay
+Surf Scoter
+cormorant sp.
+gull sp.
+---Mark 2004-11-27 Oregon|Boiler Bay, Oregon
+
+Black Oystercatcher
+Black Turnstone
+---Mark 2004-11-27 Oregon|Cannon Beach, Oregon
+
+Belted Kingfisher
+---Mark 2004-11-27 Oregon|Rockaway, Oregon
+
+Belted Kingfisher
+Great Blue Heron
+---Mark 2004-11-27 Oregon|Tillamook, Oregon
+
+Bufflehead
+---Mark 2004-11-28 Oregon|Oregon Dunes, Oregon
+
+Northern Flicker
+Red-breasted Nuthatch
+Red-tailed Hawk
+Varied Thrush
+nuthatch sp.
+wren sp.
+---Mark 2004-11-29 California|Eureka, California
+
+Great Egret
+---Mark 2004-11-29 California|Klamath River, California
+
+California Quail
+---Mark 2004-11-30 California|Pismo Beach
+
+Black Oystercatcher
+Brown Pelican

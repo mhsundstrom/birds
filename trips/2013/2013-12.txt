@@ -1,0 +1,171 @@
+---Mark 2013-12-05 Washington|Spencer Island
+
+Belted Kingfisher
+Black-capped Chickadee
+Downy Woodpecker
+Fox Sparrow
+Great Blue Heron
+Green-winged Teal
+Hooded Merganser
+Killdeer
+Lesser Scaup
+Mallard
+Northern Pintail
+Peregrine Falcon
+Pileated Woodpecker
+Red-tailed Hawk
+Spotted Towhee
+---Mark 2013-12-06 Washington|Kenmore Logboom Park, Seattle
+
+American Coot
+American Wigeon
+Belted Kingfisher
+Bufflehead
+Common Merganser
+Double-crested Cormorant
+Gadwall
+Hooded Merganser
+Killdeer
+Lesser Scaup
+Mallard
+Northwestern Crow
+white-winged gull sp.
+---Mark 2013-12-07 Washington|North Creek, Seattle
+
+Belted Kingfisher
+Bufflehead
+Mallard
+Pied-billed Grebe
+Ring-necked Duck
+---Mark 2013-12-09 Canada|Tsawassen ferry terminal, British Columbia
+
+Bald Eagle
+---Mark 2013-12-10 Canada|Springfield, Port Alberni
+
+Common Raven
+---Mark 2013-12-14 Canada|Port Alberni
+
+Bufflehead
+Dark-eyed Junco
+Mallard
+Steller's Jay
+---Mark 2013-12-15 Canada|Log Train Trail, Port Alberni
+
+Bald Eagle
+Hooded Merganser
+---Paul 2013-12-15 Texas|Heritage Ranch, Fairview
+
+American Goldfinch
+American Kestrel
+Black Vulture
+Blue Jay
+Canada Goose
+Carolina Chickadee
+Carolina Wren
+Cedar Waxwing
+Dark-eyed Junco (Slate-colored)
+Harris's Sparrow
+House Sparrow
+Killdeer
+Mallard
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Red-bellied Woodpecker
+Ruby-crowned Kinglet
+Tufted Titmouse
+Turkey Vulture
+White-throated Sparrow
+White-winged Dove
+Yellow-rumped Warbler (Myrtle)
+---Mark 2013-12-16 Canada|Kitsuksis, Port Alberni
+
+Common Merganser
+Red-breasted Merganser
+---Paul 2013-12-19 New York|Central Park, NYC
+
+American Robin
+Dark-eyed Junco (Slate-colored)
+House Sparrow
+Mourning Dove
+Ring-billed Gull
+Rock Pigeon
+White-throated Sparrow
+---Paul 2013-12-23 Massachusetts|Reed St., Warren
+
+American Crow
+Black-capped Chickadee
+Blue Jay
+Dark-eyed Junco (Slate-colored)
+Downy Woodpecker
+House Finch
+House Sparrow
+Mourning Dove
+Northern Cardinal
+Red-bellied Woodpecker
+Ring-billed Gull
+Rock Pigeon
+Song Sparrow
+Tufted Titmouse
+White-breasted Nuthatch
+---Mark 2013-12-25 Washington|Paradise Valley
+
+Golden-crowned Kinglet
+---Mark 2013-12-26 Oregon|Fort Stevens State Park
+
+Spotted Towhee
+---Paul 2013-12-26 Massachusetts|Lancaster
+
+American Crow
+Black-capped Chickadee
+Dark-eyed Junco (Slate-colored)
+House Sparrow
+Northern Cardinal
+Song Sparrow
+---Paul 2013-12-26 Massachusetts|Reservoir, Lancaster
+
+Common Loon
+Common Merganser
+Greater Scaup
+Red-breasted Merganser
+Ruddy Duck
+---Mark 2013-12-27 Oregon|Nehalem Bay State Park
+
+Common Raven
+Dark-eyed Junco
+Northern Flicker
+Spotted Towhee
+---Mark 2013-12-28 Oregon|South Beach State Park
+
+Surf Scoter
+Western Grebe
+---Mark 2013-12-29 Oregon|South Beach State Park
+
+Chestnut-backed Chickadee
+Dark-eyed Junco
+Spotted Towhee
+White-crowned Sparrow
+Yellow-rumped Warbler
+---Mark 2013-12-31 California|Redding
+
+Eurasian Collared-Dove
+---Mark 2013-12-31 California|Redding
+
+Turkey Vulture
+---Mark 2013-12-31 California|Redding
+
+California Scrub-Jay
+---Mark 2013-12-31 California|Sacramento River, Redding
+
+Acorn Woodpecker
+American Robin
+Black Phoebe
+Common Goldeneye
+Double-crested Cormorant
+Great Egret
+Mourning Dove
+Red-tailed Hawk
+White-crowned Sparrow
+---Mark 2013-12-31 California|Shasta Caverns Rd, Lakehead
+
+Acorn Woodpecker

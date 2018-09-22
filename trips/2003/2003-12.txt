@@ -1,0 +1,284 @@
+---Mark 2003-12-04 Washington|Bothell Landing, Seattle
+
+Canada Goose
+Common Goldeneye
+Mallard
+Ring-billed Gull
+---Mark 2003-12-04 Washington|Juanita Bay, Seattle
+
+American Coot
+Bufflehead
+Mallard
+Wood Duck
+---Mark 2003-12-04 Washington|Kenmore Logboom Park, Seattle
+
+American Coot
+American Goldfinch
+American Wigeon
+Bufflehead
+Double-crested Cormorant
+Greater/Lesser Scaup
+Northern Shoveler
+Ring-billed Gull
+---Mark 2003-12-04 Washington|Marymoor Park
+
+American Robin
+American Wigeon
+Double-crested Cormorant
+Great Blue Heron
+House Finch
+Mallard
+Spotted Towhee
+White-crowned Sparrow
+crow sp.
+grebe sp.
+gull sp.
+sparrow sp.
+---Mark 2003-12-06 Washington|Bellevue, Seattle
+
+Chestnut-backed Chickadee
+---Mark 2003-12-08 Washington|AlkiCondo
+
+Great Blue Heron
+---Mark 2003-12-08 Washington|Green Lake, Seattle
+
+American Coot
+American Wigeon
+Common Merganser
+Eurasian Wigeon
+Greater/Lesser Scaup
+Hooded Merganser
+Northern Shoveler
+Pied-billed Grebe
+---Mark 2003-12-09 Washington|AlkiEast, Alki
+
+Bald Eagle
+Barrow's Goldeneye
+Belted Kingfisher
+Black Turnstone
+Bufflehead
+Canada Goose
+Common Goldeneye
+Double-crested Cormorant
+European Starling
+Hooded Merganser
+Pigeon Guillemot
+Red-breasted Merganser
+Red-necked Grebe
+Rock Pigeon
+Ruby-crowned Kinglet
+Surfbird
+Western Grebe
+Yellow-rumped Warbler
+crow sp.
+gull sp.
+sparrow sp.
+---Mark 2003-12-11 Washington|Alki
+
+American Robin
+Barrow's Goldeneye
+Belted Kingfisher
+Black Turnstone
+Brant
+Bufflehead
+Common Goldeneye
+Double-crested Cormorant
+European Starling
+Harlequin Duck
+Horned Grebe
+House Finch
+Red-breasted Merganser
+Red-necked Grebe
+Rock Pigeon
+Sanderling
+Surf Scoter
+Surfbird
+crow sp.
+gull sp.
+sparrow sp.
+---Mark 2003-12-11 Washington|AlkiCondo
+
+Black-capped Chickadee
+---Mark 2003-12-12 Washington|AlkiCondo
+
+Bald Eagle
+Barrow's Goldeneye
+Double-crested Cormorant
+Great Blue Heron
+Horned Grebe
+Red-breasted Merganser
+Surf Scoter
+crow sp.
+gull sp.
+---Mark 2003-12-15 Washington|Marymoor Park
+
+American Coot
+American Goldfinch
+American Robin
+American Wigeon
+Black-capped Chickadee
+Bufflehead
+Fox Sparrow
+Great Blue Heron
+House Finch
+Mallard
+Northern Harrier
+Spotted Towhee
+crow sp.
+---Mark 2003-12-18 Washington|Dash Point County Park, Washington
+
+Bonaparte's Gull
+Double-crested Cormorant
+Horned Grebe
+Red-necked Grebe
+Rhinoceros Auklet
+Ring-billed Gull
+Surf Scoter
+---Mark 2003-12-18 Washington|Des Moines Marina, Washington
+
+Belted Kingfisher
+Bufflehead
+Common Goldeneye
+Common Loon
+Double-crested Cormorant
+Harlequin Duck
+Horned Grebe
+Red-breasted Merganser
+Red-necked Grebe
+Surf Scoter
+gull sp.
+---Mark 2003-12-18 Washington|Dumas Bay, Washington
+
+American Goldfinch
+American Robin
+American Wigeon
+Barrow's Goldeneye
+Black-capped Chickadee
+Canada Goose
+Double-crested Cormorant
+Fox Sparrow
+Killdeer
+Red-breasted Merganser
+Red-tailed Hawk
+Song Sparrow
+Spotted Towhee
+Steller's Jay
+Surf Scoter
+Varied Thrush
+crow sp.
+gull sp.
+wren sp.
+---Mark 2003-12-18 Washington|Gog-Le-Hi-Te Wetland, Washington
+
+Common Merganser
+Rock Pigeon
+gull sp.
+---Mark 2003-12-18 Washington|Point Defiance, Washington
+
+Bald Eagle
+Belted Kingfisher
+Chestnut-backed Chickadee
+Golden-crowned Kinglet
+Northern Flicker
+Ruby-crowned Kinglet
+kinglet sp.
+---Mark 2003-12-22 Washington|Green Lake, Seattle
+
+American Coot
+American Goldfinch
+American Robin
+American Wigeon
+Bald Eagle
+Belted Kingfisher
+Black-capped Chickadee
+Bufflehead
+Canada Goose
+Chestnut-backed Chickadee
+Common Merganser
+Dark-eyed Junco
+Double-crested Cormorant
+Eurasian Wigeon
+European Starling
+Fox Sparrow
+Golden-crowned Kinglet
+Great Blue Heron
+Hooded Merganser
+House Sparrow
+Mallard
+Pied-billed Grebe
+Red-breasted Sapsucker
+Ring-billed Gull
+Rock Pigeon
+Ruby-crowned Kinglet
+crow sp.
+gull sp.
+---Mark 2003-12-27 Washington|Discovery Park
+
+American Robin
+Bewick's Wren
+Black-capped Chickadee
+Bushtit
+Chestnut-backed Chickadee
+Fox Sparrow
+Golden-crowned Kinglet
+Hutton's Vireo
+Pacific Wren
+Ruby-crowned Kinglet
+Spotted Towhee
+Surf Scoter
+gull sp.
+sparrow sp.
+---Mark 2003-12-27 Washington|Juanita Bay, Seattle
+
+Bufflehead
+Double-crested Cormorant
+Green-winged Teal
+---Mark 2003-12-27 Washington|Logboom Park, Seattle
+
+American Coot
+American Wigeon
+Black-capped Chickadee
+Bufflehead
+Common Merganser
+Double-crested Cormorant
+Horned Grebe
+Lesser Scaup
+Mallard
+Pied-billed Grebe
+Ring-billed Gull
+Western Grebe
+crow sp.
+gull sp.
+---Mark 2003-12-29 Washington|Bowerman Basin, Washington
+
+Canada Goose
+Canvasback
+Mallard
+Northern Pintail
+---Mark 2003-12-29 Washington|Nisqually
+
+American Robin
+American Wigeon
+Canada Goose
+European Starling
+Fox Sparrow
+Green-winged Teal
+Mallard
+Northern Pintail
+Northern Shoveler
+Ring-billed Gull
+crow sp.
+gull sp.
+---Mark 2003-12-30 Washington|Ocean Shores, Washington
+
+Bufflehead
+Double-crested Cormorant
+Dunlin
+Lesser Scaup
+Northern Flicker
+Northern Harrier
+Pacific Loon
+Red-breasted Merganser
+Sanderling
+Surf Scoter
+White-winged Scoter

@@ -1,0 +1,112 @@
+---Mark 2003-02-01 Washington|AlkiCondo
+
+Red-breasted Merganser
+---Mark 2003-02-02 Washington|Alki, Alki
+
+American Robin
+Black-capped Chickadee
+Brant
+Dark-eyed Junco
+---Mark 2003-02-04 Washington|Alki
+
+Barrow's Goldeneye
+Belted Kingfisher
+Bonaparte's Gull
+Common Goldeneye
+Double-crested Cormorant
+Pigeon Guillemot
+Red-breasted Merganser
+Western Grebe
+---Mark 2003-02-05 Washington|Alki
+
+Bald Eagle
+Barrow's Goldeneye
+Bufflehead
+Common Goldeneye
+Double-crested Cormorant
+Horned Grebe
+Rock Pigeon
+Surf Scoter
+Western Grebe
+White-winged Scoter
+crow sp.
+gull sp.
+---Mark 2003-02-06 Washington|AlkiCondo
+
+Bald Eagle
+Bonaparte's Gull
+---Mark 2003-02-06 Washington|Seward Park
+
+American Coot
+American Crow
+American Robin
+Bald Eagle
+Bewick's Wren
+Black-capped Chickadee
+Bufflehead
+Bushtit
+Canada Goose
+Chestnut-backed Chickadee
+Common Goldeneye
+Common Merganser
+Double-crested Cormorant
+Gadwall
+Lesser Scaup
+Mallard
+Northern Flicker
+Pacific Wren
+Pied-billed Grebe
+Ring-necked Duck
+Rock Pigeon
+Ruby-crowned Kinglet
+Western Grebe
+gull sp.
+---Mark 2003-02-08 Washington|AlkiCondo
+
+Bonaparte's Gull
+---Mark 2003-02-11 Washington|AlkiCondo
+
+Bald Eagle
+---Mark 2003-02-12 Washington|Alki
+
+American Robin
+Red-breasted Merganser
+Ruby-crowned Kinglet
+---Mark 2003-02-16 Washington|Alki
+
+Surfbird
+---Mark 2003-02-23 Washington|Union Bay, Seattle
+
+American Coot
+American Goldfinch
+American Robin
+Black-capped Chickadee
+Bushtit
+Canada Goose
+Downy Woodpecker
+European Starling
+Hairy Woodpecker
+Mallard
+Northern Flicker
+Red-tailed Hawk
+Red-winged Blackbird
+---Mark 2003-02-24 Washington|Alki
+
+American Robin
+Bald Eagle
+Barrow's Goldeneye
+Bufflehead
+Common Goldeneye
+Double-crested Cormorant
+European Starling
+House Sparrow
+Northwestern Crow
+Pigeon Guillemot
+Red-breasted Merganser
+Sanderling
+Surf Scoter
+Surfbird
+gull sp.
+---Mark 2003-02-25 Washington|Alki
+
+Brant

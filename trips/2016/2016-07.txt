@@ -1,0 +1,848 @@
+---Mark 2016-07-01 Ohio|Miranova
+
+American Goldfinch
+Canada Goose
+Great Blue Heron
+Great Egret
+---Mark 2016-07-04 Pennsylvania|Johnstown
+
+American Crow
+American Goldfinch
+American Robin
+Black-capped Chickadee
+Blue Jay
+Chipping Sparrow
+Eastern Towhee
+Mourning Dove
+Northern Cardinal
+Red-bellied Woodpecker
+Song Sparrow
+Tufted Titmouse
+White-breasted Nuthatch
+Wood Thrush
+---Paul 2016-07-07 Massachusetts|US-MA-Warren-70 Reed St - 42.2054x-72.2030
+
+Alder Flycatcher
+American Crow
+American Goldfinch
+American Redstart
+American Robin
+Barn Swallow
+Black-capped Chickadee
+Cedar Waxwing
+Chimney Swift
+Common Grackle
+Common Yellowthroat
+Eastern Bluebird
+Eastern Kingbird
+Eastern Phoebe
+European Starling
+Gray Catbird
+House Finch
+House Sparrow
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Pileated Woodpecker
+Red-eyed Vireo
+Red-winged Blackbird
+Rock Pigeon
+Ruby-throated Hummingbird
+Song Sparrow
+Tree Swallow
+Tufted Titmouse
+Warbling Vireo
+White-breasted Nuthatch
+Yellow Warbler
+---Paul 2016-07-08 Massachusetts|US-MA-Warren-24-76 Old West Brookfield Rd
+
+American Crow
+American Goldfinch
+American Robin
+Belted Kingfisher
+Blue Jay
+Blue-headed Vireo
+Brown-headed Cowbird
+Cedar Waxwing
+Common Grackle
+Common Yellowthroat
+Downy Woodpecker
+Eastern Bluebird
+Eastern Kingbird
+Eastern Phoebe
+European Starling
+Fish Crow
+Gray Catbird
+Great Blue Heron
+Hairy Woodpecker
+House Sparrow
+Mourning Dove
+Northern Cardinal
+Red-eyed Vireo
+Red-winged Blackbird
+Song Sparrow
+Veery
+Wild Turkey
+---Paul 2016-07-09 Massachusetts|US-MA-New Salem-01355 - 42.4993x-72.3261
+
+American Goldfinch
+Barn Swallow
+Chestnut-sided Warbler
+Chimney Swift
+Chipping Sparrow
+Common Yellowthroat
+Eastern Towhee
+Gray Catbird
+Hermit Thrush
+House Wren
+Indigo Bunting
+Mourning Dove
+Red-eyed Vireo
+Red-shouldered Hawk
+Song Sparrow
+Tree Swallow
+Tufted Titmouse
+Veery
+Warbling Vireo
+Wild Turkey
+Wood Thrush
+Yellow Warbler
+Yellow-bellied Sapsucker
+---Paul 2016-07-09 Massachusetts|US-MA-Warren-New Reed St - 42.1811x-72.2374
+
+Alder Flycatcher
+American Crow
+American Robin
+Barn Swallow
+Canada Goose
+Cedar Waxwing
+Chimney Swift
+Chipping Sparrow
+Common Grackle
+Common Yellowthroat
+Downy Woodpecker
+Eastern Kingbird
+Eastern Phoebe
+European Starling
+Great Blue Heron
+Hermit Thrush
+Indigo Bunting
+Mallard
+Mourning Dove
+Northern Cardinal
+Orchard Oriole
+Red-eyed Vireo
+Red-tailed Hawk
+Red-winged Blackbird
+Scarlet Tanager
+Song Sparrow
+Tree Swallow
+Tufted Titmouse
+Veery
+Virginia Rail
+Warbling Vireo
+White-breasted Nuthatch
+Wood Duck
+Yellow Warbler
+---Paul 2016-07-11 Massachusetts|US-MA-Warren-70 Reed St - 42.2054x-72.2030
+
+American Crow
+American Goldfinch
+American Robin
+Barn Swallow
+Black-capped Chickadee
+Blue Jay
+Cedar Waxwing
+Chipping Sparrow
+Common Grackle
+Common Yellowthroat
+Eastern Bluebird
+Eastern Kingbird
+Eastern Phoebe
+European Starling
+Gray Catbird
+Hermit Thrush
+House Finch
+House Sparrow
+House Wren
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Pileated Woodpecker
+Pine Warbler
+Red-bellied Woodpecker
+Red-eyed Vireo
+Red-winged Blackbird
+Rock Pigeon
+Ruby-throated Hummingbird
+Song Sparrow
+Tree Swallow
+Tufted Titmouse
+Turkey Vulture
+White-breasted Nuthatch
+---Paul 2016-07-12 Massachusetts|US-MA-West Brookfield-1 Pine Grove Dr
+
+American Crow
+American Robin
+Barn Swallow
+Black-capped Chickadee
+Blue Jay
+Broad-winged Hawk
+Chimney Swift
+Chipping Sparrow
+Common Grackle
+Cooper's Hawk
+Downy Woodpecker
+Eastern Bluebird
+Eastern Kingbird
+Eastern Phoebe
+Gray Catbird
+House Sparrow
+Mourning Dove
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Northern Mockingbird
+Pileated Woodpecker
+Pine Warbler
+Red-eyed Vireo
+Red-winged Blackbird
+Ruby-throated Hummingbird
+Tree Swallow
+Tufted Titmouse
+White-breasted Nuthatch
+Yellow Warbler
+Yellow-bellied Sapsucker
+---Mark 2016-07-13 Massachusetts|Quabbin Reservoir
+
+American Crow
+American Goldfinch
+American Redstart
+American Robin
+Black-and-white Warbler
+Black-billed Cuckoo
+Black-throated Green Warbler
+Blue Jay
+Canada Goose
+Chipping Sparrow
+Downy Woodpecker
+Eastern Bluebird
+Eastern Towhee
+Eastern Wood-Pewee
+Gray Catbird
+Great Blue Heron
+Greater Scaup
+House Finch
+House Wren
+Indigo Bunting
+Killdeer
+Mourning Dove
+Northern Mockingbird
+Red-eyed Vireo
+Red-tailed Hawk
+Ruby-throated Hummingbird
+Scarlet Tanager
+Song Sparrow
+Tufted Titmouse
+Veery
+Warbling Vireo
+White-breasted Nuthatch
+Wood Thrush
+Yellow Warbler
+Yellow-bellied Sapsucker
+---Mark 2016-07-13 Massachusetts|Sunsetview Farm Campground
+
+Chimney Swift
+Eastern Bluebird
+Red-shouldered Hawk
+---Paul 2016-07-13 Massachusetts|Quabbin Reservoir
+
+American Crow
+American Goldfinch
+American Kestrel
+American Redstart
+American Robin
+Barn Swallow
+Black-and-white Warbler
+Black-billed Cuckoo
+Black-throated Green Warbler
+Blue Jay
+Canada Goose
+Chimney Swift
+Chipping Sparrow
+Common Grackle
+Common Yellowthroat
+Downy Woodpecker
+Eastern Bluebird
+Eastern Towhee
+Eastern Wood-Pewee
+Gray Catbird
+Great Blue Heron
+Greater Scaup
+House Finch
+House Sparrow
+House Wren
+Indigo Bunting
+Killdeer
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Red-eyed Vireo
+Red-shouldered Hawk
+Red-tailed Hawk
+Rock Pigeon
+Ruby-throated Hummingbird
+Scarlet Tanager
+Song Sparrow
+Tufted Titmouse
+Turkey Vulture
+Veery
+Warbling Vireo
+White-breasted Nuthatch
+Wood Thrush
+Yellow Warbler
+Yellow-bellied Sapsucker
+---Mark 2016-07-14 Massachusetts|Warren
+
+American Crow
+American Goldfinch
+American Redstart
+American Robin
+Barn Swallow
+Belted Kingfisher
+Black-and-white Warbler
+Black-capped Chickadee
+Black-throated Green Warbler
+Blue Jay
+Blue-winged Warbler
+Canada Goose
+Cedar Waxwing
+Chestnut-sided Warbler
+Chimney Swift
+Chipping Sparrow
+Common Grackle
+Common Yellowthroat
+Downy Woodpecker
+Eastern Kingbird
+Eastern Phoebe
+European Starling
+Gadwall
+Gray Catbird
+Great Blue Heron
+House Sparrow
+Mallard
+Mourning Dove
+Northern Cardinal
+Northern Flicker
+Northern Mockingbird
+Northern Waterthrush
+Orchard Oriole
+Pileated Woodpecker
+Red-bellied Woodpecker
+Red-eyed Vireo
+Red-winged Blackbird
+Rock Pigeon
+Rose-breasted Grosbeak
+Song Sparrow
+Swamp Sparrow
+Tree Swallow
+Tufted Titmouse
+Veery
+Warbling Vireo
+White-breasted Nuthatch
+Wood Duck
+Wood Thrush
+Yellow Warbler
+---Paul 2016-07-14 Massachusetts|US-MA-Warren-New Reed St - 42.1811x-72.2374
+
+American Crow
+American Goldfinch
+American Robin
+Barn Swallow
+Belted Kingfisher
+Black-and-white Warbler
+Black-billed Cuckoo
+Black-capped Chickadee
+Black-throated Green Warbler
+Blue Jay
+Blue-winged Warbler
+Canada Goose
+Cedar Waxwing
+Chestnut-sided Warbler
+Chimney Swift
+Chipping Sparrow
+Common Grackle
+Common Yellowthroat
+Downy Woodpecker
+Eastern Kingbird
+Eastern Phoebe
+European Starling
+Gadwall
+Gray Catbird
+Great Blue Heron
+House Sparrow
+Indigo Bunting
+Mallard
+Mourning Dove
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Northern Mockingbird
+Northern Waterthrush
+Orchard Oriole
+Pileated Woodpecker
+Red-bellied Woodpecker
+Red-eyed Vireo
+Red-winged Blackbird
+Rose-breasted Grosbeak
+Song Sparrow
+Swamp Sparrow
+Tree Swallow
+Tufted Titmouse
+Veery
+Warbling Vireo
+White-breasted Nuthatch
+Wood Duck
+Wood Thrush
+Yellow Warbler
+---Mark 2016-07-15 Massachusetts|Sunsetview Farm Campground
+
+Barred Owl
+---Paul 2016-07-15 Massachusetts|US-MA-Warren-New Reed St - 42.1811x-72.2374
+
+American Crow
+American Robin
+Black-and-white Warbler
+Black-capped Chickadee
+Blue Jay
+Canada Goose
+Chimney Swift
+Chipping Sparrow
+Common Yellowthroat
+Downy Woodpecker
+Eastern Kingbird
+Eastern Phoebe
+European Starling
+Gray Catbird
+Great Blue Heron
+House Sparrow
+Indigo Bunting
+Mallard
+Mourning Dove
+Northern Cardinal
+Ovenbird
+Red-eyed Vireo
+Red-shouldered Hawk
+Red-winged Blackbird
+Rock Pigeon
+Rose-breasted Grosbeak
+Song Sparrow
+Tree Swallow
+Tufted Titmouse
+Veery
+Warbling Vireo
+White-breasted Nuthatch
+Wood Duck
+Yellow Warbler
+---Paul 2016-07-16 Massachusetts|US-MA-West Brookfield-1 Pine Grove Dr
+
+American Crow
+American Goldfinch
+American Robin
+Barn Swallow
+Black-capped Chickadee
+Blue Jay
+Cedar Waxwing
+Common Yellowthroat
+Downy Woodpecker
+Eastern Bluebird
+Eastern Kingbird
+European Starling
+Gray Catbird
+Hairy Woodpecker
+House Finch
+House Sparrow
+Mourning Dove
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Northern Mockingbird
+Pileated Woodpecker
+Red-winged Blackbird
+Rock Pigeon
+Song Sparrow
+Tree Swallow
+Yellow Warbler
+---Paul 2016-07-17 Massachusetts|US-MA-Sterling-9 Hall Ave - 42.4152x-71.7426
+
+American Crow
+Common Raven
+Double-crested Cormorant
+House Sparrow
+---Paul 2016-07-18 Massachusetts|US-MA-Lancaster-158-204 Chace Hill Rd - 42.4277x-71.7151
+
+American Crow
+American Goldfinch
+American Kestrel
+American Robin
+Barn Swallow
+Blue Jay
+Chimney Swift
+Chipping Sparrow
+Common Grackle
+Common Loon
+Double-crested Cormorant
+Downy Woodpecker
+Eastern Bluebird
+Eastern Kingbird
+European Starling
+Gray Catbird
+Great Blue Heron
+House Finch
+House Sparrow
+House Wren
+Mallard
+Mourning Dove
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Northern Mockingbird
+Pileated Woodpecker
+Red-winged Blackbird
+Ring-billed Gull
+Rock Pigeon
+Savannah Sparrow
+Song Sparrow
+Tufted Titmouse
+White-breasted Nuthatch
+---Paul 2016-07-19 Massachusetts|US-MA-Lancaster-289-291 Seven Bridge Rd - 42.4619x-71.6593
+
+American Goldfinch
+American Robin
+Blue Jay
+Eastern Kingbird
+Eastern Phoebe
+European Starling
+Gray Catbird
+Great Blue Heron
+Mallard
+Northern Cardinal
+Orchard Oriole
+Red-bellied Woodpecker
+Red-tailed Hawk
+Scarlet Tanager
+---Paul 2016-07-19 Massachusetts|US-MA-Lancaster-424-468 Bolton Rd - 42.4455x-71.6586
+
+American Robin
+Barn Swallow
+Cedar Waxwing
+Common Grackle
+Downy Woodpecker
+Mallard
+Mourning Dove
+Red-eyed Vireo
+Red-tailed Hawk
+Red-winged Blackbird
+Yellow Warbler
+---Paul 2016-07-19 Massachusetts|US-MA-Lancaster-81-231 George Hill Rd - 42.4477x-71.6873
+
+American Goldfinch
+American Redstart
+American Robin
+Barn Swallow
+Black-and-white Warbler
+Bobolink
+Cedar Waxwing
+Eastern Phoebe
+European Starling
+Gray Catbird
+Great Blue Heron
+House Sparrow
+Mourning Dove
+Northern Bobwhite
+Red-tailed Hawk
+Red-winged Blackbird
+Rock Pigeon
+Rose-breasted Grosbeak
+Savannah Sparrow
+Scarlet Tanager
+Song Sparrow
+Vesper Sparrow
+White-breasted Nuthatch
+---Mark 2016-07-20 Ohio|Miranova
+
+American Goldfinch
+Canada Goose
+Great Blue Heron
+Great Egret
+---Paul 2016-07-20 Massachusetts|US-MA-Princeton-133-163 Goodnow Rd - 42.4554x-71.9056
+
+American Crow
+American Goldfinch
+American Robin
+Bank Swallow
+Barn Swallow
+Black-and-white Warbler
+Black-capped Chickadee
+Blue Jay
+Bobolink
+Canada Goose
+Cedar Waxwing
+Common Yellowthroat
+Eastern Bluebird
+Eastern Phoebe
+Eastern Towhee
+Gray Catbird
+Great Blue Heron
+Green Heron
+House Sparrow
+House Wren
+Mourning Dove
+Northern Cardinal
+Orchard Oriole
+Pileated Woodpecker
+Red-eyed Vireo
+Red-tailed Hawk
+Red-winged Blackbird
+Ruby-throated Hummingbird
+Song Sparrow
+Swamp Sparrow
+Tree Swallow
+Tufted Titmouse
+Veery
+White-breasted Nuthatch
+Wild Turkey
+Wood Duck
+Yellow Warbler
+Yellow-bellied Sapsucker
+Yellow-rumped Warbler (Myrtle)
+---Mark 2016-07-21 Ohio|Miranova
+
+Great Egret
+Osprey
+Ring-billed Gull
+Rock Pigeon
+Turkey Vulture
+---Paul 2016-07-21 Connecticut|US-CT-Bridgeport-Pequonnock River - 41.1705x-73.1780
+
+Chimney Swift
+Double-crested Cormorant
+Great Black-backed Gull
+Great Blue Heron
+Great Egret
+Herring Gull
+Osprey
+Ring-billed Gull
+---Paul 2016-07-21 New York|US-NY-Brookhaven-Long Island Sound - 40.9781x-73.0983
+
+Double-crested Cormorant
+Great Black-backed Gull
+Herring Gull
+---Mark 2016-07-22 Ohio|Miranova
+
+Killdeer
+---Paul 2016-07-22 New York|US-NY-Brookhaven-84 Mill Rd - 40.8398x-72.9435
+
+American Robin
+Barn Swallow
+Blue Jay
+Downy Woodpecker
+Eastern Wood-Pewee
+European Starling
+Gray Catbird
+Northern Cardinal
+Orchard Oriole
+---Paul 2016-07-23 New York|US-NY-Brookhaven-221-225 Harbor Beach Rd - 40.9654x-73.0278
+
+Common Tern
+Great Black-backed Gull
+Herring Gull
+Least Tern
+Ring-billed Gull
+---Paul 2016-07-23 New York|US-NY-Brookhaven-Stony Brook University - 40.9112x-73.1194
+
+American Crow
+American Goldfinch
+American Robin
+Barn Swallow
+Blue Jay
+Canada Goose
+Cedar Waxwing
+Chipping Sparrow
+Common Grackle
+Downy Woodpecker
+Eastern Bluebird
+Eastern Kingbird
+Gray Catbird
+Great Blue Heron
+Herring Gull
+House Finch
+House Sparrow
+House Wren
+Mourning Dove
+Northern Mockingbird
+Red-bellied Woodpecker
+Red-eyed Vireo
+Red-winged Blackbird
+Rock Pigeon
+Scarlet Tanager
+Tufted Titmouse
+---Mark 2016-07-24 Ohio|Scioto Greenways
+
+Red-shouldered Hawk
+---Paul 2016-07-24 New York|US-East Hampton-Gardiners Bay - 41.1129x-72.1592 - Jul 24, 2016, 11:11 AM
+
+American Goldfinch
+American Robin
+Barn Swallow
+Common Grackle
+Common Tern
+Double-crested Cormorant
+Eastern Towhee
+Gray Catbird
+Great Black-backed Gull
+Herring Gull
+House Sparrow
+Northern Cardinal
+Northern Mockingbird
+Red-winged Blackbird
+Roseate Tern
+Song Sparrow
+Tree Swallow
+---Mark 2016-07-25 Ohio|Scioto Audubon Metro Park
+
+American Crow
+American Goldfinch
+American Robin
+Gray Catbird
+Indigo Bunting
+Killdeer
+Osprey
+---Paul 2016-07-25 Connecticut|US-CT-Bridgeport-Pequonnock River - 41.1705x-73.1780
+
+Black-crowned Night-Heron
+Canada Goose
+Double-crested Cormorant
+Great Black-backed Gull
+Great Blue Heron
+Herring Gull
+Osprey
+---Paul 2016-07-25 New York|US-NY-Brookhaven-84 Mill Rd - 40.8398x-72.9435
+
+Barn Swallow
+Chipping Sparrow
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Song Sparrow
+Wild Turkey
+---Paul 2016-07-26 Massachusetts|US-MA-Warren-New Reed St - 42.1811x-72.2374
+
+American Crow
+American Goldfinch
+American Robin
+Bank Swallow
+Barn Swallow
+Belted Kingfisher
+Black-capped Chickadee
+Blue Jay
+Blue-headed Vireo
+Canada Goose
+Chipping Sparrow
+Common Yellowthroat
+Downy Woodpecker
+Eastern Kingbird
+Eastern Phoebe
+Gray Catbird
+Great Blue Heron
+Indigo Bunting
+Mourning Dove
+Northern Cardinal
+Orchard Oriole
+Osprey
+Red-eyed Vireo
+Red-winged Blackbird
+Song Sparrow
+Tree Swallow
+Tufted Titmouse
+White-breasted Nuthatch
+Wood Duck
+Yellow Warbler
+---Mark 2016-07-27 Ohio|Miranova
+
+American Goldfinch
+Canada Goose
+Great Egret
+Ring-billed Gull
+Song Sparrow
+---Mark 2016-07-28 Ohio|Miranova
+
+Osprey
+---Paul 2016-07-28 Massachusetts|US-MA-West Brookfield-1 Pine Grove Dr
+
+American Crow
+American Goldfinch
+American Robin
+Black-capped Chickadee
+Blue Jay
+Chimney Swift
+Chipping Sparrow
+Common Grackle
+Downy Woodpecker
+Eastern Bluebird
+Eastern Phoebe
+Eastern Wood-Pewee
+Gray Catbird
+House Finch
+House Sparrow
+Mourning Dove
+Northern Cardinal
+Purple Finch
+Red-bellied Woodpecker
+Red-eyed Vireo
+Red-winged Blackbird
+Rock Pigeon
+Ruby-throated Hummingbird
+Song Sparrow
+Tufted Titmouse
+Veery
+White-breasted Nuthatch
+---Paul 2016-07-30 Massachusetts|US-MA-Warren-70 Reed St - 42.2054x-72.2030
+
+American Crow
+American Goldfinch
+American Robin
+Barn Swallow
+Black-capped Chickadee
+Blue Jay
+Cedar Waxwing
+Chimney Swift
+Chipping Sparrow
+Common Grackle
+Common Yellowthroat
+Downy Woodpecker
+Eastern Bluebird
+Eastern Kingbird
+Eastern Phoebe
+Eastern Wood-Pewee
+European Starling
+Gray Catbird
+Hairy Woodpecker
+House Finch
+House Sparrow
+Mourning Dove
+Northern Cardinal
+Northern Flicker (Yellow-shafted)
+Northern Mockingbird
+Pileated Woodpecker
+Pine Warbler
+Red-bellied Woodpecker
+Red-eyed Vireo
+Red-winged Blackbird
+Rock Pigeon
+Rose-breasted Grosbeak
+Ruby-throated Hummingbird
+Song Sparrow
+Tree Swallow
+Tufted Titmouse
+White-breasted Nuthatch
+Yellow Warbler
+---Mark 2016-07-31 Ohio|Miranova
+
+Double-crested Cormorant
+Mallard

@@ -1,0 +1,660 @@
+---Mark 2016-09-01 Scotland|Loch Linnhe
+
+Black-legged Kittiwake
+Common Murre
+Northern Gannet
+---Paul 2016-09-01 Texas|US-TX-Fairview-711 Mustang Dr
+
+American Crow
+American Robin
+Barn Swallow
+Blue Jay
+Carolina Chickadee
+Carolina Wren
+Chimney Swift
+Downy Woodpecker
+Eastern Bluebird
+Eastern Phoebe
+Great Egret
+Hairy Woodpecker
+House Finch
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Red-bellied Woodpecker
+Red-shouldered Hawk
+Rock Pigeon
+Ruby-throated Hummingbird
+Tufted Titmouse
+White-eyed Vireo
+White-winged Dove
+Yellow Warbler
+---Mark 2016-09-02 Scotland|Tobermory
+
+Eurasian Blue Tit
+Northern Gannet
+---Paul 2016-09-02 Texas|US-TX-Fairview-711 Mustang Dr
+
+American Crow
+Barn Swallow
+Black-and-white Warbler
+Blue Jay
+Blue-gray Gnatcatcher
+Carolina Chickadee
+Carolina Wren
+Chimney Swift
+Cooper's Hawk
+Downy Woodpecker
+Eastern Bluebird
+Eastern Phoebe
+Eastern Wood-Pewee
+Great Blue Heron
+Great Crested Flycatcher
+Great Egret
+Greater Roadrunner
+Green Heron
+House Finch
+Mallard
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Northern Rough-winged Swallow
+Red-bellied Woodpecker
+Red-shouldered Hawk
+Rock Pigeon
+Ruby-throated Hummingbird
+Snowy Egret
+Spotted Sandpiper
+Tufted Titmouse
+White-eyed Vireo
+White-winged Dove
+Yellow Warbler
+---Mark 2016-09-03 Scotland|Hike from Tobermory
+
+Common Buzzard
+Common Raven
+Eurasian Wren
+European Robin
+European Stonechat
+Graylag Goose
+Great Cormorant
+Hen Harrier
+Hooded Crow
+Northern Goshawk (Eurasian)
+---Paul 2016-09-03 Texas|US-TX-Wylie-Brockdale Park - 33.0744x-96.5493
+
+American Crow
+Black Tern
+Blue Jay
+Blue-gray Gnatcatcher
+Carolina Wren
+Chimney Swift
+Cooper's Hawk
+Double-crested Cormorant
+Eastern Bluebird
+Eastern Phoebe
+Forster's Tern
+Great Blue Heron
+Great Crested Flycatcher
+Great Egret
+Least Flycatcher
+Least Sandpiper
+Mourning Dove
+Neotropic Cormorant
+Northern Cardinal
+Osprey
+Red-bellied Woodpecker
+Red-shouldered Hawk
+Rock Pigeon
+Tufted Titmouse
+Turkey Vulture
+White-eyed Vireo
+---Mark 2016-09-04 Scotland|Tobermory to Crinnan
+
+Black-headed Gull
+Common Murre
+Herring Gull
+Little Gull
+Manx Shearwater
+Mew Gull
+Northern Fulmar
+Northern Gannet
+Razorbill
+---Paul 2016-09-04 Texas|US-TX-Fairview-711 Mustang Dr
+
+American Crow
+American Robin
+Black-throated Green Warbler
+Blue Jay
+Blue-gray Gnatcatcher
+Carolina Chickadee
+Carolina Wren
+Chimney Swift
+Downy Woodpecker
+Eastern Phoebe
+Great Crested Flycatcher
+Hairy Woodpecker
+House Finch
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Orchard Oriole
+Red-bellied Woodpecker
+Red-eyed Vireo
+Red-shouldered Hawk
+Rock Pigeon
+Ruby-throated Hummingbird
+Tufted Titmouse
+Turkey Vulture
+White-eyed Vireo
+White-winged Dove
+Yellow-billed Cuckoo
+---Paul 2016-09-05 Texas|US-TX-Fairview-711 Mustang Dr
+
+American Crow
+American Robin
+Barn Swallow
+Black Vulture
+Blue Jay
+Carolina Chickadee
+Carolina Wren
+Chimney Swift
+Downy Woodpecker
+Eastern Bluebird
+Eastern Wood-Pewee
+Great Blue Heron
+Great Egret
+Mallard
+Mourning Dove
+Northern Cardinal
+Northern Rough-winged Swallow
+Red-bellied Woodpecker
+Red-eyed Vireo
+Red-shouldered Hawk
+Rock Pigeon
+Ruby-throated Hummingbird
+Snowy Egret
+Spotted Sandpiper
+Tufted Titmouse
+Turkey Vulture
+White-eyed Vireo
+White-winged Dove
+---Paul 2016-09-06 Texas|US-TX-McKinney-1 Nature Pl
+
+American Crow
+American Robin
+Anhinga
+Belted Kingfisher
+Blue Jay
+Blue-gray Gnatcatcher
+Carolina Chickadee
+Carolina Wren
+Downy Woodpecker
+Eastern Bluebird
+Eastern Phoebe
+Great Blue Heron
+Great Crested Flycatcher
+Green Heron
+Least Flycatcher
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Red-bellied Woodpecker
+Red-shouldered Hawk
+Ruby-throated Hummingbird
+Tufted Titmouse
+White-eyed Vireo
+Wood Duck
+Yellow-billed Cuckoo
+---Mark 2016-09-07 Scotland|River Clyde, Glasgow
+
+Common Eider
+---Paul 2016-09-08 Texas|US-TX-Fairview-711 Mustang Dr
+
+American Crow
+American Robin
+Barn Swallow
+Black-and-white Warbler
+Blue Jay
+Blue-headed Vireo
+Carolina Chickadee
+Carolina Wren
+Eastern Phoebe
+Great Crested Flycatcher
+Least Flycatcher
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Red-bellied Woodpecker
+Ruby-throated Hummingbird
+Tufted Titmouse
+White-eyed Vireo
+White-winged Dove
+---Paul 2016-09-09 Texas|US-TX-Fairview-711 Mustang Dr
+
+American Crow
+Carolina Wren
+Common Nighthawk
+Great Crested Flycatcher
+Mourning Dove
+Northern Cardinal
+Red-bellied Woodpecker
+White-eyed Vireo
+---Mark 2016-09-10 Iceland|Iceland
+
+Whooper Swan
+---Paul 2016-09-10 Texas|US-TX-Fairview-711 Mustang Dr
+
+American Crow
+American Robin
+Barn Swallow
+Blue Jay
+Carolina Chickadee
+Carolina Wren
+Eastern Bluebird
+Great Egret
+Least Flycatcher
+Mallard
+Northern Cardinal
+Red-bellied Woodpecker
+Snowy Egret
+Tufted Titmouse
+Turkey Vulture
+Warbling Vireo
+White-eyed Vireo
+---Mark 2016-09-11 Iceland|Vik
+
+Northern Fulmar
+---Paul 2016-09-11 Texas|US-TX-Fairview-711 Mustang Dr
+
+American Crow
+American Robin
+Barn Swallow
+Barred Owl
+Blue Jay
+Canada Goose
+Carolina Chickadee
+Carolina Wren
+Chimney Swift
+Downy Woodpecker
+Eastern Bluebird
+Eastern Phoebe
+Great Blue Heron
+Great Crested Flycatcher
+House Finch
+House Wren
+Least Flycatcher
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Pileated Woodpecker
+Red-bellied Woodpecker
+Red-eyed Vireo
+Red-shouldered Hawk
+Swainson's Hawk
+Tufted Titmouse
+White-eyed Vireo
+White-winged Dove
+Wilson's Warbler
+Yellow Warbler
+---Paul 2016-09-12 Texas|US-TX-Wylie-Brockdale Park - 33.0744x-96.5493
+
+American Crow
+Barn Swallow
+Black Tern
+Blue Jay
+Brown Thrasher
+Carolina Chickadee
+Carolina Wren
+Chimney Swift
+Cliff Swallow
+Double-crested Cormorant
+Eastern Bluebird
+Eastern Phoebe
+European Starling
+Forster's Tern
+Great Blue Heron
+Great Egret
+Killdeer
+Least Sandpiper
+Least Tern
+Loggerhead Shrike
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Osprey
+Pied-billed Grebe
+Rock Pigeon
+Summer Tanager
+Tree Swallow
+Tufted Titmouse
+Turkey Vulture
+White-eyed Vireo
+White-winged Dove
+---Mark 2016-09-13 Iceland|West Iceland
+
+Great Black-backed Gull
+---Paul 2016-09-13 Texas|US-TX-McKinney-1 Nature Pl
+
+American Crow
+American Robin
+Anhinga
+Belted Kingfisher
+Black-crowned Night-Heron
+Blue Jay
+Blue-gray Gnatcatcher
+Canada Goose
+Carolina Chickadee
+Carolina Wren
+Chimney Swift
+Double-crested Cormorant
+Downy Woodpecker
+Eastern Kingbird
+European Starling
+Great Egret
+Green Heron
+Hairy Woodpecker
+House Finch
+House Sparrow
+Killdeer
+Least Flycatcher
+Mallard
+Mourning Dove
+Northern Cardinal
+Northern Mockingbird
+Northern Pintail
+Northern Rough-winged Swallow
+Red-bellied Woodpecker
+Red-eyed Vireo
+Red-shouldered Hawk
+Rock Pigeon
+Ruby-throated Hummingbird
+Scissor-tailed Flycatcher
+Tufted Titmouse
+Turkey Vulture
+White-eyed Vireo
+White-winged Dove
+Yellow Warbler
+---Mark 2016-09-14 Iceland|West Iceland
+
+Common Eider
+---Mark 2016-09-16 Iceland|West Iceland
+
+Graylag Goose
+Great Cormorant
+Mallard
+---Paul 2016-09-18 Poland|Park Praski
+
+Eurasian Collared-Dove
+Eurasian Jackdaw
+Eurasian Magpie
+European Robin
+European Starling
+Great Tit
+Herring Gull (European)
+Hooded Crow
+Rock Pigeon
+White Stork
+---Mark 2016-09-19 Ohio|Miranova
+
+Killdeer
+---Paul 2016-09-19 Poland|Royal Łazienki Park
+
+Common Wood-Pigeon
+Eurasian Collared-Dove
+Eurasian Jackdaw
+Eurasian Magpie
+Hooded Crow
+Rock Pigeon
+White-tailed Eagle
+---Paul 2016-09-19 Poland|Vistula River--Warsaw
+
+Black-headed Gull
+Caspian Gull
+Eurasian Blue Tit
+Eurasian Jackdaw
+Eurasian Magpie
+European Starling
+Herring Gull (European)
+Hooded Crow
+Mallard
+Rock Pigeon
+Rook
+---Paul 2016-09-20 Poland|PL-Masovian-Zegrze Południowe-Warszawska - 52.4537x21.0143
+
+Common Raven
+Eurasian Collared-Dove
+Eurasian Jackdaw
+Eurasian Magpie
+European Starling
+Great Cormorant (Eurasian)
+Hooded Crow
+Mallard
+Mute Swan
+Rock Pigeon
+Rook
+---Paul 2016-09-20 Poland|PL-Warmia and Masuria-Stawiguda-51 - 53.7155x20.4298
+
+Eurasian Marsh-Harrier
+---Mark 2016-09-21 Ohio|Miranova
+
+Downy Woodpecker
+Great Egret
+---Mark 2016-09-21 Ohio|Scioto Greenways
+
+Canada Goose
+Double-crested Cormorant
+Ring-billed Gull
+---Paul 2016-09-21 Poland|PL-Warmia and Masuria-Ketrzyn-Tadeusza Kościuszki 2 - 54.0784x21.3765
+
+Eurasian Nuthatch
+---Paul 2016-09-21 Poland|PL-Warmia and Masuria-Ketrzyn-Tadeusza Kościuszki 2 - 54.0784x21.3765
+
+Black Woodpecker
+Black-headed Gull
+Common Buzzard
+Common Raven
+Eurasian Blackbird
+Eurasian Blue Tit
+Eurasian Collared-Dove
+Eurasian Jackdaw
+Eurasian Jay
+Eurasian Magpie
+European Robin
+European Starling
+Gray Heron
+Great Tit
+Hooded Crow
+House Sparrow
+Mute Swan
+Rock Pigeon
+Rook
+White Stork
+White Wagtail
+Whooper Swan
+---Mark 2016-09-22 Ohio|Scioto Greenways
+
+Turkey Vulture
+---Paul 2016-09-22 Poland|PL-Pomeranian-Malbork-Malbork Castle Museum - 54.0410x19.0284
+
+Barn Swallow
+Black-headed Gull
+Common Buzzard
+Common Raven
+Common Wood-Pigeon
+Eurasian Blackbird
+Eurasian Blue Tit
+Eurasian Collared-Dove
+Eurasian Coot
+Eurasian Jackdaw
+Eurasian Jay
+Eurasian Magpie
+European Robin
+European Starling
+Gray Heron
+Great Black-backed Gull
+Great Cormorant (Eurasian)
+Great Tit
+Herring Gull
+Herring Gull (European)
+House Sparrow
+Mallard
+Mute Swan
+Northern Goshawk (Eurasian)
+Peregrine Falcon
+Rock Pigeon
+White Wagtail
+---Mark 2016-09-24 Ohio|Miranova
+
+Great Blue Heron
+---Paul 2016-09-24 Poland|PL-Kuiavia-Pomerania-Torun-Grudziądzka 32 - 53.0187x18.6089
+
+Black-headed Gull
+Caspian Gull
+Common Buzzard
+Common Raven
+Common Redshank
+Common Wood-Pigeon
+Eurasian Collared-Dove
+Eurasian Green Woodpecker
+Eurasian Jackdaw
+Eurasian Kestrel
+Eurasian Magpie
+European Starling
+Great Cormorant (Eurasian)
+Great Tit
+Herring Gull
+House Sparrow
+Mallard
+Mute Swan
+Rock Pigeon
+---Paul 2016-09-25 Poland|PL-Greater Poland-Poznan-Arcybiskupa Antoniego Baraniaka 88-88D - 52.4019x16.9653
+
+Black-headed Gull
+Common Buzzard
+Common Ringed Plover
+Common Sandpiper
+Common Wood-Pigeon
+Eurasian Blue Tit
+Eurasian Collared-Dove
+Eurasian Jackdaw
+Eurasian Magpie
+European Starling
+Fieldfare
+Great Egret (Eurasian)
+Great Tit
+Hooded Crow
+House Sparrow
+Mute Swan
+Northern Lapwing
+Rock Pigeon
+Rook
+Tufted Duck
+---Mark 2016-09-26 Ohio|Miranova
+
+Great Egret
+---Paul 2016-09-26 Poland|PL-Greater Poland-Pobiedziska-62-007 - 52.4766x17.1454
+
+Barn Swallow
+Black-headed Gull
+Caspian Gull
+Common Buzzard
+Common House-Martin
+Common Raven
+Common Wood-Pigeon
+Eurasian Blue Tit
+Eurasian Collared-Dove
+Eurasian Coot
+Eurasian Green Woodpecker
+Eurasian Jackdaw
+Eurasian Magpie
+Eurasian Sparrowhawk
+Eurasian Tree Sparrow
+Eurasian Wren
+European Starling
+Fieldfare
+Gray Heron
+Great Cormorant (Eurasian)
+Great Tit
+Hen Harrier
+Hooded Crow
+Little Grebe
+Mallard
+Rook
+White Wagtail
+---Paul 2016-09-28 Poland|PL-Silesian-Częstochowa-Świętej Jadwigi 112/120-141g - 50.8062x19.0814
+
+Common Buzzard
+Common Raven
+Common Wood-Pigeon
+Eurasian Blackbird
+Eurasian Blue Tit
+Eurasian Collared-Dove
+Eurasian Jackdaw
+Eurasian Jay
+Eurasian Kestrel
+Eurasian Magpie
+Eurasian Marsh-Harrier
+European Starling
+Gray Heron
+Hooded Crow
+House Sparrow
+Lesser Spotted Eagle
+Little Owl
+Mallard
+Mute Swan
+Ring-necked Pheasant
+Rock Pigeon
+Rook
+Spotted Flycatcher
+Stock Dove
+---Paul 2016-09-29 Poland|PL-Lesser Poland-Zakopane-Tatrzański Park Narodowy - 49.2328x19.9495
+
+Black Redstart (Western)
+Black-headed Gull
+Brambling
+Caspian Gull
+Coal Tit
+Common Buzzard
+Common Chiffchaff
+Eurasian Blackbird
+Eurasian Collared-Dove
+Eurasian Kestrel
+Eurasian Magpie
+European Serin
+European Starling
+Fieldfare
+Gray Heron
+Gray Wagtail
+Great Tit
+Hooded Crow
+House Sparrow
+Mallard
+Northern Goshawk (Eurasian)
+Rock Pigeon
+Rook
+Stock Dove
+White Wagtail
+White-tailed Eagle
+White-throated Dipper
+Yellow-legged Gull
+---Paul 2016-09-30 Poland|PL-Lesser Poland-Zakopane-Ogrodowa 2 - 49.2938x19.9516
+
+Black Redstart (Western)
+Coal Tit
+Eurasian Blackbird
+Eurasian Collared-Dove
+Eurasian Jackdaw
+Eurasian Jay
+Eurasian Magpie
+European Goldfinch
+Fieldfare
+Gray Heron
+Great Tit
+Hooded Crow
+House Sparrow
+Mallard
+Rock Pigeon
+Rook
+Song Thrush
+White Wagtail

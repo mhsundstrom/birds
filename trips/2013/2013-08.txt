@@ -1,0 +1,367 @@
+---Paul 2013-08-01 Maine|Kittery
+
+American Goldfinch
+American Robin
+Bald Eagle
+Black-capped Chickadee
+Cedar Waxwing
+Downy Woodpecker
+Gray Catbird
+Great Blue Heron
+Herring Gull
+Indigo Bunting
+Mourning Dove
+Nashville Warbler
+Northern Cardinal
+Red-winged Blackbird
+White-breasted Nuthatch
+---Mark 2013-08-02 Canada|Springfield, Port Alberni
+
+American Robin
+Common Raven
+Northern Flicker
+Spotted Towhee
+---Mark 2013-08-04 Canada|Victoria, British Columbia
+
+Common Nighthawk
+---Mark 2013-08-04 Canada|View Royal, British Columbia
+
+Chestnut-backed Chickadee
+---Mark 2013-08-04 Canada|View Royal, British Columbia
+
+Common Nighthawk
+---Mark 2013-08-05 Canada|View Royal, British Columbia
+
+Fox Sparrow
+---Mark 2013-08-05 Canada|View Royal, British Columbia
+
+Pileated Woodpecker
+---Mark 2013-08-05 Canada|View Royal, British Columbia
+
+Red-breasted Nuthatch
+---Mark 2013-08-05 Canada|View Royal, British Columbia
+
+Spotted Towhee
+---Mark 2013-08-08 Canada|Harbor, Port Alberni
+
+Bald Eagle
+Red-necked Grebe
+---Mark 2013-08-08 Canada|LatLon (-124.85052855, 49.29967665), British Columbia
+
+Red-necked Grebe
+---Paul 2013-08-08 Maine|Acadia National Park, Bar Harbor
+
+American Black Duck
+American Crow
+American Goldfinch
+American Robin
+Arctic Tern
+Bald Eagle
+Barn Swallow
+Belted Kingfisher
+Black Guillemot
+Black-capped Chickadee
+Black-throated Green Warbler
+Blackburnian Warbler
+Blue-headed Vireo
+Bonaparte's Gull
+Canada Goose
+Chipping Sparrow
+Common Eider
+Common Grackle
+Common Loon
+Common Raven
+Common Tern
+Common Yellowthroat
+Cooper's Hawk
+Double-crested Cormorant
+Downy Woodpecker
+Eastern Phoebe
+Fox Sparrow (Red)
+Golden Eagle
+Golden-crowned Kinglet
+Gray Catbird
+Great Black-backed Gull
+Great Blue Heron
+Hairy Woodpecker
+Hermit Thrush
+Herring Gull
+Laughing Gull
+Least Sandpiper
+Lesser Yellowlegs
+Magnolia Warbler
+Mallard
+Mourning Dove
+Nelson's Sparrow (Atlantic Coast)
+Northern Cardinal
+Northern Parula
+Osprey
+Purple Finch
+Red-breasted Nuthatch
+Red-eyed Vireo
+Rock Pigeon
+Turkey Vulture
+White-breasted Nuthatch
+White-winged Scoter
+Yellow Warbler
+---Paul 2013-08-10 Maine|Camden
+
+Chipping Sparrow
+Cooper's Hawk
+Eastern Phoebe
+Nashville Warbler
+Northern Cardinal
+Olive-sided Flycatcher
+---Mark 2013-08-11 Canada|LatLon (-124.85077213, 49.2992674), British Columbia
+
+Chestnut-backed Chickadee
+---Mark 2013-08-11 Canada|LatLon (-124.85080884, 49.29928115), British Columbia
+
+Red-breasted Nuthatch
+---Mark 2013-08-11 Canada|Springfield, Port Alberni
+
+Chestnut-backed Chickadee
+Red-breasted Nuthatch
+---Mark 2013-08-12 Canada|LatLon (-124.85098226, 49.29936476), British Columbia
+
+Common Nighthawk
+---Mark 2013-08-13 Canada|LatLon (-124.85077883, 49.2993169), British Columbia
+
+Pileated Woodpecker
+---Paul 2013-08-13 Maine|Acadia National Park, Bar Harbor
+
+Black Guillemot
+Black-throated Green Warbler
+---Mark 2013-08-15 Washington|13th Dr SE, Bothell
+
+Belted Kingfisher
+---Mark 2013-08-15 Washington|13th Dr SE, Bothell
+
+Red-breasted Nuthatch
+---Mark 2013-08-15 Washington|Bothell
+
+Pileated Woodpecker
+---Paul 2013-08-15 Massachusetts|Reed St., Warren
+
+American Crow
+American Goldfinch
+American Robin
+Barn Swallow
+Black-capped Chickadee
+Blue Jay
+Brown-headed Cowbird
+Cedar Waxwing
+Chipping Sparrow
+Downy Woodpecker
+Eastern Bluebird
+Eastern Phoebe
+European Starling
+Gray Catbird
+House Finch
+House Sparrow
+Mourning Dove
+Nashville Warbler
+Northern Cardinal
+Northern Mockingbird
+Red-breasted Nuthatch
+Red-winged Blackbird
+Rock Pigeon
+Song Sparrow
+Tree Swallow
+---Paul 2013-08-16 Massachusetts|Reed St., Warren
+
+American Crow
+American Goldfinch
+American Robin
+Barn Swallow
+Black-capped Chickadee
+Blue Jay
+Cedar Waxwing
+Common Yellowthroat
+Downy Woodpecker
+Eastern Bluebird
+Eastern Kingbird
+Eastern Phoebe
+European Starling
+Gray Catbird
+House Finch
+House Sparrow
+Lincoln's Sparrow
+Northern Cardinal
+Northern Mockingbird
+Red-bellied Woodpecker
+Red-winged Blackbird
+Rock Pigeon
+Song Sparrow
+Tree Swallow
+Tufted Titmouse
+Turkey Vulture
+White-breasted Nuthatch
+White-eyed Vireo
+---Mark 2013-08-17 Washington|Ferry near Edmonds, Washington
+
+Pigeon Guillemot
+---Mark 2013-08-17 Washington|Heart of the Forest Trail, Port Angeles
+
+Steller's Jay
+---Mark 2013-08-17 Washington|Hurricane Ridge Rd, Port Angeles
+
+Northern Harrier
+---Mark 2013-08-17 Washington|LatLon (-122.39925857, 47.81375641)
+
+Pigeon Guillemot
+---Mark 2013-08-17 Washington|Port Angeles
+
+American Goldfinch
+---Mark 2013-08-17 Washington|Port Angeles
+
+Barn Swallow
+---Mark 2013-08-17 Washington|Port Angeles
+
+Dark-eyed Junco
+---Paul 2013-08-17 Massachusetts|Reed St., Warren
+
+Canada Goose
+Common Grackle
+Lincoln's Sparrow
+Ruby-throated Hummingbird
+---Paul 2013-08-18 Massachusetts|Brooks Rd., Warren
+
+American Crow
+American Goldfinch
+American Robin
+Barn Swallow
+Belted Kingfisher
+Black-capped Chickadee
+Cedar Waxwing
+Chipping Sparrow
+Eastern Phoebe
+Great Blue Heron
+Northern Cardinal
+Pied-billed Grebe
+Red-bellied Woodpecker
+Red-tailed Hawk
+Rock Pigeon
+Tree Swallow
+Turkey Vulture
+---Paul 2013-08-18 Massachusetts|Reed St., Warren
+
+Baltimore Oriole
+---Mark 2013-08-19 Washington|13th Dr SE, Bothell
+
+Steller's Jay
+---Paul 2013-08-20 Pennsylvania|Gettysburg
+
+Fish Crow
+---Paul 2013-08-21 Pennsylvania|Gettysburg
+
+Chimney Swift
+---Paul 2013-08-21 West Virginia|Reststop
+
+Savannah Sparrow
+---Paul 2013-08-22 Pennsylvania|Shenandoah National Park
+
+American Crow
+Broad-winged Hawk
+Dark-eyed Junco (Slate-colored)
+Red-tailed Hawk
+Turkey Vulture
+---Mark 2013-08-23 Washington|Meadowdale Park, Seattle
+
+Killdeer
+gull sp.
+---Paul 2013-08-24 Pennsylvania|Shenandoah National Park
+
+American Kestrel
+Belted Kingfisher
+Black Vulture
+Blue-headed Vireo
+Dark-eyed Junco (Slate-colored)
+Eastern Bluebird
+Great Blue Heron
+Red-eyed Vireo
+Song Sparrow
+White-breasted Nuthatch
+Yellow Warbler
+---Mark 2013-08-25 Washington|Scullywest, Washington
+
+Belted Kingfisher
+Black-capped Chickadee
+Pileated Woodpecker
+Red-breasted Nuthatch
+Steller's Jay
+---Paul 2013-08-25 Tennessee|Great Smoky Mountains National Park
+
+American Crow
+American Goldfinch
+American Robin
+Black-and-white Warbler
+Carolina Chickadee
+Carolina Wren
+Chipping Sparrow
+Downy Woodpecker
+Eastern Bluebird
+Field Sparrow
+Gray Catbird
+Northern Cardinal
+Tufted Titmouse
+Turkey Vulture
+White-breasted Nuthatch
+Wild Turkey
+Yellow Warbler
+---Mark 2013-08-27 Washington|Scullywest, Washington
+
+Great Blue Heron
+---Paul 2013-08-27 Texas|Allen
+
+Common Nighthawk
+---Mark 2013-08-28 Washington|Big Pines Campground, Washington
+
+Red-winged Blackbird
+---Mark 2013-08-29 Washington|Big Pines Campground, Washington
+
+Black-billed Magpie
+---Mark 2013-08-29 Oregon|Farewell Bend State Park, Oregon
+
+American Coot
+Black-billed Magpie
+Canada Goose
+Common Tern
+Killdeer
+---Mark 2013-08-29 Oregon|I-84, Oregon
+
+American Crow
+Black-billed Magpie
+---Mark 2013-08-29 Oregon|La Grande, Oregon
+
+Red-tailed Hawk
+---Mark 2013-08-29 Oregon|Umatilla, Oregon
+
+House Sparrow
+---Mark 2013-08-29 Washington|WA221/Zillah, Washington
+
+American Crow
+Common Raven
+Red-tailed Hawk
+swallow sp.
+---Mark 2013-08-30 Idaho|ID-78, Idaho
+
+American Crow
+Black-billed Magpie
+Rock Pigeon
+---Mark 2013-08-30 Idaho|Jerome KOA, Idaho
+
+American Goldfinch
+---Mark 2013-08-31 Idaho|I-86, Idaho
+
+Black-billed Magpie
+Mourning Dove
+---Mark 2013-08-31 Idaho|Jerome KOA, Idaho
+
+Great Horned Owl
+---Mark 2013-08-31 Idaho|Montpelier, Idaho
+
+Black-capped Chickadee
+---Paul 2013-08-31 Oklahoma|Kenton
+
+Sage Thrasher
