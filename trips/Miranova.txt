@@ -1,0 +1,9 @@
+# Use some convenient shortcuts in parsing
+---Mark 2018-09-23 Ohio|Miranova
++Mallar GreEgr RocPig GrBHer
+# Use the '*' option to change the date
+*2018-09-26
++TurVul GreEgr CanGoo
+*2018-09-27
++GrBHer DoCCor RiBGul
+
