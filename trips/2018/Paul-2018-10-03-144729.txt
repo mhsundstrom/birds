@@ -12,7 +12,6 @@ Common Eider
 White-winged Scoter
 Black Scoter
 Mourning Dove
-Piping Plover
 Semipalmated Sandpiper
 Laughing Gull
 Ring-billed Gull
