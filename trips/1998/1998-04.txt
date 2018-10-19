@@ -1,7 +1,7 @@
 ---Mark 1998-04-02 Ohio|Beck St, Columbus
 
 American Goldfinch
-Black-capped Chickadee
+Carolina Chickadee  # originally Black-capped, but unlikely
 Brown Thrasher
 Dark-eyed Junco
 Downy Woodpecker
