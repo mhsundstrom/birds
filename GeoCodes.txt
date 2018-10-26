@@ -590,11 +590,15 @@ Maine|Mt Desert Island and vicinity,44.3924341,-68.3021373,87PH9MRX+X4,23009
 Maryland|Fort McHenry,39.2641151,-76.5798874,87F57C7C+J2,24005
 Maryland|Loch Raven Reservoir,39.4539091,-76.5748309,87F5FC3G+H3,24005
 "Maryland|Mount Washington, Baltimore",39.3622104,-76.6614853,87F5986Q+VC,24005
+"Massachusetts|01505, Boylston US-MA (42.3752,-71.7165)",42.3752,-71.7165,87JC97GM+3C,
 "Massachusetts|110 Chace Hill Rd, Lancaster US-MA (42.4292,-71.7132)",,,,
+"Massachusetts|111 Worcester St, North Grafton US-MA (42.2213,-71.7007)",42.2213,-71.7007,87JC67CX+GP,
 "Massachusetts|170 Maple St., Warren,",42.2095896,-72.199247,87J96R52+R8,25027
+"Massachusetts|176 Providence Rd, Grafton US-MA (42.1867,-71.6925)",42.1867,-71.6925,87JC58P5+M2,
 "Massachusetts|184 W Main St, West Brookfield US-MA (42.2357,-72.1636)",,,,
 "Massachusetts|1–199 Old West Brookfield Rd, Warren US-MA (42.2175,-72.1931)",,,,
 "Massachusetts|209 Maple St, Warren US-MA (42.2088,-72.1983)",,,,
+"Massachusetts|73–99 Ferry Rd, Northfield US-MA (42.6130,-72.4786)",42.613,-72.4786,87J9JG7C+5H,
 "Massachusetts|96 Chace Hill Rd, Lancaster US-MA (42.4291,-71.7127)",,,,
 "Massachusetts|96 Chase Hill Rd., Lancaster,",42.4292376,-71.7128211,87JCC7HP+MV,25027
 "Massachusetts|Audubon Society Wildlife Sanctuary, Wellfleet",41.9305468,-70.0309753,87HFWXJ9+6J,25001
@@ -617,6 +621,7 @@ Massachusetts|Dexter Drumlin,42.448889,-71.687222,87JCC8X7+H4,25027
 Massachusetts|Falmouth,41.5532208,-70.6085886,87HFH93R+7H,25001
 "Massachusetts|First Encounter Beach, Eastham",41.8212916,-70.0039941,87HFRXCW+GC,25001
 "Massachusetts|Fort Hill Trail, Eastham",41.8207279,-69.9605097,87HGR2CQ+7Q,25001
+"Massachusetts|French King Hwy, Gill US-MA (42.5980,-72.4971)",42.598,-72.4971,87J9HGX3+65,
 Massachusetts|Hwy 6 near Barnstable,41.7003208,-70.3002024,87HFPM2X+4W,25001
 Massachusetts|Lancaster,42.4556452,-71.6731242,87JCF84G+7Q,25027
 "Massachusetts|Lancaster,",42.4556452,-71.6731242,87JCF84G+7Q,25027
