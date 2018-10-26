@@ -606,6 +606,7 @@ Massachusetts|Barnstable,41.7003208,-70.3002024,87HFPM2X+4W,25001
 Massachusetts|Barre Dam,42.4517565,-72.10119,87J9FV2X+PG,25027
 "Massachusetts|Boston Logan International Airport, Boston US-MA (42.3674,-71.0236)",,,,
 "Massachusetts|Boston harbor, Boston",42.38579,-70.876022,87JF94PF+8H,25025
+"Massachusetts|Bridge Of Flowers",42.604,-72.7427,87J9J734+HW,
 "Massachusetts|Brooks Rd., Warren",42.1827175,-72.2246425,87J95QMG+34,25027
 "Massachusetts|Brooks St., West Warren,",42.1827175,-72.2246425,87J95QMG+34,25027
 "Massachusetts|Chapel St., W. Warren",42.2125423,-72.191185,87J96R75+2G,25027
@@ -620,7 +621,9 @@ Massachusetts|Dexter Drumlin,42.448889,-71.687222,87JCC8X7+H4,25027
 "Massachusetts|Dexter Drumlin, Lancaster",42.448889,-71.687222,87JCC8X7+H4,25027
 Massachusetts|Falmouth,41.5532208,-70.6085886,87HFH93R+7H,25001
 "Massachusetts|First Encounter Beach, Eastham",41.8212916,-70.0039941,87HFRXCW+GC,25001
+"Massachusetts|First Encounter Beach",41.823,-70.012,87HFRXFQ+65,
 "Massachusetts|Fort Hill Trail, Eastham",41.8207279,-69.9605097,87HGR2CQ+7Q,25001
+"Massachusetts|Fort Hill, Eastham",41.819,-69.967,87HGR29M+J6,
 "Massachusetts|French King Hwy, Gill US-MA (42.5980,-72.4971)",42.598,-72.4971,87J9HGX3+65,
 Massachusetts|Hwy 6 near Barnstable,41.7003208,-70.3002024,87HFPM2X+4W,25001
 Massachusetts|Lancaster,42.4556452,-71.6731242,87JCF84G+7Q,25027
@@ -629,6 +632,7 @@ Massachusetts|Lancster,42.4556452,-71.6731242,87JCF84G+7Q,25027
 Massachusetts|Logan Airport,,,,
 "Massachusetts|Lucy Stone Park, Warren",42.2125423,-72.191185,87J96R75+2G,25027
 "Massachusetts|Lucy Stone Park, Warren,",42.2125423,-72.191185,87J96R75+2G,25027
+"Massachusetts|Mandel Hill",42.337,-72.179,87J98RPC+Q9,
 "Massachusetts|Maple St.,",,,,
 Massachusetts|Mt. Wachusett,42.4891723,-71.8870425,87JCF4Q7+M5,25027
 "Massachusetts|N. Street, W. Warren",42.2125423,-72.191185,87J96R75+2G,25027
@@ -647,15 +651,19 @@ Massachusetts|Quabbin Reservoir,42.4019614,-72.4488118,87J9CH22+QF,25015
 "Massachusetts|Reed St, Warren",42.2125423,-72.191185,87J96R75+2G,25027
 "Massachusetts|Reed St., Warren",42.2125423,-72.191185,87J96R75+2G,25027
 "Massachusetts|Reservoir, Lancaster",42.3743127,-71.7759411,87JC96FF+PJ,25027
+"Massachusetts|River Bend Farm",42.0939,-71.6261,87JC39VF+HH,
 Massachusetts|Rockport,42.6556505,-70.620363,87JFM94H+7V,25009
 "Massachusetts|Rutland State Park, Rutland",42.3610115,-71.99395,87JC9264+CC,25027
+"Massachusetts|Saquatucket Harbor",41.666,-70.064,87HFMW8P+9C,
 "Massachusetts|Sandy Neck Beach, Barnstable",41.7395673,-70.3873903,87HFPJQ7+R2,25001
 "Massachusetts|Skakeet Beach, Orleans/First Encounter, Eastham",41.8299634,-69.9740361,87HGR2HG+X9,25001
 "Massachusetts|St. Paul's Cemetery, Warren",42.2125423,-72.191185,87J96R75+2G,25027
 Massachusetts|Stage Fort Park,42.6056566,-70.6774439,87JFJ84F+72,25009
 Massachusetts|Sunsetview Farm Campground,42.121613,-72.294421,87J94PC4+J6,25013
 "Massachusetts|Swan Pond, Dennis",41.6789706,-70.1329288,87HFMVH8+HR,25001
+"Massachusetts|Tower Hill Botanic Garden, Boylston",42.3618,-71.7285,87JC976C+PJ,
 Massachusetts|Turek's Swamp,,,,
+"Massachusetts|Turner's Falls--Unity Park",42.6065,-72.5531,87J9JC4W+HQ,
 Massachusetts|US-MA-Boston-Boston Inner Harbor - 42.3596x-71.0464,42.3596,-71.0464,87JC9X53+RC,25025
 Massachusetts|US-MA-Clinton-48 S Meadow Rd - 42.4144x-71.7101,42.4144,-71.7101,87JCC77Q+QX,25027
 Massachusetts|US-MA-Lancaster-158-204 Chace Hill Rd - 42.4277x-71.7151,42.4277,-71.7151,87JCC7HM+3X,25027
@@ -680,9 +688,11 @@ Massachusetts|Wachusett Meadow Wildlife Sanctuary,42.4557229,-71.9055527,87JCF34
 Massachusetts|Wachusetts Meadow (Audubon),42.4557229,-71.9055527,87JCF34V+7Q,25027
 "Massachusetts|Wachusetts Meadow, Princeton",42.4557229,-71.9055527,87JCF34V+7Q,25027
 "Massachusetts|Wahusett Reservoir,",42.3920664,-71.7207271,87JC97RH+RP,25027
+"Massachusetts|Wachusett Reservoir--Clinton Dam",42.4036,-71.6899,87JCC836+C2,
 Massachusetts|Warren,42.2125423,-72.191185,87J96R75+2G,25027
 Massachusetts|Warren Meadows,42.2125423,-72.191185,87J96R75+2G,25027
 "Massachusetts|Wellfleet Audubon Wildlife Sanctuary, Eastham",41.8299634,-69.9740361,87HGR2HG+X9,25001
+"Massachusetts|Wellfleet Bay Wildlife Sanctuary",41.882,-69.997,87HGV2J3+R6,
 Massachusetts|West Warren,42.2125423,-72.191185,87J96R75+2G,25027
 Massachusetts|Wickaboag Lake,,,,
 Mexico|MX-QROO-Cozumel-Avenida Rafael E. Melgar 241 - 20.5092x-86.9517,20.5092,-86.9517,76GMG25X+M8,
@@ -1018,6 +1028,7 @@ Oklahoma|Lake Hefner,35.5723968,-97.5951577,8674HCC3+XW,40109
 "Oklahoma|Lake Hefner, Oklahoma",35.5723968,-97.5951577,8674HCC3+XW,40109
 "Oklahoma|Lake Hefner, Oklahoma City",35.5723968,-97.5951577,8674HCC3+XW,40109
 Oklahoma|Lake Hefner--Oklahoma City Docks,,,,
+"Oklahoma|Lake Hefner--Lakeshore Park/Prairie Dog Point",35.561,-97.614,8674H96P+C9,
 Oklahoma|Lake McGee State Park,33.9359519,-96.1828631,8655WRP8+9V,40013
 "Oklahoma|Lake Overholzer, Oklahoma City",35.4933978,-97.66554,8674F8VM+9Q,40109
 Oklahoma|Lake Stanley Draper,35.3555444,-97.3936839,86749J44+6G,40027
@@ -1041,6 +1052,8 @@ Oklahoma|Mileage marker 73,,,,
 Oklahoma|Mileage marker 84,,,,
 Oklahoma|Mitch Park,35.6860139,-97.5055395,8674MFPV+CQ,40109
 "Oklahoma|Mitch Park, OKC",35.6860139,-97.5055395,8674MFPV+CQ,40109
+"Oklahoma|Myriad Botanical Gardens",35.465,-97.52,8674FF8J+22,
+"Oklahoma|NW Oklahoma City Sludge Lagoon",35.5921,-97.5923,8674HCR5+R3,
 Oklahoma|Norman,35.2225668,-97.4394777,86746HF6+26,40027
 "Oklahoma|Norman, Oklahoma",35.2225668,-97.4394777,86746HF6+26,40027
 Oklahoma|Norman--South Jenkins Ave.,35.2225668,-97.4394777,86746HF6+26,40027
