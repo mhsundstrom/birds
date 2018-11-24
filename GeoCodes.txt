@@ -1664,3 +1664,5 @@ Wyoming|Yellowstone Lake,44.4622269,-110.3333074,85PFFM68+VM,56039
 "Wyoming|Yellowstone NP - Lower Falls, Wyoming",44.7180487,-110.4963684,85PFPG93+6F,56029
 "Wyoming|Yellowstone NP, Wyoming",44.4279684,-110.5884542,85PFCCH6+5J,56029
 "Wyoming|near Alpine, Wyoming",43.1610946,-111.0164822,85MC5X6M+CC,56023
+"Oklahoma|Cherry Creek Park",,,,
+"Oklahoma|Little River SP",,,,
