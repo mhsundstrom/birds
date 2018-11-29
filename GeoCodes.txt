@@ -1298,6 +1298,7 @@ Texas|Anzalduas County Park,26.1052418,-98.2604415,76R34P4Q+3R,48215
 Texas|Anzalduas Pontoon boat ride,26.1052418,-98.2604415,76R34P4Q+3R,48215
 Texas|Aransas NWR,28.1169577,-96.8002633,76W5458X+QV,48057
 "Texas|Arbor Hills Nature Preserve, Plano",33.0198431,-96.6988856,86552892+WC,48085
+"Texas|Arbor Hills Nature Preserve (PPW-W 098)",,,,
 Texas|Argyle,33.1212321,-97.1833475,86544RC8+FM,48121
 "Texas|Atascosa NWR, Laguna Atascosa",26.228991,-97.3473122,76R46MH3+H3,48061
 "Texas|Audubon Thicket, Weslaco",26.1595194,-97.9908366,76R45255+RM,48215
